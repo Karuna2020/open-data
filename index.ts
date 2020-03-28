@@ -23,7 +23,9 @@ const fetchData = async () => {
       const { body } = await got.get<{ [index: string]: string }[]>(
         `${sheetFile.publicEndpoint}?sheet=${encodeURIComponent(tab)}`,
         {
-          responseType: "json"
+          responseType: "json",
+          username: process.env.USERNAME,
+          password: process.env.PASSWORD
         }
       );
       await writeJson(join(".", fileName(tab)), body, { spaces: 2 });
