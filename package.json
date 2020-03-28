@@ -1,0 +1,20 @@
+{
+  "name": "open-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karuna2020/open-data.git"
+  },
+  "keywords": [],
+  "author": "Anand Chowdhary <mail@anandchowdhary.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Karuna2020/open-data/issues"
+  },
+  "homepage": "https://github.com/Karuna2020/open-data#readme"
+}
