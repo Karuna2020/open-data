@@ -22,7 +22,8 @@ const fetchData = async () => {
       );
       await writeJson(
         join(".", `${slugify(tab.replace(/\d\.\s+/g, ""))}.json`),
-        body
+        body,
+        { spaces: 2 }
       );
       log("SUCCESS", tab);
     } catch (error) {
