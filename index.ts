@@ -7,6 +7,12 @@ import slugify from "@sindresorhus/slugify";
 const log = (...args: string[]) =>
   console.log(new Date().toISOString(), ...args);
 
+const fileName = (file: string) => {
+  if (file.includes(". ")) file = file.split(". ")[1];
+  file = slugify(file);
+  return `${file}.json`;
+};
+
 const fetchData = async () => {
   const yaml = await readFile(join(".", "sheet.yml"), "utf8");
   const sheetFile: { publicEndpoint: string; tabs: string[] } = safeLoad(yaml);
@@ -20,11 +26,7 @@ const fetchData = async () => {
           responseType: "json"
         }
       );
-      await writeJson(
-        join(".", `${slugify(tab.replace(/\d\.\s+/g, ""))}.json`),
-        body,
-        { spaces: 2 }
-      );
+      await writeJson(join(".", fileName(tab)), body, { spaces: 2 });
       log("SUCCESS", tab);
     } catch (error) {
       log("ERROR", tab, error);
