@@ -14,6 +14,7 @@ This repository contains all our data — contributors, donors, beneficiaries, a
 | File                                                             | Data                                     | CDN URL                                                                       |
 | ---------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------- |
 | [`material-to-be-procured.json`](./material-to-be-procured.json) | List of materials to be procured         | [API Endpoint](https://open-data.karuna2020.org/material-to-be-procured.json) |
+| [`contributors.json`](./contributors.json)                       | List of financial contributors           | [API Endpoint](https://open-data.karuna2020.org/contributors.json)            |
 | [`infrastructure.json`](./infrastructure.json)                   | List of our available infrastructure     | [API Endpoint](https://open-data.karuna2020.org/infrastructure.json)          |
 | [`sop-s.json`](./sop-s.json)                                     | Our SOPs (standard operating procedures) | [API Endpoint](https://open-data.karuna2020.org/sop-s.json)                   |
 | [`concalls.json`](./concalls.json)                               | Summary of our conference calls          | [API Endpoint](https://open-data.karuna2020.org/concalls.json)                |
@@ -35,7 +36,7 @@ This repository contains all our data — contributors, donors, beneficiaries, a
 
 **API endpoint:** https://open-data.karuna2020.org
 
-For example, our geographic locations file is available at https://open-data.karuna2020.org/geography.json
+For example, the list of contributors is available at https://open-data.karuna2020.org/contributors.json
 
 ## 👩‍💻 Development
 
