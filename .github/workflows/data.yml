@@ -24,4 +24,4 @@ jobs:
           commit_message: ":card_file_box: Update open data [skip ci]"
           commit_user_name: GitHub Actions
           commit_user_email: actions@github.com
-          commit_author: Author <actions@github.com>
+          commit_author: GitHub Actions <actions@github.com>
