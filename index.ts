@@ -2,6 +2,7 @@ import got from "got";
 import { join } from "path";
 import { readFile, writeJson } from "fs-extra";
 import { safeLoad } from "js-yaml";
+import slugify from "@sindresorhus/slugify";
 
 const fetchData = async () => {
   const yaml = await readFile(join(".", "sheet.yml"), "utf8");
@@ -14,7 +15,10 @@ const fetchData = async () => {
         responseType: "json"
       }
     );
-    await writeJson(join(".", `${tab}.json`), body);
+    await writeJson(
+      join(".", `${slugify(tab.replace(/\d\.\s+/g, ""))}.json`),
+      body
+    );
   }
 };
 
