@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Karuna2020/open-data/issues"
   },
-  "homepage": "https://github.com/Karuna2020/open-data#readme"
+  "homepage": "https://github.com/Karuna2020/open-data#readme",
+  "dependencies": {
+    "got": "^10.7.0"
+  }
 }
