@@ -11,20 +11,20 @@ This repository contains all our data — contributors, donors, beneficiaries, a
 
 ## 📈 Data
 
-| File                                                             | Data                    | CDN URL                                                                       |
-| ---------------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------- |
-| [`material-to-be-procured.json`](./material-to-be-procured.json) | material-to-be-procured | [API Endpoint](https://open-data.karuna2020.org/material-to-be-procured.json) |
-| [`infrastructure.json`](./infrastructure.json)                   | infrastructure          | [API Endpoint](https://open-data.karuna2020.org/infrastructure.json)          |
-| [`sop-s.json`](./sop-s.json)                                     | sop-s                   | [API Endpoint](https://open-data.karuna2020.org/sop-s.json)                   |
-| [`concalls.json`](./concalls.json)                               | concalls                | [API Endpoint](https://open-data.karuna2020.org/concalls.json)                |
-| [`it-website.json`](./it-website.json)                           | it-website              | [API Endpoint](https://open-data.karuna2020.org/it-website.json)              |
-| [`other-points.json`](./other-points.json)                       | other-points            | [API Endpoint](https://open-data.karuna2020.org/other-points.json)            |
-| [`things-to-be-done.json`](./things-to-be-done.json)             | things-to-be-done       | [API Endpoint](https://open-data.karuna2020.org/things-to-be-done.json)       |
-| [`contacts.json`](./contacts.json)                               | contacts                | [API Endpoint](https://open-data.karuna2020.org/contacts.json)                |
-| [`major-connects.json`](./major-connects.json)                   | major-connects          | [API Endpoint](https://open-data.karuna2020.org/major-connects.json)          |
-| [`geography.json`](./geography.json)                             | geography               | [API Endpoint](https://open-data.karuna2020.org/geography.json)               |
-| [`material-ordered.json`](./material-ordered.json)               | material-ordered        | [API Endpoint](https://open-data.karuna2020.org/material-ordered.json)        |
-| [`volunteers.json`](./volunteers.json)                           | volunteers              | [API Endpoint](https://open-data.karuna2020.org/volunteers.json)              |
+| File                                                             | Data                                     | CDN URL                                                                       |
+| ---------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------- |
+| [`material-to-be-procured.json`](./material-to-be-procured.json) | List of materials to be procured         | [API Endpoint](https://open-data.karuna2020.org/material-to-be-procured.json) |
+| [`infrastructure.json`](./infrastructure.json)                   | List of our available infrastructure     | [API Endpoint](https://open-data.karuna2020.org/infrastructure.json)          |
+| [`sop-s.json`](./sop-s.json)                                     | Our SOPs (standard operating procedures) | [API Endpoint](https://open-data.karuna2020.org/sop-s.json)                   |
+| [`concalls.json`](./concalls.json)                               | Summary of our conference calls          | [API Endpoint](https://open-data.karuna2020.org/concalls.json)                |
+| [`it-website.json`](./it-website.json)                           | Technology, website, and marketing       | [API Endpoint](https://open-data.karuna2020.org/it-website.json)              |
+| [`other-points.json`](./other-points.json)                       | Other actionable items                   | [API Endpoint](https://open-data.karuna2020.org/other-points.json)            |
+| [`things-to-be-done.json`](./things-to-be-done.json)             | List of things to be done                | [API Endpoint](https://open-data.karuna2020.org/things-to-be-done.json)       |
+| [`contacts.json`](./contacts.json)                               | Our contacts                             | [API Endpoint](https://open-data.karuna2020.org/contacts.json)                |
+| [`major-connects.json`](./major-connects.json)                   | List of our major connects               | [API Endpoint](https://open-data.karuna2020.org/major-connects.json)          |
+| [`geography.json`](./geography.json)                             | Geography                                | [API Endpoint](https://open-data.karuna2020.org/geography.json)               |
+| [`material-ordered.json`](./material-ordered.json)               | Material we've ordered                   | [API Endpoint](https://open-data.karuna2020.org/material-ordered.json)        |
+| [`volunteers.json`](./volunteers.json)                           | List of our volunteers                   | [API Endpoint](https://open-data.karuna2020.org/volunteers.json)              |
 
 ## 💡 How it works
 
