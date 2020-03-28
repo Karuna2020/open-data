@@ -37,8 +37,10 @@ const fetchData = async () => {
 const summarize = async () => {
   const data = {
     totalAmountRaised: 0,
-    numberOfContributors: 0
+    numberOfContributors: 0,
+    numberOfVolunteers: 0
   };
+
   const contributorsFile: {
     Date: string;
     Contributor: string;
@@ -53,6 +55,20 @@ const summarize = async () => {
       data.numberOfContributors += 1;
     }
   }
+
+  const volunteersFile: {
+    Name: string;
+    "Contact Details": string;
+    "Competence/ Background": string;
+    Reference: string;
+    "Area of Work Allocated ": string;
+    Remarks: string;
+  }[] = await readJson(join(".", fileName("4. Volunteers")));
+  for (const volunteer of volunteersFile) {
+    if (volunteer.Name && !["Active", "Inactive"].includes(volunteer.Name))
+      data.numberOfVolunteers += 1;
+  }
+
   await writeJson(join(".", fileName("Summary")), data, { spaces: 2 });
 };
 
