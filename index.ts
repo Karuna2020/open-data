@@ -9,12 +9,12 @@ const fetchData = async () => {
 
   for await (const tab of sheetFile.tabs) {
     const { body } = await got.get<{ [index: string]: string }[]>(
-      `${sheetFile.publicEndpoint}?sheet=11.%20IT/%20Website`,
+      `${sheetFile.publicEndpoint}?sheet=${encodeURIComponent(tab)}`,
       {
         responseType: "json"
       }
     );
-    await writeJson(join(), body);
+    await writeJson(join(".", `${tab}.json`), body);
   }
 };
 

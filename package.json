@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Karuna2020/open-data#readme",
   "dependencies": {
+    "@sindresorhus/slugify": "^0.11.0",
     "got": "^10.7.0",
     "js-yaml": "^3.13.1"
   },
