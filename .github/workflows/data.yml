@@ -1,0 +1,25 @@
+name: Karuna 2020 Open Data
+on:
+  push:
+    branches:
+      - master
+jobs:
+  release:
+    name: Update
+    runs-on: ubuntu-18.04
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: Install dependencies
+        run: npm ci
+      - name: Run TypeScript file
+        run: npm run update-data
+      - name: Commit new data
+        uses: stefanzweifel/git-auto-commit-action@v4.1.1
+        with:
+          commit_message: ":card_file_box: Update open data [skip ci]"
