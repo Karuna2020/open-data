@@ -1,0 +1,54 @@
+[
+  {
+    "Date": "27th March 2020",
+    "Time": "1400",
+    "Ordered By": "Atul Celly",
+    "Party": "Atul?",
+    "Contact Person and Contact Details": "",
+    "Material Ordered": "120 Kg Dal",
+    "Total Order Value": "145352",
+    "Invoice Received": "",
+    "Invoice Paid": "",
+    "Material Received Status/ Which Godown": "Delivery Pending",
+    "Remarks": ""
+  },
+  {
+    "Date": "",
+    "Time": "1400",
+    "Ordered By": "Atul Celly",
+    "Party": "Atul?",
+    "Contact Person and Contact Details": "",
+    "Material Ordered": "1000 Kg Oil",
+    "Total Order Value": "",
+    "Invoice Received": "",
+    "Invoice Paid": "",
+    "Material Received Status/ Which Godown": "Delivery Pending",
+    "Remarks": ""
+  },
+  {
+    "Date": "",
+    "Time": "1400",
+    "Ordered By": "Atul Celly",
+    "Party": "Atul?",
+    "Contact Person and Contact Details": "",
+    "Material Ordered": "",
+    "Total Order Value": "23655",
+    "Invoice Received": "",
+    "Invoice Paid": "",
+    "Material Received Status/ Which Godown": "Delivery Pending",
+    "Remarks": ""
+  },
+  {
+    "Date": "Total",
+    "Time": "",
+    "Ordered By": "",
+    "Party": "",
+    "Contact Person and Contact Details": "",
+    "Material Ordered": "",
+    "Total Order Value": "169007",
+    "Invoice Received": "",
+    "Invoice Paid": "",
+    "Material Received Status/ Which Godown": "",
+    "Remarks": ""
+  }
+]
