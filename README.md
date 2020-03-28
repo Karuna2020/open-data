@@ -26,6 +26,7 @@ This repository contains all our data — contributors, donors, beneficiaries, a
 | [`geography.json`](./geography.json)                             | Geography                                | [API Endpoint](https://open-data.karuna2020.org/geography.json)               |
 | [`material-ordered.json`](./material-ordered.json)               | Material we've ordered                   | [API Endpoint](https://open-data.karuna2020.org/material-ordered.json)        |
 | [`volunteers.json`](./volunteers.json)                           | List of our volunteers                   | [API Endpoint](https://open-data.karuna2020.org/volunteers.json)              |
+| [`summary.json`](./summary.json)                                 | Quick summary of important data          | [API Endpoint](https://open-data.karuna2020.org/summary.json)                 |
 
 ## 💡 How it works
 
