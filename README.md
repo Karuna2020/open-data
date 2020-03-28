@@ -1,4 +1,4 @@
-<h1><img alt="" src="https://cdn.karuna2020.org/icon-colored.svg" height="25">&nbsp; Karuna 2020 Open Data</h1>
+<h1><img alt="" src="https://cdn.karuna2020.org/icon-colored.svg" height="29">&nbsp; Karuna 2020 Open Data</h1>
 
 This repository contains all our data — contributors, donors, beneficiaries, and more, directly from the Google Sheets we use as our central information repository.
 
