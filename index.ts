@@ -1,6 +1,6 @@
 import got from "got";
 import { join } from "path";
-import { readFile, writeJson } from "fs-extra";
+import { readFile, writeJson, readJson } from "fs-extra";
 import { safeLoad } from "js-yaml";
 import slugify from "@sindresorhus/slugify";
 
@@ -9,7 +9,7 @@ const log = (...args: string[]) =>
 
 const fileName = (file: string) => {
   if (file.includes(". ")) file = file.split(". ")[1];
-  file = slugify(file);
+  file = slugify(file.trim());
   return `${file}.json`;
 };
 
@@ -34,4 +34,30 @@ const fetchData = async () => {
   }
 };
 
-fetchData();
+const summarize = async () => {
+  const data = {
+    totalAmountRaised: 0,
+    numberOfContributors: 0
+  };
+  const contributorsFile: {
+    Date: string;
+    Contributor: string;
+    Amount: string;
+    Method: string;
+    Notes?: string;
+  }[] = await readJson(join(".", fileName("13. Contributors")));
+  for (const contribution of contributorsFile) {
+    const value = parseInt(contribution.Amount.replace(/\D/g, ""));
+    if (!isNaN(value)) {
+      data.totalAmountRaised += value;
+      data.numberOfContributors += 1;
+    }
+  }
+  await writeJson(join(".", fileName("Summary")), data, { spaces: 2 });
+};
+
+fetchData()
+  .then(() => summarize())
+  .then(() => console.log("Completed update process"))
+  .catch(error => console.log("ERROR", error))
+  .finally(() => process.exit(0));
