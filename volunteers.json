@@ -2,7 +2,7 @@
   {
     "sNo": "1",
     "status": "Active",
-    "name": "Ramveer Singh",
+    "name": "Anurag Kashyap",
     "phone": "",
     "email": "",
     "competenceBackground": "",
@@ -14,7 +14,7 @@
   {
     "sNo": "2",
     "status": "Active",
-    "name": "Indus Drivers and Labour",
+    "name": "Kripa Jayaram",
     "phone": "",
     "email": "",
     "competenceBackground": "",
@@ -26,53 +26,113 @@
   {
     "sNo": "3",
     "status": "Active",
-    "name": "Manish MIS",
+    "name": "Ravinder Dagar",
     "phone": "",
     "email": "",
     "competenceBackground": "",
     "location": "",
     "reference": "",
-    "areaOfWorkAllocated": "Fund Raising",
+    "areaOfWorkAllocated": "",
     "remarks": ""
   },
   {
     "sNo": "4",
     "status": "Active",
-    "name": "Navdeep MIS",
+    "name": "Madan Singh",
     "phone": "",
     "email": "",
     "competenceBackground": "",
     "location": "",
     "reference": "",
-    "areaOfWorkAllocated": "Fund Raising",
+    "areaOfWorkAllocated": "",
     "remarks": ""
   },
   {
     "sNo": "5",
     "status": "Active",
-    "name": "Vijay Raghuraman MIS",
+    "name": "Atul Celly",
     "phone": "",
     "email": "",
     "competenceBackground": "",
     "location": "",
     "reference": "",
-    "areaOfWorkAllocated": "Fund Raising",
+    "areaOfWorkAllocated": "",
     "remarks": ""
   },
   {
     "sNo": "6",
     "status": "Active",
-    "name": "Vinay Unni MIS",
+    "name": "Anand Chaudhary",
     "phone": "",
     "email": "",
     "competenceBackground": "",
     "location": "",
     "reference": "",
-    "areaOfWorkAllocated": "Fund Raising/ Coordination",
+    "areaOfWorkAllocated": "",
     "remarks": ""
   },
   {
     "sNo": "7",
+    "status": "Active",
+    "name": "Sukriti Kapoor",
+    "phone": "",
+    "email": "",
+    "competenceBackground": "",
+    "location": "",
+    "reference": "",
+    "areaOfWorkAllocated": "",
+    "remarks": ""
+  },
+  {
+    "sNo": "8",
+    "status": "Active",
+    "name": "Tuhin",
+    "phone": "",
+    "email": "",
+    "competenceBackground": "",
+    "location": "",
+    "reference": "",
+    "areaOfWorkAllocated": "",
+    "remarks": ""
+  },
+  {
+    "sNo": "9",
+    "status": "Active",
+    "name": "Abhijit",
+    "phone": "",
+    "email": "",
+    "competenceBackground": "",
+    "location": "",
+    "reference": "",
+    "areaOfWorkAllocated": "",
+    "remarks": ""
+  },
+  {
+    "sNo": "10",
+    "status": "Active",
+    "name": "Vikrant Abrol",
+    "phone": "",
+    "email": "",
+    "competenceBackground": "",
+    "location": "",
+    "reference": "",
+    "areaOfWorkAllocated": "",
+    "remarks": ""
+  },
+  {
+    "sNo": "11",
+    "status": "Active",
+    "name": "Ramveer Singh",
+    "phone": "",
+    "email": "",
+    "competenceBackground": "",
+    "location": "",
+    "reference": "",
+    "areaOfWorkAllocated": "",
+    "remarks": ""
+  },
+  {
+    "sNo": "12",
     "status": "Active",
     "name": "Radha Chaudhary",
     "phone": "",
@@ -84,8 +144,8 @@
     "remarks": ""
   },
   {
-    "sNo": "8",
-    "status": "Inactive",
+    "sNo": "13",
+    "status": "Active",
     "name": "Iqbal Mohammed",
     "phone": "9911295694",
     "email": "mohamad.iqbal@isdm.org.in",
@@ -96,8 +156,8 @@
     "remarks": ""
   },
   {
-    "sNo": "9",
-    "status": "Inactive",
+    "sNo": "14",
+    "status": "Active",
     "name": "Alokesh Sharma",
     "phone": "9990099083",
     "email": "alokesh.sharma@isdm.org.in",
@@ -108,8 +168,8 @@
     "remarks": ""
   },
   {
-    "sNo": "10",
-    "status": "Inactive",
+    "sNo": "15",
+    "status": "Active",
     "name": "Maneet Madan",
     "phone": "7983205076",
     "email": "maneet.madan@gmail.com",
@@ -117,6 +177,54 @@
     "location": "Dehradun",
     "reference": "",
     "areaOfWorkAllocated": "",
+    "remarks": ""
+  },
+  {
+    "sNo": "",
+    "status": "",
+    "name": "Manish MIS",
+    "phone": "",
+    "email": "",
+    "competenceBackground": "",
+    "location": "",
+    "reference": "",
+    "areaOfWorkAllocated": "Fund Raising",
+    "remarks": ""
+  },
+  {
+    "sNo": "",
+    "status": "",
+    "name": "Navdeep MIS",
+    "phone": "",
+    "email": "",
+    "competenceBackground": "",
+    "location": "",
+    "reference": "",
+    "areaOfWorkAllocated": "Fund Raising",
+    "remarks": ""
+  },
+  {
+    "sNo": "",
+    "status": "",
+    "name": "Vijay Raghuraman MIS",
+    "phone": "",
+    "email": "",
+    "competenceBackground": "",
+    "location": "",
+    "reference": "",
+    "areaOfWorkAllocated": "Fund Raising",
+    "remarks": ""
+  },
+  {
+    "sNo": "",
+    "status": "",
+    "name": "Vinay Unni MIS",
+    "phone": "",
+    "email": "",
+    "competenceBackground": "",
+    "location": "",
+    "reference": "",
+    "areaOfWorkAllocated": "Fund Raising/ Coordination",
     "remarks": ""
   }
 ]
