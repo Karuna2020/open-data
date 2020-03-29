@@ -11,9 +11,9 @@
   },
   {
     "sNo": "2",
-    "contributorName": "",
-    "amount": "",
-    "method": "",
+    "contributorName": "Ramveer Singh",
+    "amount": "₹25,000 ",
+    "method": "NEFT ",
     "bank": "",
     "notes": "",
     "utr": "",
@@ -21,8 +21,8 @@
   },
   {
     "sNo": "3",
-    "contributorName": "",
-    "amount": "",
+    "contributorName": "Sanjeev Dagar",
+    "amount": "₹100,000 ",
     "method": "",
     "bank": "",
     "notes": "",
@@ -37,7 +37,7 @@
     "bank": "",
     "notes": "",
     "utr": "",
-    "date": "28/03/2023"
+    "date": ""
   },
   {
     "sNo": "5",
@@ -47,7 +47,7 @@
     "bank": "",
     "notes": "",
     "utr": "",
-    "date": "28/03/2024"
+    "date": ""
   },
   {
     "sNo": "6",
@@ -57,7 +57,7 @@
     "bank": "",
     "notes": "",
     "utr": "",
-    "date": "28/03/2025"
+    "date": ""
   },
   {
     "sNo": "7",
@@ -67,7 +67,7 @@
     "bank": "",
     "notes": "",
     "utr": "",
-    "date": "28/03/2026"
+    "date": ""
   },
   {
     "sNo": "8",
@@ -77,7 +77,7 @@
     "bank": "",
     "notes": "",
     "utr": "",
-    "date": "28/03/2027"
+    "date": ""
   },
   {
     "sNo": "9",
@@ -87,7 +87,7 @@
     "bank": "",
     "notes": "",
     "utr": "",
-    "date": "28/03/2028"
+    "date": ""
   },
   {
     "sNo": "10",
@@ -97,6 +97,6 @@
     "bank": "",
     "notes": "",
     "utr": "",
-    "date": "28/03/2029"
+    "date": ""
   }
 ]
