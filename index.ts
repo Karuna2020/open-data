@@ -49,7 +49,7 @@ const summarize = async () => {
     Amount: string;
     Method: string;
     Notes?: string;
-  }[] = await readJson(join(".", fileName("13. Contributors")));
+  }[] = await readJson(join(".", fileName("13. Amount Received")));
   for (const contribution of contributorsFile) {
     const value = parseInt(contribution.Amount.replace(/\D/g, ""));
     if (!isNaN(value)) {
