@@ -3,6 +3,8 @@ import { join } from "path";
 import { readFile, writeJson, readJson } from "fs-extra";
 import { safeLoad } from "js-yaml";
 import slugify from "@sindresorhus/slugify";
+import { config } from "dotenv";
+config();
 
 const log = (...args: string[]) =>
   console.log(new Date().toISOString(), ...args);
