@@ -15,6 +15,23 @@ const fileName = (file: string) => {
   return `${file}.json`;
 };
 
+const keyName = (key: string) =>
+  slugify(key.trim()).replace(/-([a-z])/g, g => g[1].toUpperCase());
+
+const cleanResponse = (data: { [index: string]: string }[]) => {
+  if (Array.isArray(data))
+    data = data.map(i => {
+      if (typeof i === "object" && !Array.isArray(i)) {
+        Object.keys(i).forEach(key => {
+          i[keyName(key)] = i[key];
+          delete i[key];
+        });
+      }
+      return i;
+    });
+  return data;
+};
+
 const fetchData = async () => {
   const yaml = await readFile(join(".", "sheet.yml"), "utf8");
   const sheetFile: { publicEndpoint: string; tabs: string[] } = safeLoad(yaml);
@@ -30,7 +47,9 @@ const fetchData = async () => {
           password: process.env.PASSWORD
         }
       );
-      await writeJson(join(".", fileName(tab)), body, { spaces: 2 });
+      await writeJson(join(".", fileName(tab)), cleanResponse(body), {
+        spaces: 2
+      });
       log("SUCCESS", tab);
     } catch (error) {
       log("ERROR", tab, error);
