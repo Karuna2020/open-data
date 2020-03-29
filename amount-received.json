@@ -7,7 +7,9 @@
     "bank": "",
     "notes": "",
     "utr": "",
-    "date": "28/03/2021"
+    "date": "28/03/2021",
+    "mobile": "",
+    "email": ""
   },
   {
     "sNo": "2",
@@ -17,7 +19,9 @@
     "bank": "",
     "notes": "",
     "utr": "",
-    "date": "28/03/2022"
+    "date": "28/03/2022",
+    "mobile": "",
+    "email": ""
   },
   {
     "sNo": "3",
@@ -27,7 +31,9 @@
     "bank": "",
     "notes": "",
     "utr": "",
-    "date": ""
+    "date": "",
+    "mobile": "",
+    "email": ""
   },
   {
     "sNo": "4",
@@ -37,7 +43,9 @@
     "bank": "",
     "notes": "",
     "utr": "",
-    "date": ""
+    "date": "",
+    "mobile": "",
+    "email": ""
   },
   {
     "sNo": "5",
@@ -47,56 +55,68 @@
     "bank": "",
     "notes": "",
     "utr": "",
-    "date": ""
+    "date": "",
+    "mobile": "",
+    "email": ""
   },
   {
     "sNo": "6",
-    "contributorName": "Shakti Foundation",
-    "amount": "₹100,000 ",
-    "method": "",
-    "bank": "",
-    "notes": "",
-    "utr": "",
-    "date": ""
-  },
-  {
-    "sNo": "7",
-    "contributorName": "Shakti Foundation",
-    "amount": "₹100,000 ",
-    "method": "",
-    "bank": "",
-    "notes": "",
-    "utr": "",
-    "date": ""
-  },
-  {
-    "sNo": "8",
-    "contributorName": "Shakti Foundation",
-    "amount": "₹100,000 ",
-    "method": "",
-    "bank": "",
-    "notes": "",
-    "utr": "",
-    "date": ""
-  },
-  {
-    "sNo": "9",
     "contributorName": "Rachna Bansal",
     "amount": "₹10,000 ",
     "method": "",
     "bank": "",
     "notes": "",
     "utr": "",
-    "date": ""
+    "date": "",
+    "mobile": "",
+    "email": ""
   },
   {
-    "sNo": "10",
+    "sNo": "7",
     "contributorName": "Sheet DB",
     "amount": "₹4,490 ",
     "method": "NEFT",
     "bank": "",
     "notes": "SheetDB has provided us with their Pro plan worth $19.99 for 3 months for our website",
     "utr": "",
-    "date": "28/03/2020"
+    "date": "28/03/2020",
+    "mobile": "Note",
+    "email": ""
+  },
+  {
+    "sNo": "8",
+    "contributorName": "Essel world Foundation",
+    "amount": "₹300,000 ",
+    "method": "",
+    "bank": "",
+    "notes": "",
+    "utr": "",
+    "date": "",
+    "mobile": "",
+    "email": ""
+  },
+  {
+    "sNo": "9",
+    "contributorName": "Gautam Chikermane ",
+    "amount": "25000",
+    "method": "IMPS",
+    "bank": "HDFC",
+    "notes": "",
+    "utr": "8921642916",
+    "date": "29/03/2020",
+    "mobile": "",
+    "email": ""
+  },
+  {
+    "sNo": "10",
+    "contributorName": "",
+    "amount": "",
+    "method": "",
+    "bank": "",
+    "notes": "",
+    "utr": "",
+    "date": "",
+    "mobile": "",
+    "email": ""
   }
 ]
