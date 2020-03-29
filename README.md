@@ -19,7 +19,6 @@ This repository contains all our data — contributors, donors, beneficiaries, a
 | [`sop-s.json`](./sop-s.json)                         | Our SOPs (standard operating procedures)   | [API Endpoint](https://open-data.karuna2020.org/sop-s.json)             |
 | [`concalls.json`](./concalls.json)                   | Summary of our conference calls            | [API Endpoint](https://open-data.karuna2020.org/concalls.json)          |
 | [`it-website.json`](./it-website.json)               | Technology, website, and marketing         | [API Endpoint](https://open-data.karuna2020.org/it-website.json)        |
-| [`other-points.json`](./other-points.json)           | Other actionable items                     | [API Endpoint](https://open-data.karuna2020.org/other-points.json)      |
 | [`things-to-be-done.json`](./things-to-be-done.json) | List of things to be done                  | [API Endpoint](https://open-data.karuna2020.org/things-to-be-done.json) |
 | [`geography.json`](./geography.json)                 | Geography                                  | [API Endpoint](https://open-data.karuna2020.org/geography.json)         |
 | [`material-list.json`](./material-list.json)         | Material we're planning on getting         | [API Endpoint](https://open-data.karuna2020.org/material-list.json)     |
