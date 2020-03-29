@@ -65,14 +65,14 @@ const summarize = async () => {
   };
 
   const contributorsFile: {
-    Date: string;
-    Contributor: string;
-    Amount: string;
-    Method: string;
-    Notes?: string;
+    date: string;
+    contributor: string;
+    amount: string;
+    method: string;
+    notes?: string;
   }[] = await readJson(join(".", fileName("13. Amount Received")));
   for (const contribution of contributorsFile) {
-    const value = parseInt(contribution.Amount.replace(/\D/g, ""));
+    const value = parseInt(contribution.amount.replace(/\D/g, ""));
     if (!isNaN(value)) {
       data.totalAmountRaised += value;
       data.numberOfContributors += 1;
@@ -80,18 +80,18 @@ const summarize = async () => {
   }
 
   const volunteersFile: {
-    Name: string;
-    "Contact Details": string;
-    "Competence/ Background": string;
-    Reference: string;
-    "Area of Work Allocated ": string;
-    Remarks: string;
+    sNo: string;
+    status: string;
+    name: string;
+    phone: string;
+    email: string;
+    competenceBackground: string;
+    location: string;
+    reference: string;
+    areaOfWorkAllocated: string;
+    remarks: string;
   }[] = await readJson(join(".", fileName("4. Volunteers")));
-  for (const volunteer of volunteersFile) {
-    if (volunteer.Name && !["Active", "Inactive"].includes(volunteer.Name))
-      data.numberOfVolunteers += 1;
-  }
-
+  data.numberOfVolunteers = volunteersFile.length;
   await writeJson(join(".", fileName("Summary")), data, { spaces: 2 });
 };
 
