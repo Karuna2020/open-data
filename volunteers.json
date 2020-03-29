@@ -78,5 +78,37 @@
     "Reference": "",
     "Area of Work Allocated ": "",
     "Remarks": ""
+  },
+  {
+    "Name": "S No",
+    "Contact Details": "Name",
+    "Competence/ Background": "Contact No",
+    "Reference": "Email Id",
+    "Area of Work Allocated ": "Location",
+    "Remarks": ""
+  },
+  {
+    "Name": "1",
+    "Contact Details": "Iqbal Mohammed",
+    "Competence/ Background": "9911295694",
+    "Reference": "mohamad.iqbal@isdm.org.in",
+    "Area of Work Allocated ": "New Delhi (Jamia)",
+    "Remarks": ""
+  },
+  {
+    "Name": "2",
+    "Contact Details": "Alokesh Sharma",
+    "Competence/ Background": "9990099083",
+    "Reference": "alokesh.sharma@isdm.org.in",
+    "Area of Work Allocated ": "Noida & New Delhi",
+    "Remarks": ""
+  },
+  {
+    "Name": "3",
+    "Contact Details": "Maneet Madan",
+    "Competence/ Background": "7983205076",
+    "Reference": "maneet.madan@gmail.com",
+    "Area of Work Allocated ": "Dehradun",
+    "Remarks": ""
   }
 ]
