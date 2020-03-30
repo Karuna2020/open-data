@@ -148,5 +148,20 @@
     "receivedInWhichAccount": "",
     "enteredInTally": "",
     "receiptSharedWithDonor": ""
+  },
+  {
+    "sNo": "11",
+    "contributorName": "Mr. D Kapoor",
+    "amount": "₹100,000 ",
+    "method": "Cash ",
+    "bank": "",
+    "notes": "",
+    "utr": "",
+    "date": "",
+    "mobile": "",
+    "email": "",
+    "receivedInWhichAccount": "Vikrant (Radha)",
+    "enteredInTally": "",
+    "receiptSharedWithDonor": ""
   }
 ]
