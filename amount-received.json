@@ -98,7 +98,7 @@
     "notes": "SheetDB has provided us with their Pro plan worth $19.99 for 3 months for our website",
     "utr": "",
     "date": "28/03/2020",
-    "mobile": "Note",
+    "mobile": "",
     "email": "",
     "receivedInWhichAccount": "",
     "enteredInTally": "",
@@ -106,7 +106,7 @@
   },
   {
     "sNo": "8",
-    "contributorName": "Essel world Foundation",
+    "contributorName": "Essel World Foundation",
     "amount": "₹300,000 ",
     "method": "",
     "bank": "",
@@ -122,7 +122,7 @@
   {
     "sNo": "9",
     "contributorName": "Gautam Chikermane ",
-    "amount": "25000",
+    "amount": "₹25,000 ",
     "method": "IMPS",
     "bank": "HDFC",
     "notes": "",
