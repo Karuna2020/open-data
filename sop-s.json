@@ -46,7 +46,7 @@
   },
   {
     "sNo": "US_5",
-    "step": "Everyone handling any physical material to wash hands before and after handling the material as per the standard nad wash videos",
+    "step": "Everyone handling any physical material to wash hands before and after handling the material as per the standard hand wash videos",
     "formatResourcesToBeUsed": "",
     "timelines": "",
     "responsibility": "",
@@ -163,7 +163,7 @@
   },
   {
     "sNo": "PR_10",
-    "step": "During the transportaiton, if any police man stops, simply organise a video call with the designated Police Coordinator",
+    "step": "During the transportation, if any police man stops, simply organise a video call with the designated Police Coordinator",
     "formatResourcesToBeUsed": "",
     "timelines": "",
     "responsibility": "",
@@ -181,15 +181,6 @@
   },
   {
     "sNo": "PR_12",
-    "step": "Driver to inform the Godown Coordinator when he has started and expected time of arrival and route of travel",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
-  },
-  {
-    "sNo": "PR_13",
     "step": "Driver to inform the Godown Coordinator when he has started and expected time of arrival and route of travel",
     "formatResourcesToBeUsed": "",
     "timelines": "",
