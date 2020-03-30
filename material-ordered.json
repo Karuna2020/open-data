@@ -39,8 +39,8 @@
     "units": "Kg",
     "quantity": "100",
     "totalOrderValue": "23655",
-    "invoiceReceived": "1000",
-    "invoicePaid": "Dal",
+    "invoiceReceived": "",
+    "invoicePaid": "",
     "materialReceivedStatusWhichGodown": "Delivery Pending",
     "remarks": ""
   },
@@ -54,8 +54,8 @@
     "units": "Kg",
     "quantity": "760",
     "totalOrderValue": "",
-    "invoiceReceived": "500",
-    "invoicePaid": "Oil",
+    "invoiceReceived": "",
+    "invoicePaid": "",
     "materialReceivedStatusWhichGodown": "",
     "remarks": ""
   },
@@ -69,8 +69,8 @@
     "units": "",
     "quantity": "10000",
     "totalOrderValue": "",
-    "invoiceReceived": "700",
-    "invoicePaid": "Rice",
+    "invoiceReceived": "",
+    "invoicePaid": "",
     "materialReceivedStatusWhichGodown": "",
     "remarks": ""
   },
