@@ -9,7 +9,10 @@
     "utr": "",
     "date": "28/03/2021",
     "mobile": "",
-    "email": ""
+    "email": "",
+    "receivedInWhichAccount": "ILSEF",
+    "enteredInTally": "",
+    "receiptSharedWithDonor": ""
   },
   {
     "sNo": "2",
@@ -21,7 +24,10 @@
     "utr": "",
     "date": "28/03/2022",
     "mobile": "",
-    "email": ""
+    "email": "",
+    "receivedInWhichAccount": "",
+    "enteredInTally": "",
+    "receiptSharedWithDonor": ""
   },
   {
     "sNo": "3",
@@ -33,7 +39,10 @@
     "utr": "",
     "date": "",
     "mobile": "",
-    "email": ""
+    "email": "",
+    "receivedInWhichAccount": "",
+    "enteredInTally": "",
+    "receiptSharedWithDonor": ""
   },
   {
     "sNo": "4",
@@ -45,7 +54,10 @@
     "utr": "",
     "date": "",
     "mobile": "",
-    "email": ""
+    "email": "",
+    "receivedInWhichAccount": "",
+    "enteredInTally": "",
+    "receiptSharedWithDonor": ""
   },
   {
     "sNo": "5",
@@ -57,7 +69,10 @@
     "utr": "",
     "date": "",
     "mobile": "",
-    "email": ""
+    "email": "",
+    "receivedInWhichAccount": "ILSEF",
+    "enteredInTally": "",
+    "receiptSharedWithDonor": ""
   },
   {
     "sNo": "6",
@@ -69,7 +84,10 @@
     "utr": "",
     "date": "",
     "mobile": "",
-    "email": ""
+    "email": "",
+    "receivedInWhichAccount": "ILSEF",
+    "enteredInTally": "",
+    "receiptSharedWithDonor": ""
   },
   {
     "sNo": "7",
@@ -81,7 +99,10 @@
     "utr": "",
     "date": "28/03/2020",
     "mobile": "Note",
-    "email": ""
+    "email": "",
+    "receivedInWhichAccount": "",
+    "enteredInTally": "",
+    "receiptSharedWithDonor": ""
   },
   {
     "sNo": "8",
@@ -93,7 +114,10 @@
     "utr": "",
     "date": "",
     "mobile": "",
-    "email": ""
+    "email": "",
+    "receivedInWhichAccount": "Shakti Foundation",
+    "enteredInTally": "",
+    "receiptSharedWithDonor": ""
   },
   {
     "sNo": "9",
@@ -105,7 +129,10 @@
     "utr": "8921642916",
     "date": "29/03/2020",
     "mobile": "",
-    "email": ""
+    "email": "",
+    "receivedInWhichAccount": "ILSEF",
+    "enteredInTally": "",
+    "receiptSharedWithDonor": ""
   },
   {
     "sNo": "10",
@@ -117,6 +144,9 @@
     "utr": "",
     "date": "",
     "mobile": "",
-    "email": ""
+    "email": "",
+    "receivedInWhichAccount": "",
+    "enteredInTally": "",
+    "receiptSharedWithDonor": ""
   }
 ]
