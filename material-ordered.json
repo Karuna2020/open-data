@@ -75,6 +75,21 @@
     "remarks": ""
   },
   {
+    "date": "30th March 2020",
+    "time": "",
+    "orderedBy": "",
+    "party": "",
+    "contactPersonAndContactDetails": "",
+    "materialOrdered": "Rice",
+    "units": "Kg",
+    "quantity": "10000",
+    "totalOrderValue": "",
+    "invoiceReceived": "",
+    "invoicePaid": "",
+    "materialReceivedStatusWhichGodown": "",
+    "remarks": ""
+  },
+  {
     "date": "Total",
     "time": "",
     "orderedBy": "",
