@@ -6,7 +6,7 @@ import slugify from "@sindresorhus/slugify";
 import { config } from "dotenv";
 config();
 
-const PRIVATE_COLUMNS = ["phone", "email"];
+const PRIVATE_COLUMNS = ["phone", "email", "mobile"];
 
 const log = (...args: string[]) =>
   console.log(new Date().toISOString(), ...args);
@@ -70,14 +70,14 @@ const summarize = async () => {
 
   const contributorsFile: {
     date: string;
-    contributor: string;
+    contributorName: string;
     amount: string;
     method: string;
     notes?: string;
   }[] = await readJson(join(".", fileName("13. Amount Received")));
   for (const contribution of contributorsFile) {
     const value = parseInt(contribution.amount.replace(/\D/g, ""));
-    if (!isNaN(value)) {
+    if (!isNaN(value) && contribution.contributorName !== "Sum") {
       data.totalAmountRaised += value;
       data.numberOfContributors += 1;
     }

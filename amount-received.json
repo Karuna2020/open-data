@@ -5,23 +5,26 @@
     "amount": "₹15,000",
     "method": "NEFT",
     "date": "28/03/2021",
-    "receivedInWhichAccount": "ILSEF"
+    "receivedInWhichAccount": "Vikrant"
   },
   {
     "sNo": "2",
     "contributorName": "Sanjeev Dagar",
     "amount": "₹25,000",
-    "date": "28/03/2022"
+    "date": "28/03/2022",
+    "receivedInWhichAccount": "Vikrant"
   },
   {
     "sNo": "3",
     "contributorName": "Mithalesh",
-    "amount": "₹50,000"
+    "amount": "₹50,000",
+    "receivedInWhichAccount": "Vikrant"
   },
   {
     "sNo": "4",
     "contributorName": "Raghu Dagar",
-    "amount": "₹25,000"
+    "amount": "₹25,000",
+    "receivedInWhichAccount": "Vikrant"
   },
   {
     "sNo": "5",
@@ -41,7 +44,8 @@
     "amount": "₹4,490",
     "method": "NEFT",
     "notes": "SheetDB has provided us with their Pro plan worth $19.99 for 3 months for our website",
-    "date": "28/03/2020"
+    "date": "28/03/2020",
+    "receivedInWhichAccount": "In Kind"
   },
   {
     "sNo": "8",
@@ -58,8 +62,8 @@
     "fromBank": "HDFC",
     "utr": "8921642916",
     "date": "29/03/2020",
-    "mobile": "Done",
-    "receivedInWhichAccount": "ILSEF"
+    "receivedInWhichAccount": "ILSEF",
+    "remarks": "Gautam Chikermane"
   },
   {
     "sNo": "10",
@@ -68,23 +72,22 @@
     "method": "NEFT",
     "notes": "ICIC0SF0002",
     "date": "30/03/2020",
-    "mobile": "Done",
-    "receivedInWhichAccount": "ILSEF"
+    "receivedInWhichAccount": "ILSEF",
+    "remarks": "Dont Know who he is"
   },
   {
     "sNo": "11",
     "contributorName": "Anonymous",
     "amount": "₹100,000",
     "method": "Cash",
-    "mobile": "Done",
-    "receivedInWhichAccount": "Vikrant (Radha)"
+    "receivedInWhichAccount": "Vikrant (Radha)",
+    "remarks": "Dinesh Kapoor"
   },
   {
     "sNo": "12",
     "contributorName": "Anu Didi, GK2",
     "amount": "₹3,000",
     "method": "Cash",
-    "mobile": "Done",
     "receivedInWhichAccount": "Vikrant (Radha)"
   },
   {
@@ -92,7 +95,6 @@
     "contributorName": "Dalvir Agarwal",
     "amount": "₹750",
     "method": "Cash",
-    "mobile": "Done",
     "receivedInWhichAccount": "Vikrant"
   },
   {
@@ -103,7 +105,6 @@
     "fromBank": "Canara Bank",
     "utr": "P0033126345890",
     "date": "31/03/2020",
-    "mobile": "9310007000",
     "receivedInWhichAccount": "ILSEF",
     "panNo": "AEQPC1027F"
   },
