@@ -105,6 +105,11 @@
     "workCenter": "3500"
   },
   {
+    "clusterControlPoints": "Kripa",
+    "beneficiaryAreas": "",
+    "workCenter": ""
+  },
+  {
     "clusterControlPoints": "",
     "beneficiaryAreas": "Total",
     "workCenter": "4150"

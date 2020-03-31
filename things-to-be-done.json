@@ -3,6 +3,7 @@
     "thingsToBeDone": "Core Team",
     "indicativeTimelines": "",
     "primaryResponsibilities": "",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -11,6 +12,7 @@
     "thingsToBeDone": "Procurement",
     "indicativeTimelines": "",
     "primaryResponsibilities": "Atul Celly",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -19,6 +21,7 @@
     "thingsToBeDone": "Volunteer Management",
     "indicativeTimelines": "",
     "primaryResponsibilities": "Kripa",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -26,7 +29,8 @@
   {
     "thingsToBeDone": "Distribution",
     "indicativeTimelines": "",
-    "primaryResponsibilities": "",
+    "primaryResponsibilities": "Vikrant Abrol",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": "Atul Kitchen capacity -10,000-15,000 meals"
@@ -35,6 +39,7 @@
     "thingsToBeDone": "Fund Raising",
     "indicativeTimelines": "",
     "primaryResponsibilities": "Anurag Kashyap, Vikrant ",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -43,6 +48,7 @@
     "thingsToBeDone": "Accounting",
     "indicativeTimelines": "",
     "primaryResponsibilities": "Madan Singh (Shakti)",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -51,6 +57,7 @@
     "thingsToBeDone": "Digital Outreach/ Social Media",
     "indicativeTimelines": "",
     "primaryResponsibilities": "Anand/ Sukriti/ Kripa",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -59,6 +66,7 @@
     "thingsToBeDone": "Documentation",
     "indicativeTimelines": "",
     "primaryResponsibilities": "Tuhin Ref. Anurag Kashyap",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -67,6 +75,7 @@
     "thingsToBeDone": "Technology ",
     "indicativeTimelines": "",
     "primaryResponsibilities": "Anand/ Aditya",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "Rohit",
     "remaks": ""
@@ -74,7 +83,8 @@
   {
     "thingsToBeDone": "Central Coordination Team",
     "indicativeTimelines": "",
-    "primaryResponsibilities": "Vikrant",
+    "primaryResponsibilities": "Shivek",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -83,6 +93,7 @@
     "thingsToBeDone": "MIS Management ",
     "indicativeTimelines": "",
     "primaryResponsibilities": "Abhijit Ref Anurah Kashyap",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -91,6 +102,7 @@
     "thingsToBeDone": "Police Liason and E Passes",
     "indicativeTimelines": "",
     "primaryResponsibilities": "Ravinder Dagar",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -99,6 +111,16 @@
     "thingsToBeDone": "Godown (Sec 37, Gurgaon Management)",
     "indicativeTimelines": "",
     "primaryResponsibilities": "Ramveer Singh",
+    "mobile": "",
+    "backUpResponsibilities": "",
+    "supportGroup": "",
+    "remaks": ""
+  },
+  {
+    "thingsToBeDone": "Gulmehar, Gazipur",
+    "indicativeTimelines": "",
+    "primaryResponsibilities": "Kamala Ji (C/o Anurag K)",
+    "mobile": "9891061197",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -107,6 +129,7 @@
     "thingsToBeDone": "Systems and Processes",
     "indicativeTimelines": "",
     "primaryResponsibilities": "Vikrant ",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -115,6 +138,7 @@
     "thingsToBeDone": "Cooking/ production",
     "indicativeTimelines": "",
     "primaryResponsibilities": "Atul Celly",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -123,6 +147,7 @@
     "thingsToBeDone": "5 Tier Volunteers",
     "indicativeTimelines": "Number",
     "primaryResponsibilities": "No. of Kits",
+    "mobile": "",
     "backUpResponsibilities": "Remarks",
     "supportGroup": "",
     "remaks": ""
@@ -131,6 +156,7 @@
     "thingsToBeDone": "Core Coordination Team ",
     "indicativeTimelines": "10",
     "primaryResponsibilities": "10,000",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -139,6 +165,7 @@
     "thingsToBeDone": "Work Area wise support Teams",
     "indicativeTimelines": "As per the work requirements",
     "primaryResponsibilities": "",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -147,6 +174,7 @@
     "thingsToBeDone": "Action Cluster Coordinator",
     "indicativeTimelines": "20",
     "primaryResponsibilities": "1000",
+    "mobile": "",
     "backUpResponsibilities": "Each Cluster to distribute 1000 Dry Ration Packets",
     "supportGroup": "",
     "remaks": ""
@@ -155,6 +183,7 @@
     "thingsToBeDone": "Action Colony Coordinator",
     "indicativeTimelines": "100",
     "primaryResponsibilities": "250",
+    "mobile": "",
     "backUpResponsibilities": "Each Colony to distribute 100 Dry Ration Packets",
     "supportGroup": "",
     "remaks": ""
@@ -163,6 +192,7 @@
     "thingsToBeDone": "Action Street/ Group of Houses Coordinator",
     "indicativeTimelines": "1000",
     "primaryResponsibilities": "10-25",
+    "mobile": "",
     "backUpResponsibilities": "Each Cluster to distribute 20 Dry Ration Packets",
     "supportGroup": "",
     "remaks": ""
@@ -171,6 +201,7 @@
     "thingsToBeDone": "Total",
     "indicativeTimelines": "",
     "primaryResponsibilities": "",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -179,6 +210,7 @@
     "thingsToBeDone": "Fund Requirement",
     "indicativeTimelines": "Kit Cost",
     "primaryResponsibilities": "Distribution (20%)",
+    "mobile": "",
     "backUpResponsibilities": "",
     "supportGroup": "",
     "remaks": ""
@@ -187,6 +219,7 @@
     "thingsToBeDone": "1000",
     "indicativeTimelines": "525",
     "primaryResponsibilities": "105",
+    "mobile": "",
     "backUpResponsibilities": "630000",
     "supportGroup": "",
     "remaks": ""
@@ -195,6 +228,7 @@
     "thingsToBeDone": "10000",
     "indicativeTimelines": "550",
     "primaryResponsibilities": "110",
+    "mobile": "",
     "backUpResponsibilities": "6600000",
     "supportGroup": "",
     "remaks": ""
@@ -203,6 +237,7 @@
     "thingsToBeDone": "25000",
     "indicativeTimelines": "575",
     "primaryResponsibilities": "115",
+    "mobile": "",
     "backUpResponsibilities": "17250000",
     "supportGroup": "",
     "remaks": ""
@@ -211,6 +246,7 @@
     "thingsToBeDone": "100000",
     "indicativeTimelines": "600",
     "primaryResponsibilities": "120",
+    "mobile": "",
     "backUpResponsibilities": "72000000",
     "supportGroup": "",
     "remaks": ""
