@@ -6,6 +6,8 @@ import slugify from "@sindresorhus/slugify";
 import { config } from "dotenv";
 config();
 
+const PRIVATE_COLUMNS = ["phone", "email"];
+
 const log = (...args: string[]) =>
   console.log(new Date().toISOString(), ...args);
 
@@ -26,6 +28,7 @@ const cleanResponse = (data: { [index: string]: string }[]) => {
           if (typeof i[key] === "string") i[key] = i[key].trim();
           if (i[key] !== "") i[keyName(key)] = i[key];
           delete i[key];
+          PRIVATE_COLUMNS.forEach(col => delete i[col]);
         });
       }
       return i;

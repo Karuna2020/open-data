@@ -33,8 +33,6 @@
     "sNo": "6",
     "status": "Active",
     "name": "Anand Chowdhary",
-    "phone": "9555297989",
-    "email": "mail@anandchowdhary.com",
     "competenceBackground": "Technology, Startups",
     "location": "South Delhi",
     "areaOfWorkAllocated": "Technology and Social Media"
@@ -43,8 +41,6 @@
     "sNo": "7",
     "status": "Active",
     "name": "Sukriti Kapoor",
-    "phone": "9560925239",
-    "email": "mail@sukritikapoor.com",
     "competenceBackground": "Writing, Publishing",
     "location": "South Delhi",
     "areaOfWorkAllocated": "Social Media"
@@ -60,8 +56,6 @@
     "sNo": "9",
     "status": "Active",
     "name": "Abhijit Patwal",
-    "phone": "8077738645",
-    "email": "abhijeetsinghpatwal@gmail.com",
     "competenceBackground": "Social Work",
     "location": "Dehradun",
     "reference": "Mr. Anurag Kashayp",
@@ -83,8 +77,6 @@
     "sNo": "12",
     "status": "Active",
     "name": "Radha Chowdhary",
-    "phone": "9310007000",
-    "email": "chowdharyradha@gmail.com",
     "location": "South Delhi",
     "areaOfWorkAllocated": "Volunteer Coordination"
   },
@@ -92,8 +84,6 @@
     "sNo": "13",
     "status": "Active",
     "name": "Iqbal Mohammed",
-    "phone": "9911295694",
-    "email": "mohamad.iqbal@isdm.org.in",
     "competenceBackground": "Social Work",
     "location": "New Delhi (Jamia)",
     "areaOfWorkAllocated": "Day to Day Coordination"
@@ -102,8 +92,6 @@
     "sNo": "14",
     "status": "Active",
     "name": "Alokesh Sharma",
-    "phone": "9990099083",
-    "email": "alokesh.sharma@isdm.org.in",
     "competenceBackground": "Social Work",
     "location": "Noida & New Delhi",
     "areaOfWorkAllocated": "Day to Day Coordination"
@@ -112,8 +100,6 @@
     "sNo": "15",
     "status": "Active",
     "name": "Maneet Madan",
-    "phone": "7983205076",
-    "email": "maneet.madan@gmail.com",
     "competenceBackground": "Social Work",
     "location": "Dehradun",
     "areaOfWorkAllocated": "Day to Day Coordination"
@@ -122,8 +108,6 @@
     "sNo": "16",
     "status": "Active",
     "name": "Shivek Khurana",
-    "phone": "9716700694",
-    "email": "shivek@krimlabs.com",
     "competenceBackground": "Technology",
     "location": "West Delhi",
     "areaOfWorkAllocated": "Technology and Coordination"
