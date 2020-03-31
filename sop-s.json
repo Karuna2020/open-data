@@ -1,524 +1,230 @@
 [
   {
     "sNo": "U.",
-    "step": "Universal Safety",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Universal Safety"
   },
   {
     "sNo": "US_1",
     "step": "Incase of slightest Fever, Cold, Cough, Bodyache no work to be done and to be under strict observation as per the Government directives",
-    "formatResourcesToBeUsed": "https://www.mygov.in/covid-19",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "formatResourcesToBeUsed": "https://www.mygov.in/covid-19"
   },
   {
     "sNo": "US_2",
-    "step": "Everyone to maintain if possible 5 meters distance from each other, in no case to come closer than 2 meters",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Everyone to maintain if possible 5 meters distance from each other, in no case to come closer than 2 meters"
   },
   {
     "sNo": "US_3",
-    "step": "Everyone with public movement to wear a mask",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Everyone with public movement to wear a mask"
   },
   {
     "sNo": "US_4",
-    "step": "Everyone handling any physical material to wear disposable gloves ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Everyone handling any physical material to wear disposable gloves"
   },
   {
     "sNo": "US_5",
-    "step": "Everyone handling any physical material to wash hands before and after handling the material as per the standard hand wash videos",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Everyone handling any physical material to wash hands before and after handling the material as per the standard hand wash videos"
   },
   {
     "sNo": "US_6",
-    "step": "Every work place to be suitabtly sanitised ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Every work place to be suitabtly sanitised"
   },
   {
     "sNo": "PR.",
-    "step": "Procurement",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Procurement"
   },
   {
-    "sNo": "",
-    "step": "To always follow all Universal Safety Instructions",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "To always follow all Universal Safety Instructions"
   },
   {
     "sNo": "PR_1",
-    "step": "Identification of Suppliers",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Identification of Suppliers"
   },
   {
     "sNo": "PR_2",
-    "step": "Placing the Order",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Placing the Order"
   },
   {
     "sNo": "PR_3",
-    "step": "Transferring the Payment ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Transferring the Payment"
   },
   {
     "sNo": "PR_4",
-    "step": "Invoice from Supplier ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Invoice from Supplier"
   },
   {
     "sNo": "PR_5",
-    "step": "Confirmation to Transporter ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Confirmation to Transporter"
   },
   {
     "sNo": "PR_6",
-    "step": "Loading by ideally a single person who does not come 1 meter close to anyone, not even the driver",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Loading by ideally a single person who does not come 1 meter close to anyone, not even the driver"
   },
   {
     "sNo": "PR_7",
-    "step": "If multiple people loading then they dont come 1 meter close to the other loaded while picking up, walking or loading or unloading",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "If multiple people loading then they dont come 1 meter close to the other loaded while picking up, walking or loading or unloading"
   },
   {
     "sNo": "PR_8",
-    "step": "No signing of any challan all confirmations of quanitity purchased and dispatched only over whatspp number which has been designated for this purpose",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "No signing of any challan all confirmations of quanitity purchased and dispatched only over whatspp number which has been designated for this purpose"
   },
   {
     "sNo": "PR_9",
-    "step": "No labour to come with the truck, only the driver and no helper with him",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "No labour to come with the truck, only the driver and no helper with him"
   },
   {
     "sNo": "PR_10",
-    "step": "During the transportation, if any police man stops, simply organise a video call with the designated Police Coordinator",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "During the transportation, if any police man stops, simply organise a video call with the designated Police Coordinator"
   },
   {
     "sNo": "PR_11",
-    "step": "Delivery vehicle to have the Banner of Karuana 2020 as per the required design which will be issued by the Central Coordination Team",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Delivery vehicle to have the Banner of Karuana 2020 as per the required design which will be issued by the Central Coordination Team"
   },
   {
     "sNo": "PR_12",
-    "step": "Driver to inform the Godown Coordinator when he has started and expected time of arrival and route of travel",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Driver to inform the Godown Coordinator when he has started and expected time of arrival and route of travel"
   },
   {
     "sNo": "PR_14",
-    "step": "Godown coordinator to keep the Godown Gate open so that the vehicle can straight away go in and stop at the designated spot in the right direction",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Godown coordinator to keep the Godown Gate open so that the vehicle can straight away go in and stop at the designated spot in the right direction"
   },
   {
     "sNo": "PR_15",
-    "step": "Designated labour, ideally one person to unload and not come 1 meter close to the driver ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Designated labour, ideally one person to unload and not come 1 meter close to the driver"
   },
   {
     "sNo": "PR_16",
-    "step": "Material to be unloaded and stocked at the demarcated spaces as per the Godown Storage Plan issued by the Central Coordination Team ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Material to be unloaded and stocked at the demarcated spaces as per the Godown Storage Plan issued by the Central Coordination Team"
   },
   {
     "sNo": "PR_17",
-    "step": "Once the material is unloaded and stocked, it should be left for 48 hours without touching ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Once the material is unloaded and stocked, it should be left for 48 hours without touching"
   },
   {
     "sNo": "ST",
-    "step": "Storage in Designated Godowns ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Storage in Designated Godowns"
   },
   {
-    "sNo": "",
-    "step": "To always follow all Universal Safety Instructions",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "To always follow all Universal Safety Instructions"
   },
   {
     "sNo": "ST_1",
-    "step": "Indicative Godown dimensions to be shared with the Central Planning Team along with 5 phographs of each room, hall etc. Four from the Center for each of the sides and one from Eastern Side wall showing capturing the center and the opposite western side  ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Indicative Godown dimensions to be shared with the Central Planning Team along with 5 phographs of each room, hall etc. Four from the Center for each of the sides and one from Eastern Side wall showing capturing the center and the opposite western side"
   },
   {
     "sNo": "ST_2",
-    "step": "Central Planning Team to share the Godown Storage Lay Out with the Godown Coordinator over Whatsapp along with the total capacity calculation.",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Central Planning Team to share the Godown Storage Lay Out with the Godown Coordinator over Whatsapp along with the total capacity calculation."
   },
   {
     "sNo": "ST_3",
-    "step": "Godown Storage Coordinator to make the layout clearly with Chalk Powder",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Godown Storage Coordinator to make the layout clearly with Chalk Powder"
   },
   {
     "sNo": "ST_4",
-    "step": "If required, directly offload and transfer the material to any other vehicle in the Godown if it has to be resent to some other location",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "If required, directly offload and transfer the material to any other vehicle in the Godown if it has to be resent to some other location"
   },
   {
     "sNo": "ST_5",
-    "step": "Material to be stored in such a way so that it is safe from Water, Rats etc. as far as possible",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Material to be stored in such a way so that it is safe from Water, Rats etc. as far as possible"
   },
   {
     "sNo": "B.",
-    "step": "Packaging of Dry Ration Packets",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Packaging of Dry Ration Packets"
   },
   {
     "sNo": "PK_1",
-    "step": "To always follow all Universal Safety Instructions",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "To always follow all Universal Safety Instructions"
   },
   {
     "sNo": "PK_2",
-    "step": "Identify the people who will pack the Packets, these could be volunteers or paid workers. If paid workers, clearly communicate the wages. Ensure that they have no systems of Covid19 or slightest cold, cough, fever etc.",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Identify the people who will pack the Packets, these could be volunteers or paid workers. If paid workers, clearly communicate the wages. Ensure that they have no systems of Covid19 or slightest cold, cough, fever etc."
   },
   {
     "sNo": "PK_3",
-    "step": "Instructions to be given for packaging to the Packers from atleast 5 meter distance. In any case the distance should not be less than 2 meters.",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Instructions to be given for packaging to the Packers from atleast 5 meter distance. In any case the distance should not be less than 2 meters."
   },
   {
     "sNo": "PK_4",
-    "step": "No packer to sit or stand less than 5 meters from each other, in any case never come closer than 2 meters.",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "No packer to sit or stand less than 5 meters from each other, in any case never come closer than 2 meters."
   },
   {
     "sNo": "PK_5",
-    "step": "Packets to be made as per Karuna2020 Standard Pack Size 1 with 10 Kg Rice, 2 Kg Dal, 1 Kg Salt, 1 L Oil and 4 Soaps. Try that the Dals is different if possible. ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Packets to be made as per Karuna2020 Standard Pack Size 1 with 10 Kg Rice, 2 Kg Dal, 1 Kg Salt, 1 L Oil and 4 Soaps. Try that the Dals is different if possible."
   },
   {
     "sNo": "PK_6",
-    "step": "Storage of packs to be done in a way that the Oil does not spill",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Storage of packs to be done in a way that the Oil does not spill"
   },
   {
     "sNo": "PK_7",
-    "step": "Ready packets to be stocked in a way that the ones which are stocked first move out first of the Godown",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Ready packets to be stocked in a way that the ones which are stocked first move out first of the Godown"
   },
   {
     "sNo": "C.",
-    "step": "Distribution",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Distribution"
   },
   {
-    "sNo": "",
-    "step": "To always follow all Universal Safety Instructions",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "To always follow all Universal Safety Instructions"
   },
   {
     "sNo": "DI_1",
-    "step": "Dry Ration Packets to be sent on designated vehicles with all Government Permissions and if possible a Police Escort for distribution",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Dry Ration Packets to be sent on designated vehicles with all Government Permissions and if possible a Police Escort for distribution"
   },
   {
     "sNo": "DI_2",
-    "step": "The loading of the designated vehicle as per the sanctioned quantities to be loaded following the Universal Safety SOPs and Loading SOPs",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "The loading of the designated vehicle as per the sanctioned quantities to be loaded following the Universal Safety SOPs and Loading SOPs"
   },
   {
     "sNo": "DI_3",
-    "step": "Case 1: Material to be directly distributed by the Vehicle ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Case 1: Material to be directly distributed by the Vehicle"
   },
   {
     "sNo": "DI_4",
-    "step": "Ideally the Vehicle to go with only one driver, if require one helper may accompany who will sit behind with the material and not with the driver",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Ideally the Vehicle to go with only one driver, if require one helper may accompany who will sit behind with the material and not with the driver"
   },
   {
     "sNo": "DI_5",
-    "step": "Beneficiary to come and take the material from the vehicle by picking up only one bag and not touching any other bag",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Beneficiary to come and take the material from the vehicle by picking up only one bag and not touching any other bag"
   },
   {
     "sNo": "DI_6",
-    "step": "Driver to take photograph of each beneficiary along with their Aadhar Card Whatsapp and their mobile number  and just forward them to the Colony Distribution Volunteer",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Driver to take photograph of each beneficiary along with their Aadhar Card Whatsapp and their mobile number  and just forward them to the Colony Distribution Volunteer"
   },
   {
     "sNo": "DI_7",
-    "step": "Case 1: Material to be left by the Vehicle to the Community Distributor",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Case 1: Material to be left by the Vehicle to the Community Distributor"
   },
   {
     "sNo": "DI_8",
-    "step": "Vehicle to leave the material with the pre designated Community Distributor strictly following the Universal Safety guidelines. ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Vehicle to leave the material with the pre designated Community Distributor strictly following the Universal Safety guidelines."
   },
   {
     "sNo": "DI_9",
-    "step": "Either the Driver or Helper or the Community Distributor to unload the packets and in no case two of them together.",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Either the Driver or Helper or the Community Distributor to unload the packets and in no case two of them together."
   },
   {
     "sNo": "DI_10",
-    "step": "Community Distributor to either leave the packets outside the Identified Beneficiaries or designate a place where they would be kept in a line and Identified Beneficiaries (IB) will come and take them ",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Community Distributor to either leave the packets outside the Identified Beneficiaries or designate a place where they would be kept in a line and Identified Beneficiaries (IB) will come and take them"
   },
   {
     "sNo": "DI_11",
-    "step": "Universal Safety norms to be followed, no IB to come 5 meter close to each, in no case 2 meters",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Universal Safety norms to be followed, no IB to come 5 meter close to each, in no case 2 meters"
   },
   {
     "sNo": "DI_12",
-    "step": "Community Distributor to take photograph of each beneficiary along with their Aadhar Card Whatsapp and their mobile number  and just forward them to the Colony Distribution Volunteer",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Community Distributor to take photograph of each beneficiary along with their Aadhar Card Whatsapp and their mobile number  and just forward them to the Colony Distribution Volunteer"
   },
   {
-    "sNo": "D. ",
-    "step": "Communication",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "sNo": "D.",
+    "step": "Communication"
   },
   {
-    "sNo": "",
-    "step": "To always follow all Universal Safety Instructions",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "To always follow all Universal Safety Instructions"
   },
   {
     "sNo": "E",
-    "step": "Volunteers/ Workers On Boarding and Management (Those who will have a Physical Connect)",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "Volunteers/ Workers On Boarding and Management (Those who will have a Physical Connect)"
   },
   {
-    "sNo": "",
-    "step": "To always follow all Universal Safety Instructions",
-    "formatResourcesToBeUsed": "",
-    "timelines": "",
-    "responsibility": "",
-    "remarks": "",
-    "anyComments": ""
+    "step": "To always follow all Universal Safety Instructions"
   }
 ]

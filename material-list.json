@@ -1,202 +1,81 @@
 [
   {
-    "item": "Food Kit",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "item": "Food Kit"
   },
   {
     "item": "Rice",
     "quanitiy": "10",
     "rate": "30",
-    "totalCosts": "300",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "totalCosts": "300"
   },
   {
     "item": "Dal",
     "quanitiy": "2",
     "rate": "70",
-    "totalCosts": "140",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "totalCosts": "140"
   },
   {
     "item": "Salt",
     "quanitiy": "1",
     "rate": "15",
-    "totalCosts": "15",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "totalCosts": "15"
   },
   {
     "item": "Haldi-Chilli-Dhaniya Powder Combo",
     "quanitiy": "1",
     "rate": "70",
-    "totalCosts": "70",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "totalCosts": "70"
   },
   {
-    "item": "Mustard Oil ",
+    "item": "Mustard Oil",
     "quanitiy": "1",
     "rate": "100",
-    "totalCosts": "100",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "totalCosts": "100"
   },
   {
     "item": "Soap Bar (Washing Hands)",
     "quanitiy": "4",
     "rate": "15",
-    "totalCosts": "60",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "totalCosts": "60"
   },
   {
     "item": "Total",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "685",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "totalCosts": "685"
   },
   {
-    "item": "Packing Material ",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "item": "Packing Material"
   },
   {
-    "item": "1 Kg packets",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "item": "1 Kg packets"
   },
   {
-    "item": "Rubber Bands",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "item": "Rubber Bands"
   },
   {
-    "item": "Safety Material",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "item": "Safety Material"
   },
   {
-    "item": "Masks ",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "item": "Masks"
   },
   {
-    "item": "Disposable Gloves",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "item": "Disposable Gloves"
   },
   {
-    "item": "Liquid Soap",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "item": "Liquid Soap"
   },
   {
-    "item": "Hand Sanitizers",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "item": "Hand Sanitizers"
   },
   {
-    "item": "Dettol Liquid",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "item": "Dettol Liquid"
   },
   {
-    "item": "Cloth for Bags",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "item": "Cloth for Bags"
   },
   {
-    "item": "Other",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "item": "Other"
   },
   {
-    "item": "Chalk Powder/ Chuna for Godown and Distibution Center layout ",
-    "quanitiy": "",
-    "rate": "",
-    "totalCosts": "",
-    "majorSuppliers": "",
-    "contactNumbers": "",
-    "address": "",
-    "remarks": ""
+    "item": "Chalk Powder/ Chuna for Godown and Distibution Center layout"
   }
 ]

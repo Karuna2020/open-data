@@ -1,8 +1,6 @@
 [
   {
-    "clusterControlPoints": "East Delhi",
-    "beneficiaryAreas": "",
-    "workCenter": ""
+    "clusterControlPoints": "East Delhi"
   },
   {
     "clusterControlPoints": "Gazipur",
@@ -10,29 +8,20 @@
     "workCenter": "Gulmehar"
   },
   {
-    "clusterControlPoints": "Akshardham",
-    "beneficiaryAreas": "",
-    "workCenter": ""
+    "clusterControlPoints": "Akshardham"
   },
   {
-    "clusterControlPoints": "Ashram Chownk",
-    "beneficiaryAreas": "",
-    "workCenter": ""
+    "clusterControlPoints": "Ashram Chownk"
   },
   {
-    "clusterControlPoints": "South Delhi",
-    "beneficiaryAreas": "",
-    "workCenter": ""
+    "clusterControlPoints": "South Delhi"
   },
   {
     "clusterControlPoints": "Kalkaji/ GK",
-    "beneficiaryAreas": "Okhla, Govindpuri",
-    "workCenter": ""
+    "beneficiaryAreas": "Okhla, Govindpuri"
   },
   {
-    "clusterControlPoints": "IIT Crossing",
-    "beneficiaryAreas": "",
-    "workCenter": ""
+    "clusterControlPoints": "IIT Crossing"
   },
   {
     "clusterControlPoints": "Mehrauli/ Vasant Kunj",
@@ -41,38 +30,25 @@
   },
   {
     "clusterControlPoints": "Ghitorni",
-    "beneficiaryAreas": "",
     "workCenter": "Atuls Kitchen"
   },
   {
-    "clusterControlPoints": "Aya Nagar",
-    "beneficiaryAreas": "",
-    "workCenter": ""
+    "clusterControlPoints": "Aya Nagar"
   },
   {
-    "clusterControlPoints": "Gurgaon",
-    "beneficiaryAreas": "",
-    "workCenter": ""
+    "clusterControlPoints": "Gurgaon"
   },
   {
-    "clusterControlPoints": "DLF Phase 3",
-    "beneficiaryAreas": "",
-    "workCenter": ""
+    "clusterControlPoints": "DLF Phase 3"
   },
   {
-    "clusterControlPoints": "Sector 37, Gurgaon",
-    "beneficiaryAreas": "",
-    "workCenter": ""
+    "clusterControlPoints": "Sector 37, Gurgaon"
   },
   {
-    "clusterControlPoints": "Uttrakhand",
-    "beneficiaryAreas": "",
-    "workCenter": ""
+    "clusterControlPoints": "Uttrakhand"
   },
   {
-    "clusterControlPoints": "Chandigarh",
-    "beneficiaryAreas": "",
-    "workCenter": ""
+    "clusterControlPoints": "Chandigarh"
   },
   {
     "clusterControlPoints": "Name of Person who Requested",
@@ -81,37 +57,29 @@
   },
   {
     "clusterControlPoints": "Anurag Kashyap",
-    "beneficiaryAreas": "",
     "workCenter": "400"
   },
   {
     "clusterControlPoints": "Vistara team C/o Atul Celly",
-    "beneficiaryAreas": "",
     "workCenter": "100"
   },
   {
     "clusterControlPoints": "Monika Halan",
-    "beneficiaryAreas": "",
     "workCenter": "50"
   },
   {
-    "clusterControlPoints": "Atul Celly",
-    "beneficiaryAreas": "",
-    "workCenter": "100"
-  },
-  {
     "clusterControlPoints": "Anurag Kashyap",
-    "beneficiaryAreas": "",
     "workCenter": "3500"
   },
   {
-    "clusterControlPoints": "Kripa",
-    "beneficiaryAreas": "",
-    "workCenter": ""
+    "clusterControlPoints": "Shahrukh",
+    "workCenter": "30"
   },
   {
-    "clusterControlPoints": "",
+    "clusterControlPoints": "Kripa"
+  },
+  {
     "beneficiaryAreas": "Total",
-    "workCenter": "4150"
+    "workCenter": "4050"
   }
 ]

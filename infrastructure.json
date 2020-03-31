@@ -4,59 +4,21 @@
     "infrastructureAvailable": "100 sq meter, 1 floors",
     "infrastructureDetails": "approx 1000 sft hall only",
     "manpower": "1 person can be made available on payment of Rs. 250 for 6-8 hours",
-    "contactPerson": "",
-    "contactDetails": "",
-    "possibleUse": "Storage, Packaging and Distribution",
-    "remarks": ""
+    "possibleUse": "Storage, Packaging and Distribution"
   },
   {
-    "location": "Maidan Garhi",
-    "infrastructureAvailable": "",
-    "infrastructureDetails": "",
-    "manpower": "",
-    "contactPerson": "",
-    "contactDetails": "",
-    "possibleUse": "",
-    "remarks": ""
+    "location": "Maidan Garhi"
   },
   {
-    "location": "Ghitorni",
-    "infrastructureAvailable": "",
-    "infrastructureDetails": "",
-    "manpower": "",
-    "contactPerson": "",
-    "contactDetails": "",
-    "possibleUse": "",
-    "remarks": ""
+    "location": "Ghitorni"
   },
   {
-    "location": "Sec 37, Gurgaon",
-    "infrastructureAvailable": "",
-    "infrastructureDetails": "",
-    "manpower": "",
-    "contactPerson": "",
-    "contactDetails": "",
-    "possibleUse": "",
-    "remarks": ""
+    "location": "Sec 37, Gurgaon"
   },
   {
-    "location": "Nangal Dewat",
-    "infrastructureAvailable": "",
-    "infrastructureDetails": "",
-    "manpower": "",
-    "contactPerson": "",
-    "contactDetails": "",
-    "possibleUse": "",
-    "remarks": ""
+    "location": "Nangal Dewat"
   },
   {
-    "location": "",
-    "infrastructureAvailable": "10,000 sft base kitchen",
-    "infrastructureDetails": "",
-    "manpower": "",
-    "contactPerson": "",
-    "contactDetails": "",
-    "possibleUse": "",
-    "remarks": ""
+    "infrastructureAvailable": "10,000 sft base kitchen"
   }
 ]

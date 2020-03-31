@@ -23,7 +23,8 @@ const cleanResponse = (data: { [index: string]: string }[]) => {
     data = data.map(i => {
       if (typeof i === "object" && !Array.isArray(i)) {
         Object.keys(i).forEach(key => {
-          i[keyName(key)] = i[key];
+          if (typeof i[key] === "string") i[key] = i[key].trim();
+          if (i[key] !== "") i[keyName(key)] = i[key];
           delete i[key];
         });
       }

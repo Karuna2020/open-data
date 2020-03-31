@@ -3,145 +3,82 @@
     "sNo": "1",
     "status": "Active",
     "name": "Anurag Kashyap",
-    "phone": "",
-    "email": "",
-    "competenceBackground": "",
-    "location": "",
-    "reference": "",
-    "areaOfWorkAllocated": "Distribution",
-    "remarks": ""
+    "areaOfWorkAllocated": "Distribution"
   },
   {
     "sNo": "2",
     "status": "Active",
     "name": "Kripa Jayaram",
-    "phone": "",
-    "email": "",
-    "competenceBackground": "",
-    "location": "",
-    "reference": "",
-    "areaOfWorkAllocated": "Distribution",
-    "remarks": ""
+    "areaOfWorkAllocated": "Distribution"
   },
   {
     "sNo": "3",
     "status": "Active",
     "name": "Ravinder Dagar",
-    "phone": "",
-    "email": "",
-    "competenceBackground": "",
-    "location": "",
-    "reference": "",
-    "areaOfWorkAllocated": "Government Relationship and E Passes",
-    "remarks": ""
+    "areaOfWorkAllocated": "Government Relationship and E Passes"
   },
   {
     "sNo": "4",
     "status": "Active",
     "name": "Madan Singh",
-    "phone": "",
-    "email": "",
-    "competenceBackground": "",
-    "location": "",
-    "reference": "",
-    "areaOfWorkAllocated": "Accounting ",
-    "remarks": ""
+    "areaOfWorkAllocated": "Accounting"
   },
   {
     "sNo": "5",
     "status": "Active",
     "name": "Atul Celly",
-    "phone": "",
-    "email": "",
-    "competenceBackground": "",
-    "location": "",
-    "reference": "",
-    "areaOfWorkAllocated": "Procurement",
-    "remarks": ""
+    "areaOfWorkAllocated": "Procurement"
   },
   {
     "sNo": "6",
     "status": "Active",
-    "name": "Anand Chaudhary",
-    "phone": "",
-    "email": "",
-    "competenceBackground": "",
-    "location": "",
-    "reference": "",
-    "areaOfWorkAllocated": "Tech Support and Social Media",
-    "remarks": ""
+    "name": "Anand Chowdhary",
+    "phone": "9555297989",
+    "email": "mail@anandchowdhary.com",
+    "location": "South Delhi",
+    "areaOfWorkAllocated": "Technology and Social Media"
   },
   {
     "sNo": "7",
     "status": "Active",
     "name": "Sukriti Kapoor",
-    "phone": "",
-    "email": "",
-    "competenceBackground": "",
-    "location": "",
-    "reference": "",
-    "areaOfWorkAllocated": "Social Media ",
-    "remarks": ""
+    "phone": "9560925239",
+    "email": "mail@sukritikapoor.com",
+    "location": "South Delhi",
+    "areaOfWorkAllocated": "Social Media"
   },
   {
     "sNo": "8",
     "status": "Active",
     "name": "Tuhin",
-    "phone": "",
-    "email": "",
-    "competenceBackground": "",
-    "location": "",
-    "reference": "",
-    "areaOfWorkAllocated": "Documentation",
-    "remarks": ""
+    "areaOfWorkAllocated": "Documentation"
   },
   {
     "sNo": "9",
     "status": "Active",
     "name": "Abhijit",
-    "phone": "",
-    "email": "",
-    "competenceBackground": "",
-    "location": "",
-    "reference": "",
-    "areaOfWorkAllocated": "MIS Management",
-    "remarks": ""
+    "areaOfWorkAllocated": "MIS Management"
   },
   {
     "sNo": "10",
     "status": "Active",
     "name": "Vikrant Abrol",
-    "phone": "",
-    "email": "",
-    "competenceBackground": "",
-    "location": "",
-    "reference": "",
-    "areaOfWorkAllocated": "Central Coordination",
-    "remarks": ""
+    "areaOfWorkAllocated": "Central Coordination"
   },
   {
     "sNo": "11",
     "status": "Active",
     "name": "Ramveer Singh",
-    "phone": "",
-    "email": "",
-    "competenceBackground": "",
-    "location": "",
-    "reference": "",
-    "areaOfWorkAllocated": "Sec 37, Gurgaon Warehouse Management ",
-    "remarks": ""
+    "areaOfWorkAllocated": "Sec 37, Gurgaon Warehouse Management"
   },
   {
     "sNo": "12",
     "status": "Active",
-    "name": "Radha Chaudhary",
-    "phone": "",
-    "email": "",
-    "competenceBackground": "",
-    "location": "",
-    "reference": "",
-    "areaOfWorkAllocated": "Volunteer Coordination",
-    "remarks": ""
+    "name": "Radha Chowdhary",
+    "phone": "9310007000",
+    "email": "chowdharyradha@gmail.com",
+    "location": "South Delhi",
+    "areaOfWorkAllocated": "Volunteer Coordination"
   },
   {
     "sNo": "13",
@@ -149,11 +86,8 @@
     "name": "Iqbal Mohammed",
     "phone": "9911295694",
     "email": "mohamad.iqbal@isdm.org.in",
-    "competenceBackground": "",
     "location": "New Delhi (Jamia)",
-    "reference": "",
-    "areaOfWorkAllocated": "Day to Day Coordination",
-    "remarks": ""
+    "areaOfWorkAllocated": "Day to Day Coordination"
   },
   {
     "sNo": "14",
@@ -161,11 +95,8 @@
     "name": "Alokesh Sharma",
     "phone": "9990099083",
     "email": "alokesh.sharma@isdm.org.in",
-    "competenceBackground": "",
     "location": "Noida & New Delhi",
-    "reference": "",
-    "areaOfWorkAllocated": "Day to Day Coordination",
-    "remarks": ""
+    "areaOfWorkAllocated": "Day to Day Coordination"
   },
   {
     "sNo": "15",
@@ -173,10 +104,16 @@
     "name": "Maneet Madan",
     "phone": "7983205076",
     "email": "maneet.madan@gmail.com",
-    "competenceBackground": "",
     "location": "Dehradun",
-    "reference": "",
-    "areaOfWorkAllocated": "Day to Day Coordination",
-    "remarks": ""
+    "areaOfWorkAllocated": "Day to Day Coordination"
+  },
+  {
+    "sNo": "16",
+    "status": "Active",
+    "name": "Shivek Khurana",
+    "phone": "9716700694",
+    "email": "shivek@krimlabs.com",
+    "location": "West Delhi",
+    "areaOfWorkAllocated": "Technology and Coordination"
   }
 ]
