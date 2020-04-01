@@ -11,6 +11,7 @@
     "sNo": "2",
     "contributorName": "Sanjeev Dagar",
     "amount": "₹25,000",
+    "method": "Cash",
     "date": "28/03/2022",
     "receivedInWhichAccount": "Vikrant"
   },
@@ -18,24 +19,28 @@
     "sNo": "3",
     "contributorName": "Mithalesh",
     "amount": "₹50,000",
+    "method": "Cash",
     "receivedInWhichAccount": "Vikrant"
   },
   {
     "sNo": "4",
     "contributorName": "Raghu Dagar",
     "amount": "₹25,000",
+    "method": "Cash",
     "receivedInWhichAccount": "Vikrant"
   },
   {
     "sNo": "5",
     "contributorName": "Omveer Singh",
     "amount": "₹10,000",
+    "method": "NEFT",
     "receivedInWhichAccount": "ILSEF"
   },
   {
     "sNo": "6",
     "contributorName": "Rachna Bansal",
     "amount": "₹10,000",
+    "method": "Cash",
     "receivedInWhichAccount": "ILSEF"
   },
   {
@@ -43,9 +48,9 @@
     "contributorName": "Sheet DB",
     "amount": "₹4,490",
     "method": "NEFT",
-    "notes": "SheetDB has provided us with their Pro plan worth $19.99 for 3 months for our website",
     "date": "28/03/2020",
-    "receivedInWhichAccount": "In Kind"
+    "receivedInWhichAccount": "In Kind",
+    "remarks": "SheetDB has provided us with their Pro plan worth $19.99 for 3 months for our website"
   },
   {
     "sNo": "8",
@@ -60,7 +65,7 @@
     "amount": "₹25,000",
     "method": "IMPS",
     "fromBank": "HDFC",
-    "utr": "8921642916",
+    "utrPaymentDetailsImpsNeftRtgsNo": "8921642916",
     "date": "29/03/2020",
     "receivedInWhichAccount": "ILSEF",
     "remarks": "Gautam Chikermane"
@@ -70,7 +75,7 @@
     "contributorName": "Sayeeshwar Venkatachalayam Iyer",
     "amount": "₹18,750",
     "method": "NEFT",
-    "notes": "ICIC0SF0002",
+    "fromBank": "ICIC0SF0002",
     "date": "30/03/2020",
     "receivedInWhichAccount": "ILSEF",
     "remarks": "Dont Know who he is"
@@ -103,7 +108,7 @@
     "amount": "₹7,500",
     "method": "NEFT",
     "fromBank": "Canara Bank",
-    "utr": "P0033126345890",
+    "utrPaymentDetailsImpsNeftRtgsNo": "P0033126345890",
     "date": "31/03/2020",
     "receivedInWhichAccount": "ILSEF",
     "panNo": "AEQPC1027F"
@@ -114,7 +119,7 @@
     "amount": "₹1,000",
     "method": "IMPS",
     "fromBank": "HDFC",
-    "utr": "P2003311628218158672309",
+    "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309",
     "date": "31/03/2020",
     "receivedInWhichAccount": "ILSEF",
     "remarks": "From A.K.Abrol's account"
@@ -125,13 +130,24 @@
     "amount": "₹1,000",
     "method": "IMPS",
     "fromBank": "HDFC",
-    "utr": "P2003311628218158672309",
+    "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309",
     "date": "31/03/2020",
     "receivedInWhichAccount": "ILSEF",
     "remarks": "From A.K.Abrol's account"
   },
   {
+    "sNo": "17",
+    "contributorName": "Sharad Bhalla",
+    "amount": "₹15,000",
+    "method": "NEFT",
+    "fromBank": "SCBL",
+    "utrPaymentDetailsImpsNeftRtgsNo": "LB3670200331G528",
+    "date": "31/03/2020",
+    "receivedInWhichAccount": "ILSEF",
+    "remarks": "Dont Know who he is"
+  },
+  {
     "contributorName": "Sum",
-    "amount": "₹596,490"
+    "amount": "₹611,490"
   }
 ]
