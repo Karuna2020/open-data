@@ -3,6 +3,8 @@
     "sNo": "1",
     "status": "Active",
     "name": "Anurag Kashyap",
+    "competenceBackground": "Social work",
+    "location": "South Delhi",
     "areaOfWorkAllocated": "Distribution"
   },
   {
@@ -21,6 +23,9 @@
     "sNo": "4",
     "status": "Active",
     "name": "Madan Singh",
+    "competenceBackground": "Accounts, logistics",
+    "location": "Dwarka",
+    "reference": "Anurag",
     "areaOfWorkAllocated": "Accounting"
   },
   {
