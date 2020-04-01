@@ -11,8 +11,8 @@
   {
     "item": "Dal",
     "quanitiy": "2",
-    "rate": "70",
-    "totalCosts": "140"
+    "rate": "65",
+    "totalCosts": "130"
   },
   {
     "item": "Salt",
@@ -40,7 +40,7 @@
   },
   {
     "item": "Total",
-    "totalCosts": "685"
+    "totalCosts": "675"
   },
   {
     "item": "Packing Material"
