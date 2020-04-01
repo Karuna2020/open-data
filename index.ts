@@ -6,7 +6,14 @@ import slugify from "@sindresorhus/slugify";
 import { config } from "dotenv";
 config();
 
-const PRIVATE_COLUMNS = ["phone", "email", "mobile"];
+const PRIVATE_COLUMNS = [
+  "phone",
+  "email",
+  "mobile",
+  "remarks",
+  "utrPaymentDetailsImpsNeftRtgsNo",
+  "receivedInWhichAccount"
+];
 
 const log = (...args: string[]) =>
   console.log(new Date().toISOString(), ...args);
