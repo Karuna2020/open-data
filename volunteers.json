@@ -72,6 +72,8 @@
     "sNo": "10",
     "status": "Active",
     "name": "Vikrant Abrol",
+    "competenceBackground": "Social Work",
+    "location": "South Delhi",
     "areaOfWorkAllocated": "Central Coordination"
   },
   {
@@ -118,5 +120,13 @@
     "competenceBackground": "Technology",
     "location": "West Delhi",
     "areaOfWorkAllocated": "Technology and Coordination"
+  },
+  {
+    "sNo": "17",
+    "status": "Active",
+    "name": "Rohit Bhatia",
+    "competenceBackground": "Technology",
+    "location": "Noida",
+    "areaOfWorkAllocated": "Technology"
   }
 ]
