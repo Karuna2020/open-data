@@ -190,7 +190,15 @@
     "date": "03/04/2020"
   },
   {
+    "sNo": "25",
+    "contributorName": "Rohit Bhatia",
+    "amount": "₹3,750",
+    "method": "IMPS",
+    "fromBank": "ICICI",
+    "date": "31/03/2020"
+  },
+  {
     "contributorName": "Sum",
-    "amount": "₹650,991"
+    "amount": "₹654,741"
   }
 ]
