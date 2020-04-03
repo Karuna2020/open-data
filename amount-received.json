@@ -3,61 +3,53 @@
     "sNo": "1",
     "contributorName": "Ramveer Singh",
     "amount": "₹15,000",
-    "method": "NEFT",
-    "date": "28/03/2021",
-    "receivedInWhichAccount": "Vikrant"
+    "method": "Cash",
+    "date": "28/03/2021"
   },
   {
     "sNo": "2",
     "contributorName": "Sanjeev Dagar",
     "amount": "₹25,000",
     "method": "Cash",
-    "date": "28/03/2022",
-    "receivedInWhichAccount": "Vikrant"
+    "date": "28/03/2022"
   },
   {
     "sNo": "3",
     "contributorName": "Mithalesh",
     "amount": "₹50,000",
-    "method": "Cash",
-    "receivedInWhichAccount": "Vikrant"
+    "method": "Cash"
   },
   {
     "sNo": "4",
     "contributorName": "Raghu Dagar",
     "amount": "₹25,000",
-    "method": "Cash",
-    "receivedInWhichAccount": "Vikrant"
+    "method": "Cash"
   },
   {
     "sNo": "5",
     "contributorName": "Omveer Singh",
     "amount": "₹10,000",
-    "method": "NEFT",
-    "receivedInWhichAccount": "ILSEF"
+    "method": "Cash"
   },
   {
     "sNo": "6",
     "contributorName": "Rachna Bansal",
     "amount": "₹10,000",
     "method": "Cash",
-    "receivedInWhichAccount": "ILSEF"
+    "thankYouCallToDonors-1ThankYouForYourContribution-2PleaseWhatasppOrEmailYourFullNameMobileAmountAddressAndPanCardFor-80GReceipt-3PleaseFollowKaruna-2020OnFacebookOrSeeTheKaruna2020OrgWebsiteOrCheckYourWahtasppForDailyUpdatesOnWhatWeAreDoingWithTheMoneyYouDonated-4ThankYou": "Please call"
   },
   {
     "sNo": "7",
     "contributorName": "Sheet DB",
     "amount": "₹4,490",
     "method": "NEFT",
-    "date": "28/03/2020",
-    "receivedInWhichAccount": "In Kind",
-    "remarks": "SheetDB has provided us with their Pro plan worth $19.99 for 3 months for our website"
+    "date": "28/03/2020"
   },
   {
     "sNo": "8",
     "contributorName": "Essel World Foundation",
     "amount": "₹300,000",
-    "method": "NEFT",
-    "receivedInWhichAccount": "Shakti Foundation"
+    "method": "NEFT"
   },
   {
     "sNo": "9",
@@ -65,10 +57,7 @@
     "amount": "₹25,000",
     "method": "IMPS",
     "fromBank": "HDFC",
-    "utrPaymentDetailsImpsNeftRtgsNo": "8921642916",
-    "date": "29/03/2020",
-    "receivedInWhichAccount": "ILSEF",
-    "remarks": "Gautam Chikermane"
+    "date": "29/03/2020"
   },
   {
     "sNo": "10",
@@ -77,30 +66,29 @@
     "method": "NEFT",
     "fromBank": "ICIC0SF0002",
     "date": "30/03/2020",
-    "receivedInWhichAccount": "ILSEF",
-    "remarks": "Dont Know who he is"
+    "receiptSharedWithDonorYesNo": "To be made from ILSEF"
   },
   {
     "sNo": "11",
     "contributorName": "Anonymous",
     "amount": "₹100,000",
-    "method": "Cash",
-    "receivedInWhichAccount": "Vikrant (Radha)",
-    "remarks": "Dinesh Kapoor"
+    "method": "Cash"
   },
   {
     "sNo": "12",
     "contributorName": "Anu Didi, GK2",
     "amount": "₹3,000",
     "method": "Cash",
-    "receivedInWhichAccount": "Vikrant (Radha)"
+    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
+    "thankYouCallToDonors-1ThankYouForYourContribution-2PleaseWhatasppOrEmailYourFullNameMobileAmountAddressAndPanCardFor-80GReceipt-3PleaseFollowKaruna-2020OnFacebookOrSeeTheKaruna2020OrgWebsiteOrCheckYourWahtasppForDailyUpdatesOnWhatWeAreDoingWithTheMoneyYouDonated-4ThankYou": "Please call"
   },
   {
     "sNo": "13",
     "contributorName": "Dalvir Agarwal",
     "amount": "₹750",
     "method": "Cash",
-    "receivedInWhichAccount": "Vikrant"
+    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
+    "thankYouCallToDonors-1ThankYouForYourContribution-2PleaseWhatasppOrEmailYourFullNameMobileAmountAddressAndPanCardFor-80GReceipt-3PleaseFollowKaruna-2020OnFacebookOrSeeTheKaruna2020OrgWebsiteOrCheckYourWahtasppForDailyUpdatesOnWhatWeAreDoingWithTheMoneyYouDonated-4ThankYou": "Please call"
   },
   {
     "sNo": "14",
@@ -108,10 +96,10 @@
     "amount": "₹7,500",
     "method": "NEFT",
     "fromBank": "Canara Bank",
-    "utrPaymentDetailsImpsNeftRtgsNo": "P0033126345890",
     "date": "31/03/2020",
-    "receivedInWhichAccount": "ILSEF",
-    "panNo": "AEQPC1027F"
+    "panNo": "AEQPC1027F",
+    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
+    "thankYouCallToDonors-1ThankYouForYourContribution-2PleaseWhatasppOrEmailYourFullNameMobileAmountAddressAndPanCardFor-80GReceipt-3PleaseFollowKaruna-2020OnFacebookOrSeeTheKaruna2020OrgWebsiteOrCheckYourWahtasppForDailyUpdatesOnWhatWeAreDoingWithTheMoneyYouDonated-4ThankYou": "Please call"
   },
   {
     "sNo": "15",
@@ -119,10 +107,9 @@
     "amount": "₹1,000",
     "method": "IMPS",
     "fromBank": "HDFC",
-    "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309",
     "date": "31/03/2020",
-    "receivedInWhichAccount": "ILSEF",
-    "remarks": "From A.K.Abrol's account"
+    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
+    "thankYouCallToDonors-1ThankYouForYourContribution-2PleaseWhatasppOrEmailYourFullNameMobileAmountAddressAndPanCardFor-80GReceipt-3PleaseFollowKaruna-2020OnFacebookOrSeeTheKaruna2020OrgWebsiteOrCheckYourWahtasppForDailyUpdatesOnWhatWeAreDoingWithTheMoneyYouDonated-4ThankYou": "Please call"
   },
   {
     "sNo": "16",
@@ -130,10 +117,9 @@
     "amount": "₹1,000",
     "method": "IMPS",
     "fromBank": "HDFC",
-    "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309",
     "date": "31/03/2020",
-    "receivedInWhichAccount": "ILSEF",
-    "remarks": "From A.K.Abrol's account"
+    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
+    "thankYouCallToDonors-1ThankYouForYourContribution-2PleaseWhatasppOrEmailYourFullNameMobileAmountAddressAndPanCardFor-80GReceipt-3PleaseFollowKaruna-2020OnFacebookOrSeeTheKaruna2020OrgWebsiteOrCheckYourWahtasppForDailyUpdatesOnWhatWeAreDoingWithTheMoneyYouDonated-4ThankYou": "Please call"
   },
   {
     "sNo": "17",
@@ -141,13 +127,70 @@
     "amount": "₹15,000",
     "method": "NEFT",
     "fromBank": "SCBL",
-    "utrPaymentDetailsImpsNeftRtgsNo": "LB3670200331G528",
     "date": "31/03/2020",
-    "receivedInWhichAccount": "ILSEF",
-    "remarks": "Dont Know who he is"
+    "receiptSharedWithDonorYesNo": "To be made from ILSEF"
+  },
+  {
+    "sNo": "18",
+    "contributorName": "Not known",
+    "amount": "₹2,001",
+    "method": "IMPS",
+    "date": "01/04/2020",
+    "receiptSharedWithDonorYesNo": "To be made from ILSEF"
+  },
+  {
+    "sNo": "19",
+    "contributorName": "Not known",
+    "amount": "₹2,500",
+    "method": "IMPS",
+    "date": "02/04/2020",
+    "receiptSharedWithDonorYesNo": "To be made from ILSEF"
+  },
+  {
+    "sNo": "20",
+    "contributorName": "Syed Omar Bilal Ahmad",
+    "amount": "₹10,000",
+    "date": "02/04/2020",
+    "receiptSharedWithDonorYesNo": "To be made from ILSEF"
+  },
+  {
+    "sNo": "21",
+    "contributorName": "Minhaz Lokhandwala",
+    "amount": "₹7,500",
+    "method": "IMPS",
+    "fromBank": "HDFC",
+    "date": "02/04/2020",
+    "receiptSharedWithDonorYesNo": "To be made from ILSEF"
+  },
+  {
+    "sNo": "22",
+    "contributorName": "Devika Chadha",
+    "amount": "₹7,500",
+    "method": "IMPS",
+    "fromBank": "HDFC",
+    "date": "02/04/2020",
+    "address": "65, South Park Apartment, B Block, Kalkaji, New Delhi 110019",
+    "panNo": "AFPPC9101G",
+    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
+    "thankYouCallToDonors-1ThankYouForYourContribution-2PleaseWhatasppOrEmailYourFullNameMobileAmountAddressAndPanCardFor-80GReceipt-3PleaseFollowKaruna-2020OnFacebookOrSeeTheKaruna2020OrgWebsiteOrCheckYourWahtasppForDailyUpdatesOnWhatWeAreDoingWithTheMoneyYouDonated-4ThankYou": "Please call"
+  },
+  {
+    "sNo": "23",
+    "contributorName": "Nayantara Nag",
+    "amount": "₹5,000",
+    "method": "IMPS",
+    "date": "03/04/2020"
+  },
+  {
+    "sNo": "24",
+    "contributorName": "Mishika Chowdhary",
+    "amount": "₹5,000",
+    "method": "NEFT",
+    "fromBank": "ICICI",
+    "date": "03/04/2020"
   },
   {
     "contributorName": "Sum",
-    "amount": "₹611,490"
+    "amount": "₹650,991"
   }
 ]
