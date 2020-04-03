@@ -132,5 +132,11 @@
     "indicativeTimelines": "600",
     "primaryResponsibilities": "120",
     "backUpResponsibilities": "72000000"
+  },
+  {
+    "thingsToBeDone": "Completed Tasks"
+  },
+  {
+    "thingsToBeDone": "SOPS"
   }
 ]
