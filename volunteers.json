@@ -128,5 +128,12 @@
     "competenceBackground": "Technology",
     "location": "Noida",
     "areaOfWorkAllocated": "Technology"
+  },
+  {
+    "sNo": "18",
+    "status": "Active",
+    "name": "Sunei Kapur",
+    "competenceBackground": "Corporate Law",
+    "location": "West Delhi"
   }
 ]
