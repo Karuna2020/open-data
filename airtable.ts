@@ -1,4 +1,4 @@
-import { writeJson } from "fs-extra";
+import { writeJson, readJson } from "fs-extra";
 import { config } from "dotenv";
 import { join } from "path";
 import slugify from "@sindresorhus/slugify";
@@ -72,4 +72,18 @@ const update = async () => {
   }
 };
 
-update();
+const summarize = async () => {
+  const data = {
+    totalAmountRaised: 0,
+    numberOfContributors: 0,
+    numberOfVolunteers: 0,
+    numberOfDistributionsRequested: 0,
+    numberOfDistributionsCompleted: 0,
+    numberOfDistributionsCompletedTimesFour: 0,
+  };
+
+  await writeJson(join(".", fileName("Summary")), data, { spaces: 2 });
+};
+
+// update();
+summarize();

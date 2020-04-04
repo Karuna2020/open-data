@@ -12,7 +12,7 @@ const PRIVATE_COLUMNS = [
   "mobile",
   "remarks",
   "utrPaymentDetailsImpsNeftRtgsNo",
-  "receivedInWhichAccount"
+  "receivedInWhichAccount",
 ];
 
 const log = (...args: string[]) =>
@@ -25,17 +25,17 @@ const fileName = (file: string) => {
 };
 
 const keyName = (key: string) =>
-  slugify(key.trim()).replace(/-([a-z])/g, g => g[1].toUpperCase());
+  slugify(key.trim()).replace(/-([a-z])/g, (g) => g[1].toUpperCase());
 
 const cleanResponse = (data: { [index: string]: string }[]) => {
   if (Array.isArray(data))
-    data = data.map(i => {
+    data = data.map((i) => {
       if (typeof i === "object" && !Array.isArray(i)) {
-        Object.keys(i).forEach(key => {
+        Object.keys(i).forEach((key) => {
           if (typeof i[key] === "string") i[key] = i[key].trim();
           if (i[key] !== "") i[keyName(key)] = i[key];
           delete i[key];
-          PRIVATE_COLUMNS.forEach(col => delete i[col]);
+          PRIVATE_COLUMNS.forEach((col) => delete i[col]);
         });
       }
       return i;
@@ -55,11 +55,11 @@ const fetchData = async () => {
         {
           responseType: "json",
           username: process.env.USERNAME,
-          password: process.env.PASSWORD
+          password: process.env.PASSWORD,
         }
       );
       await writeJson(join(".", fileName(tab)), cleanResponse(body), {
-        spaces: 2
+        spaces: 2,
       });
       log("SUCCESS", tab);
     } catch (error) {
@@ -68,46 +68,7 @@ const fetchData = async () => {
   }
 };
 
-const summarize = async () => {
-  const data = {
-    totalAmountRaised: 0,
-    numberOfContributors: 0,
-    numberOfVolunteers: 0
-  };
-
-  const contributorsFile: {
-    date: string;
-    contributorName: string;
-    amount: string;
-    method: string;
-    notes?: string;
-  }[] = await readJson(join(".", fileName("13. Amount Received")));
-  for (const contribution of contributorsFile) {
-    const value = parseInt(contribution.amount.replace(/\D/g, ""));
-    if (!isNaN(value) && contribution.contributorName !== "Sum") {
-      data.totalAmountRaised += value;
-      data.numberOfContributors += 1;
-    }
-  }
-
-  const volunteersFile: {
-    sNo: string;
-    status: string;
-    name: string;
-    phone: string;
-    email: string;
-    competenceBackground: string;
-    location: string;
-    reference: string;
-    areaOfWorkAllocated: string;
-    remarks: string;
-  }[] = await readJson(join(".", fileName("4. Volunteers")));
-  data.numberOfVolunteers = volunteersFile.length;
-  await writeJson(join(".", fileName("Summary")), data, { spaces: 2 });
-};
-
 fetchData()
-  .then(() => summarize())
   .then(() => console.log("Completed update process"))
-  .catch(error => console.log("ERROR", error))
+  .catch((error) => console.log("ERROR", error))
   .finally(() => process.exit(0));
