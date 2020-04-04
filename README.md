@@ -13,10 +13,11 @@ This repository contains all our data — contributors, donors, beneficiaries, a
 
 ### Airtable
 
-The following endpoints come from our Google Sheets databse.
+The following endpoints come from our Airtable databases.
 
 | File                                                         | Data                             | CDN URL                                                                     |
 | ------------------------------------------------------------ | -------------------------------- | --------------------------------------------------------------------------- |
+| [`summary.json`](./summary.json)                             | Quick summary of important data  | [API Endpoint](https://open-data.karuna2020.org/summary.json)               |
 | [`volunteers.json`](./volunteers.json)                       | List of our volunteers.json      | [API Endpoint](https://open-data.karuna2020.org/volunteers.json)            |
 | [`donor-lifecycle.json`](./donor-lifecycle.json)             | List of our donors               | [API Endpoint](https://open-data.karuna2020.org/donor-lifecycle.json)       |
 | [`distribution.json`](./distribution.json)                   | List of food distribution        | [API Endpoint](https://open-data.karuna2020.org/distribution.json)          |
@@ -25,7 +26,7 @@ The following endpoints come from our Google Sheets databse.
 
 ### Google Sheets
 
-The following endpoints come from our Google Sheets databse.
+The following endpoints come from our Google Sheets spreadsheets.
 
 | File                                                                                   | Data                                       | CDN URL                                                                                  |
 | -------------------------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------- |
@@ -39,7 +40,6 @@ The following endpoints come from our Google Sheets databse.
 | [`geography-and-beneficiary-requests.json`](./geography-and-beneficiary-requests.json) | Geography                                  | [API Endpoint](https://open-data.karuna2020.org/geography-and-beneficiary-requests.json) |
 | [`material-list.json`](./material-list.json)                                           | Material we're planning on getting         | [API Endpoint](https://open-data.karuna2020.org/material-list.json)                      |
 | [`material-ordered-and-transfer`](./material-ordered-and-transfer)                     | Material we've ordered                     | [API Endpoint](https://open-data.karuna2020.org/material-ordered-and-transfer)           |
-| [`summary.json`](./summary.json)                                                       | Quick summary of important data            | [API Endpoint](https://open-data.karuna2020.org/summary.json)                            |
 
 ## 💡 How it works
 
