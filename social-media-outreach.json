@@ -21,7 +21,7 @@
     "event": "2d Animated Course of SOPs"
   },
   {
-    "status": "Graphics Ready",
+    "status": "Publish to website",
     "linkedDistribution": [
       "rec0bAwdiR6IYFSoM"
     ],
@@ -29,7 +29,7 @@
       {
         "id": "atte56hPM5omMTppw",
         "url": "https://dl.airtable.com/.attachments/ecc1e0a669d1c47350425d13c206a0ca/268c267f/sik3.png",
-        "filename": "sik3.png",
+        "filename": "3.png",
         "size": 697974,
         "type": "image/png",
         "thumbnails": {
@@ -53,7 +53,7 @@
       {
         "id": "attoQOfPnsXGkwbmb",
         "url": "https://dl.airtable.com/.attachments/583bf5532d56bbd43110b01b080c9d8f/3be56826/sik2.png",
-        "filename": "sik2.png",
+        "filename": "2.png",
         "size": 778354,
         "type": "image/png",
         "thumbnails": {
@@ -77,7 +77,7 @@
       {
         "id": "att64NJABbJTlBUiN",
         "url": "https://dl.airtable.com/.attachments/0a21d30b026f27b7ff8c0ca3ee9da0f0/41648464/sik.png",
-        "filename": "sik.png",
+        "filename": "1.png",
         "size": 817037,
         "type": "image/png",
         "thumbnails": {
