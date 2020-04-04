@@ -1,152 +1,139 @@
 [
   {
-    "name": "Vikrant Abrol",
-    "active": true,
-    "areaOfWorkAllocated": "Central Coordination",
-    "location": "South Delhi",
-    "competenceBackground": "Social Work"
-  },
-  {
-    "name": "Abhijit Patwal",
-    "reference": "Mr. Anurag Kashayp",
-    "active": true,
-    "areaOfWorkAllocated": "MIS Management",
-    "location": "Dehradun",
-    "competenceBackground": "Social Work"
-  },
-  {
-    "name": "Atul Celly",
-    "procurement": [
-      "recwCEwSWdCOrV6Oy",
-      "recgp3LH7xoeA6SSm",
-      "recv5UWbb8XBHLbF4",
-      "recAj1cTxS0EdKwGU"
-    ],
-    "active": true,
-    "areaOfWorkAllocated": "Procurement",
-    "distribution": [
-      "rec0bAwdiR6IYFSoM",
-      "rec9F69PL70oGxW4s",
-      "recwjSm6Yv4o25X2t",
-      "recRFVdEzaRc7xu4v"
-    ]
-  },
-  {
-    "name": "Maneet Madan",
-    "active": true,
-    "areaOfWorkAllocated": "Day to Day Coordination",
-    "location": "Dehradun",
-    "competenceBackground": "Social Work"
-  },
-  {
-    "name": "Ramveer Singh",
-    "active": true,
-    "areaOfWorkAllocated": "Sec 37, Gurgaon Warehouse Management",
-    "distribution": [
-      "recdDc22z8gLjTCqa"
-    ]
-  },
-  {
-    "name": "Iqbal Mohammed",
-    "active": true,
-    "areaOfWorkAllocated": "Day to Day Coordination",
-    "location": "New Delhi (Jamia)",
-    "competenceBackground": "Social Work"
-  },
-  {
-    "name": "Anand Chowdhary",
-    "active": true,
-    "areaOfWorkAllocated": "Technology and Social Media",
-    "location": "South Delhi",
-    "competenceBackground": "Technology, Startups"
-  },
-  {
-    "name": "Shivek Khurana",
-    "active": true,
-    "areaOfWorkAllocated": "Technology and Coordination",
-    "location": "West Delhi",
-    "distribution": [
-      "recV6TQvYM1Xyyn6f",
-      "recgx674hicH6ct0e"
-    ],
-    "competenceBackground": "Technology"
-  },
-  {
-    "name": "Sunei Kapur",
-    "active": true,
-    "location": "West Delhi",
-    "distribution": [
-      "recPUwpqML3yylCUW"
-    ],
-    "competenceBackground": "Corporate Law"
-  },
-  {
-    "name": "Kripa Jayaram",
-    "active": true,
-    "areaOfWorkAllocated": "Distribution",
-    "distribution": [
-      "recLwT1DazwdakLbx"
-    ],
-    "socialMediaOutreach": [
-      "recOGr4pWVWy0xYEW"
-    ]
-  },
-  {
-    "name": "Rohit Bhatia",
-    "active": true,
-    "areaOfWorkAllocated": "Technology",
-    "location": "Noida",
-    "competenceBackground": "Technology"
-  },
-  {
-    "name": "Madan Singh",
-    "reference": "Anurag",
-    "active": true,
-    "areaOfWorkAllocated": "Accounting",
-    "location": "Dwarka",
-    "competenceBackground": "Accounts, logistics"
-  },
-  {
-    "name": "Tuhin",
-    "reference": "Mr. Anurag Kashayp",
-    "active": true,
-    "areaOfWorkAllocated": "Documentation",
-    "location": "Mumbai",
-    "competenceBackground": "Food technology, Social work"
-  },
-  {
+    "sNo": "1",
+    "status": "Active",
     "name": "Anurag Kashyap",
-    "active": true,
-    "areaOfWorkAllocated": "Distribution",
+    "competenceBackground": "Social work",
     "location": "South Delhi",
-    "distribution": [
-      "rec3WRRvrLxq90FmI"
-    ],
-    "competenceBackground": "Social work"
+    "areaOfWorkAllocated": "Distribution"
   },
   {
-    "name": "Sukriti Kapoor",
-    "active": true,
-    "areaOfWorkAllocated": "Social Media",
-    "location": "South Delhi",
-    "competenceBackground": "Writing, Publishing"
+    "sNo": "2",
+    "status": "Active",
+    "name": "Kripa Jayaram",
+    "areaOfWorkAllocated": "Distribution"
   },
   {
+    "sNo": "3",
+    "status": "Active",
     "name": "Ravinder Dagar",
-    "active": true,
     "areaOfWorkAllocated": "Government Relationship and E Passes"
   },
   {
-    "name": "Radha Chowdhary",
-    "active": true,
-    "areaOfWorkAllocated": "Volunteer Coordination",
-    "location": "South Delhi"
+    "sNo": "4",
+    "status": "Active",
+    "name": "Madan Singh",
+    "competenceBackground": "Accounts, logistics",
+    "location": "Dwarka",
+    "reference": "Anurag",
+    "areaOfWorkAllocated": "Accounting"
   },
   {
+    "sNo": "5",
+    "status": "Active",
+    "name": "Atul Celly",
+    "areaOfWorkAllocated": "Procurement"
+  },
+  {
+    "sNo": "6",
+    "status": "Active",
+    "name": "Anand Chowdhary",
+    "competenceBackground": "Technology, Startups",
+    "location": "South Delhi",
+    "areaOfWorkAllocated": "Technology and Social Media"
+  },
+  {
+    "sNo": "7",
+    "status": "Active",
+    "name": "Sukriti Kapoor",
+    "competenceBackground": "Writing, Publishing",
+    "location": "South Delhi",
+    "areaOfWorkAllocated": "Social Media"
+  },
+  {
+    "sNo": "8",
+    "status": "Active",
+    "name": "Tuhin",
+    "competenceBackground": "Food technology, Social work",
+    "location": "Mumbai",
+    "reference": "Mr. Anurag Kashayp",
+    "areaOfWorkAllocated": "Documentation"
+  },
+  {
+    "sNo": "9",
+    "status": "Active",
+    "name": "Abhijit Patwal",
+    "competenceBackground": "Social Work",
+    "location": "Dehradun",
+    "reference": "Mr. Anurag Kashayp",
+    "areaOfWorkAllocated": "MIS Management"
+  },
+  {
+    "sNo": "10",
+    "status": "Active",
+    "name": "Vikrant Abrol",
+    "competenceBackground": "Social Work",
+    "location": "South Delhi",
+    "areaOfWorkAllocated": "Central Coordination"
+  },
+  {
+    "sNo": "11",
+    "status": "Active",
+    "name": "Ramveer Singh",
+    "areaOfWorkAllocated": "Sec 37, Gurgaon Warehouse Management"
+  },
+  {
+    "sNo": "12",
+    "status": "Active",
+    "name": "Radha Chowdhary",
+    "location": "South Delhi",
+    "areaOfWorkAllocated": "Volunteer Coordination"
+  },
+  {
+    "sNo": "13",
+    "status": "Active",
+    "name": "Iqbal Mohammed",
+    "competenceBackground": "Social Work",
+    "location": "New Delhi (Jamia)",
+    "areaOfWorkAllocated": "Day to Day Coordination"
+  },
+  {
+    "sNo": "14",
+    "status": "Active",
     "name": "Alokesh Sharma",
-    "active": true,
-    "areaOfWorkAllocated": "Day to Day Coordination",
+    "competenceBackground": "Social Work",
     "location": "Noida & New Delhi",
-    "competenceBackground": "Social Work"
+    "areaOfWorkAllocated": "Day to Day Coordination"
+  },
+  {
+    "sNo": "15",
+    "status": "Active",
+    "name": "Maneet Madan",
+    "competenceBackground": "Social Work",
+    "location": "Dehradun",
+    "areaOfWorkAllocated": "Day to Day Coordination"
+  },
+  {
+    "sNo": "16",
+    "status": "Active",
+    "name": "Shivek Khurana",
+    "competenceBackground": "Technology",
+    "location": "West Delhi",
+    "areaOfWorkAllocated": "Technology and Coordination"
+  },
+  {
+    "sNo": "17",
+    "status": "Active",
+    "name": "Rohit Bhatia",
+    "competenceBackground": "Technology",
+    "location": "Noida",
+    "areaOfWorkAllocated": "Technology"
+  },
+  {
+    "sNo": "18",
+    "status": "Active",
+    "name": "Sunei Kapur",
+    "competenceBackground": "Corporate Law",
+    "location": "West Delhi"
   }
 ]
