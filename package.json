@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
     "update-airtable": "ts-node airtable.ts",
-    "update-sheets": "ts-node index.ts"
+    "update-sheets": "ts-node sheets.ts"
   },
   "repository": {
     "type": "git",

@@ -15,6 +15,6 @@
     "outDir": "./dist",
     "typeRoots": ["node_modules/@types", "@types"]
   },
-  "include": ["index.ts", "airtable.ts"],
+  "include": ["sheets.ts", "airtable.ts"],
   "exclude": ["node_modules"]
 }
