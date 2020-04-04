@@ -198,7 +198,13 @@
     "date": "31/03/2020"
   },
   {
+    "sNo": "26",
+    "contributorName": "Parag Sharma",
+    "amount": "₹5,000",
+    "date": "04/04/2020"
+  },
+  {
     "contributorName": "Sum",
-    "amount": "₹654,741"
+    "amount": "₹659,741"
   }
 ]
