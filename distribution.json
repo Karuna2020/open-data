@@ -294,9 +294,9 @@
     "name": "Gulmeher"
   },
   {
+    "numberOfKitsNeeded": 70,
     "status": "Delivered",
-    "name": "Ramveer (Vistara)",
-    "numberOfKitsNeeded": 70
+    "name": "Ramveer (Vistara)"
   },
   {
     "numberOfKitsNeeded": 30,
