@@ -1,6 +1,6 @@
 <h1><img alt="" src="https://cdn.karuna2020.org/icon-colored.svg" height="29">&nbsp; Karuna 2020 Open Data</h1>
 
-This repository contains all our data — contributors, donors, beneficiaries, and more, directly from the Google Sheets we use as our central information repository.
+This repository contains all our data — contributors, donors, beneficiaries, and more, directly from the Airtable and Google Sheets databases we use as our central information repositories.
 
 [![Open Data status](https://img.shields.io/github/workflow/status/Karuna2020/open-data/Karuna%202020%20Open%20Data?label=Data%20CI&logo=github)](https://github.com/Karuna2020/open-data/actions)
 [![Build status](https://img.shields.io/github/workflow/status/Karuna2020/open-data/Karuna%202020%20Open%20Data%20Build?label=Build%20CI&logo=github)](https://github.com/Karuna2020/open-data/actions)
@@ -10,6 +10,22 @@ This repository contains all our data — contributors, donors, beneficiaries, a
 [![Last commit](https://img.shields.io/github/last-commit/Karuna2020/open-data)](https://github.com/Karuna2020/open-data/commits/master)
 
 ## 📈 Data
+
+### Airtable
+
+The following endpoints come from our Google Sheets databse.
+
+| File                                                         | Data                             | CDN URL                                                                     |
+| ------------------------------------------------------------ | -------------------------------- | --------------------------------------------------------------------------- |
+| [`volunteers.json`](./volunteers.json)                       | List of our volunteers.json      | [API Endpoint](https://open-data.karuna2020.org/volunteers.json)            |
+| [`donor-lifecycle.json`](./donor-lifecycle.json)             | List of our donors               | [API Endpoint](https://open-data.karuna2020.org/donor-lifecycle.json)       |
+| [`distribution.json`](./distribution.json)                   | List of food distribution        | [API Endpoint](https://open-data.karuna2020.org/distribution.json)          |
+| [`procurement.json`](./procurement.json)                     | Raw material procurement details | [API Endpoint](https://open-data.karuna2020.org/procurement.json)           |
+| [`social-media-outreach.json`](./social-media-outreach.json) | Social media and blog posts      | [API Endpoint](https://open-data.karuna2020.org/social-media-outreach.json) |
+
+### Google Sheets
+
+The following endpoints come from our Google Sheets databse.
 
 | File                                                                                   | Data                                       | CDN URL                                                                                  |
 | -------------------------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------- |
@@ -23,7 +39,6 @@ This repository contains all our data — contributors, donors, beneficiaries, a
 | [`geography-and-beneficiary-requests.json`](./geography-and-beneficiary-requests.json) | Geography                                  | [API Endpoint](https://open-data.karuna2020.org/geography-and-beneficiary-requests.json) |
 | [`material-list.json`](./material-list.json)                                           | Material we're planning on getting         | [API Endpoint](https://open-data.karuna2020.org/material-list.json)                      |
 | [`material-ordered-and-transfer`](./material-ordered-and-transfer)                     | Material we've ordered                     | [API Endpoint](https://open-data.karuna2020.org/material-ordered-and-transfer)           |
-| [`volunteers.json`](./volunteers.json)                                                 | List of our volunteers                     | [API Endpoint](https://open-data.karuna2020.org/volunteers.json)                         |
 | [`summary.json`](./summary.json)                                                       | Quick summary of important data            | [API Endpoint](https://open-data.karuna2020.org/summary.json)                            |
 
 ## 💡 How it works

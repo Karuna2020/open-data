@@ -53,7 +53,6 @@ const update = async () => {
     "Donor Lifecycle",
     "Distribution",
     "Procurement",
-    "Volunteer Onboarding",
     "Social Media Outreach",
   ]) {
     const volunteers: any[] = [];
