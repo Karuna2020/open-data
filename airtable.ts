@@ -16,6 +16,8 @@ const base = airtable.base(AIRTABLE_APP_ID);
 const log = (...args: string[]) =>
   console.log(new Date().toISOString(), ...args);
 
+const wait = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
+
 const fileName = (file: string) => {
   if (file.includes(". ")) file = file.split(". ")[1];
   file = slugify(file.trim());
@@ -41,12 +43,19 @@ const cleanResponse = (data: { [index: string]: string }[]) => {
   return data;
 };
 
-const PRIVATE_COLUMNS = ["Phone", "Email"];
+const PRIVATE_COLUMNS = ["Phone", "Email", "phoneNumber", "listAadharPictures"];
 
 const update = async () => {
   log("Updating data from Airtable");
 
-  for await (const tab of ["Volunteers"]) {
+  for await (const tab of [
+    "Volunteers",
+    "Donor Lifecycle",
+    "Distribution",
+    "Procurement",
+    "Volunteer Onboarding",
+    "Social Media Outreach",
+  ]) {
     const volunteers: any[] = [];
     await base(tab)
       .select()
@@ -60,6 +69,7 @@ const update = async () => {
     await writeJson(join(".", fileName(tab)), cleanResponse(volunteers), {
       spaces: 2,
     });
+    await wait(1000);
   }
 };
 
