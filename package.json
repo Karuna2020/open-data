@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
+    "update-airtable": "ts-node airtable.ts",
     "update-data": "ts-node index.ts"
   },
   "repository": {
@@ -21,10 +22,12 @@
   "homepage": "https://github.com/Karuna2020/open-data#readme",
   "dependencies": {
     "@sindresorhus/slugify": "^0.11.0",
+    "airtable": "^0.8.1",
     "got": "^10.7.0",
     "js-yaml": "^3.13.1"
   },
   "devDependencies": {
+    "@types/airtable": "^0.5.7",
     "@types/fs-extra": "^8.1.0",
     "@types/js-yaml": "^3.12.3",
     "dotenv": "^8.2.0",
