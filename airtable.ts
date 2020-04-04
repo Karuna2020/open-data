@@ -1,4 +1,4 @@
-import { writeJson } from "fs-extra";
+import { writeJson, readJson } from "fs-extra";
 import { config } from "dotenv";
 import { join } from "path";
 import slugify from "@sindresorhus/slugify";
@@ -72,4 +72,37 @@ const update = async () => {
   }
 };
 
-update();
+const summarize = async () => {
+  const data = {
+    totalAmountRaised: 0,
+    numberOfContributors: 0,
+    numberOfVolunteers: 0,
+    numberOfKitDistributionsCompleted: 0,
+    numberOfPeopleImpacted: 0,
+  };
+
+  const volunteers: any[] = await readJson(join(".", fileName("Volunteers")));
+  data.numberOfVolunteers = volunteers.length;
+
+  const amount: any[] = await readJson(join(".", fileName("Amount Received")));
+  data.numberOfContributors = amount.length - 1;
+  data.totalAmountRaised =
+    amount.reduce(
+      (sum, val) => sum + parseInt(val.amount.replace(/\D/g, "")),
+      0
+    ) / 2;
+
+  const distribution: any[] = await readJson(
+    join(".", fileName("Distribution"))
+  );
+  data.numberOfKitDistributionsCompleted = distribution
+    .filter((i) =>
+      ["Delivered", "Received Distribution Pictures"].includes(i.status)
+    )
+    .reduce((sum, val) => sum + val.numberOfKitsNeeded, 0);
+  data.numberOfPeopleImpacted = data.numberOfKitDistributionsCompleted * 4;
+
+  await writeJson(join(".", fileName("Summary")), data, { spaces: 2 });
+};
+
+update().then(() => summarize());
