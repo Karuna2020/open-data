@@ -283,7 +283,8 @@
       }
     ],
     "name": "Sanjana",
-    "notes": "On ground \nSanjana D/o Panna Lal"
+    "notes": "On ground \nSanjana D/o Panna Lal",
+    "godown": "Gurgoan"
   },
   {
     "numberOfKitsNeeded": 500,
@@ -292,14 +293,16 @@
     ],
     "areaOfDelivery": "Gazipur",
     "status": "Distributor Assigned",
-    "name": "Gulmeher"
+    "name": "Gulmeher",
+    "godown": "Gurgoan"
   },
   {
     "numberOfKitsNeeded": 70,
     "deliveredOn": "2020-04-01",
     "status": "Received Distribution Pictures",
     "name": "Ramveer (Vistara)",
-    "notes": "Will not receive pictures, because it was a private distribution. The distributor paid for the kits."
+    "notes": "Will not receive pictures, because it was a private distribution. The distributor paid for the kits.",
+    "godown": "Gurgoan"
   },
   {
     "numberOfKitsNeeded": 30,
@@ -309,7 +312,8 @@
     "areaOfDelivery": "Saroul",
     "status": "Distributor Assigned",
     "name": "Sanjeev Ji - Son of Sarpanch / Ref Atul Celly",
-    "notes": "Will Pay for 30kits\n\nHave Received 30 Full Kits + 50 kg rice extra.\n\nDistribution id11 had 5kits short, so Bharath offloaded it here."
+    "notes": "Will Pay for 30kits\n\nHave Received 30 Full Kits + 50 kg rice extra.\n\nDistribution id11 had 5kits short, so Bharath offloaded it here.",
+    "godown": "Gurgoan"
   },
   {
     "numberOfKitsNeeded": 250,
@@ -318,7 +322,8 @@
     ],
     "areaOfDelivery": "Mayur Vihar Phase 1 - https://www.google.com/maps?q=28.60176658630371,77.28952026367188&z=17&hl=en",
     "name": "Laksmi Paswan",
-    "notes": "Where did this request come from?"
+    "notes": "Where did this request come from?",
+    "godown": "Gurgoan"
   },
   {
     "numberOfKitsNeeded": 9,
@@ -548,7 +553,8 @@
         }
       }
     ],
-    "name": "Bisu Ali"
+    "name": "Bisu Ali",
+    "godown": "Gurgoan"
   },
   {
     "numberOfKitsNeeded": 200,
@@ -556,7 +562,8 @@
       "recJbFfMkoYdLLhMv"
     ],
     "areaOfDelivery": "Anand Parbat",
-    "status": "Have list"
+    "status": "Have list",
+    "godown": "Gurgoan"
   },
   {
     "handler": [
@@ -566,7 +573,8 @@
     "status": "Distributor Assigned",
     "notes": "Atul Ji to send list",
     "numberOfKitsNeeded": 8,
-    "name": "Himachal Migrants"
+    "name": "Himachal Migrants",
+    "godown": "Gurgoan"
   },
   {
     "numberOfKitsNeeded": 9,
@@ -798,7 +806,8 @@
       }
     ],
     "name": "Sonu",
-    "notes": "Sonu/ Ref Shivek"
+    "notes": "Sonu/ Ref Shivek",
+    "godown": "Gurgoan"
   },
   {
     "numberOfKitsNeeded": 170,
@@ -814,7 +823,8 @@
     "deliveredOn": "2020-04-05",
     "areaOfDelivery": "Near Gurgaon Godown",
     "status": "Distributor Assigned",
-    "name": "Ramveer Singh - Local Distribution"
+    "name": "Ramveer Singh - Local Distribution",
+    "godown": "Gurgoan"
   },
   {
     "numberOfKitsNeeded": 4,
@@ -823,16 +833,20 @@
     ],
     "areaOfDelivery": "Tigri",
     "status": "Have list",
-    "notes": "Find if more help is needed"
+    "notes": "Find if more help is needed",
+    "godown": "Gurgoan"
   },
   {
-    "name": "Raj Kumar Ji"
+    "name": "Raj Kumar Ji",
+    "godown": "Gurgoan"
   },
   {
-    "name": "Pawan IITD"
+    "name": "Pawan IITD",
+    "godown": "Gurgoan"
   },
   {
-    "name": "Shahrukh"
+    "name": "Shahrukh",
+    "godown": "Gurgoan"
   },
   {
     "numberOfKitsNeeded": 2,
@@ -895,6 +909,7 @@
       }
     ],
     "name": "Bharath",
-    "notes": "Atul Ji To send list"
+    "notes": "Atul Ji To send list",
+    "godown": "Gurgoan"
   }
 ]
