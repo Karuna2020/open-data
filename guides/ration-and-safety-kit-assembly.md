@@ -1,11 +1,7 @@
 ---
 title: Ration and Safety Kit Assembly Guide
 author: Vikrant Abrol
-tags:
-	- "ration kit"
-	- "safety kit"
-	- workers
-	- distributors
+tags: ["ration kit", "safety kit", "workers", "distributors"]
 ---
 
 ## Dry Ration Kit

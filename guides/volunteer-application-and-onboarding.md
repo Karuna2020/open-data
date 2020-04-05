@@ -1,9 +1,7 @@
 ---
 title: Volunteer Application and Onboarding Guide
 author: Shivek Khurana
-tags:
-	- volunteer
-	- onboarding
+tags: ["volunteer", "onboarding"]
 ---
 
 We need all the help we can get our hands on. This guide is meant for public and internal consumption. It walks through the steps we need to take in order to make new volunteers welcomed and enable them to be productive as soon as possible.

@@ -1,9 +1,7 @@
 ---
-
 title: Standard Operations Protocol
 author: Vikrant Abrol
-tags: - safety - operations
-
+tags: ["safety", "operations"]
 ---
 
 ## Standard Operations Protocol

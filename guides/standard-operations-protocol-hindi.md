@@ -1,9 +1,7 @@
 ---
-
 title: मानक संचालन प्रक्रियाएं
 author: Vikrant Abrol
-tags: - safety - operations
-
+tags: ["safety", "operations"]
 ---
 
 |         |                                                                                                                                                                                                                                                        |

@@ -1,10 +1,7 @@
 ---
 title: Social Media Outreach Guide
 author: Shivek Khurana
-tags:
-	- marketing
-	- "social media"
-	- outreach
+tags: ["marketing", "social media", "outreach"]
 ---
 
 _NOTE: This guide is currently under review and is likely to change._

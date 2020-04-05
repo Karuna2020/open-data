@@ -1,9 +1,7 @@
 ---
-
 title: Procurment Management Guide
 author: Shivek Khurana
-tags: - procurement
-
+tags: ["procurement"]
 ---
 
 Depend on Atul Ji.

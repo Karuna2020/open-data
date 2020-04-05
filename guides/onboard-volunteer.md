@@ -1,8 +1,6 @@
 ---
 title: How to onboard a new volunteer
-tags:
-  - onboarding
-  - volunteers
+tags: ["onboarding", "volunteers"]
 ---
 
 In guides, we don't need "created at" or "updated at". My system will fetch the commit history to find the author and date last modified, and we can even show version history.

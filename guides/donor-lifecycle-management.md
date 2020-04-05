@@ -1,8 +1,7 @@
 ---
 title: Donor Lifecycle Management Guide
 author: Shivek Khurana
-tags:
-  - "donor lifecycle"
+tags: ["donor lifecycle"]
 ---
 
 We aim to be transparent and communicate the impact of each donation to the donor. For this, we need to ensure that they are connected to us on various channels. This serves as good will and might lead to referral donations.
