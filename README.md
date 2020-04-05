@@ -19,7 +19,7 @@ The following endpoints come from our Airtable databases.
 | ------------------------------------------------------------ | -------------------------------- | --------------------------------------------------------------------------- |
 | [`summary.json`](./summary.json)                             | Quick summary of important data  | [API Endpoint](https://open-data.karuna2020.org/summary.json)               |
 | [`volunteers.json`](./volunteers.json)                       | List of our volunteers.json      | [API Endpoint](https://open-data.karuna2020.org/volunteers.json)            |
-| [`donor-lifecycle.json`](./donor-lifecycle.json)             | List of our donors               | [API Endpoint](https://open-data.karuna2020.org/donor-lifecycle.json)       |
+| [`donations.json`](./donations.json)                         | List of our donors               | [API Endpoint](https://open-data.karuna2020.org/donations.json)             |
 | [`distribution.json`](./distribution.json)                   | List of food distribution        | [API Endpoint](https://open-data.karuna2020.org/distribution.json)          |
 | [`procurement.json`](./procurement.json)                     | Raw material procurement details | [API Endpoint](https://open-data.karuna2020.org/procurement.json)           |
 | [`social-media-outreach.json`](./social-media-outreach.json) | Social media and blog posts      | [API Endpoint](https://open-data.karuna2020.org/social-media-outreach.json) |
