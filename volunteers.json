@@ -2,26 +2,20 @@
   {
     "name": "Vikrant Abrol",
     "active": true,
-    "areaOfWorkAllocated": "Central Coordination",
+    "competenceBackground": "Social Work",
     "location": "South Delhi",
-    "competenceBackground": "Social Work"
+    "areaOfWorkAllocated": "Central Coordination"
   },
   {
     "name": "Abhijit Patwal",
-    "reference": "Mr. Anurag Kashayp",
     "active": true,
-    "areaOfWorkAllocated": "MIS Management",
+    "competenceBackground": "Social Work",
     "location": "Dehradun",
-    "competenceBackground": "Social Work"
+    "reference": "Mr. Anurag Kashayp",
+    "areaOfWorkAllocated": "MIS Management"
   },
   {
     "name": "Atul Celly",
-    "procurement": [
-      "recwCEwSWdCOrV6Oy",
-      "recgp3LH7xoeA6SSm",
-      "recv5UWbb8XBHLbF4",
-      "recAj1cTxS0EdKwGU"
-    ],
     "active": true,
     "areaOfWorkAllocated": "Procurement",
     "distribution": [
@@ -29,14 +23,20 @@
       "rec9F69PL70oGxW4s",
       "recwjSm6Yv4o25X2t",
       "recRFVdEzaRc7xu4v"
+    ],
+    "procurement": [
+      "recwCEwSWdCOrV6Oy",
+      "recgp3LH7xoeA6SSm",
+      "recv5UWbb8XBHLbF4",
+      "recAj1cTxS0EdKwGU"
     ]
   },
   {
     "name": "Maneet Madan",
     "active": true,
-    "areaOfWorkAllocated": "Day to Day Coordination",
+    "competenceBackground": "Social Work",
     "location": "Dehradun",
-    "competenceBackground": "Social Work"
+    "areaOfWorkAllocated": "Day to Day Coordination"
   },
   {
     "name": "Ramveer Singh",
@@ -49,37 +49,37 @@
   {
     "name": "Iqbal Mohammed",
     "active": true,
-    "areaOfWorkAllocated": "Day to Day Coordination",
+    "competenceBackground": "Social Work",
     "location": "New Delhi (Jamia)",
-    "competenceBackground": "Social Work"
+    "areaOfWorkAllocated": "Day to Day Coordination"
   },
   {
     "name": "Anand Chowdhary",
     "active": true,
-    "areaOfWorkAllocated": "Technology and Social Media",
+    "competenceBackground": "Technology, Startups",
     "location": "South Delhi",
-    "competenceBackground": "Technology, Startups"
+    "areaOfWorkAllocated": "Technology and Social Media"
   },
   {
     "name": "Shivek Khurana",
     "active": true,
-    "areaOfWorkAllocated": "Technology and Coordination",
+    "competenceBackground": "Technology",
     "location": "West Delhi",
+    "areaOfWorkAllocated": "Technology and Coordination",
     "distribution": [
       "recV6TQvYM1Xyyn6f",
       "recgx674hicH6ct0e",
       "recLsoT0ugKuhHqiZ"
-    ],
-    "competenceBackground": "Technology"
+    ]
   },
   {
     "name": "Sunei Kapur",
     "active": true,
+    "competenceBackground": "Corporate Law",
     "location": "West Delhi",
     "distribution": [
       "recPUwpqML3yylCUW"
-    ],
-    "competenceBackground": "Corporate Law"
+    ]
   },
   {
     "name": "Kripa Jayaram",
@@ -95,42 +95,42 @@
   {
     "name": "Rohit Bhatia",
     "active": true,
-    "areaOfWorkAllocated": "Technology",
+    "competenceBackground": "Technology",
     "location": "Noida",
-    "competenceBackground": "Technology"
+    "areaOfWorkAllocated": "Technology"
   },
   {
     "name": "Madan Singh",
-    "reference": "Anurag",
     "active": true,
-    "areaOfWorkAllocated": "Accounting",
+    "competenceBackground": "Accounts, logistics",
     "location": "Dwarka",
-    "competenceBackground": "Accounts, logistics"
+    "reference": "Anurag",
+    "areaOfWorkAllocated": "Accounting"
   },
   {
     "name": "Tuhin",
-    "reference": "Mr. Anurag Kashayp",
     "active": true,
-    "areaOfWorkAllocated": "Documentation",
+    "competenceBackground": "Food technology, Social work",
     "location": "Mumbai",
-    "competenceBackground": "Food technology, Social work"
+    "reference": "Mr. Anurag Kashayp",
+    "areaOfWorkAllocated": "Documentation"
   },
   {
     "name": "Anurag Kashyap",
     "active": true,
-    "areaOfWorkAllocated": "Distribution",
+    "competenceBackground": "Social work",
     "location": "South Delhi",
+    "areaOfWorkAllocated": "Distribution",
     "distribution": [
       "rec3WRRvrLxq90FmI"
-    ],
-    "competenceBackground": "Social work"
+    ]
   },
   {
     "name": "Sukriti Kapoor",
     "active": true,
-    "areaOfWorkAllocated": "Social Media",
+    "competenceBackground": "Writing, Publishing",
     "location": "South Delhi",
-    "competenceBackground": "Writing, Publishing"
+    "areaOfWorkAllocated": "Social Media"
   },
   {
     "name": "Ravinder Dagar",
@@ -140,14 +140,14 @@
   {
     "name": "Radha Chowdhary",
     "active": true,
-    "areaOfWorkAllocated": "Volunteer Coordination",
-    "location": "South Delhi"
+    "location": "South Delhi",
+    "areaOfWorkAllocated": "Volunteer Coordination"
   },
   {
     "name": "Alokesh Sharma",
     "active": true,
-    "areaOfWorkAllocated": "Day to Day Coordination",
+    "competenceBackground": "Social Work",
     "location": "Noida & New Delhi",
-    "competenceBackground": "Social Work"
+    "areaOfWorkAllocated": "Day to Day Coordination"
   }
 ]
