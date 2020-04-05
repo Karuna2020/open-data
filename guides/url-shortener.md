@@ -26,6 +26,8 @@ Our GitHub Actions bot will add the new URL, and it will be available in a few m
 
 | Short URL | Long URL |
 | --------- | -------- |
-
-
-<!--urls-->
+| [github](https://go.karuna2020.org/github) | https://github.com/Karuna2020 |
+| [request](https://go.karuna2020.org/request) | https://airtable.com/shrk3wQ6YSaINfzRj |
+| [volunteer](https://go.karuna2020.org/volunteer) | https://airtable.com/shrkYsaROkZgreQSv |
+| [whatsapp](https://go.karuna2020.org/whatsapp) | https://chat.whatsapp.com/FIlJANlG5L67av2tbtCIfy |
+| [donor](https://go.karuna2020.org/donor) | https://airtable.com/shrF0siHkql5pmhhL |
