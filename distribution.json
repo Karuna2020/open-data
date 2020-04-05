@@ -296,8 +296,10 @@
   },
   {
     "numberOfKitsNeeded": 70,
-    "status": "Delivered",
-    "name": "Ramveer (Vistara)"
+    "status": "Received Distribution Pictures",
+    "name": "Ramveer (Vistara)",
+    "notes": "Will not receive pictures, because it was a private distribution. The distributor paid for the kits.",
+    "deliveredOn": "2020-04-01"
   },
   {
     "numberOfKitsNeeded": 30,
@@ -312,7 +314,11 @@
   {
     "numberOfKitsNeeded": 250,
     "areaOfDelivery": "Mayur Vihar Phase 1 - https://www.google.com/maps?q=28.60176658630371,77.28952026367188&z=17&hl=en",
-    "name": "Laksmi Paswan"
+    "name": "Laksmi Paswan",
+    "notes": "Where did this request come from?",
+    "handler": [
+      "recIKJzr77ClSkBIp"
+    ]
   },
   {
     "numberOfKitsNeeded": 9,
