@@ -1,18 +1,18 @@
 [
   {
+    "_id": "recA4s8BybFOAJg4K",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
-    "id": 12,
     "item": "Haldi-Mirchi-Dhaniya Powder",
     "quantity": 500,
     "status": "Received",
     "units": "No."
   },
   {
+    "_id": "recAj1cTxS0EdKwGU",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
     "handler": [
       "rec4KettqbIcPbESo"
     ],
-    "id": 4,
     "item": "Rice",
     "orderedOn": "2020-03-27",
     "quantity": 760,
@@ -21,35 +21,35 @@
     "units": "Kg"
   },
   {
+    "_id": "recHPpr8N1bENG2ZR",
     "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
-    "id": 13,
     "item": "Soap",
     "quantity": 2000,
     "status": "Received",
     "units": "No."
   },
   {
+    "_id": "recYI2xT3x3vyrkpK",
     "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
-    "id": 9,
     "item": "Haldi-Mirchi-Dhaniya Powder",
     "quantity": 500,
     "status": "Received",
     "units": "No."
   },
   {
+    "_id": "recZFqjB98m7WKwkW",
     "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
-    "id": 7,
     "item": "Soap",
     "quantity": 2000,
     "status": "Received",
     "units": "No."
   },
   {
+    "_id": "recgp3LH7xoeA6SSm",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
     "handler": [
       "rec4KettqbIcPbESo"
     ],
-    "id": 2,
     "item": "Palm oil",
     "orderedOn": "2020-03-27",
     "quantity": 1000,
@@ -58,24 +58,24 @@
     "units": "Litre"
   },
   {
+    "_id": "rechXpMlxqdILaMWm",
     "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
-    "id": 8,
     "item": "Salt",
     "quantity": 500,
     "status": "Received",
     "units": "Kg"
   },
   {
+    "_id": "reck8GkNazmQoKIl0",
     "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
-    "id": 10,
     "item": "Dal",
     "quantity": 1000,
     "status": "Received",
     "units": "Kg"
   },
   {
+    "_id": "recormRX0TlSkaGNI",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
-    "id": 6,
     "item": "Rice",
     "orderedOn": "2020-03-30",
     "quantity": 10000,
@@ -83,19 +83,19 @@
     "units": "Kg"
   },
   {
+    "_id": "recqSRvglQgIBINvm",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
-    "id": 11,
     "item": "Salt",
     "quantity": 400,
     "status": "Received",
     "units": "Kg"
   },
   {
+    "_id": "recv5UWbb8XBHLbF4",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
     "handler": [
       "rec4KettqbIcPbESo"
     ],
-    "id": 3,
     "item": "Salt",
     "orderedOn": "2020-03-27",
     "quantity": 100,
@@ -104,11 +104,11 @@
     "units": "Kg"
   },
   {
+    "_id": "recwCEwSWdCOrV6Oy",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
     "handler": [
       "rec4KettqbIcPbESo"
     ],
-    "id": 1,
     "item": "Dal",
     "orderedOn": "2020-03-27",
     "quantity": 1020,
@@ -117,8 +117,8 @@
     "units": "Kg"
   },
   {
+    "_id": "recz5ESsfuoitNhGK",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
-    "id": 5,
     "item": "Polythene Bags - 5kg",
     "orderedOn": "2020-03-30",
     "quantity": 2000,

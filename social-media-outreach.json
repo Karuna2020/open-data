@@ -1,5 +1,6 @@
 [
   {
+    "_id": "recAoKzxXkK8T9NY8",
     "dateOfOccurence": "2020-04-04",
     "event": "9 kits delivered in DLF Phase 3",
     "id": "recAoKzxXkK8T9NY8",
@@ -9,6 +10,7 @@
     "notes": "<airtable:mention id=\"men5w68ulqzoxyGcY\">@Kripa Jayaram</airtable:mention>  Do we have a story here?"
   },
   {
+    "_id": "recJOqo46DyZE0qt4",
     "dateOfOccurence": "2020-04-04",
     "event": "2 kits delivered to the elderly in DLF Phase 3",
     "id": "recJOqo46DyZE0qt4",
@@ -69,6 +71,7 @@
     "status": "Publish to website"
   },
   {
+    "_id": "recOGr4pWVWy0xYEW",
     "event": "2d Animated Course of SOPs",
     "handlers": [
       "recKiQ0VGnZMljPTf"
@@ -76,6 +79,7 @@
     "id": "recOGr4pWVWy0xYEW"
   },
   {
+    "_id": "recRmU41MAMjRyIF7",
     "channels": [
       "FB",
       "Well Wishers Group",
@@ -166,6 +170,7 @@
     "status": "Publish to website"
   },
   {
+    "_id": "recT3vD3ADoTqd3ur",
     "event": "400 Kits at Gulmeher",
     "id": "recT3vD3ADoTqd3ur",
     "linkedDistribution": [
@@ -173,6 +178,7 @@
     ]
   },
   {
+    "_id": "recWwKFHlfRVxYBNV",
     "dateOfOccurence": "2020-04-04",
     "event": "9 kits delivered to Sonu",
     "id": "recWwKFHlfRVxYBNV",
@@ -281,6 +287,7 @@
     "status": "Publish to website"
   },
   {
+    "_id": "reccvidfwY53VMZ1R",
     "event": "30 at Saraul",
     "id": "reccvidfwY53VMZ1R",
     "linkedDistribution": [
@@ -288,12 +295,14 @@
     ]
   },
   {
+    "_id": "recu2Dx6MVYdRjZld",
     "dateOfOccurence": "2020-03-31",
     "event": "70 Kits Distributed by an Anonymous Executive",
     "id": "recu2Dx6MVYdRjZld",
     "notes": "- Someone from Vistara\n- He paid for kits and managed distributions personally\n- No Photos because he wanted to stay undercover"
   },
   {
+    "_id": "recwTEmOno3APyMYG",
     "dateOfOccurence": "2020-04-04",
     "event": "Materials Received At Ghazipur",
     "id": "recwTEmOno3APyMYG",

@@ -32,7 +32,7 @@ const cleanResponse = (data: { [index: string]: string }[]) => {
   if (Array.isArray(data))
     data = data.map((i) => {
       if (typeof i === "object" && !Array.isArray(i)) {
-        const id = i.id;
+        const id = i._id;
         Object.keys(i).forEach((key) => {
           if (typeof i[key] === "string") i[key] = i[key].trim();
           if (i[key] !== "") i[keyName(key)] = i[key];
@@ -42,7 +42,7 @@ const cleanResponse = (data: { [index: string]: string }[]) => {
             delete i[keyName(col)];
           });
         });
-        i.id = id;
+        i._id = id;
       }
       const ordered: any = {};
       Object.keys(i)
@@ -70,7 +70,7 @@ const update = async () => {
       .select()
       .eachPage((records, fetchNextPage) => {
         volunteers.push(
-          ...records.map((record) => ({ id: record.id, ...record.fields }))
+          ...records.map((record) => ({ _id: record.id, ...record.fields }))
         );
         fetchNextPage();
       });
