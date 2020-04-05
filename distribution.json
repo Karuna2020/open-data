@@ -570,9 +570,9 @@
     "areaOfDelivery": "DLF Phase 3",
     "status": "Distributor Assigned",
     "notes": "Atul Ji to send list",
-    "numberOfKitsNeeded": 8,
     "name": "Himachal Migrants",
-    "godown": "Gurgoan"
+    "godown": "Gurgoan",
+    "numberOfKitsNeeded": 7
   },
   {
     "numberOfKitsNeeded": 9,
