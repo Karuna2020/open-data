@@ -1,13 +1,12 @@
 ---
 title: Social Media Outreach Guide
-author: Shivek Khurana
+author: Shivek Khurana and Anand Chowdhary
 tags: ["marketing", "social media", "outreach"]
 ---
 
 _NOTE: This guide is currently under review and is likely to change._
 
-We owe to our donors to communicate the impact of their donations in a transparent and orderly fashion.
-To achieve this, we should try our best to communicate updates at the following intervals:
+We owe to our donors to communicate the impact of their donations in a transparent and orderly fashion. To achieve this, we should try our best to communicate updates at the following intervals:
 
 # Daily
 
@@ -44,3 +43,39 @@ Click a picture of as many people as possible, while on the call and post it to 
 ## Funds raised
 
 Create a video using the Canva template to share on FB and Insta, to communicate the impact of funds raised so far
+
+## Distribution updates
+
+Every time we do a new on-ground material distribution, we publish an update on our website and posts across social media.
+
+### How to design
+
+Use the Photoshop template available on the shared Google Drive ([download PSD](https://drive.google.com/open?id=1NJwIq8_Yb5I_AqnSg3yBXuzm86VpQ2mK)) and edit is as follows:
+
+1. Replace the lowest layer with the background image with the best-looking distribution photo
+2. Change the colors of the two overlay layers with a unique color, ideally one that hasn't been posted recently
+3. Update the title and subtitle text on the post
+4. Export a 1024px square PNG by selecting "File" → "Save to Web"
+5. Optionally, create another 1024px canvas and make a collage of other photos
+
+#### How to post
+
+1. Log in to Instagram using the shared credentials in the "Tech & Marketing" group
+2. Select the post, ideally with one "cover" image and other normal photos
+3. Don't apply any additional filters, use the "Normal" mode since posts are pre-designed
+4. Add a caption and hashtags (use previous posts and inspiration)
+5. Add the distribution location to the post by selecting "Add Location" (not applicable to non-distribution posts)
+6. Under "Post to Other Accounts", select "Facebook", making sure no other option is selected
+7. Click on "Post"
+
+## Social media posting system
+
+We have systems set in place that cross-post to different social media services. The source of truth for posts is the Instagram profile [@karuna2020_org](https://www.instagram.com/karuna2020_org/). Therefore, we only need to post on Instagram and other places like Twitter and Facebook with auto-populate using the following workflows:
+
+- Facebook: Instagram's native integration with Facebook helps us cross-post
+- Twitter: [tweet.photo](https://tweet.photo) is a service that picks up Instagram photos and cross-posts them on Twitter, using native photo uploads and keeping the caption and hashtags; Instagram's native Twitter integration doesn't post photos, only links to the Instagram post
+- Twitter and Facebook: [IFTTT](https://ifttt.com) also periodically checks the update [RSS feed](https://karuna2020.org/feed.xml) and posts new update article links in both Twitter and Facebook
+
+### Why is Instagram the source of truth?
+
+We've explored services like Buffer that let you schedule and cross-post, but they are unaffordable for our use case; we would rather spend the money on ration and distribution. Furthermore, Instagram does not have an easy-to-use API to post, so we need to manually post. Lastly, Facebook and Instagram have a pretty nice native integration for cross-posting.
