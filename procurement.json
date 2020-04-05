@@ -1,115 +1,115 @@
 [
   {
     "item": "Haldi-Mirchi-Dhaniya Powder",
-    "status": "Received",
-    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
     "quantity": 500,
-    "units": "No."
+    "units": "No.",
+    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "status": "Received"
   },
   {
     "item": "Rice",
-    "status": "Received",
+    "supplier": "HyperPure",
+    "quantity": 760,
+    "units": "Kg",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "status": "Received",
+    "orderedOn": "2020-03-27",
     "handler": [
       "rec4KettqbIcPbESo"
-    ],
-    "orderedOn": "2020-03-27",
-    "quantity": 760,
-    "supplier": "HyperPure",
-    "units": "Kg"
+    ]
   },
   {
     "item": "Soap",
-    "status": "Received",
-    "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
     "quantity": 2000,
-    "units": "No."
+    "units": "No.",
+    "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
+    "status": "Received"
   },
   {
     "item": "Haldi-Mirchi-Dhaniya Powder",
-    "status": "Received",
-    "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
     "quantity": 500,
-    "units": "No."
+    "units": "No.",
+    "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
+    "status": "Received"
   },
   {
     "item": "Soap",
-    "status": "Received",
-    "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
     "quantity": 2000,
-    "units": "No."
+    "units": "No.",
+    "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
+    "status": "Received"
   },
   {
     "item": "Palm oil",
-    "status": "Received",
+    "supplier": "HyperPure",
+    "quantity": 1000,
+    "units": "Litre",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "status": "Received",
+    "orderedOn": "2020-03-27",
     "handler": [
       "rec4KettqbIcPbESo"
-    ],
-    "orderedOn": "2020-03-27",
-    "quantity": 1000,
-    "supplier": "HyperPure",
-    "units": "Litre"
+    ]
   },
   {
     "item": "Salt",
-    "status": "Received",
-    "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
     "quantity": 500,
-    "units": "Kg"
+    "units": "Kg",
+    "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
+    "status": "Received"
   },
   {
     "item": "Dal",
-    "status": "Received",
-    "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
     "quantity": 1000,
-    "units": "Kg"
+    "units": "Kg",
+    "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
+    "status": "Received"
   },
   {
     "item": "Rice",
-    "status": "Received",
-    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
-    "orderedOn": "2020-03-30",
     "quantity": 10000,
-    "units": "Kg"
+    "units": "Kg",
+    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "status": "Received",
+    "orderedOn": "2020-03-30"
   },
   {
     "item": "Salt",
-    "status": "Received",
-    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
     "quantity": 400,
-    "units": "Kg"
+    "units": "Kg",
+    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "status": "Received"
   },
   {
     "item": "Salt",
-    "status": "Received",
+    "supplier": "HyperPure",
+    "quantity": 100,
+    "units": "Kg",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "status": "Received",
+    "orderedOn": "2020-03-27",
     "handler": [
       "rec4KettqbIcPbESo"
-    ],
-    "orderedOn": "2020-03-27",
-    "quantity": 100,
-    "supplier": "HyperPure",
-    "units": "Kg"
+    ]
   },
   {
     "item": "Dal",
-    "status": "Received",
+    "supplier": "HyperPure",
+    "quantity": 1020,
+    "units": "Kg",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "status": "Received",
+    "orderedOn": "2020-03-27",
     "handler": [
       "rec4KettqbIcPbESo"
-    ],
-    "orderedOn": "2020-03-27",
-    "quantity": 1020,
-    "supplier": "HyperPure",
-    "units": "Kg"
+    ]
   },
   {
     "item": "Polythene Bags - 5kg",
-    "status": "Received",
-    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
-    "orderedOn": "2020-03-30",
     "quantity": 2000,
-    "units": "No."
+    "units": "No.",
+    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "status": "Received",
+    "orderedOn": "2020-03-30"
   }
 ]

@@ -51,7 +51,7 @@ const update = async () => {
 
   for await (const tab of [
     "Volunteers",
-    "Donor Lifecycle",
+    "Donations",
     "Distribution",
     "Procurement",
     "Social Media Outreach",
@@ -133,5 +133,6 @@ const urls = async () => {
   );
 };
 
-// update().then(() => summarize()).then(() => urls());
-urls();
+update()
+  .then(() => summarize())
+  .then(() => urls());
