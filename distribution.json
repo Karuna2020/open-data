@@ -291,7 +291,8 @@
       "reck2YKHsRElZlcOg"
     ],
     "areaOfDelivery": "Gazipur",
-    "name": "Gulmeher"
+    "name": "Gulmeher",
+    "status": "Distributor Assigned"
   },
   {
     "numberOfKitsNeeded": 70,
