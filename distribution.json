@@ -294,7 +294,7 @@
     "areaOfDelivery": "Gazipur",
     "status": "Distributor Assigned",
     "name": "Gulmeher",
-    "godown": "Gurgoan"
+    "godown": "Gulmeher"
   },
   {
     "numberOfKitsNeeded": 70,
@@ -322,8 +322,7 @@
     ],
     "areaOfDelivery": "Mayur Vihar Phase 1 - https://www.google.com/maps?q=28.60176658630371,77.28952026367188&z=17&hl=en",
     "name": "Laksmi Paswan",
-    "notes": "Where did this request come from?",
-    "godown": "Gurgoan"
+    "notes": "Where did this request come from?"
   },
   {
     "numberOfKitsNeeded": 9,
@@ -562,8 +561,7 @@
       "recJbFfMkoYdLLhMv"
     ],
     "areaOfDelivery": "Anand Parbat",
-    "status": "Have list",
-    "godown": "Gurgoan"
+    "status": "Have list"
   },
   {
     "handler": [
@@ -837,12 +835,10 @@
     "godown": "Gurgoan"
   },
   {
-    "name": "Raj Kumar Ji",
-    "godown": "Gurgoan"
+    "name": "Raj Kumar Ji"
   },
   {
-    "name": "Pawan IITD",
-    "godown": "Gurgoan"
+    "name": "Pawan IITD"
   },
   {
     "name": "Shahrukh",
