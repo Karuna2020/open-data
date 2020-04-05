@@ -44,7 +44,11 @@ const cleanResponse = (data: { [index: string]: string }[]) => {
         });
         i.id = id;
       }
-      return i;
+      const ordered: any = {};
+      Object.keys(i)
+        .sort()
+        .forEach((key) => (ordered[key] = i[key]));
+      return ordered;
     });
   return data;
 };
