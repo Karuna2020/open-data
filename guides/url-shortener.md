@@ -24,4 +24,8 @@ Our GitHub Actions bot will add the new URL, and it will be available in a few m
 
 ## List of available URLs
 
+| Short URL | Long URL |
+| --------- | -------- |
+
+
 <!--urls-->

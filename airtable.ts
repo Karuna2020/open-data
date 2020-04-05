@@ -1,7 +1,8 @@
-import { writeJson, readJson } from "fs-extra";
+import { writeJson, readJson, readFile, writeFile } from "fs-extra";
 import { config } from "dotenv";
 import { join } from "path";
 import slugify from "@sindresorhus/slugify";
+import axios from "axios";
 config();
 
 /**
@@ -105,7 +106,32 @@ const summarize = async () => {
   await writeJson(join(".", fileName("Summary")), data, { spaces: 2 });
 };
 
-const urls = async () => {};
+const urls = async () => {
+  const response = await axios.get<string>(
+    "https://raw.githubusercontent.com/Karuna2020/go/master/redirects.csv"
+  );
+  const lines = response.data
+    .split("\n")
+    .filter((i) => i.includes(",") && i !== "short,long");
+  const urlGuide = await readFile(
+    join(".", "guides", "url-shortener.md"),
+    "utf8"
+  );
+  await writeFile(
+    join(".", "guides", "url-shortener.md"),
+    urlGuide.replace(
+      "\n\n<!--urls-->",
+      lines
+        .map(
+          (i) =>
+            `| [${i.split(",")[0]}](https://go.karuna2020.org/${
+              i.split(",")[0]
+            }) | ${i.split(",")[1]} |`
+        )
+        .join("\n")
+    )
+  );
+};
 
 // update().then(() => summarize()).then(() => urls());
 urls();
