@@ -449,7 +449,9 @@
     "areaOfDelivery": "Vasant Kunj",
     "handler": [
       "recIKJzr77ClSkBIp"
-    ]
+    ],
+    "status": "Request Approved",
+    "godown": "Gurgoan"
   },
   {
     "notes": "Where did this request come from?",
