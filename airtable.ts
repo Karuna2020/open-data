@@ -105,4 +105,7 @@ const summarize = async () => {
   await writeJson(join(".", fileName("Summary")), data, { spaces: 2 });
 };
 
-update().then(() => summarize());
+const urls = async () => {};
+
+// update().then(() => summarize()).then(() => urls());
+urls();
