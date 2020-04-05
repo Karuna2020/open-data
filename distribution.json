@@ -291,15 +291,15 @@
       "reck2YKHsRElZlcOg"
     ],
     "areaOfDelivery": "Gazipur",
-    "name": "Gulmeher",
-    "status": "Distributor Assigned"
+    "status": "Distributor Assigned",
+    "name": "Gulmeher"
   },
   {
     "numberOfKitsNeeded": 70,
+    "deliveredOn": "2020-04-01",
     "status": "Received Distribution Pictures",
     "name": "Ramveer (Vistara)",
-    "notes": "Will not receive pictures, because it was a private distribution. The distributor paid for the kits.",
-    "deliveredOn": "2020-04-01"
+    "notes": "Will not receive pictures, because it was a private distribution. The distributor paid for the kits."
   },
   {
     "numberOfKitsNeeded": 30,
@@ -313,12 +313,12 @@
   },
   {
     "numberOfKitsNeeded": 250,
-    "areaOfDelivery": "Mayur Vihar Phase 1 - https://www.google.com/maps?q=28.60176658630371,77.28952026367188&z=17&hl=en",
-    "name": "Laksmi Paswan",
-    "notes": "Where did this request come from?",
     "handler": [
       "recIKJzr77ClSkBIp"
-    ]
+    ],
+    "areaOfDelivery": "Mayur Vihar Phase 1 - https://www.google.com/maps?q=28.60176658630371,77.28952026367188&z=17&hl=en",
+    "name": "Laksmi Paswan",
+    "notes": "Where did this request come from?"
   },
   {
     "numberOfKitsNeeded": 9,
