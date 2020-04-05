@@ -7,7 +7,58 @@
     "linkedDistribution": [
       "recLwT1DazwdakLbx"
     ],
-    "notes": "<airtable:mention id=\"men5w68ulqzoxyGcY\">@Kripa Jayaram</airtable:mention>  Do we have a story here?"
+    "notes": "<airtable:mention id=\"men5w68ulqzoxyGcY\">@Kripa Jayaram</airtable:mention>  Do we have a story here?",
+    "pictures": [
+      {
+        "id": "attXpMiabXQzchZ0Z",
+        "url": "https://dl.airtable.com/.attachments/7eb34958a62bc166c8ed81acbee4ea52/c4542b84/dlf2.png",
+        "filename": "1.png",
+        "size": 1235594,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ad5b3104a196eb9064707bd16773682a/f4db0629",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6ab4c86e7da552f185bfd23d000b472b/fab1c749",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dc0eed08dcb05b8bf3cf61561d8bd54f/1edf0651",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att53wm3DHlSoNmgC",
+        "url": "https://dl.airtable.com/.attachments/e730921304eb529125597442fac2d239/9fd7dc4e/dlf-3.png",
+        "filename": "0.png",
+        "size": 897390,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d1e5a82bd868df17dce16ede73b83b52/739826ce",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d45092ee6d9afdbb135ae220d2afc1af/377ec2e1",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/80fff9257ba52ea346db1b385a7b8c59/7fd911bc",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Photos uploaded"
   },
   {
     "_id": "recJOqo46DyZE0qt4",
@@ -292,7 +343,8 @@
     "id": "reccvidfwY53VMZ1R",
     "linkedDistribution": [
       "rec9F69PL70oGxW4s"
-    ]
+    ],
+    "status": "Photos uploaded"
   },
   {
     "_id": "recu2Dx6MVYdRjZld",
