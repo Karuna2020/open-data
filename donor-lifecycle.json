@@ -1,47 +1,47 @@
 [
   {
-    "comment": "Call not picked",
     "name": "Dalvir Agarwal",
+    "amount": "750",
     "mode": "Cash",
     "status": "SMS Sent",
-    "amount": "750"
+    "comment": "Call not picked"
   },
   {
-    "comment": "No PAN",
     "name": "Rachna Bansal",
+    "amount": "10000",
     "mode": "Cash",
     "status": "Ready for generating receipt",
-    "amount": "10000"
+    "comment": "No PAN"
   },
   {
-    "panCard": "AFPPC9101G",
     "name": "Devika Chadha",
+    "amount": "7500",
     "mode": "IMPS",
-    "amount": "7500"
+    "panCard": "AFPPC9101G"
   },
   {
-    "comment": "Call not picked",
     "name": "Anu Didi - GK2",
+    "amount": "3000",
     "mode": "Cash",
     "status": "SMS Sent",
-    "amount": "3000"
+    "comment": "Call not picked"
   },
   {
     "name": "Mrs. Kusum Dhawan",
+    "amount": "1000",
     "mode": "IMPS",
-    "status": "Ready for generating receipt",
-    "amount": "1000"
+    "status": "Ready for generating receipt"
   },
   {
     "name": "Dr. Sunita Pal",
+    "amount": "1000",
     "mode": "IMPS",
-    "status": "SMS Sent",
-    "amount": "1000"
+    "status": "SMS Sent"
   },
   {
-    "panCard": "AEQPC1027F",
     "name": "Radha Chowdhary",
+    "amount": "7500",
     "mode": "NEFT",
-    "amount": "7500"
+    "panCard": "AEQPC1027F"
   }
 ]

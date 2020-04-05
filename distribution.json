@@ -309,7 +309,7 @@
     "areaOfDelivery": "Saroul",
     "status": "Distributor Assigned",
     "name": "Sanjeev Ji - Son of Sarpanch / Ref Atul Celly",
-    "notes": "Will Pay for 30kits"
+    "notes": "Will Pay for 30kits\n\nHave Received 30 Full Kits + 50 kg rice extra becausew"
   },
   {
     "numberOfKitsNeeded": 250,
@@ -559,14 +559,14 @@
     "status": "Have list"
   },
   {
-    "numberOfKitsNeeded": 12,
     "handler": [
       "rec4KettqbIcPbESo"
     ],
     "areaOfDelivery": "DLF Phase 3",
     "status": "Distributor Assigned",
-    "name": "MP Labourers",
-    "notes": "Atul Ji to send list"
+    "notes": "Atul Ji to send list",
+    "numberOfKitsNeeded": 8,
+    "name": "Himachal Migrants"
   },
   {
     "numberOfKitsNeeded": 9,
