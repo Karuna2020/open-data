@@ -309,7 +309,7 @@
     "areaOfDelivery": "Saroul",
     "status": "Distributor Assigned",
     "name": "Sanjeev Ji - Son of Sarpanch / Ref Atul Celly",
-    "notes": "Will Pay for 30kits\n\nHave Received 30 Full Kits + 50 kg rice extra becausew"
+    "notes": "Will Pay for 30kits\n\nHave Received 30 Full Kits + 50 kg rice extra.\n\nDistribution id11 had 5kits short, so Bharath offloaded it here."
   },
   {
     "numberOfKitsNeeded": 250,
@@ -799,6 +799,12 @@
     ],
     "name": "Sonu",
     "notes": "Sonu/ Ref Shivek"
+  },
+  {
+    "numberOfKitsNeeded": 170,
+    "name": "DanaPani / Ref Anurag",
+    "areaOfDelivery": "Majlis Park",
+    "notes": "Have a list of names. Address is in the same vicinity. \nAll beneficiaries might not have a phone."
   },
   {
     "numberOfKitsNeeded": 64,
