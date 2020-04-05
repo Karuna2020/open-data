@@ -32,12 +32,17 @@ const cleanResponse = (data: { [index: string]: string }[]) => {
   if (Array.isArray(data))
     data = data.map((i) => {
       if (typeof i === "object" && !Array.isArray(i)) {
+        const id = i.id;
         Object.keys(i).forEach((key) => {
           if (typeof i[key] === "string") i[key] = i[key].trim();
           if (i[key] !== "") i[keyName(key)] = i[key];
           delete i[key];
-          PRIVATE_COLUMNS.forEach((col) => delete i[col]);
+          PRIVATE_COLUMNS.forEach((col) => {
+            delete i[col];
+            delete i[keyName(col)];
+          });
         });
+        i.id = id;
       }
       return i;
     });
