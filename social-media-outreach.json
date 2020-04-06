@@ -427,7 +427,7 @@
     "linkedDistribution": [
       "recdDc22z8gLjTCqa"
     ],
-    "notes": "Ramveer Singh, one of our volunteers",
+    "notes": "One of our volunteers identified 61 families in a Gurgaon slum, affected by the pandemic. The ration kits served as a relief.",
     "pictures": [
       {
         "id": "attXbdRAT8uB9xNmM",
@@ -454,31 +454,31 @@
         }
       },
       {
-        "id": "attCJLFEm5WMBqVoL",
-        "url": "https://dl.airtable.com/.attachments/6aaae710f729cee0afcf3e5108525a9e/1f9f3a30/1.png",
+        "id": "attBV0FXY1AKdhPpy",
+        "url": "https://dl.airtable.com/.attachments/7b2df98dc9f85f9cb83d5f8951d00cb5/ad5cd2b8/1.png",
         "filename": "1.png",
-        "size": 902198,
+        "size": 904487,
         "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/bec30d523370f06f7c43d986fe27caca/d83e9fd8",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fbe75056882ea4a7b1f4c7eb10f7899f/a78b2f2f",
             "width": 36,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ec9c9f8232bd056dde1feaac14ccca76/4d7cd757",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e18fb72bc3d1fe53ed86bc07ad464335/bdf466b9",
             "width": 512,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/931e287785ecc51429c1a07617438e87/d10edb98",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b3676c715dca395fdc2539ba555421a2/d1227551",
             "width": 3000,
             "height": 3000
           }
         }
       }
     ],
-    "status": "Graphics Ready"
+    "status": "Publish to website"
   },
   {
     "_id": "recu2Dx6MVYdRjZld",
