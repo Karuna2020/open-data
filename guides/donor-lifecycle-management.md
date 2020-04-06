@@ -11,7 +11,7 @@ The current process is managed on Airtable. Ask for access if you don’t have i
 1. Anurag/ Vikrant add a record from txns using Donor Form (Not available publicly)
 2. Card will show up in **Uncategorised Column**
 3. Send the following SMS and move card to **Sent SMS Column**
-   1. “Hi #Name, Thanks and gratitude for your donation of Rs. 32000/- to[ ++Karuna2020.org++](http://karuna2020.org/). A volunteer will call you shortly to arrange a receipt.”
+   1. “Hi #Name, Thanks and gratitude for your donation of Rs. 32000/- to [Karuna2020.org](http://karuna2020.org). A volunteer will call you shortly to arrange a receipt.”
 4. After sending the SMS, call them up:
    1. Introduce yourself, "Hi, this is Shivek Khurana, a volunteer at Karuna 2020"
    2. Thank them for donating to a noble cause, "Thank you for your donation."

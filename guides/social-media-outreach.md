@@ -64,7 +64,7 @@ After designing the posts, upload them to Airtable under "Social Media Outreach"
 
 #### How to post
 
-1. Log in to Instagram using the shared credentials in the "Tech & Marketing" group
+1. Log in to Instagram using the shared credentials in the "Tech & Marketing" group description
 2. Select the post, ideally with one "cover" image and other normal photos
 3. Don't apply any additional filters, use the "Normal" mode since posts are pre-designed
 4. Add a caption and hashtags (use previous posts and inspiration)
@@ -83,3 +83,13 @@ We have systems set in place that cross-post to different social media services.
 ### Why is Instagram the source of truth?
 
 We've explored services like Buffer that let you schedule and cross-post, but they are unaffordable for our use case; we would rather spend the money on ration and distribution. Furthermore, Instagram does not have an easy-to-use API to post, so we need to manually post. Lastly, Facebook and Instagram have a pretty nice native integration for cross-posting.
+
+## Website posting system
+
+Our site is configured to automatically fetch data from Airtable and publish it under the [updates](https://karuna2020.org/updates) section. The "event" field becomes the tile and "notes" field become the body of the post.
+
+If the post is linked to a distribution, all the attached distribution pictures will also be posted on the website. As a precaution, ensure that all faces in distribution pictures are blurred before moving the card to "Publish to website" column. 
+
+A distribution date is required for a card to reflect on the website. This date is a field on the linked distribution card.
+
+All changes made to Airtable will reflect on the website in 15-20 minutes.
