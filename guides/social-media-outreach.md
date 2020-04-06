@@ -54,6 +54,8 @@ Use the Photoshop template available on the shared Google Drive ([download PSD](
 
 Before you start with the following process, make sure you have the typeface _Hind_ installed ([available on Google Fonts](https://fonts.google.com/specimen/Hind?selection.family=Hind)). Hind is designed by the Indian Type Foundry and we use the Hind bold font in our posts.
 
+After designing the posts, upload them to Airtable under "Social Media Outreach" and move the card to "Photos uploaded". Make sure the file names are "0.png", "1.png", "2.png" and so on, making sure "0.png" is the main cover photo. This is because we alphabetically sort the file names and use the first photo as the cover.
+
 1. Replace the lowest layer with the background image with the best-looking distribution photo
 2. Change the colors of the two overlay layers with a unique color, ideally one that hasn't been posted recently
 3. Update the title and subtitle text on the post
