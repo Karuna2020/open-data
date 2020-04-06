@@ -3417,13 +3417,114 @@
     "_id": "recdDc22z8gLjTCqa",
     "areaOfDelivery": "Near Gurgaon Godown",
     "deliveredOn": "2020-04-05",
+    "distributionPictures": [
+      {
+        "id": "att1QMAy0zpUJb25H",
+        "url": "https://dl.airtable.com/.attachments/9e3e04c483a661a03166433876e8b333/a4563693/Screenshot2020-04-06at2.00.20PM.jpg",
+        "filename": "Screenshot 2020-04-06 at 2.00.20 PM.jpg",
+        "size": 34909,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/775ba8e6f345f1968bed55e91443fde6/3a7c9db6",
+            "width": 66,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f8dd1cf556b8cd964f14999c8468e942/79e51e4b",
+            "width": 679,
+            "height": 371
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a2a4dc4223d752136a6dec13c5a80dc6/735a9490",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attJewqXxKDL0kAQG",
+        "url": "https://dl.airtable.com/.attachments/8f9643bc3ec0f407f9e815451e3f8579/a154d15a/Screenshot2020-04-06at2.00.43PM.jpg",
+        "filename": "Screenshot 2020-04-06 at 2.00.43 PM.jpg",
+        "size": 32378,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a2decfd71460453092fe869c5b3fff31/ab86d443",
+            "width": 67,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e1d00ecf3ceb6bdd6cfc9999c66f3ea9/9d5e9e1e",
+            "width": 663,
+            "height": 358
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a0e5ee2357f8b2bf0519a1e5a22b35a4/8e3c5002",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attQ1ccLh58M10FVG",
+        "url": "https://dl.airtable.com/.attachments/abbfbfd951d1c2808ca02375133866e3/cbe42104/Screenshot2020-04-06at2.01.24PM.jpg",
+        "filename": "Screenshot 2020-04-06 at 2.01.24 PM.jpg",
+        "size": 27853,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b5bb864b9df029256b83cf0d3f8cdbc3/41b09419",
+            "width": 50,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ceab5b36916d32d99cb3c6f981fa7022/65dbcbbd",
+            "width": 522,
+            "height": 374
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/74c77f1be7565848df84a78189497ea3/e26e79fe",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attTi7DSevzGW7TKZ",
+        "url": "https://dl.airtable.com/.attachments/3ac85132afff08b3b02430e0805711fc/bb9d2388/Screenshot2020-04-06at2.02.13PM.jpg",
+        "filename": "Screenshot 2020-04-06 at 2.02.13 PM.jpg",
+        "size": 27212,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/491dfde86fb9aa9be0aba32b6e336329/67341dba",
+            "width": 52,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2db28e9d13b1d8807e55dfe05411f7e6/6fc0f695",
+            "width": 509,
+            "height": 351
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9f34ca1616136bb382cbd5b8f1f6c958/3b2f6871",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "godown": "Gurgoan",
     "handler": [
       "rec8weJ5mIvcvV5rK"
     ],
     "name": "Ramveer Singh - Local Distribution",
-    "numberOfKitsNeeded": 64,
-    "status": "Delivered"
+    "numberOfKitsNeeded": 61,
+    "socialMediaOutreach": [
+      "recdBp0m9EO8WyKZs"
+    ],
+    "status": "Received Distribution Pictures"
   },
   {
     "_id": "recgx674hicH6ct0e",

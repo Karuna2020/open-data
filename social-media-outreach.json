@@ -359,6 +359,19 @@
     "status": "Photos uploaded"
   },
   {
+    "_id": "recdBp0m9EO8WyKZs",
+    "dateOfOccurence": "2020-04-05",
+    "event": "64 kits distributed in Gurgaon",
+    "handlers": [
+      "rec8weJ5mIvcvV5rK"
+    ],
+    "id": "recdBp0m9EO8WyKZs",
+    "linkedDistribution": [
+      "recdDc22z8gLjTCqa"
+    ],
+    "status": "Photos uploaded"
+  },
+  {
     "_id": "recu2Dx6MVYdRjZld",
     "dateOfOccurence": "2020-03-31",
     "event": "70 Kits Distributed by an Anonymous Executive",
