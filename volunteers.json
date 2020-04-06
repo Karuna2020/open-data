@@ -158,7 +158,10 @@
     "areaOfWorkAllocated": "Social Media Outreach",
     "id": "recjDkPJ6t8RVHZXz",
     "location": "West Delhi",
-    "name": "Sarthak Khurana"
+    "name": "Sarthak Khurana",
+    "socialMediaOutreach": [
+      "reccvidfwY53VMZ1R"
+    ]
   },
   {
     "_id": "reck2YKHsRElZlcOg",
