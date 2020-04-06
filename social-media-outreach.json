@@ -127,7 +127,16 @@
     "handlers": [
       "recKiQ0VGnZMljPTf"
     ],
-    "id": "recOGr4pWVWy0xYEW"
+    "id": "recOGr4pWVWy0xYEW",
+    "pictures": [
+      {
+        "id": "attbzAKFGO26Ynpbp",
+        "url": "https://dl.airtable.com/.attachments/1abbde379d3700aefe4d073dc1167312/ce1cd695/synthesize.mp4",
+        "filename": "synthesize.mp4",
+        "size": 248302,
+        "type": "video/mp4"
+      }
+    ]
   },
   {
     "_id": "recRmU41MAMjRyIF7",
