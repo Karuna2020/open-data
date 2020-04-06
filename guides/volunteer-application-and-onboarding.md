@@ -69,11 +69,11 @@ We have a 6 step process to onboard and assign you to the right team:
 
 This section is meant for operators. Our onboarding funnel is on Airtable, ask for access if you don’t have it:
 
-1. Pick a card from **Uncategorised Column **and assign yourself as the handler
+1. Pick a card from **Uncategorised Column** and assign yourself as the handler
 2. Call and introduce yourself, “Hi, this is Shivek from Karuna 2020. This call is regarding your application to volunteer.”
 3. Give them a broad overview of what we do, “We are trying to ease the impact of Covid 19 Pandemic by providing dry ration to families in need, in a transparent way”.
 4. Talk about the achievements so far, “We have raised over 10lakh INR since the lockdown and have provided for 1200 families.”
-5. Inquire about their experience in the field they have chosen to work on, write their specialities in **Notes Field **in the card.
+5. Inquire about their experience in the field they have chosen to work on, write their specialities in **Notes Field** in the card.
 6. Share your contact information with them. Be their point of contact until they feel comfortable talking to other people on the team.
 7. Request them to follow us on Instagram and Facebook and share our posts in their network
 8. Request them to read standard operating protocols and safety measures
@@ -82,10 +82,11 @@ This section is meant for operators. Our onboarding funnel is on Airtable, ask f
 11. Get them invited to a conference meeting
 12. Arrange access to the relevant board/ Google Sheet to help them pick up their first task
 13. See how they progress
-14. Move them to **Onboarded Column **when they have successfully finished their first task
+14. Move them to **Onboarded Column** when they have successfully finished their first task
 15. Request them to add themself to the list of active volunteers
 
 # Conclusion
 
 The crisis we are facing needs all help that the world can afford. We are a small group of people playing our humble part, and designing processes to help you play yours.
-Apply now.
+
+<a href="https://go.karuna2020.org/volunteer" class="cta">Apply now</a>
