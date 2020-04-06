@@ -456,7 +456,7 @@
       "recIKJzr77ClSkBIp"
     ],
     "name": "Vasant Kunj Waste Pickers/ Ref Anurag",
-    "numberOfKitsNeeded": 100,
+    "numberOfKitsNeeded": 104,
     "status": "Request Approved"
   },
   {
@@ -720,7 +720,7 @@
     "name": "Himachal Migrants",
     "notes": "Atul Ji to send list",
     "numberOfKitsNeeded": 7,
-    "status": "Distributor Assigned"
+    "status": "Delivered"
   },
   {
     "_id": "recV6TQvYM1Xyyn6f",
@@ -973,7 +973,7 @@
     ],
     "name": "Ramveer Singh - Local Distribution",
     "numberOfKitsNeeded": 64,
-    "status": "Distributor Assigned"
+    "status": "Delivered"
   },
   {
     "_id": "recgx674hicH6ct0e",
