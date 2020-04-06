@@ -58,7 +58,7 @@
         }
       }
     ],
-    "status": "Shared on social media"
+    "status": "Publish to website"
   },
   {
     "_id": "recJOqo46DyZE0qt4",
@@ -232,7 +232,8 @@
   },
   {
     "_id": "recT3vD3ADoTqd3ur",
-    "event": "400 Kits at Gulmeher",
+    "dateOfOccurence": "2020-04-06",
+    "event": "500 Kits at Gulmeher",
     "id": "recT3vD3ADoTqd3ur",
     "linkedDistribution": [
       "rec3WRRvrLxq90FmI"
