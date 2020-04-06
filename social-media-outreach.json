@@ -120,6 +120,15 @@
     "status": "Publish to website"
   },
   {
+    "_id": "recMldiWLslcoAWQv",
+    "event": "First Sprint Report",
+    "handlers": [
+      "recIKJzr77ClSkBIp"
+    ],
+    "id": "recMldiWLslcoAWQv",
+    "notes": "Estimate costs/ impact and learning from the first sprint"
+  },
+  {
     "_id": "recOGr4pWVWy0xYEW",
     "event": "2d Animated Course of SOPs",
     "handlers": [

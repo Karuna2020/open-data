@@ -90,7 +90,10 @@
     ],
     "id": "recIKJzr77ClSkBIp",
     "location": "West Delhi",
-    "name": "Shivek Khurana"
+    "name": "Shivek Khurana",
+    "socialMediaOutreach": [
+      "recMldiWLslcoAWQv"
+    ]
   },
   {
     "_id": "recJbFfMkoYdLLhMv",
@@ -144,6 +147,14 @@
     "location": "Mumbai",
     "name": "Tuhin",
     "reference": "Mr. Anurag Kashayp"
+  },
+  {
+    "_id": "recjDkPJ6t8RVHZXz",
+    "active": true,
+    "areaOfWorkAllocated": "Social Media Outreach",
+    "id": "recjDkPJ6t8RVHZXz",
+    "location": "West Delhi",
+    "name": "Sarthak Khurana"
   },
   {
     "_id": "reck2YKHsRElZlcOg",
