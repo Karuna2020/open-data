@@ -420,13 +420,64 @@
     "_id": "recdBp0m9EO8WyKZs",
     "event": "61 kits distributed in Gurgaon",
     "handlers": [
-      "rec8weJ5mIvcvV5rK"
+      "rec8weJ5mIvcvV5rK",
+      "recjDkPJ6t8RVHZXz"
     ],
     "id": "recdBp0m9EO8WyKZs",
     "linkedDistribution": [
       "recdDc22z8gLjTCqa"
     ],
-    "status": "Photos uploaded"
+    "pictures": [
+      {
+        "id": "attXbdRAT8uB9xNmM",
+        "url": "https://dl.airtable.com/.attachments/1fc5b4d5b25d1dec4d5908939a18a4a8/c28806a5/0.png",
+        "filename": "0.png",
+        "size": 595156,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a25ec9d8a5b6aefa39c37a7f8be04cf0/303f1c47",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d3e8106d94256ca661aecc9c3fdeb1c4/389f8a1c",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4d552ce417d0906608bf5023405496f3/a6d54a18",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attCJLFEm5WMBqVoL",
+        "url": "https://dl.airtable.com/.attachments/6aaae710f729cee0afcf3e5108525a9e/1f9f3a30/1.png",
+        "filename": "1.png",
+        "size": 902198,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bec30d523370f06f7c43d986fe27caca/d83e9fd8",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ec9c9f8232bd056dde1feaac14ccca76/4d7cd757",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/931e287785ecc51429c1a07617438e87/d10edb98",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
   },
   {
     "_id": "recu2Dx6MVYdRjZld",
