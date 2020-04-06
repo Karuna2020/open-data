@@ -52,6 +52,8 @@ Every time we do a new on-ground material distribution, we publish an update on 
 
 Use the Photoshop template available on the shared Google Drive ([download PSD](https://drive.google.com/open?id=1NJwIq8_Yb5I_AqnSg3yBXuzm86VpQ2mK)) and edit is as follows:
 
+Before you start with the following process, make sure you have the typeface _Hind_ installed ([available on Google Fonts](https://fonts.google.com/specimen/Hind?selection.family=Hind)). Hind is designed by the Indian Type Foundry and we use the Hind bold font in our posts.
+
 1. Replace the lowest layer with the background image with the best-looking distribution photo
 2. Change the colors of the two overlay layers with a unique color, ideally one that hasn't been posted recently
 3. Update the title and subtitle text on the post
