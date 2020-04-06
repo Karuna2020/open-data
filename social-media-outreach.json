@@ -1,7 +1,6 @@
 [
   {
     "_id": "recAoKzxXkK8T9NY8",
-    "dateOfOccurence": "2020-04-04",
     "event": "9 kits delivered in DLF Phase 3",
     "id": "recAoKzxXkK8T9NY8",
     "linkedDistribution": [
@@ -62,7 +61,6 @@
   },
   {
     "_id": "recJOqo46DyZE0qt4",
-    "dateOfOccurence": "2020-04-04",
     "event": "2 kits delivered to the elderly in DLF Phase 3",
     "id": "recJOqo46DyZE0qt4",
     "linkedDistribution": [
@@ -147,7 +145,6 @@
       "Website",
       "Insta"
     ],
-    "dateOfOccurence": "2020-04-03",
     "event": "12 kits distributed in Sikanderpur",
     "id": "recRmU41MAMjRyIF7",
     "linkedDistribution": [
@@ -232,7 +229,6 @@
   },
   {
     "_id": "recT3vD3ADoTqd3ur",
-    "dateOfOccurence": "2020-04-06",
     "event": "500 Kits at Gulmeher",
     "id": "recT3vD3ADoTqd3ur",
     "linkedDistribution": [
@@ -242,7 +238,6 @@
   },
   {
     "_id": "recWwKFHlfRVxYBNV",
-    "dateOfOccurence": "2020-04-04",
     "event": "9 kits delivered to Basai Dara Pur",
     "id": "recWwKFHlfRVxYBNV",
     "linkedDistribution": [
@@ -351,17 +346,43 @@
   },
   {
     "_id": "reccvidfwY53VMZ1R",
-    "event": "30 at Saraul",
+    "event": "30 at Sarhaul",
     "id": "reccvidfwY53VMZ1R",
     "linkedDistribution": [
       "rec9F69PL70oGxW4s"
+    ],
+    "notes": "We don't have photos because the Sarpanch's family has taken over the distribution. They also contributed the entire cost of kits",
+    "pictures": [
+      {
+        "id": "attk45xgMP7nEHgZF",
+        "url": "https://dl.airtable.com/.attachments/b6af833fe56bdd5c290e2613ecc6cc7e/2590cf94/0.png",
+        "filename": "0.png",
+        "size": 793826,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cf1374983f9f7a4cf6fdaecbe01d97b9/36dcd021",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6650e565cbe45b25b6807484aebf89b3/b89caddd",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/94e8f421cdfb6655abe762303cec9ec6/476a9289",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
     ],
     "status": "Photos uploaded"
   },
   {
     "_id": "recdBp0m9EO8WyKZs",
-    "dateOfOccurence": "2020-04-05",
-    "event": "64 kits distributed in Gurgaon",
+    "event": "61 kits distributed in Gurgaon",
     "handlers": [
       "rec8weJ5mIvcvV5rK"
     ],
@@ -373,7 +394,6 @@
   },
   {
     "_id": "recu2Dx6MVYdRjZld",
-    "dateOfOccurence": "2020-03-31",
     "event": "70 Kits Distributed by an Anonymous Executive",
     "id": "recu2Dx6MVYdRjZld",
     "notes": "- Someone from Vistara\n- He paid for kits and managed distributions personally\n- No Photos because he wanted to stay undercover",
@@ -381,7 +401,6 @@
   },
   {
     "_id": "recwTEmOno3APyMYG",
-    "dateOfOccurence": "2020-04-04",
     "event": "Materials Received At Ghazipur",
     "id": "recwTEmOno3APyMYG",
     "pictures": [
