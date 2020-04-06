@@ -210,7 +210,29 @@
     "date": "05/04/2020"
   },
   {
+    "sNo": "28",
+    "contributorName": "Platinum Hospitality",
+    "amount": "₹11,000",
+    "method": "NEFT",
+    "fromBank": "Kotak",
+    "date": "06/04/2020"
+  },
+  {
+    "sNo": "29",
+    "contributorName": "Parul Agarwal",
+    "amount": "₹10,000",
+    "method": "TPT",
+    "date": "06/04/2020"
+  },
+  {
+    "sNo": "30",
+    "contributorName": "FIL Industries ltd",
+    "amount": "₹10,000",
+    "method": "NEFT",
+    "date": "06/04/2020"
+  },
+  {
     "contributorName": "Sum",
-    "amount": "₹663,741"
+    "amount": "₹694,741"
   }
 ]
