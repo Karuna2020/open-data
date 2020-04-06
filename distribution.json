@@ -2764,6 +2764,7 @@
   {
     "_id": "rec9F69PL70oGxW4s",
     "areaOfDelivery": "Saroul",
+    "deliveredOn": "2020-04-05",
     "distributionPictures": [
       {
         "id": "attJoGs3PGUn5bt2D",
@@ -2891,7 +2892,7 @@
       "rec4KettqbIcPbESo"
     ],
     "name": "Sanjeev Ji - Son of Sarpanch / Ref Atul Celly",
-    "notes": "Will Pay for 30kits\n\nHave Received 30 Full Kits + 50 kg rice extra.\n\nDistribution id11 had 5kits short, so Bharath offloaded it here.",
+    "notes": "- Will Pay for 30kits\n- Have Received 30 Full Kits + 50 kg rice extra.\n- Distribution id11 had 5kits short, so Bharath offloaded it here.\n- Photos of Aadhaar not available because they paid for all 30 kits; partial photos of distribution are available",
     "numberOfKitsNeeded": 30,
     "socialMediaOutreach": [
       "reccvidfwY53VMZ1R"
