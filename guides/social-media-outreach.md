@@ -58,9 +58,10 @@ After designing the posts, upload them to Airtable under "Social Media Outreach"
 
 1. Replace the lowest layer with the background image with the best-looking distribution photo
 2. Change the colors of the two overlay layers with a unique color, ideally one that hasn't been posted recently
-3. Update the title and subtitle text on the post
-4. Export a 1024px square PNG by selecting "File" → "Save to Web"
-5. Optionally, create another 1024px canvas and make a collage of other photos
+3. Increase or decrease the opacity of the color layers, making sure image details aren't lost
+4. Update the title and subtitle text on the post
+5. Export a 1024px square PNG by selecting "File" → "Save to Web"
+6. Optionally, create another 1024px canvas and make a collage of other photos
 
 #### How to post
 
