@@ -232,7 +232,22 @@
     "date": "06/04/2020"
   },
   {
+    "sNo": "31",
+    "contributorName": "Sanjeev Kumar Yadav",
+    "amount": "₹21,000",
+    "method": "NEFT",
+    "fromBank": "CBI",
+    "date": "07/04/2020"
+  },
+  {
+    "sNo": "32",
+    "contributorName": "Dharma",
+    "amount": "₹5,250",
+    "method": "Cash",
+    "date": "07/04/2020"
+  },
+  {
     "contributorName": "Sum",
-    "amount": "₹694,741"
+    "amount": "₹720,991"
   }
 ]
