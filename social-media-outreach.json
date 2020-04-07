@@ -249,19 +249,15 @@
   {
     "_id": "recT3vD3ADoTqd3ur",
     "event": "500 Kits at Gulmeher",
+    "handlers": [
+      "recjDkPJ6t8RVHZXz"
+    ],
     "id": "recT3vD3ADoTqd3ur",
     "linkedDistribution": [
       "rec3WRRvrLxq90FmI"
     ],
     "notes": "Our biggest outreach yet, 500 kits were distributed in Gulmeher. Almost 2000 will benifit from these kits. This endevour would not have been possible without our generous donors, untiring ground support and all those who made it happen.",
     "pictures": [
-      {
-        "id": "attrU3KDaJQos9WU7",
-        "url": "https://dl.airtable.com/.attachments/ba8ce2b609d4dd58dfbd4fecf314afcc/993f26a0/0.mp4",
-        "filename": "0.mp4",
-        "size": 6604165,
-        "type": "video/mp4"
-      },
       {
         "id": "attFoZnTGJXUJLHo4",
         "url": "https://dl.airtable.com/.attachments/c46c49fbcdb012d465fe132aefd65aeb/15008280/1.png",
@@ -281,6 +277,30 @@
           },
           "full": {
             "url": "https://dl.airtable.com/.attachmentThumbnails/498629b7a4865446f450b6f3a4a2bec1/acc261ae",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attFAqd9xdCMQqpHm",
+        "url": "https://dl.airtable.com/.attachments/649a73dd8985fa51971dfc862b3d4b89/c2fd3d66/0.png",
+        "filename": "0.png",
+        "size": 772652,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fbb7cb4a929d56d8586ed7539e9477c7/74c71685",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a5748ac2e02628e226c526235a5e734b/7fe0ec67",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fbce623561ca6995b49afd853f5e3f98/3e0ecfc5",
             "width": 3000,
             "height": 3000
           }
