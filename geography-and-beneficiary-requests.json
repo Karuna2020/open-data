@@ -1,106 +1,41 @@
 [
   {
-    "sNo": "1",
-    "clusterControlPoints": "East Delhi"
+    "notInUseFlowShiftedToAirtable": "S No."
   },
   {
-    "clusterControlPoints": "Gazipur",
-    "beneficiaryAreas": "Gazipur, Kalyanpuri",
-    "workCenter": "Gulmehar"
+    "notInUseFlowShiftedToAirtable": "1"
   },
   {
-    "clusterControlPoints": "Akshardham"
+    "notInUseFlowShiftedToAirtable": "2"
   },
   {
-    "clusterControlPoints": "Ashram Chownk"
+    "notInUseFlowShiftedToAirtable": "3"
   },
   {
-    "sNo": "2",
-    "clusterControlPoints": "South Delhi"
+    "notInUseFlowShiftedToAirtable": "4"
   },
   {
-    "clusterControlPoints": "Kalkaji/ GK",
-    "beneficiaryAreas": "Okhla, Govindpuri"
+    "notInUseFlowShiftedToAirtable": "5"
   },
   {
-    "clusterControlPoints": "IIT Crossing"
+    "notInUseFlowShiftedToAirtable": "Locality"
   },
   {
-    "clusterControlPoints": "Mehrauli/ Vasant Kunj",
-    "beneficiaryAreas": "Chatarpur",
-    "workCenter": "Sanjeevs Farm, Maidangarhi"
+    "notInUseFlowShiftedToAirtable": "Gazipur"
   },
   {
-    "clusterControlPoints": "Ghitorni",
-    "workCenter": "Atuls Kitchen"
+    "notInUseFlowShiftedToAirtable": "Gurgaon"
   },
   {
-    "clusterControlPoints": "Aya Nagar"
+    "notInUseFlowShiftedToAirtable": "Tikri"
   },
   {
-    "sNo": "3",
-    "clusterControlPoints": "Gurgaon"
+    "notInUseFlowShiftedToAirtable": "Gurgaon"
   },
   {
-    "clusterControlPoints": "DLF Phase 3"
+    "notInUseFlowShiftedToAirtable": "Vasant Kunj-Jai Hind camp"
   },
   {
-    "clusterControlPoints": "Sector 37, Gurgaon"
-  },
-  {
-    "sNo": "4",
-    "clusterControlPoints": "Uttrakhand"
-  },
-  {
-    "sNo": "5",
-    "clusterControlPoints": "Chandigarh"
-  },
-  {
-    "sNo": "Locality",
-    "clusterControlPoints": "Name of Person who Requested",
-    "beneficiaryAreas": "Contact Details",
-    "workCenter": "Number of Families"
-  },
-  {
-    "sNo": "Gazipur",
-    "clusterControlPoints": "Anurag Kashyap",
-    "workCenter": "500"
-  },
-  {
-    "sNo": "Gurgaon",
-    "clusterControlPoints": "Vistara team C/o Atul Celly",
-    "workCenter": "100"
-  },
-  {
-    "sNo": "Tikri",
-    "clusterControlPoints": "Monika Halan",
-    "workCenter": "50"
-  },
-  {
-    "sNo": "Gurgaon",
-    "clusterControlPoints": "Anurag Kashyap",
-    "workCenter": "3500"
-  },
-  {
-    "clusterControlPoints": "Shahrukh",
-    "workCenter": "30"
-  },
-  {
-    "sNo": "Vasant Kunj-Jai Hind camp",
-    "clusterControlPoints": "Anurag Kashyap",
-    "workCenter": "1000"
-  },
-  {
-    "clusterControlPoints": "Kripa",
-    "workCenter": "9"
-  },
-  {
-    "sNo": "Gurgaon",
-    "clusterControlPoints": "Atul Celly",
-    "workCenter": "11"
-  },
-  {
-    "beneficiaryAreas": "Total",
-    "workCenter": "5180"
+    "notInUseFlowShiftedToAirtable": "Gurgaon"
   }
 ]

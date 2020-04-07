@@ -1,148 +1,44 @@
 [
   {
-    "date": "27th March 2020",
-    "time": "1400",
-    "orderedBy": "Atul Celly",
-    "party": "HyperPure",
-    "materialOrdered": "Dal",
-    "units": "Kg",
-    "quantity": "1020",
-    "totalOrderValue": "145352",
-    "materialReceivedStatusWhichGodown": "Received at Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001"
+    "notInUseFlowShiftedToAirtable": "Date"
   },
   {
-    "time": "1400",
-    "orderedBy": "Atul Celly",
-    "party": "HyperPure",
-    "materialOrdered": "Palm oil",
-    "units": "Litre",
-    "quantity": "1000",
-    "materialReceivedStatusWhichGodown": "Received at Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001"
+    "notInUseFlowShiftedToAirtable": "27th March 2020"
   },
   {
-    "time": "1400",
-    "orderedBy": "Atul Celly",
-    "party": "HyperPure",
-    "materialOrdered": "Salt",
-    "units": "Kg",
-    "quantity": "100",
-    "totalOrderValue": "23655",
-    "materialReceivedStatusWhichGodown": "Received at Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001"
+    "notInUseFlowShiftedToAirtable": "30th March 2020"
   },
   {
-    "time": "1400",
-    "orderedBy": "Atul Celly",
-    "party": "HyperPure",
-    "materialOrdered": "Rice",
-    "units": "Kg",
-    "quantity": "760",
-    "materialReceivedStatusWhichGodown": "Received at Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001"
+    "notInUseFlowShiftedToAirtable": "30th March 2020"
   },
   {
-    "date": "30th March 2020",
-    "materialOrdered": "Polythene Bags-5 kg",
-    "units": "No.",
-    "quantity": "2000",
-    "materialReceivedStatusWhichGodown": "Received at Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001"
+    "notInUseFlowShiftedToAirtable": "Ordered placed"
   },
   {
-    "date": "30th March 2020",
-    "materialOrdered": "Rice",
-    "units": "Kg",
-    "quantity": "10000",
-    "totalOrderValue": "300000",
-    "invoiceReceived": "Yes",
-    "invoicePaid": "Yes"
+    "notInUseFlowShiftedToAirtable": "29th March 2020"
   },
   {
-    "materialOrdered": "Total",
-    "totalOrderValue": "469007"
+    "notInUseFlowShiftedToAirtable": "29th March 2020"
   },
   {
-    "date": "Ordered placed"
+    "notInUseFlowShiftedToAirtable": "29th March 2020"
   },
   {
-    "date": "29th March 2020",
-    "party": "HyperPure",
-    "materialOrdered": "Soap",
-    "units": "No.",
-    "quantity": "2000",
-    "totalOrderValue": "30000",
-    "materialReceivedStatusWhichGodown": "To be Delivered to Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi"
+    "notInUseFlowShiftedToAirtable": "29th March 2020"
   },
   {
-    "date": "29th March 2020",
-    "party": "HyperPure",
-    "materialOrdered": "Salt",
-    "units": "Kg",
-    "quantity": "500",
-    "totalOrderValue": "7500",
-    "materialReceivedStatusWhichGodown": "To be Delivered to Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi"
+    "notInUseFlowShiftedToAirtable": "29th March 2020"
   },
   {
-    "date": "29th March 2020",
-    "party": "HyperPure",
-    "materialOrdered": "Haldi-Mirchi-Dhaniya Powder",
-    "units": "No.",
-    "quantity": "500",
-    "totalOrderValue": "35000",
-    "materialReceivedStatusWhichGodown": "To be Delivered to Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi"
+    "notInUseFlowShiftedToAirtable": "29th March 2020"
   },
   {
-    "date": "29th March 2020",
-    "party": "HyperPure",
-    "materialOrdered": "Dal",
-    "units": "Kg",
-    "quantity": "1000",
-    "totalOrderValue": "70000",
-    "materialReceivedStatusWhichGodown": "To be Delivered to Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi"
+    "notInUseFlowShiftedToAirtable": "29th March 2020"
   },
   {
-    "date": "29th March 2020",
-    "party": "HyperPure",
-    "materialOrdered": "Salt",
-    "units": "Kg",
-    "quantity": "400",
-    "totalOrderValue": "6000",
-    "materialReceivedStatusWhichGodown": "To be delivered to Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001"
+    "notInUseFlowShiftedToAirtable": "To be Ordered"
   },
   {
-    "date": "29th March 2020",
-    "party": "HyperPure",
-    "materialOrdered": "Haldi-Mirchi-Dhaniya Powder",
-    "units": "No.",
-    "quantity": "500",
-    "totalOrderValue": "35000",
-    "materialReceivedStatusWhichGodown": "To be delivered to Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001"
-  },
-  {
-    "date": "29th March 2020",
-    "party": "HyperPure",
-    "materialOrdered": "Soap",
-    "units": "No.",
-    "quantity": "2000",
-    "totalOrderValue": "30000",
-    "materialReceivedStatusWhichGodown": "To be delivered to Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001"
-  },
-  {
-    "materialOrdered": "Total",
-    "totalOrderValue": "213500"
-  },
-  {
-    "date": "To be Ordered"
-  },
-  {
-    "date": "Inter Godown Transfers to be done"
-  },
-  {
-    "contactPersonAndContactDetails": "From Indus, Gurgaon to Gulmehar, Gazipur",
-    "materialOrdered": "Palm oil",
-    "units": "Litre",
-    "quantity": "500"
-  },
-  {
-    "materialOrdered": "Polythene Bags-5 kg",
-    "units": "No",
-    "quantity": "500"
+    "notInUseFlowShiftedToAirtable": "Inter Godown Transfers to be done"
   }
 ]
