@@ -283,28 +283,11 @@
         }
       },
       {
-        "id": "attFAqd9xdCMQqpHm",
-        "url": "https://dl.airtable.com/.attachments/649a73dd8985fa51971dfc862b3d4b89/c2fd3d66/0.png",
-        "filename": "0.png",
-        "size": 772652,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/fbb7cb4a929d56d8586ed7539e9477c7/74c71685",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a5748ac2e02628e226c526235a5e734b/7fe0ec67",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/fbce623561ca6995b49afd853f5e3f98/3e0ecfc5",
-            "width": 3000,
-            "height": 3000
-          }
-        }
+        "id": "attcozgKD3X3gfVwd",
+        "url": "https://dl.airtable.com/.attachments/3203eb479568ea394e7dcbe5eb198862/beabace0/0.mp4",
+        "filename": "0.mp4",
+        "size": 11711103,
+        "type": "video/mp4"
       }
     ],
     "status": "Graphics Ready"
