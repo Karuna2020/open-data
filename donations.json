@@ -8,6 +8,19 @@
     "receivedInWhichAccount": "Shakti Foundation"
   },
   {
+    "_id": "rec39JRMSFB4eBPAD",
+    "amount": 11000,
+    "date": "2020-04-06",
+    "fromBank": "KOTAK",
+    "id": "rec39JRMSFB4eBPAD",
+    "method": "NEFT",
+    "mobile": "9999697055",
+    "name": "Platinum Hospitality",
+    "notes": "Atul Celly",
+    "receivedInWhichAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "KKBKH20097634967"
+  },
+  {
     "_id": "rec4s9TKPxyu3KqI4",
     "amount": 2001,
     "date": "2020-04-01",
@@ -18,6 +31,16 @@
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "receivedInWhichAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "9214567360"
+  },
+  {
+    "_id": "rec5F0zTLOZQ5DGH1",
+    "amount": 10000,
+    "id": "rec5F0zTLOZQ5DGH1",
+    "method": "TPT",
+    "name": "Parul Agarwal",
+    "notes": "Sunei Kapur",
+    "receivedInWhichAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "50100197093091"
   },
   {
     "_id": "rec857byT826egnmc",
@@ -161,6 +184,16 @@
     "notes": "Gautam Chikermane",
     "receivedInWhichAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "8921642916"
+  },
+  {
+    "_id": "recbmaWPpbX764onC",
+    "amount": 10000,
+    "id": "recbmaWPpbX764onC",
+    "method": "NEFT",
+    "name": "FIL Industries ltd",
+    "notes": "Sunei Kapur",
+    "receivedInWhichAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "NEFTSDC9045049"
   },
   {
     "_id": "receamWvl3ufQcpS4",

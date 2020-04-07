@@ -20,6 +20,20 @@
     "units": "Kg"
   },
   {
+    "_id": "rec9BkBKexZQZ6cJw",
+    "godown": "Sunei's Home",
+    "handler": [
+      "recJbFfMkoYdLLhMv"
+    ],
+    "item": "Full Kit",
+    "notes": "Procured by Sunei,\nDelivered to Sonu",
+    "orderedOn": "2020-04-04",
+    "quantity": 9,
+    "status": "Received",
+    "supplier": "Other",
+    "units": "No."
+  },
+  {
     "_id": "recA4s8BybFOAJg4K",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
     "item": "Haldi-Mirchi-Dhaniya Powder",
@@ -98,7 +112,7 @@
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
     "item": "Rice",
     "orderedOn": "2020-03-30",
-    "quantity": 10000,
+    "quantity": 8000,
     "status": "Received",
     "units": "Kg"
   },

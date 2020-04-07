@@ -108,7 +108,10 @@
     ],
     "id": "recJbFfMkoYdLLhMv",
     "location": "West Delhi",
-    "name": "Sunei Kapur"
+    "name": "Sunei Kapur",
+    "procurement": [
+      "rec9BkBKexZQZ6cJw"
+    ]
   },
   {
     "_id": "recKiQ0VGnZMljPTf",
@@ -121,6 +124,10 @@
     "name": "Kripa Jayaram",
     "socialMediaOutreach": [
       "recOGr4pWVWy0xYEW"
+    ],
+    "volunteerOnboarding": [
+      "recaoXtkTy0MW4Req",
+      "recS18hAL67zn0a9V"
     ]
   },
   {
