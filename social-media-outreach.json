@@ -253,7 +253,41 @@
     "linkedDistribution": [
       "rec3WRRvrLxq90FmI"
     ],
-    "status": "Photos uploaded"
+    "notes": "Our biggest outreach yet, 500 kits were distributed in Gulmeher. Almost 200",
+    "pictures": [
+      {
+        "id": "attrU3KDaJQos9WU7",
+        "url": "https://dl.airtable.com/.attachments/ba8ce2b609d4dd58dfbd4fecf314afcc/993f26a0/0.mp4",
+        "filename": "0.mp4",
+        "size": 6604165,
+        "type": "video/mp4"
+      },
+      {
+        "id": "attFoZnTGJXUJLHo4",
+        "url": "https://dl.airtable.com/.attachments/c46c49fbcdb012d465fe132aefd65aeb/15008280/1.png",
+        "filename": "1.png",
+        "size": 1507070,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9a6729ff47f78bb063221639b15c0da3/cba73f7f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b2958c3295ec5a015cde86887b27cf97/ebb38951",
+            "width": 512,
+            "height": 513
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/498629b7a4865446f450b6f3a4a2bec1/acc261ae",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
   },
   {
     "_id": "recWwKFHlfRVxYBNV",
