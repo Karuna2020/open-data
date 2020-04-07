@@ -42,5 +42,13 @@ $ python faceblur.py src/directory sink/directory
 ### Accuracy and Verification
 The script seems to handle a majority of cases, but a manual inspection is advisable. The faceblur software only blurs human faces. Addresses, vehicle numbers and other information is left intact.
 
+### Compressing image files
+Most distribution pictures are captured on a phone. We have observed a size reduction of about 40% by running iamges through python's [optimize-images](https://pypi.org/project/optimize-images/) package. Since Airtable space is limited, it's a good idea to compress before uploading.
+
+To compress, run the following command:
+```bash
+$ optimize-images path/to/folder/containing/jpgs
+```
+
 ### What if you don't code?
 Please contact Anand or Shivek and request them to run the face blur for you.
