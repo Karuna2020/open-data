@@ -3,6 +3,7 @@ import { config } from "dotenv";
 import { join } from "path";
 import slugify from "@sindresorhus/slugify";
 import axios from "axios";
+import { createHash } from "crypto";
 config();
 
 /**
@@ -65,19 +66,32 @@ const update = async () => {
     "Procurement",
     "Social Media Outreach",
   ]) {
-    const volunteers: any[] = [];
+    const data: any[] = [];
     await base(tab)
       .select()
       .eachPage((records, fetchNextPage) => {
-        volunteers.push(
+        data.push(
           ...records.map((record) => ({ _id: record.id, ...record.fields }))
         );
         fetchNextPage();
       });
-    console.log(tab, volunteers.length);
-    await writeJson(join(".", fileName(tab)), cleanResponse(volunteers), {
-      spaces: 2,
-    });
+    console.log(tab, data.length);
+    await writeJson(
+      join(".", fileName(tab)),
+      cleanResponse(
+        data.map((i) => {
+          const email = i.email || i.Email;
+          if (email)
+            i.emailMd5 = createHash("md5")
+              .update(email)
+              .digest("hex");
+          return i;
+        })
+      ),
+      {
+        spaces: 2,
+      }
+    );
     await wait(1000);
   }
 };
