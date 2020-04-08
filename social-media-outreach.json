@@ -530,9 +530,41 @@
   {
     "_id": "recu2Dx6MVYdRjZld",
     "event": "70 Kits Distributed by an Anonymous Executive",
+    "handlers": [
+      "recjDkPJ6t8RVHZXz"
+    ],
     "id": "recu2Dx6MVYdRjZld",
-    "notes": "- Someone from Vistara\n- He paid for kits and managed distributions personally\n- No Photos because he wanted to stay undercover",
-    "status": "Photos uploaded"
+    "linkedDistribution": [
+      "rec58pGVaFNKSOwp6"
+    ],
+    "notes": "An anonymous executive sponsored 70 kit and managed the distribution on ground level personally.",
+    "pictures": [
+      {
+        "id": "attCSUFp5fyNLGcj0",
+        "url": "https://dl.airtable.com/.attachments/b160e0c649b5954d601006143c6872c4/3514d2d4/0.png",
+        "filename": "0.png",
+        "size": 949953,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/74f93be735e7402278e5a424a899c61c/d6b72fba",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e2becbba5bf566f8ec845509d906a329/74063c61",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ab875df3d4e5b7b0865c89bc0a24b966/fcac7232",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Publish to website"
   },
   {
     "_id": "recwTEmOno3APyMYG",
