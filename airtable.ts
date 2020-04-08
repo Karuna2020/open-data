@@ -6,14 +6,9 @@ import axios from "axios";
 import { createHash } from "crypto";
 config();
 
-/**
- * This is NOT the API key, it's the public app ID
- */
-const AIRTABLE_APP_ID = "appoaPyQSLrreakJN";
-
 import Airtable from "airtable";
+import { safeLoad } from "js-yaml";
 const airtable = new Airtable();
-const base = airtable.base(AIRTABLE_APP_ID);
 
 const log = (...args: string[]) =>
   console.log(new Date().toISOString(), ...args);
@@ -34,15 +29,19 @@ const cleanResponse = (data: { [index: string]: string }[]) => {
     data = data.map((i) => {
       if (typeof i === "object" && !Array.isArray(i)) {
         const id = i._id;
-        Object.keys(i).forEach((key) => {
+        for (const key in i) {
           if (typeof i[key] === "string") i[key] = i[key].trim();
-          if (i[key] !== "") i[keyName(key)] = i[key];
-          delete i[key];
+          if (i.email)
+            i.emailMd5 = createHash("md5")
+              .update(i.email)
+              .digest("hex");
           PRIVATE_COLUMNS.forEach((col) => {
             delete i[col];
             delete i[keyName(col)];
           });
-        });
+          if (i[key] !== "") i[keyName(key)] = i[key];
+          delete i[key];
+        }
         i._id = id;
       }
       const ordered: any = {};
@@ -54,9 +53,12 @@ const cleanResponse = (data: { [index: string]: string }[]) => {
   return data;
 };
 
-const PRIVATE_COLUMNS = ["Phone", "Email", "phoneNumber", "listAadharPictures"];
+const PRIVATE_COLUMNS = ["phone", "email", "phoneNumber", "listAadharPictures"];
 
 const update = async () => {
+  const yaml = await readFile(join(".", "airtable.yml"), "utf8");
+  const sheetFile: { publicAppId: string; tabs: string[] } = safeLoad(yaml);
+  const base = airtable.base(sheetFile.publicAppId);
   log("Updating data from Airtable");
 
   for await (const tab of [
@@ -76,22 +78,9 @@ const update = async () => {
         fetchNextPage();
       });
     console.log(tab, data.length);
-    await writeJson(
-      join(".", fileName(tab)),
-      cleanResponse(
-        data.map((i) => {
-          const email = i.email || i.Email;
-          if (email)
-            i.emailMd5 = createHash("md5")
-              .update(email)
-              .digest("hex");
-          return i;
-        })
-      ),
-      {
-        spaces: 2,
-      }
-    );
+    await writeJson(join(".", fileName(tab)), cleanResponse(data), {
+      spaces: 2,
+    });
     await wait(1000);
   }
 };
