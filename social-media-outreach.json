@@ -605,6 +605,64 @@
     "status": "Publish to website"
   },
   {
+    "_id": "reciKykfE6iBRFDq9",
+    "date": "2020-04-09",
+    "event": "Donations over UPI now available",
+    "id": "reciKykfE6iBRFDq9",
+    "notes": "If you've been wanting to contribute but couldn't get around to the NEFT/RTGS process, we now support donations over UPI. Once you’ve made a donation, please fill the Donor Details Form available on our website so we can verify your donation and issue an 80G tax deduction receipt.\n\nUse the VPA SHAKTI.41215081@hdfcbank or find our QR code on https://karuna2020.org/donate/, and scan it using any UPI-supported payments app, like Paytm, PhonePe, Google Pay, and BHIM.",
+    "pictures": [
+      {
+        "id": "attnDT27bTBXYREFw",
+        "url": "https://dl.airtable.com/.attachments/32e1447125796aaf02d3e1584724e0f1/98d2eb04/upi-1.png",
+        "filename": "upi-1.png",
+        "size": 784616,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d3c1322b9ff11b9e2c628e9672e67eb8/61755cac",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2ca7ac0efc746190bc84468250934838/32d08266",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/73c092304b32f6889240eef3294c925e/6babcacd",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attP1YnNb1m4zNZSc",
+        "url": "https://dl.airtable.com/.attachments/1c92940bfc2b60fe747507a1aea255f4/9c95e7b0/upi-2.png",
+        "filename": "upi-2.png",
+        "size": 446500,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7defad5376c6959924fae4df6f61c028/ea34b33c",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2c6087a47fa4ec64fc971104e736a24e/cc1d87b8",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2d8db0d0989f76bd530afeedbb5b649f/c799d290",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Publish to website"
+  },
+  {
     "_id": "recu2Dx6MVYdRjZld",
     "event": "70 kits distributed by an anonymous executive",
     "handlers": [
