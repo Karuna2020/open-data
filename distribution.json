@@ -4621,6 +4621,13 @@
     "status": "Delivered"
   },
   {
+    "_id": "recTSeBGsGpIiG3d4",
+    "name": "Ashok Abrol - Well Wishers Request",
+    "notes": "1- Figure out how many kits are needed ? (1 kits is  for 4 people)\n2- Figure out the delivery address\n3- Figure out if someone will be present for onground distribution\n4- We don't have the kits in godown, but since the volume is low, we'll procure it externally\n\n\nMessage Received:\n\"Here is the list of needy labourers:1 Gobind\n2 Dharminder\n3 Tej Ram\n4 Nand Kishore\n5 Xaru\n6 Laxman Das\n7 Sharmili\n8 Ram sewak\nPlease arrange to supply the kits to 1271/37 from where the same will be collected by the individuals. Thanks\"",
+    "numberOfKitsNeeded": 8,
+    "status": "Have list"
+  },
+  {
     "_id": "recV6TQvYM1Xyyn6f",
     "areaOfDelivery": "Basai Dara Pur (West Delhi)",
     "deliveredOn": "2020-04-04",
