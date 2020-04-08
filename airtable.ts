@@ -24,7 +24,7 @@ const fileName = (file: string) => {
 const keyName = (key: string) =>
   slugify(key.trim()).replace(/-([a-z])/g, (g) => g[1].toUpperCase());
 
-const cleanResponse = (data: { [index: string]: string }[]) => {
+const cleanResponse = (tab: string, data: { [index: string]: string }[]) => {
   if (Array.isArray(data))
     data = data.map((i) => {
       if (typeof i === "object" && !Array.isArray(i)) {
@@ -50,6 +50,14 @@ const cleanResponse = (data: { [index: string]: string }[]) => {
         .forEach((key) => (ordered[key] = i[key]));
       return ordered;
     });
+  if (tab === "Volunteers")
+    data = data
+      .filter((i) => i.name)
+      .sort((a, b) => a.name.localeCompare(b.name));
+  if (tab === "Partners")
+    data = data
+      .filter((i) => i.brandName)
+      .sort((a, b) => a.brandName.localeCompare(b.brandName));
   return data;
 };
 
@@ -72,7 +80,7 @@ const update = async () => {
         fetchNextPage();
       });
     console.log(tab, data.length);
-    await writeJson(join(".", fileName(tab)), cleanResponse(data), {
+    await writeJson(join(".", fileName(tab)), cleanResponse(tab, data), {
       spaces: 2,
     });
     await wait(1000);
