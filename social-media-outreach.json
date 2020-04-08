@@ -2,12 +2,89 @@
   {
     "_id": "rec7oPiCkKtOpmysi",
     "event": "104 Vasant Kunj Waste Pickers Community",
+    "handlers": [
+      "recjDkPJ6t8RVHZXz"
+    ],
     "id": "rec7oPiCkKtOpmysi",
     "linkedDistribution": [
       "recEAKS9kmh01mXrg"
     ],
     "notes": "- Anurag ji leading charge\n- Plan to reach out 1000 families\n- 104 done",
-    "status": "Photos uploaded"
+    "pictures": [
+      {
+        "id": "attF7UtEOfkWUg7Th",
+        "url": "https://dl.airtable.com/.attachments/3c7572cb8dc9654b15d4b4de9c0d3fb3/82b7bb3a/2.png",
+        "filename": "2.png",
+        "size": 2379354,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6c0ae73b948811df8610485cc2d533a0/0edba4fd",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/01c57a677dd1e274d7af96ddcbc45b7d/5194e408",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b7e6e2525f4f0a9398e627962f526286/0ce39a2d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attguJ61pTjvql4Nq",
+        "url": "https://dl.airtable.com/.attachments/07ab187c56908c18c7f5805330e2c885/a075416e/1.png",
+        "filename": "1.png",
+        "size": 2484402,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/06bdc57029dd870b64b7399db20faaeb/df123678",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c9d7600bbf3c0d7a83ce9a2a8a68ed93/63a0a032",
+            "width": 543,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ca218cd5cb0de3c8ab7d1fc12ff24ddc/3e73a633",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attxdNJuRnCWh5yZQ",
+        "url": "https://dl.airtable.com/.attachments/f8de5033ea5e493b6c3598e442872945/55506e3b/0.png",
+        "filename": "0.png",
+        "size": 1150768,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/702e417a52079b0b2a4c76308d4fe308/af91490f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/89b08579a3556b0fd83c18dae454635b/6886f5cb",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0bfcd63d4b61d968ae57f2d0ace2a505/33fe281c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
   },
   {
     "_id": "recAoKzxXkK8T9NY8",
