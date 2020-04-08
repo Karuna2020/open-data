@@ -20,6 +20,9 @@
     "id": "rec24I5mDTmwq0jnh",
     "location": "Dehradun",
     "name": "Abhijit Patwal",
+    "partners": [
+      "recSVpv7No3r5FP1c"
+    ],
     "reference": "Mr. Anurag Kashayp"
   },
   {
@@ -200,7 +203,8 @@
     "location": "South Delhi",
     "name": "Anurag Kashyap",
     "partners": [
-      "recDAXlut4WEjl2Bk"
+      "recDAXlut4WEjl2Bk",
+      "recumOioylqWbswcZ"
     ]
   },
   {
