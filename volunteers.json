@@ -6,7 +6,11 @@
     "competenceBackground": "Social Work",
     "id": "rec0bpI6OkgZsykSB",
     "location": "South Delhi",
-    "name": "Vikrant Abrol"
+    "name": "Vikrant Abrol",
+    "partners": [
+      "reco0NlLLAGEMTrO1",
+      "reccUloEySdnmSVjF"
+    ]
   },
   {
     "_id": "rec24I5mDTmwq0jnh",
@@ -75,7 +79,10 @@
     "competenceBackground": "Technology, Startups",
     "id": "recI5SecmybSlU6Ul",
     "location": "South Delhi",
-    "name": "Anand Chowdhary"
+    "name": "Anand Chowdhary",
+    "partners": [
+      "recj1Zkw1ln9XERsd"
+    ]
   },
   {
     "_id": "recIKJzr77ClSkBIp",
@@ -91,6 +98,9 @@
     "id": "recIKJzr77ClSkBIp",
     "location": "West Delhi",
     "name": "Shivek Khurana",
+    "partners": [
+      "recWYoAJwoXo7VNpL"
+    ],
     "socialMediaOutreach": [
       "recMldiWLslcoAWQv"
     ],
@@ -123,6 +133,9 @@
     ],
     "id": "recKiQ0VGnZMljPTf",
     "name": "Kripa Jayaram",
+    "partners": [
+      "reco0NlLLAGEMTrO1"
+    ],
     "socialMediaOutreach": [
       "recOGr4pWVWy0xYEW"
     ],
@@ -185,7 +198,10 @@
     ],
     "id": "reck2YKHsRElZlcOg",
     "location": "South Delhi",
-    "name": "Anurag Kashyap"
+    "name": "Anurag Kashyap",
+    "partners": [
+      "recDAXlut4WEjl2Bk"
+    ]
   },
   {
     "_id": "recmWMfofjelP5bDg",
