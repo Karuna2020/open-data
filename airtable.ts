@@ -61,13 +61,7 @@ const update = async () => {
   const base = airtable.base(sheetFile.publicAppId);
   log("Updating data from Airtable");
 
-  for await (const tab of [
-    "Volunteers",
-    "Donations",
-    "Distribution",
-    "Procurement",
-    "Social Media Outreach",
-  ]) {
+  for await (const tab of sheetFile.tabs) {
     const data: any[] = [];
     await base(tab)
       .select()
