@@ -247,7 +247,14 @@
     "date": "07/04/2020"
   },
   {
+    "sNo": "33",
+    "contributorName": "Sonali Malhotra",
+    "amount": "₹5,000",
+    "method": "Cash",
+    "date": "07/04/2020"
+  },
+  {
     "contributorName": "Sum",
-    "amount": "₹720,991"
+    "amount": "₹725,991"
   }
 ]
