@@ -4878,9 +4878,10 @@
   },
   {
     "_id": "reccooYD9qC6z9dHv",
-    "areaOfDelivery": "Gurugaon",
+    "areaOfDelivery": "Gali No. 59, U Block, DLF Phase 3, sector 24, Gurgaon",
     "name": "Aisul Mohammad",
-    "numberOfKitsNeeded": 15
+    "numberOfKitsNeeded": 15,
+    "status": "Have list"
   },
   {
     "_id": "recdDc22z8gLjTCqa",
