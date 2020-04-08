@@ -118,7 +118,8 @@
     "active": true,
     "areaOfWorkAllocated": "Distribution",
     "distribution": [
-      "recLwT1DazwdakLbx"
+      "recLwT1DazwdakLbx",
+      "recTSeBGsGpIiG3d4"
     ],
     "id": "recKiQ0VGnZMljPTf",
     "name": "Kripa Jayaram",
@@ -183,6 +184,10 @@
     "id": "reck2YKHsRElZlcOg",
     "location": "South Delhi",
     "name": "Anurag Kashyap"
+  },
+  {
+    "_id": "recmWMfofjelP5bDg",
+    "id": "recmWMfofjelP5bDg"
   },
   {
     "_id": "recqBYmavbpZ8YJIE",
