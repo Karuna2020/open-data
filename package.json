@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "update-airtable": "ts-node airtable.ts",
-    "update-sheets": "ts-node sheets.ts"
+    "update-airtable": "ts-node src/airtable.ts",
+    "update-sheets": "ts-node src/sheets.ts"
   },
   "repository": {
     "type": "git",

@@ -65,7 +65,7 @@ const cleanResponse = (tab: string, data: { [index: string]: string }[]) => {
 const PRIVATE_COLUMNS = ["phone", "email", "phoneNumber", "listAadharPictures"];
 
 const update = async () => {
-  const yaml = await readFile(join(".", "airtable.yml"), "utf8");
+  const yaml = await readFile(join(".", "src", "airtable.yml"), "utf8");
   const sheetFile: { publicAppId: string; tabs: string[] } = safeLoad(yaml);
   const base = airtable.base(sheetFile.publicAppId);
   log("Updating data from Airtable");

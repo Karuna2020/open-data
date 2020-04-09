@@ -44,7 +44,7 @@ const cleanResponse = (data: { [index: string]: string }[]) => {
 };
 
 const fetchData = async () => {
-  const yaml = await readFile(join(".", "sheet.yml"), "utf8");
+  const yaml = await readFile(join("src", "sheet.yml"), "utf8");
   const sheetFile: { publicEndpoint: string; tabs: string[] } = safeLoad(yaml);
 
   for await (const tab of sheetFile.tabs) {
