@@ -2766,6 +2766,9 @@
     "status": "Received Distribution Pictures"
   },
   {
+    "_id": "rec6bJjf0DuIMhhmc"
+  },
+  {
     "_id": "rec9F69PL70oGxW4s",
     "areaOfDelivery": "Saroul",
     "deliveredOn": "2020-04-05",
@@ -5317,7 +5320,7 @@
     ],
     "name": "Aisul Mohammad",
     "numberOfKitsNeeded": 15,
-    "status": "Have list"
+    "status": "Request Approved"
   },
   {
     "_id": "recdDc22z8gLjTCqa",

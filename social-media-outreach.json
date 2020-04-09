@@ -215,7 +215,129 @@
     ],
     "id": "recLM1XVOSbUCHDQd",
     "notes": "Our brave volunteers and partners are on the ground, verifying information and distributing Karuna 2020 Dry Ration Packs around the city. Our friends at the women's collective Gulmeher have started producing masks to help keep them safe. Our goal is to manufacture 1,000 masks every day.",
-    "status": "Photos uploaded"
+    "pictures": [
+      {
+        "id": "atteznSBmOqDU2a2F",
+        "url": "https://dl.airtable.com/.attachments/150b4cf4ed1151ad02472f6f0ba6c69a/1057c861/WhatsAppImage2020-04-09at16_18_33.jpeg",
+        "filename": "WhatsApp Image 2020-04-09 at 16_18_33.jpeg",
+        "size": 86708,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/601c9008a03cd455c4abddab6f0abf77/ff66f657",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e0d8aacc4acbad543707bf49611855a7/77d75860",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a1a90992f08a79e1be37720ac9284f32/9ad47b77",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attbrtfORi4j5NHrW",
+        "url": "https://dl.airtable.com/.attachments/af8a391c88db4986bd7ed41be2e0cf31/be82c114/WhatsAppImage2020-04-09at16_18_341.jpeg",
+        "filename": "WhatsApp Image 2020-04-09 at 16_18_34 (1).jpeg",
+        "size": 93122,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7967c8554bf1ed94dde4f7ef2d6ad40a/f6a77728",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/35838c702f0532d54a133c928fb12287/f4beaf1d",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6da421e2062bd6ecb0cb9e0faffb7eed/dcf4880f",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attsfpZW9mH9EaHux",
+        "url": "https://dl.airtable.com/.attachments/0464e6629b94fb624bac71877dae3e36/31e4eec6/WhatsAppImage2020-04-09at16_18_34.jpeg",
+        "filename": "WhatsApp Image 2020-04-09 at 16_18_34.jpeg",
+        "size": 124365,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b8b697a487dd9d975361ef94d791b231/bd3a011c",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c7656f515e1b6fc2664c5d29976e6925/01a38168",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4a7beae50ad65db3a637726c7113f353/cccc5dfd",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attLDmEVFFngX0zSX",
+        "url": "https://dl.airtable.com/.attachments/24835123dd8a00a5835bbf9cdce59a06/97812d65/WhatsAppImage2020-04-09at16_18_35.jpeg",
+        "filename": "WhatsApp Image 2020-04-09 at 16_18_35.jpeg",
+        "size": 38561,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e60c7f1fa76a259c16be50b573967007/cdb74f7d",
+            "width": 20,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e0a1315a56bce592669ed09ce88561c1/c3007fb0",
+            "width": 512,
+            "height": 911
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d39c87e86883317a46bb00cdff1ff35d/e182a5b5",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attHTTFRHhSjUDk4Z",
+        "url": "https://dl.airtable.com/.attachments/fa1cf7b679289fb7ffa8b8a4568c6578/f4dc3733/mask-1.png",
+        "filename": "0.png",
+        "size": 776583,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/69d631915f768be1d7506b4a9564e783/6048805c",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cc536b29a80e6b578b559fc952bda72a/b3628835",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/708b0162cfa95d298c182c8469188d58/fd855101",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
   },
   {
     "_id": "recMldiWLslcoAWQv",
