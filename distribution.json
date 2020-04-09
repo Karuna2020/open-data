@@ -4929,30 +4929,6 @@
         }
       },
       {
-        "id": "att99juiqLq2pDpJr",
-        "url": "https://dl.airtable.com/.attachments/215caf10656e07eb5a2d4a5d13913531/fea6a9bf/2020-04-0818.13.40.jpg",
-        "filename": "2020-04-08 18.13.40.jpg",
-        "size": 624592,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e7df5db3904969b10235ce821dc37e0f/7d4f6aed",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/07f6e613545c23cfc121125bad06c79c/6a9583e8",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/9d11851af3e84addbdc4e46eac09a44d/b183acfa",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
         "id": "attRVKiPPabdxQuIs",
         "url": "https://dl.airtable.com/.attachments/8ee1b77162ef355b6de205097f67c1ae/034d7018/2020-04-0818.13.41.jpg",
         "filename": "2020-04-08 18.13.41.jpg",
