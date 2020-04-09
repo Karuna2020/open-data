@@ -148,7 +148,8 @@ const urls = async () => {
   );
 };
 
-update()
+Promise.resolve()
+  .then(() => update())
   .then(() => summarize())
   .then(() => urls())
   .then(() => getPhotos());
