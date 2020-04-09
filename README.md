@@ -29,18 +29,14 @@ The following endpoints come from our Airtable databases.
 
 The following endpoints come from our Google Sheets spreadsheets.
 
-| File                                                                                   | Data                                       | CDN URL                                                                                  |
-| -------------------------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| [`amount-received.json`](./amount-received.json)                                       | List of financial contributors and amounts | [API Endpoint](https://open-data.karuna2020.org/amount-received.json)                    |
-| [`amount-payable.json`](./amount-payable.json)                                         | List of outgoing transactions              | [API Endpoint](https://open-data.karuna2020.org/amount-payable.json)                     |
-| [`infrastructure.json`](./infrastructure.json)                                         | List of our available infrastructure       | [API Endpoint](https://open-data.karuna2020.org/infrastructure.json)                     |
-| [`sop-s.json`](./sop-s.json)                                                           | Our SOPs (standard operating procedures)   | [API Endpoint](https://open-data.karuna2020.org/sop-s.json)                              |
-| [`concalls.json`](./concalls.json)                                                     | Summary of our conference calls            | [API Endpoint](https://open-data.karuna2020.org/concalls.json)                           |
-| [`it-website.json`](./it-website.json)                                                 | Technology, website, and marketing         | [API Endpoint](https://open-data.karuna2020.org/it-website.json)                         |
-| [`things-to-be-done.json`](./things-to-be-done.json)                                   | List of things to be done                  | [API Endpoint](https://open-data.karuna2020.org/things-to-be-done.json)                  |
-| [`geography-and-beneficiary-requests.json`](./geography-and-beneficiary-requests.json) | Geography                                  | [API Endpoint](https://open-data.karuna2020.org/geography-and-beneficiary-requests.json) |
-| [`material-list.json`](./material-list.json)                                           | Material we're planning on getting         | [API Endpoint](https://open-data.karuna2020.org/material-list.json)                      |
-| [`material-ordered-and-transfer`](./material-ordered-and-transfer)                     | Material we've ordered                     | [API Endpoint](https://open-data.karuna2020.org/material-ordered-and-transfer)           |
+| File                                                 | Data                                       | CDN URL                                                                 |
+| ---------------------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------- |
+| [`amount-received.json`](./amount-received.json)     | List of financial contributors and amounts | [API Endpoint](https://open-data.karuna2020.org/amount-received.json)   |
+| [`amount-payable.json`](./amount-payable.json)       | List of outgoing transactions              | [API Endpoint](https://open-data.karuna2020.org/amount-payable.json)    |
+| [`infrastructure.json`](./infrastructure.json)       | List of our available infrastructure       | [API Endpoint](https://open-data.karuna2020.org/infrastructure.json)    |
+| [`sop-s.json`](./sop-s.json)                         | Our SOPs (standard operating procedures)   | [API Endpoint](https://open-data.karuna2020.org/sop-s.json)             |
+| [`concalls.json`](./concalls.json)                   | Summary of our conference calls            | [API Endpoint](https://open-data.karuna2020.org/concalls.json)          |
+| [`things-to-be-done.json`](./things-to-be-done.json) | List of things to be done                  | [API Endpoint](https://open-data.karuna2020.org/things-to-be-done.json) |
 
 ## 💡 How it works
 
