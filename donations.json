@@ -104,9 +104,11 @@
     "method": "Cash",
     "mobile": "9818449337",
     "name": "Dalvir Agarwal",
+    "notes": "Address: House No. 70, Sector 37, Faridabad",
+    "panNo": "AAHPA8256H",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "receivedInWhichAccount": "Vikrant",
-    "status": "SMS Sent"
+    "status": "Ready for generating Receipt"
   },
   {
     "_id": "recK5C7nqCYiGqJSy",
@@ -223,6 +225,20 @@
     "utrPaymentDetailsImpsNeftRtgsNo": "NEFTSDC9045049"
   },
   {
+    "_id": "recd6RZh1c5hXblin",
+    "amount": 750,
+    "date": "2020-04-09",
+    "fromBank": "KOTAK",
+    "id": "recd6RZh1c5hXblin",
+    "method": "UPI",
+    "mobile": "9910425425",
+    "name": "SWATI GHAI",
+    "notes": "Ref sunei kapur",
+    "panNo": "CNNPG4662G",
+    "receivedInWhichAccount": "Shakti Foundation",
+    "utrPaymentDetailsImpsNeftRtgsNo": "Transaction number: UPI/P2A/010015301774/9871797202@kotak"
+  },
+  {
     "_id": "receamWvl3ufQcpS4",
     "amount": 4000,
     "date": "2020-04-05",
@@ -300,9 +316,10 @@
     "mobile": "9811743894",
     "name": "Dr. Sunita Paul",
     "notes": "From A.K.Abrol's account",
+    "panNo": "AAHPP1195J",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "receivedInWhichAccount": "ILSEF",
-    "status": "SMS Sent",
+    "status": "Contacted",
     "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309"
   },
   {
@@ -351,8 +368,8 @@
     "method": "Cash",
     "mobile": "9958152111",
     "name": "Anu Didi, GK2",
-    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
+    "receiptSharedWithDonorYesNo": "No receipt required",
     "receivedInWhichAccount": "Vikrant (Radha)",
-    "status": "SMS Sent"
+    "status": "Contacted"
   }
 ]
