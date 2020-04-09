@@ -18,7 +18,7 @@ export const getPhotos = async () => {
     const json = await readJson(join(".", file));
     if (Array.isArray(json)) {
       json.forEach((i) => {
-        ["pictures", "distributionPictures"].forEach((j) => {
+        ["pictures", "distributionPictures", "logo"].forEach((j) => {
           if (i[j])
             images.push({
               type: file.replace(".json", ""),

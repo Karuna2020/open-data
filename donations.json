@@ -277,6 +277,22 @@
     "utrPaymentDetailsImpsNeftRtgsNo": "009609068018"
   },
   {
+    "_id": "recfZN2q0G8OA6bbl",
+    "address": "H-25, Green Park Extension, New Delhi 110016",
+    "amount": 3000,
+    "date": "2020-04-09",
+    "emailMd5": "f5e04db260166aba897b1c7852306529",
+    "fromBank": "ICICI",
+    "howDidYouFindUs": "Personal Reference",
+    "id": "recfZN2q0G8OA6bbl",
+    "method": "UPI",
+    "mobile": "9560925239",
+    "name": "Sukriti Kapoor",
+    "panNo": "ECMPK9560F",
+    "toAccount": "Shakti Foundation",
+    "utrPaymentDetailsImpsNeftRtgsNo": "010022069012"
+  },
+  {
     "_id": "reclz125j6RHYOfoA",
     "amount": 5000,
     "date": "2020-04-03",
