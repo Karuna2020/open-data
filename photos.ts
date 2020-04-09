@@ -6,7 +6,7 @@ import {
   writeFile,
   ensureDir,
 } from "fs-extra";
-import axios from "axios";
+import download from "download";
 
 import { join } from "path";
 
@@ -40,7 +40,7 @@ const getPhotos = async () => {
         for await (const key of Object.keys(image.thumbnails || {})) {
           const img = (image.thumbnails || {})[key];
           console.log(img);
-          const file = await axios.get(img.url);
+          // const file = await axios.get(img.url);
         }
         await ensureDir(join(".", url));
         await writeFile(
