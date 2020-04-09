@@ -16,7 +16,7 @@
     "method": "NEFT",
     "mobile": "9999697055",
     "name": "Platinum Hospitality",
-    "notes": "Atul Celly",
+    "notesComments": "Atul Celly",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "KKBKH20097634967"
   },
@@ -27,7 +27,7 @@
     "id": "rec4s9TKPxyu3KqI4",
     "method": "IMPS",
     "name": "Not known",
-    "notes": "Dont Know who he is",
+    "notesComments": "Dont Know who he is",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "9214567360"
@@ -38,7 +38,7 @@
     "id": "rec5F0zTLOZQ5DGH1",
     "method": "TPT",
     "name": "Parul Agarwal",
-    "notes": "Sunei Kapur",
+    "notesComments": "Sunei Kapur",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "50100197093091"
   },
@@ -71,7 +71,7 @@
     "id": "rec9jhG4zw0AgDKtR",
     "method": "NEFT",
     "name": "Sheet DB",
-    "notes": "$19.99/m for 3 months",
+    "notesComments": "$19.99/m for 3 months",
     "status": "Receipt Not Needed For Now",
     "toAccount": "In Kind"
   },
@@ -84,8 +84,9 @@
     "method": "UPI",
     "mobile": "9005528765",
     "name": "Mayank Agrawal",
-    "notes": "I transferred using Citibank but it is not visible in drop down menu of bank so I selected randomly",
+    "notesComments": "I transferred using Citibank but it is not visible in drop down menu of bank so I selected randomly",
     "panNo": "AZUPA0934E",
+    "status": "Ready for generating Receipt",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010060648645"
   },
@@ -106,7 +107,7 @@
     "method": "Cash",
     "mobile": "9818449337",
     "name": "Dalvir Agarwal",
-    "notes": "Address: House No. 70, Sector 37, Faridabad",
+    "notesComments": "Address: House No. 70, Sector 37, Faridabad",
     "panNo": "AAHPA8256H",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "status": "Ready for generating Receipt",
@@ -121,7 +122,7 @@
     "method": "IMPS",
     "mobile": "9813462825",
     "name": "Mrs. Kusum Dhawan",
-    "notes": "From A.K.Abrol's account",
+    "notesComments": "From A.K.Abrol's account",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
@@ -135,7 +136,7 @@
     "id": "recKOWWaWA7CoavIK",
     "method": "NEFT",
     "name": "Sharad Bhalla",
-    "notes": "Dont Know who he is",
+    "notesComments": "Dont Know who he is",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "LB3670200331G528"
@@ -171,6 +172,10 @@
     "name": "Nayantara Nag",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "0483160001119"
+  },
+  {
+    "_id": "recQhOWyT8hv6XVjt",
+    "id": "recQhOWyT8hv6XVjt"
   },
   {
     "_id": "recRFPc5oD3SUI1XA",
@@ -216,7 +221,7 @@
     "id": "recWgwcVJTIGWKBhA",
     "method": "IMPS",
     "name": "Anonymous",
-    "notes": "Gautam Chikermane",
+    "notesComments": "Gautam Chikermane",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "8921642916"
   },
@@ -226,7 +231,7 @@
     "id": "recbmaWPpbX764onC",
     "method": "NEFT",
     "name": "FIL Industries ltd",
-    "notes": "Sunei Kapur",
+    "notesComments": "Sunei Kapur",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "NEFTSDC9045049"
   },
@@ -239,10 +244,11 @@
     "method": "UPI",
     "mobile": "9910425425",
     "name": "SWATI GHAI",
-    "notes": "Ref sunei kapur",
+    "notesComments": "Ref sunei kapur",
     "panNo": "CNNPG4662G",
+    "status": "Ready for generating Receipt",
     "toAccount": "Shakti Foundation",
-    "utrPaymentDetailsImpsNeftRtgsNo": "Transaction number: UPI/P2A/010015301774/9871797202@kotak"
+    "utrPaymentDetailsImpsNeftRtgsNo": "UPI/P2A/010015301774/9871797202@kotak"
   },
   {
     "_id": "receamWvl3ufQcpS4",
@@ -269,7 +275,7 @@
     "id": "recmsV3nrVd3YnPiU",
     "method": "Cash",
     "name": "Anonymous",
-    "notes": "Dinesh Kapoor",
+    "notesComments": "Dinesh Kapoor",
     "toAccount": "Vikrant (Radha)"
   },
   {
@@ -288,7 +294,7 @@
     "id": "recrXvSC2ngS31Icl",
     "method": "NEFT",
     "name": "Sayeeshwar Venkatachalayam Iyer",
-    "notes": "Dont Know who he is",
+    "notesComments": "Dont Know who he is",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "toAccount": "ILSEF"
   },
@@ -314,17 +320,19 @@
   },
   {
     "_id": "recuK10iw9mVF01I2",
+    "address": "130, Rajouri Apartments, Opp Govt of India Press, Mayapuri 110064",
     "amount": 1000,
     "date": "2020-03-31",
+    "emailMd5": "31df69b68d5f15f33b21b9f8a093eefa",
     "fromBank": "HDFC",
     "id": "recuK10iw9mVF01I2",
     "method": "IMPS",
     "mobile": "9811743894",
     "name": "Dr. Sunita Paul",
-    "notes": "From A.K.Abrol's account",
+    "notesComments": "From A.K.Abrol's account",
     "panNo": "AAHPP1195J",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
-    "status": "Contacted",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309"
   },
@@ -350,6 +358,7 @@
     "mobile": "8954236768",
     "name": "Shubham",
     "panNo": "FWXPS7247P",
+    "status": "Ready for generating Receipt",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010012171783"
   },
