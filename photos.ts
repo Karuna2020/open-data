@@ -31,11 +31,8 @@ const getPhotos = async () => {
       });
     }
   }
-  let i = 0;
   for await (const item of images) {
     for await (const image of item.data) {
-      i++;
-      if (i > 2) break;
       const url = `attachments/${item.type}/${image.id}`;
       const hasImage = await pathExists(join(".", url));
       if (!hasImage) {
