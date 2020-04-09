@@ -35,6 +35,7 @@
   {
     "_id": "rec5F0zTLOZQ5DGH1",
     "amount": 10000,
+    "date": "2020-04-06",
     "id": "rec5F0zTLOZQ5DGH1",
     "method": "TPT",
     "name": "Parul Agarwal",
@@ -175,7 +176,15 @@
   },
   {
     "_id": "recQhOWyT8hv6XVjt",
-    "id": "recQhOWyT8hv6XVjt"
+    "amount": 21000,
+    "date": "2020-04-07",
+    "fromBank": "CBI",
+    "id": "recQhOWyT8hv6XVjt",
+    "method": "NEFT",
+    "name": "Sanjeev Kumar Yadav",
+    "notesComments": "C/o Atul Celly",
+    "toAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "CBINH20098072155"
   },
   {
     "_id": "recRFPc5oD3SUI1XA",
@@ -228,6 +237,7 @@
   {
     "_id": "recbmaWPpbX764onC",
     "amount": 10000,
+    "date": "2020-04-06",
     "id": "recbmaWPpbX764onC",
     "method": "NEFT",
     "name": "FIL Industries ltd",
@@ -270,6 +280,14 @@
     "utrPaymentDetailsImpsNeftRtgsNo": "1960127277"
   },
   {
+    "_id": "recmFwE8bZKITrAos",
+    "amount": 5250,
+    "date": "2020-04-07",
+    "id": "recmFwE8bZKITrAos",
+    "method": "Cash",
+    "name": "Dharma"
+  },
+  {
     "_id": "recmsV3nrVd3YnPiU",
     "amount": 100000,
     "id": "recmsV3nrVd3YnPiU",
@@ -277,6 +295,14 @@
     "name": "Anonymous",
     "notesComments": "Dinesh Kapoor",
     "toAccount": "Vikrant (Radha)"
+  },
+  {
+    "_id": "recn0p1cAsomjISED",
+    "amount": 5000,
+    "date": "2020-04-07",
+    "id": "recn0p1cAsomjISED",
+    "method": "Cash",
+    "name": "Sonali Malhotra"
   },
   {
     "_id": "recnECvn07TuEMS7L",

@@ -209,7 +209,7 @@
   {
     "_id": "recLM1XVOSbUCHDQd",
     "date": "2020-04-09",
-    "event": "Masks being made at Gulmeher",
+    "event": "Getting masks ready at Gulmeher",
     "handlers": [
       "reck2YKHsRElZlcOg"
     ],
@@ -445,30 +445,6 @@
     "notes": "In our biggest outreach yet, 500 kits were distributed in Gulmeher, a women's collective of waste pickers turned artisans supported by Shakti Foundation. Around 2,000 people will benefit from these kits. This endevour would not have been possible without our generous donors, untiring ground support and all those who made it happen.",
     "pictures": [
       {
-        "id": "attFoZnTGJXUJLHo4",
-        "url": "https://dl.airtable.com/.attachments/c46c49fbcdb012d465fe132aefd65aeb/15008280/1.png",
-        "filename": "1.png",
-        "size": 1507070,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/9a6729ff47f78bb063221639b15c0da3/cba73f7f",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b2958c3295ec5a015cde86887b27cf97/ebb38951",
-            "width": 512,
-            "height": 513
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/498629b7a4865446f450b6f3a4a2bec1/acc261ae",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
         "id": "attdwKCYaJUucwelE",
         "url": "https://dl.airtable.com/.attachments/4285163a0d69eecf69ed4a11115947d1/c98331ae/0.png",
         "filename": "0.png",
@@ -487,6 +463,30 @@
           },
           "full": {
             "url": "https://dl.airtable.com/.attachmentThumbnails/fedf59c3b45b007b149b4d24904a0340/c07a5ffb",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attFoZnTGJXUJLHo4",
+        "url": "https://dl.airtable.com/.attachments/c46c49fbcdb012d465fe132aefd65aeb/15008280/1.png",
+        "filename": "1.png",
+        "size": 1507070,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9a6729ff47f78bb063221639b15c0da3/cba73f7f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b2958c3295ec5a015cde86887b27cf97/ebb38951",
+            "width": 512,
+            "height": 513
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/498629b7a4865446f450b6f3a4a2bec1/acc261ae",
             "width": 3000,
             "height": 3000
           }
