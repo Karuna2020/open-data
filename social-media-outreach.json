@@ -1,7 +1,6 @@
 [
   {
     "_id": "rec7oPiCkKtOpmysi",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/rec7oPiCkKtOpmysi/pictures/attF7UtEOfkWUg7Th/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/rec7oPiCkKtOpmysi/pictures/attguJ61pTjvql4Nq/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/rec7oPiCkKtOpmysi/pictures/attxdNJuRnCWh5yZQ/medium.png",
     "event": "104 kits to the waste pickers community in Vasant Kunj",
     "handlers": [
       "recjDkPJ6t8RVHZXz"
@@ -11,33 +10,204 @@
       "recEAKS9kmh01mXrg"
     ],
     "notes": "Waste pickers live a hard life but do an important task, willing to dig through other people's waste to take out what is reusable, recyclable, and repairable. Our goal is to reach out to 1,000 families in the waste picker community and help them sustain during the pandemic, and we're very excited to share that we've distributed Karuna 2020 Dry Ration Packs to 104 families.",
+    "pictures": [
+      {
+        "id": "attF7UtEOfkWUg7Th",
+        "url": "https://dl.airtable.com/.attachments/3c7572cb8dc9654b15d4b4de9c0d3fb3/82b7bb3a/2.png",
+        "filename": "2.png",
+        "size": 2379354,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6c0ae73b948811df8610485cc2d533a0/0edba4fd",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/01c57a677dd1e274d7af96ddcbc45b7d/5194e408",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b7e6e2525f4f0a9398e627962f526286/0ce39a2d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attguJ61pTjvql4Nq",
+        "url": "https://dl.airtable.com/.attachments/07ab187c56908c18c7f5805330e2c885/a075416e/1.png",
+        "filename": "1.png",
+        "size": 2484402,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/06bdc57029dd870b64b7399db20faaeb/df123678",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c9d7600bbf3c0d7a83ce9a2a8a68ed93/63a0a032",
+            "width": 543,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ca218cd5cb0de3c8ab7d1fc12ff24ddc/3e73a633",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attxdNJuRnCWh5yZQ",
+        "url": "https://dl.airtable.com/.attachments/f8de5033ea5e493b6c3598e442872945/55506e3b/0.png",
+        "filename": "0.png",
+        "size": 1150768,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/702e417a52079b0b2a4c76308d4fe308/af91490f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/89b08579a3556b0fd83c18dae454635b/6886f5cb",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0bfcd63d4b61d968ae57f2d0ace2a505/33fe281c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "status": "Publish to website"
   },
   {
     "_id": "recAoKzxXkK8T9NY8",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recAoKzxXkK8T9NY8/pictures/attXpMiabXQzchZ0Z/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recAoKzxXkK8T9NY8/pictures/att53wm3DHlSoNmgC/medium.png",
     "event": "9 kits delivered in DLF Phase 3",
     "id": "recAoKzxXkK8T9NY8",
     "linkedDistribution": [
       "recLwT1DazwdakLbx"
     ],
     "notes": "A set of migrant families in DLF phase 3 reached out to us, we connected directly to the beneficiaries. They collected all information and ids and ensured orderly distribution.",
+    "pictures": [
+      {
+        "id": "attXpMiabXQzchZ0Z",
+        "url": "https://dl.airtable.com/.attachments/7eb34958a62bc166c8ed81acbee4ea52/c4542b84/dlf2.png",
+        "filename": "1.png",
+        "size": 1235594,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ad5b3104a196eb9064707bd16773682a/f4db0629",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6ab4c86e7da552f185bfd23d000b472b/fab1c749",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dc0eed08dcb05b8bf3cf61561d8bd54f/1edf0651",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att53wm3DHlSoNmgC",
+        "url": "https://dl.airtable.com/.attachments/e730921304eb529125597442fac2d239/9fd7dc4e/dlf-3.png",
+        "filename": "0.png",
+        "size": 897390,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d1e5a82bd868df17dce16ede73b83b52/739826ce",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d45092ee6d9afdbb135ae220d2afc1af/377ec2e1",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/80fff9257ba52ea346db1b385a7b8c59/7fd911bc",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "status": "Publish to website"
   },
   {
     "_id": "recJOqo46DyZE0qt4",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recJOqo46DyZE0qt4/pictures/attABfKTR24UIkMYQ/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recJOqo46DyZE0qt4/pictures/attBDtq0JnzpygAzU/medium.png",
     "event": "2 kits delivered to the elderly in DLF Phase 3",
     "id": "recJOqo46DyZE0qt4",
     "linkedDistribution": [
       "recwjSm6Yv4o25X2t"
     ],
     "notes": "\"Every effort counts, no matter how small, if it moves you closer to your goal.\" With your help, we distributed two kits to the elderly in DLF Phase 3, Gurugram, Haryana, yesterday.",
+    "pictures": [
+      {
+        "id": "attABfKTR24UIkMYQ",
+        "url": "https://dl.airtable.com/.attachments/a16ac1c58214802f2e2a7976765ece6e/80cc3cfe/1.png",
+        "filename": "people.png",
+        "size": 1073508,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/51710fc6093cd1ec97934d0cf15e1870/c8d99062",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8416d70574629bff12444f8279084dc6/08b5c46d",
+            "width": 512,
+            "height": 522
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a0503b7cc147a80625a743ccd728c818/22fdd78d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attBDtq0JnzpygAzU",
+        "url": "https://dl.airtable.com/.attachments/bb3d16552ca6fa9bebebeec7a7b6063f/e0db95ce/cover.png",
+        "filename": "cover.png",
+        "size": 1026790,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4e3c5b65b237d510dc1a4a9f5b4e0cc1/87cea6a5",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/72310ece7401f1ffeca03231fedd3edd/edaf5c72",
+            "width": 512,
+            "height": 522
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/46caa622b1d073e8d7ebc76457049d30/d8e4a190",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "status": "Publish to website"
   },
   {
     "_id": "recLM1XVOSbUCHDQd",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/attHTTFRHhSjUDk4Z/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/atteznSBmOqDU2a2F/medium.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/attbrtfORi4j5NHrW/medium.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/attsfpZW9mH9EaHux/medium.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/attLDmEVFFngX0zSX/medium.jpeg",
     "date": "2020-04-09",
     "event": "Getting masks ready at Gulmeher",
     "handlers": [
@@ -45,6 +215,128 @@
     ],
     "id": "recLM1XVOSbUCHDQd",
     "notes": "Our brave volunteers and partners are on the ground, verifying information and distributing Karuna 2020 Dry Ration Packs around the city. Our friends at the women's collective Gulmeher have started producing masks to help keep them safe. Our goal is to manufacture 1,000 masks every day.",
+    "pictures": [
+      {
+        "id": "attHTTFRHhSjUDk4Z",
+        "url": "https://dl.airtable.com/.attachments/fa1cf7b679289fb7ffa8b8a4568c6578/f4dc3733/mask-1.png",
+        "filename": "0.png",
+        "size": 776583,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/69d631915f768be1d7506b4a9564e783/6048805c",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cc536b29a80e6b578b559fc952bda72a/b3628835",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/708b0162cfa95d298c182c8469188d58/fd855101",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "atteznSBmOqDU2a2F",
+        "url": "https://dl.airtable.com/.attachments/150b4cf4ed1151ad02472f6f0ba6c69a/1057c861/WhatsAppImage2020-04-09at16_18_33.jpeg",
+        "filename": "WhatsApp Image 2020-04-09 at 16_18_33.jpeg",
+        "size": 86708,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/601c9008a03cd455c4abddab6f0abf77/ff66f657",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e0d8aacc4acbad543707bf49611855a7/77d75860",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a1a90992f08a79e1be37720ac9284f32/9ad47b77",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attbrtfORi4j5NHrW",
+        "url": "https://dl.airtable.com/.attachments/af8a391c88db4986bd7ed41be2e0cf31/be82c114/WhatsAppImage2020-04-09at16_18_341.jpeg",
+        "filename": "WhatsApp Image 2020-04-09 at 16_18_34 (1).jpeg",
+        "size": 93122,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7967c8554bf1ed94dde4f7ef2d6ad40a/f6a77728",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/35838c702f0532d54a133c928fb12287/f4beaf1d",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6da421e2062bd6ecb0cb9e0faffb7eed/dcf4880f",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attsfpZW9mH9EaHux",
+        "url": "https://dl.airtable.com/.attachments/0464e6629b94fb624bac71877dae3e36/31e4eec6/WhatsAppImage2020-04-09at16_18_34.jpeg",
+        "filename": "WhatsApp Image 2020-04-09 at 16_18_34.jpeg",
+        "size": 124365,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b8b697a487dd9d975361ef94d791b231/bd3a011c",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c7656f515e1b6fc2664c5d29976e6925/01a38168",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4a7beae50ad65db3a637726c7113f353/cccc5dfd",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attLDmEVFFngX0zSX",
+        "url": "https://dl.airtable.com/.attachments/24835123dd8a00a5835bbf9cdce59a06/97812d65/WhatsAppImage2020-04-09at16_18_35.jpeg",
+        "filename": "WhatsApp Image 2020-04-09 at 16_18_35.jpeg",
+        "size": 38561,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e60c7f1fa76a259c16be50b573967007/cdb74f7d",
+            "width": 20,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e0a1315a56bce592669ed09ce88561c1/c3007fb0",
+            "width": 512,
+            "height": 911
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d39c87e86883317a46bb00cdff1ff35d/e182a5b5",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "status": "Publish to website"
   },
   {
@@ -58,17 +350,24 @@
   },
   {
     "_id": "recOGr4pWVWy0xYEW",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recOGr4pWVWy0xYEW/pictures/attbzAKFGO26Ynpbp/medium.video/mp4",
     "event": "2d Animated Course of SOPs",
     "handlers": [
       "recKiQ0VGnZMljPTf"
     ],
     "id": "recOGr4pWVWy0xYEW",
-    "notes": "Whats the status from Ramvir ji's end?"
+    "notes": "Whats the status from Ramvir ji's end?",
+    "pictures": [
+      {
+        "id": "attbzAKFGO26Ynpbp",
+        "url": "https://dl.airtable.com/.attachments/1abbde379d3700aefe4d073dc1167312/ce1cd695/synthesize.mp4",
+        "filename": "synthesize.mp4",
+        "size": 248302,
+        "type": "video/mp4"
+      }
+    ]
   },
   {
     "_id": "recRmU41MAMjRyIF7",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recRmU41MAMjRyIF7/pictures/atte56hPM5omMTppw/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recRmU41MAMjRyIF7/pictures/attoQOfPnsXGkwbmb/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recRmU41MAMjRyIF7/pictures/att64NJABbJTlBUiN/medium.png",
     "channels": [
       "FB",
       "Well Wishers Group",
@@ -81,11 +380,84 @@
       "rec0bAwdiR6IYFSoM"
     ],
     "notes": "With your support and backing, we successfully completed the distribution of 12 Karuna 2020 Dry Ration Packs, bringing our total up to 82 familities.\n\nA 12 year old girl reached out to us and helped prepare a list of beneficiaries in her community. She also introduced us to other members in her family and facilitated the distribution. Over the next week, we plan to distribute 1000 such kits.",
+    "pictures": [
+      {
+        "id": "atte56hPM5omMTppw",
+        "url": "https://dl.airtable.com/.attachments/ecc1e0a669d1c47350425d13c206a0ca/268c267f/sik3.png",
+        "filename": "3.png",
+        "size": 697974,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3ee803b40b8f1f64ee528d56f54d953e/5906a0cd",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6cc0302cc91a20bda6ce14c84b992582/0a9959e5",
+            "width": 512,
+            "height": 522
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b1fec9c39baa1f44774c89dff6582631/d29aa3b5",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attoQOfPnsXGkwbmb",
+        "url": "https://dl.airtable.com/.attachments/583bf5532d56bbd43110b01b080c9d8f/3be56826/sik2.png",
+        "filename": "2.png",
+        "size": 778354,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9f058323928472553323f7f990b7746a/38f6df78",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8b146f165ee06fff9caeebf40a4e5493/ecce720a",
+            "width": 512,
+            "height": 522
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e4d48b1736f9451c8dafab884fbde72e/0490c837",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att64NJABbJTlBUiN",
+        "url": "https://dl.airtable.com/.attachments/0a21d30b026f27b7ff8c0ca3ee9da0f0/41648464/sik.png",
+        "filename": "1.png",
+        "size": 817037,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1bf3ae20a8dbf33b6f9cab847bfbed46/74539937",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9abf27b1ae824ae060f7bab4884d2c8e/3202e9b7",
+            "width": 512,
+            "height": 522
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5bd556db97a3a818894d9cff435cf5a3/b0c66b39",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "status": "Publish to website"
   },
   {
     "_id": "recT3vD3ADoTqd3ur",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recT3vD3ADoTqd3ur/pictures/attdwKCYaJUucwelE/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recT3vD3ADoTqd3ur/pictures/attFoZnTGJXUJLHo4/medium.png",
     "event": "500 kits to women's collective Gulmeher",
     "handlers": [
       "recjDkPJ6t8RVHZXz"
@@ -95,22 +467,169 @@
       "rec3WRRvrLxq90FmI"
     ],
     "notes": "In our biggest outreach yet, 500 kits were distributed in Gulmeher, a women's collective of waste pickers turned artisans supported by Shakti Foundation. Around 2,000 people will benefit from these kits. This endevour would not have been possible without our generous donors, untiring ground support and all those who made it happen.",
+    "pictures": [
+      {
+        "id": "attdwKCYaJUucwelE",
+        "url": "https://dl.airtable.com/.attachments/4285163a0d69eecf69ed4a11115947d1/c98331ae/0.png",
+        "filename": "0.png",
+        "size": 652272,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/56a05388d9acf3e2b8dcb9040e5879ef/b9a3560f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5c2a4f3810b14b9aca39ce045d877be3/4c0bfe24",
+            "width": 512,
+            "height": 515
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fedf59c3b45b007b149b4d24904a0340/c07a5ffb",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attFoZnTGJXUJLHo4",
+        "url": "https://dl.airtable.com/.attachments/c46c49fbcdb012d465fe132aefd65aeb/15008280/1.png",
+        "filename": "1.png",
+        "size": 1507070,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9a6729ff47f78bb063221639b15c0da3/cba73f7f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b2958c3295ec5a015cde86887b27cf97/ebb38951",
+            "width": 512,
+            "height": 513
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/498629b7a4865446f450b6f3a4a2bec1/acc261ae",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "status": "Publish to website"
   },
   {
     "_id": "recWwKFHlfRVxYBNV",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attPnsYqDRjewhpV9/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attf9dp4YmjPyPq23/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attP1ef1dOhXXSIQT/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attWM7JwTq8WbwUYC/medium.png",
     "event": "9 kits delivered to Basai Dara Pur",
     "id": "recWwKFHlfRVxYBNV",
     "linkedDistribution": [
       "recV6TQvYM1Xyyn6f"
     ],
     "notes": "Sonu, one of our volunteer's driver, has been working on the ground and helping his community during the pandemic. He approached us with a list of nine familities who need our help, and single-handedly arranged the logistics and on-ground support for the distribution.\n\nWe distributed 9 Karuna 2020 Dry Ration kits to his community in Basai Dara Pur, West Delhi.",
+    "pictures": [
+      {
+        "id": "attPnsYqDRjewhpV9",
+        "url": "https://dl.airtable.com/.attachments/0515033d0e502ade5bf5744dbeb8bca1/1b584511/2.png",
+        "filename": "2.png",
+        "size": 1143479,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9c57f10d2c9f1ab87140097db7e98b5a/620ca7bf",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f96efa68f6c5774fcbc51c7e068574be/43fbb6bc",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9434010f23e781b34d68382f2a7e2721/0a347c28",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attf9dp4YmjPyPq23",
+        "url": "https://dl.airtable.com/.attachments/4c5e2390d9f32dc5520477814ebd7547/5e778f70/1.png",
+        "filename": "1.png",
+        "size": 1221269,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3847dc48e99d43d5010257998e3ba63c/41a2155f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/11a36506276060fc76b25e94c53c54ba/92df587e",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/66c4e053663f0131f35c46b4e4908f63/4039966f",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attP1ef1dOhXXSIQT",
+        "url": "https://dl.airtable.com/.attachments/444b1f27a56498bcb7f0c6fa4bbb88af/7724e207/0.png",
+        "filename": "0.png",
+        "size": 930691,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7560333173f679fd73a1a758ea5c35a4/76ef9578",
+            "width": 35,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e9ebc7669ceaa89e8538035eed448b83/09bc3eea",
+            "width": 512,
+            "height": 522
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/09eac01cc79b3cdcfaea45c0ef961086/aec7ee42",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attWM7JwTq8WbwUYC",
+        "url": "https://dl.airtable.com/.attachments/217376f989c14628a328337d05c55724/a8463d57/3.png",
+        "filename": "3.png",
+        "size": 1247937,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d1d3757a0b8e9a4337538840a8b4442e/87337757",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9c2314045038e3558575095dc8c6f81d/90c7ff29",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e15835227551b643b425e7ae9bf54477/4397e071",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "status": "Publish to website"
   },
   {
     "_id": "reccvidfwY53VMZ1R",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/reccvidfwY53VMZ1R/pictures/attFm4JWRZuoJwW5S/medium.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/reccvidfwY53VMZ1R/pictures/att1yhgSi3tmaNx0r/medium.png",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/reccvidfwY53VMZ1R/pictures/attFm4JWRZuoJwW5S/medium.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/reccvidfwY53VMZ1R/pictures/attFm4JWRZuoJwW5S/medium.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/reccvidfwY53VMZ1R/pictures/attFm4JWRZuoJwW5S/medium.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/reccvidfwY53VMZ1R/pictures/att1yhgSi3tmaNx0r/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/reccvidfwY53VMZ1R/pictures/att1yhgSi3tmaNx0r/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/reccvidfwY53VMZ1R/pictures/att1yhgSi3tmaNx0r/medium.png",
     "event": "Sarpanch's family distributes 30 kits in Sarhaul",
     "handlers": [
       "recjDkPJ6t8RVHZXz"
@@ -124,7 +643,6 @@
   },
   {
     "_id": "recdBp0m9EO8WyKZs",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recdBp0m9EO8WyKZs/pictures/attXbdRAT8uB9xNmM/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recdBp0m9EO8WyKZs/pictures/attBV0FXY1AKdhPpy/medium.png",
     "event": "61 kits distributed in Gurgaon",
     "handlers": [
       "rec8weJ5mIvcvV5rK",
@@ -135,20 +653,118 @@
       "recdDc22z8gLjTCqa"
     ],
     "notes": "One of our volunteers identified 61 families in a Gurgaon slum, affected by the pandemic. The ration kits served as a relief.",
+    "pictures": [
+      {
+        "id": "attXbdRAT8uB9xNmM",
+        "url": "https://dl.airtable.com/.attachments/1fc5b4d5b25d1dec4d5908939a18a4a8/c28806a5/0.png",
+        "filename": "0.png",
+        "size": 595156,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a25ec9d8a5b6aefa39c37a7f8be04cf0/303f1c47",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d3e8106d94256ca661aecc9c3fdeb1c4/389f8a1c",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4d552ce417d0906608bf5023405496f3/a6d54a18",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attBV0FXY1AKdhPpy",
+        "url": "https://dl.airtable.com/.attachments/7b2df98dc9f85f9cb83d5f8951d00cb5/ad5cd2b8/1.png",
+        "filename": "1.png",
+        "size": 904487,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fbe75056882ea4a7b1f4c7eb10f7899f/a78b2f2f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e18fb72bc3d1fe53ed86bc07ad464335/bdf466b9",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b3676c715dca395fdc2539ba555421a2/d1227551",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "status": "Publish to website"
   },
   {
     "_id": "reciKykfE6iBRFDq9",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/reciKykfE6iBRFDq9/pictures/attnDT27bTBXYREFw/medium.png, https://open-data.karuna2020.org/attachments/social-media-outreach/reciKykfE6iBRFDq9/pictures/attP1YnNb1m4zNZSc/medium.png",
     "date": "2020-04-09",
     "event": "Donations over UPI now available",
     "id": "reciKykfE6iBRFDq9",
     "notes": "If you've been wanting to contribute but couldn't get around to the NEFT/RTGS process, we now support donations over UPI. Once you’ve made a donation, please fill the Donor Details Form available on our website so we can verify your donation and issue an 80G tax deduction receipt.\n\nUse the VPA SHAKTI.41215081@hdfcbank or find our QR code on https://karuna2020.org/donate/, and scan it using any UPI-supported payments app, like Paytm, PhonePe, Google Pay, and BHIM.",
+    "pictures": [
+      {
+        "id": "attnDT27bTBXYREFw",
+        "url": "https://dl.airtable.com/.attachments/32e1447125796aaf02d3e1584724e0f1/98d2eb04/upi-1.png",
+        "filename": "upi-1.png",
+        "size": 784616,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d3c1322b9ff11b9e2c628e9672e67eb8/61755cac",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2ca7ac0efc746190bc84468250934838/32d08266",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/73c092304b32f6889240eef3294c925e/6babcacd",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attP1YnNb1m4zNZSc",
+        "url": "https://dl.airtable.com/.attachments/1c92940bfc2b60fe747507a1aea255f4/9c95e7b0/upi-2.png",
+        "filename": "upi-2.png",
+        "size": 446500,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7defad5376c6959924fae4df6f61c028/ea34b33c",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2c6087a47fa4ec64fc971104e736a24e/cc1d87b8",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2d8db0d0989f76bd530afeedbb5b649f/c799d290",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "status": "Publish to website"
   },
   {
     "_id": "recu2Dx6MVYdRjZld",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recu2Dx6MVYdRjZld/pictures/attCSUFp5fyNLGcj0/medium.png",
     "event": "70 kits distributed by an anonymous executive",
     "handlers": [
       "recjDkPJ6t8RVHZXz"
@@ -158,13 +774,184 @@
       "rec58pGVaFNKSOwp6"
     ],
     "notes": "An anonymous executive sponsored 70 kit and managed the distribution on ground level personally.",
+    "pictures": [
+      {
+        "id": "attCSUFp5fyNLGcj0",
+        "url": "https://dl.airtable.com/.attachments/b160e0c649b5954d601006143c6872c4/3514d2d4/0.png",
+        "filename": "0.png",
+        "size": 949953,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/74f93be735e7402278e5a424a899c61c/d6b72fba",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e2becbba5bf566f8ec845509d906a329/74063c61",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ab875df3d4e5b7b0865c89bc0a24b966/fcac7232",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "status": "Publish to website"
   },
   {
     "_id": "recwTEmOno3APyMYG",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recwTEmOno3APyMYG/pictures/attbwFK7qQjfyWU7G/medium.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recwTEmOno3APyMYG/pictures/attEWlfNuX5ryajOl/medium.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recwTEmOno3APyMYG/pictures/attVHQL9ex35xiETE/medium.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recwTEmOno3APyMYG/pictures/attaFTRMFpC9LAL9p/medium.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recwTEmOno3APyMYG/pictures/atthyXe42OsN7zn6v/medium.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recwTEmOno3APyMYG/pictures/attPVBVo4iWu3MLcq/medium.jpeg",
     "event": "Materials Received At Ghazipur",
     "id": "recwTEmOno3APyMYG",
+    "pictures": [
+      {
+        "id": "attbwFK7qQjfyWU7G",
+        "url": "https://dl.airtable.com/.attachments/e5a56742ea0d5a8ce963ed322490dfdd/387842e1/1e29b564-14f1-45f7-9bb0-9c4db0bceb9f.JPG",
+        "filename": "1e29b564-14f1-45f7-9bb0-9c4db0bceb9f.JPG",
+        "size": 222954,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/50575dbca2d79647be35556f64e7fa13/7eebbdeb",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ff84573d2b559829f550c9ac09bd61c9/e7a29b20",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/254bbd8bb3a15c7f68d256609c6a565f/168733c3",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attEWlfNuX5ryajOl",
+        "url": "https://dl.airtable.com/.attachments/ac5786844a7a6e3c576bd1245c3c08cf/c1aa3d68/7b5eb52f-ef02-4350-811d-6ac5cbdb0737.JPG",
+        "filename": "7b5eb52f-ef02-4350-811d-6ac5cbdb0737.JPG",
+        "size": 183196,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b390c513a7c915dba4f897a6277cd753/f49f5a33",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cde09fc0d718f1de9f4ec9df4f59961b/d08a0a7c",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/392b5aa3a196cb91942dc0e37d70bf29/8513c878",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attVHQL9ex35xiETE",
+        "url": "https://dl.airtable.com/.attachments/f72343d0db3a2453359b532c851b8eb7/61372d7f/31dede81-e784-49e8-b930-3ce506683c7b.JPG",
+        "filename": "31dede81-e784-49e8-b930-3ce506683c7b.JPG",
+        "size": 170836,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fa8196dcfe895e357ad8c7c2a427a9b6/88de167f",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0b80644ae4a1882c507957324a24385d/5ee55a85",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dab18af6d00655b6042dbe4c5e53b424/9ef0a713",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attaFTRMFpC9LAL9p",
+        "url": "https://dl.airtable.com/.attachments/179712325c69c88904ddaee0bc337189/e6d17b3a/b52aac82-b0ab-4434-9709-214d53abcc69.JPG",
+        "filename": "b52aac82-b0ab-4434-9709-214d53abcc69.JPG",
+        "size": 188044,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0db8578ade547b853d1c850eca90de99/78318488",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3fc6e58093f4d568714bbfb97d7bdb86/a5d25434",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/08f307975a249d15ff26e1041a42408e/229013eb",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "atthyXe42OsN7zn6v",
+        "url": "https://dl.airtable.com/.attachments/e6af37dfc3a80dcaab4994315615d5eb/4820779d/efa7a038-a399-4e27-8107-e1754dc369df.JPG",
+        "filename": "efa7a038-a399-4e27-8107-e1754dc369df.JPG",
+        "size": 229941,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4b241af5d6b4f5fa9de6f6986eaefb98/097f8efe",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/28004c6a37081f5ddc693e123a935bb2/99b68b0d",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f879fdc482b5dd60a1755d287dadaddc/e858b7e2",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attPVBVo4iWu3MLcq",
+        "url": "https://dl.airtable.com/.attachments/a0ca71dc2af73ddfb0c02e770ff3aab4/07db50cb/d5e41764-353c-46b8-82e0-fc5310c300ae.JPG",
+        "filename": "d5e41764-353c-46b8-82e0-fc5310c300ae.JPG",
+        "size": 201205,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dcd313c88acfb0aba475d2c7ca6d214d/44b1b112",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9d2a12d8535267b312deca5521328094/8f65da5b",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f5f58c350dfcecc024521995b10756fa/712a24dd",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "status": "Not publishing"
   }
 ]
