@@ -31,3 +31,6 @@ jobs:
         uses: joelwmale/webhook-action@master
         env:
           WEBHOOK_URL: https://services.anandchowdhary.now.sh/api/github-trigger?repo=Karuna2020/karuna2020.org&event=update
+          data: "Build and deploy"
+        with:
+          data: "Build and deploy"
