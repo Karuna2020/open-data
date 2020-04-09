@@ -207,6 +207,111 @@
     "status": "Publish to website"
   },
   {
+    "_id": "recLM1XVOSbUCHDQd",
+    "date": "2020-04-09",
+    "event": "Masks being made at Gulmeher",
+    "id": "recLM1XVOSbUCHDQd",
+    "pictures": [
+      {
+        "id": "attyBCtmrh0AId7Qd",
+        "url": "https://dl.airtable.com/.attachments/53acbdf2bf8ebc929d74666e3e6fb423/751001ed/WhatsAppImage2020-04-09at16_18_33.jpeg",
+        "filename": "WhatsApp Image 2020-04-09 at 16_18_33.jpeg",
+        "size": 86708,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/73623a58b2e559c4c4b322d33e3d797f/a86d5042",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f4804829f0d26a4f4c59cedfaad2656f/6a63a0f5",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f3f683d532160de51f5e30a8658f4f7d/0a69e765",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attLpgG4qPuzLWftk",
+        "url": "https://dl.airtable.com/.attachments/1a677575734baf5ed32eb4a5167f9b45/6a5d4892/WhatsAppImage2020-04-09at16_18_34.jpeg",
+        "filename": "WhatsApp Image 2020-04-09 at 16_18_34.jpeg",
+        "size": 124365,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5c36dc541ec18d091660c61d8c39d91a/0a9c0393",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/821146fdb87a5b65857ef13f89acc763/3ce18400",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/803aaacad40658c06f79581d79d0b8e3/d10d5031",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attC392FABXLWLJ4B",
+        "url": "https://dl.airtable.com/.attachments/f3f06d533780d53ae9af60dbcf3ea2c2/21be3787/WhatsAppImage2020-04-09at16_18_341.jpeg",
+        "filename": "WhatsApp Image 2020-04-09 at 16_18_34 (1).jpeg",
+        "size": 93122,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3da595c6f85e97289824128134a9ce13/53f0d170",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2092af5f0c4ddf81d63912e2e9376009/f73f6419",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6d57b1320cb4c9e69f98d31b445381b5/cd2d285b",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att8axRpx4bz3fWCL",
+        "url": "https://dl.airtable.com/.attachments/b2b950466e3cbb300eacc0e7fd7504d9/a3b375f2/WhatsAppImage2020-04-09at16_18_35.jpeg",
+        "filename": "WhatsApp Image 2020-04-09 at 16_18_35.jpeg",
+        "size": 38561,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1c67beb658ed35ad26b83e16d9fa4242/1cf52e7c",
+            "width": 20,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/31b371bb885d0c46a6020341e0a9f6b5/6e40322d",
+            "width": 512,
+            "height": 911
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e523a12d250610cfd2c2933fdaae3857/0ef3823c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Photos uploaded"
+  },
+  {
     "_id": "recMldiWLslcoAWQv",
     "event": "First Sprint Report",
     "handlers": [
@@ -360,11 +465,28 @@
         }
       },
       {
-        "id": "attcozgKD3X3gfVwd",
-        "url": "https://dl.airtable.com/.attachments/3203eb479568ea394e7dcbe5eb198862/beabace0/0.mp4",
-        "filename": "0.mp4",
-        "size": 11711103,
-        "type": "video/mp4"
+        "id": "attdwKCYaJUucwelE",
+        "url": "https://dl.airtable.com/.attachments/4285163a0d69eecf69ed4a11115947d1/c98331ae/0.png",
+        "filename": "0.png",
+        "size": 652272,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/56a05388d9acf3e2b8dcb9040e5879ef/b9a3560f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5c2a4f3810b14b9aca39ce045d877be3/4c0bfe24",
+            "width": 512,
+            "height": 515
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fedf59c3b45b007b149b4d24904a0340/c07a5ffb",
+            "width": 3000,
+            "height": 3000
+          }
+        }
       }
     ],
     "status": "Publish to website"
