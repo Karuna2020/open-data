@@ -1,7 +1,7 @@
 name: Karuna 2020 Open Data
 on:
   schedule:
-    - cron: "0 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17 * * *"
+    - cron: "0 0,5,10,15 * * *"
   repository_dispatch:
     types: [update_sheets]
 jobs:
@@ -30,3 +30,7 @@ jobs:
           commit_user_name: GitHub Actions
           commit_user_email: actions@github.com
           commit_author: GitHub Actions <actions@github.com>
+      - name: Trigger webhook to build site
+        uses: joelwmale/webhook-action@master
+        env:
+          WEBHOOK_URL: https://services.anandchowdhary.now.sh/api/github-trigger?repo=Karuna2020/open-data&event=update_airtable
