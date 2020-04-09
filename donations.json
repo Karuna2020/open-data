@@ -74,6 +74,20 @@
     "receivedInWhichAccount": "In Kind"
   },
   {
+    "_id": "recBvCkfUSZ0IVpD4",
+    "amount": 1500,
+    "date": "2020-04-09",
+    "fromBank": "HDFC",
+    "id": "recBvCkfUSZ0IVpD4",
+    "method": "UPI",
+    "mobile": "9005528765",
+    "name": "Mayank Agrawal",
+    "notes": "I transferred using Citibank but it is not visible in drop down menu of bank so I selected randomly",
+    "panNo": "AZUPA0934E",
+    "receivedInWhichAccount": "Shakti Foundation",
+    "utrPaymentDetailsImpsNeftRtgsNo": "010060648645"
+  },
+  {
     "_id": "recDzd62sM83zuzBq",
     "amount": 10000,
     "id": "recDzd62sM83zuzBq",
@@ -121,6 +135,19 @@
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "receivedInWhichAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "LB3670200331G528"
+  },
+  {
+    "_id": "recLaeiTnSUw0yWYq",
+    "amount": 15000,
+    "date": "2020-04-09",
+    "fromBank": "HDFC",
+    "id": "recLaeiTnSUw0yWYq",
+    "method": "TPT",
+    "mobile": "9870524938",
+    "name": "Anurag Sharma",
+    "panNo": "DLMPS0771L",
+    "receivedInWhichAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "BM01000235462498"
   },
   {
     "_id": "recN0dyVwTvVFOESM",
