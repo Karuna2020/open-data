@@ -2,34 +2,9 @@
   {
     "_id": "recumOioylqWbswcZ",
     "brandName": "Gulmeher",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/partners/recumOioylqWbswcZ/logo/att9Bt7Y1OjtkesR6/medium.png",
     "description": "Operational since 2013, Gulmeher is a social entrepreneurship initiative that aims at Recycling, Reducing, Reusing, Repairing, Re-gifting and Recovering waste in its own unique way. This women's collective of waste-pickers turned artisans, is committed to the green agenda and believes that creating beautiful products can go hand in hand with environmental and social development.\n\nIn an endeavour to provide customers handcrafted products while supporting and encouraging craftsmanship – skilled designers train Gulmeher women to handcraft each product using discarded flower petals arranged together laboriously to breathe life into the designs.",
     "id": "recumOioylqWbswcZ",
-    "logo": [
-      {
-        "id": "att9Bt7Y1OjtkesR6",
-        "url": "https://dl.airtable.com/.attachments/4522c934ebe8cd5623fd5e589f9de709/edf31926/gulmeher.png",
-        "filename": "gulmeher.png",
-        "size": 81516,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/58ffe284dfdf494ad0556611b41d7f8c/5eef78b2",
-            "width": 70,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ab206885665e8c749a3538934614f345/78dd0b98",
-            "width": 734,
-            "height": 375
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/66ba83c503b896827b41754ebef1dc1e/b2f45317",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
     "relevantTeamMember": [
       "reck2YKHsRElZlcOg"
     ],
@@ -38,33 +13,8 @@
   {
     "_id": "reccUloEySdnmSVjF",
     "brandName": "Integral Livelihood and Social Entrepreneurship Foundation",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/partners/reccUloEySdnmSVjF/logo/attnFf1XJh7xkpySd/medium.png",
     "id": "reccUloEySdnmSVjF",
-    "logo": [
-      {
-        "id": "attnFf1XJh7xkpySd",
-        "url": "https://dl.airtable.com/.attachments/85c7bed9f13d687d3bf6b066b415d29a/13891b47/ilsef.png",
-        "filename": "ilsef.png",
-        "size": 22092,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f6ff388e537a508b91f07f5d8e6529c1/94450da4",
-            "width": 70,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0a9f0848456c2da393ffa8f4400e0084/ea526320",
-            "width": 734,
-            "height": 375
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/dae7a339df0b9b23024f66b16c66babe/90fa83b5",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
     "relevantTeamMember": [
       "rec0bpI6OkgZsykSB"
     ]
@@ -72,34 +22,9 @@
   {
     "_id": "recWYoAJwoXo7VNpL",
     "brandName": "Krim Labs",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/partners/recWYoAJwoXo7VNpL/logo/attfLpjDbiPREOlG7/medium.png",
     "description": "Krim Labs helps build applications that you can run your business on. With expertise in web technologies and cloud native infrastructure, they can streamline your processes and increase efficiency.",
     "id": "recWYoAJwoXo7VNpL",
-    "logo": [
-      {
-        "id": "attfLpjDbiPREOlG7",
-        "url": "https://dl.airtable.com/.attachments/ec53ff2dba3add0383d045acbe79a162/f87ecf61/krim-labs.png",
-        "filename": "krim-labs.png",
-        "size": 18443,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/02c909e3b8be41d9d9bda9df379bbc0e/af575725",
-            "width": 70,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/2744ba7a0dd6532c3c5c6f5a97e0baf9/1bfb7247",
-            "width": 734,
-            "height": 375
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0636d295b5cc2f96de2ac8e66fb3c06f/25c61b50",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
     "relevantTeamMember": [
       "recIKJzr77ClSkBIp"
     ],
@@ -108,34 +33,9 @@
   {
     "_id": "recj1Zkw1ln9XERsd",
     "brandName": "Oswald Labs",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/partners/recj1Zkw1ln9XERsd/logo/attjBHAsWED6KesRD/medium.png",
     "description": "Oswald Labs is a research-driven, award-winning accessibility technology company that builds products for people with disabilities. Their mission is to build new technologies that help people grow, and do it in a manner promoting accessibility and equality.\n\nOswald Labs' products include Agastya, the world's first end-to-end web accessibility platform; Shravan, the smartphone for people with disabilities; and Valmiki, the web browser extension to help people with dyslexia read more easily. Most recently, Oswald Labs launched Augmenta11y, a smartphone app that helps kids with dyslexia read over 20% faster.",
     "id": "recj1Zkw1ln9XERsd",
-    "logo": [
-      {
-        "id": "attjBHAsWED6KesRD",
-        "url": "https://dl.airtable.com/.attachments/8d0932cf505b6e269fc7f9191fe42cd0/8884bf61/oswald-labs.png",
-        "filename": "oswald-labs.png",
-        "size": 18053,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/005032bab12d025236f173b9b749518f/29657a8b",
-            "width": 70,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d2764b794459c7c8c88ea5a63caa8c7b/b7e619be",
-            "width": 734,
-            "height": 375
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e254f6ef011a8d3b0ebeef9f5bf40463/fa6fe760",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
     "relevantTeamMember": [
       "recI5SecmybSlU6Ul"
     ],
@@ -144,34 +44,9 @@
   {
     "_id": "recDAXlut4WEjl2Bk",
     "brandName": "Shakti Foundation",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/partners/recDAXlut4WEjl2Bk/logo/att7K1kDelrwWef1n/medium.png",
     "description": "In the words of Mahatma Gandhi, “The best way to find yourself is to lose yourself in the service of others”. It was in this spirit that Shakti Foundation was incorporated in 2010 as a society per the Societies Registration Act, 1860 under Section 12AA of the IT Act. With 80G exemption in place, a host of projects have been undertaken over the last 10 years under the aegis of Shakti Foundation.\n\nWidely recognised for its varied, multi-sectoral, high impact and quickly scalable initiatives, Shakti Foundation and allied projects have received phenomenal recognition from independent quarters besides the stakeholders they directly impact.",
     "id": "recDAXlut4WEjl2Bk",
-    "logo": [
-      {
-        "id": "att7K1kDelrwWef1n",
-        "url": "https://dl.airtable.com/.attachments/7c96c53a39ae4f53b2479970fa2fe3b8/ad78916e/shakti.png",
-        "filename": "shakti.png",
-        "size": 154089,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/41eefc695e9bda033edc77253b7a4be0/7b42de8a",
-            "width": 70,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4f614a69a67470a23329bed286712be7/5415ec5e",
-            "width": 734,
-            "height": 375
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/8854dbedfa02f04824546d27b5b9aa51/cd6702b3",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
     "relevantTeamMember": [
       "reck2YKHsRElZlcOg"
     ],
@@ -180,34 +55,9 @@
   {
     "_id": "recSVpv7No3r5FP1c",
     "brandName": "Society for Awareness and Nature's Development",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/partners/recSVpv7No3r5FP1c/logo/attv1Qc8S28kn7xzg/medium.png",
     "description": "SAND is a registered Non-Governmental Organisation (NGO), working together with partners and local communities globally to improve environment and human wellbeing. We are an Uttarakhand-based NGO working on organic farming and environmental awareness issues.",
     "id": "recSVpv7No3r5FP1c",
-    "logo": [
-      {
-        "id": "attv1Qc8S28kn7xzg",
-        "url": "https://dl.airtable.com/.attachments/c6984d019723c46f40d6b2f62fe0667f/25e5ed24/society.png",
-        "filename": "society.png",
-        "size": 26689,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/230298d59f4982cba5f99e4914c5b019/1771b6a2",
-            "width": 70,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/01c802ff77b73a3412af55bb248fddf7/53cbd3ad",
-            "width": 734,
-            "height": 375
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/caeff1ccd29e1dc86aaa4a45e27438ac/c8cfac61",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
     "relevantTeamMember": [
       "rec24I5mDTmwq0jnh"
     ],
@@ -216,34 +66,9 @@
   {
     "_id": "reco0NlLLAGEMTrO1",
     "brandName": "Unifiers",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/partners/reco0NlLLAGEMTrO1/logo/attDPs9X5AFrxQN9j/medium.png",
     "description": "Unifiers has been set up with the belief that people and ideas can make a beautiful world. It's a social infrastructure organization which works with children, youth, and adults, helping them build capacities to live a more happy and fulfilling life.\n\nThe Unifiers team consists of professionals recognized for their contributions in the field of human resource development and vocational training. In the past, their team has conceptualized and implemented some of the largest mandates in the social infrastructure space in India.",
     "id": "reco0NlLLAGEMTrO1",
-    "logo": [
-      {
-        "id": "attDPs9X5AFrxQN9j",
-        "url": "https://dl.airtable.com/.attachments/c9171162f42a7f0b60de623e09dd0da0/8ea66203/unifiers.png",
-        "filename": "unifiers.png",
-        "size": 36526,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a1ae73bd0c1b89a763f9653d2d2f72b0/0f7d4b26",
-            "width": 70,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/25e6b7f695a0891f4bd22a76eed740fe/a50c4f79",
-            "width": 734,
-            "height": 375
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/884943c4899d0b049372419d47bae6d1/cedf4d66",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
     "relevantTeamMember": [
       "rec0bpI6OkgZsykSB",
       "recKiQ0VGnZMljPTf"
