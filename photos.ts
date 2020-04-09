@@ -6,7 +6,7 @@ import {
   writeFile,
   ensureDir,
 } from "fs-extra";
-import download from "download";
+const download = require("download");
 
 import { join } from "path";
 
