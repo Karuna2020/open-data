@@ -10,7 +10,7 @@ import download from "download";
 
 import { join } from "path";
 
-const getPhotos = async () => {
+export const getPhotos = async () => {
   await mkdirp(join(".", "attachments"));
   const files = (await readdir(join("."))).filter((i) => i.endsWith(".json"));
   const images: any[] = [];

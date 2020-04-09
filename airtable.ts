@@ -4,6 +4,7 @@ import { join } from "path";
 import slugify from "@sindresorhus/slugify";
 import axios from "axios";
 import { createHash } from "crypto";
+import { getPhotos } from "./photos";
 config();
 
 import Airtable from "airtable";
@@ -149,4 +150,5 @@ const urls = async () => {
 
 update()
   .then(() => summarize())
-  .then(() => urls());
+  .then(() => urls())
+  .then(() => getPhotos());
