@@ -87,8 +87,7 @@
     "active": true,
     "areaOfWorkAllocated": "Distribution",
     "distribution": [
-      "recLwT1DazwdakLbx",
-      "recTSeBGsGpIiG3d4"
+      "recLwT1DazwdakLbx"
     ],
     "emailMd5": "e6ced0181e1fc5a7639a749b4f96814a",
     "id": "recKiQ0VGnZMljPTf",
@@ -221,7 +220,8 @@
     "active": true,
     "competenceBackground": "Corporate Law",
     "distribution": [
-      "recPUwpqML3yylCUW"
+      "recPUwpqML3yylCUW",
+      "recTSeBGsGpIiG3d4"
     ],
     "emailMd5": "5292e5f748154292264478c6523cb1e8",
     "id": "recJbFfMkoYdLLhMv",
