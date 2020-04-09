@@ -78,8 +78,17 @@
   },
   {
     "_id": "recg64f2Rh4M84TST",
+    "active": true,
+    "areaOfWorkAllocated": "Distribution",
+    "competenceBackground": "Development Management",
+    "distribution": [
+      "reccooYD9qC6z9dHv"
+    ],
+    "emailMd5": "b56f6798095623fc07782d9788d69d2e",
     "id": "recg64f2Rh4M84TST",
-    "name": "Divyarth"
+    "location": "Gwalior",
+    "name": "Divyarth",
+    "reference": "ISDM"
   },
   {
     "_id": "recI4lLcOHd2rv3gk",

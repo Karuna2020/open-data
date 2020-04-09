@@ -217,6 +217,30 @@
     "notes": "Our brave volunteers and partners are on the ground, verifying information and distributing Karuna 2020 Dry Ration Packs around the city. Our friends at the women's collective Gulmeher have started producing masks to help keep them safe. Our goal is to manufacture 1,000 masks every day.",
     "pictures": [
       {
+        "id": "attHTTFRHhSjUDk4Z",
+        "url": "https://dl.airtable.com/.attachments/fa1cf7b679289fb7ffa8b8a4568c6578/f4dc3733/mask-1.png",
+        "filename": "0.png",
+        "size": 776583,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/69d631915f768be1d7506b4a9564e783/6048805c",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cc536b29a80e6b578b559fc952bda72a/b3628835",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/708b0162cfa95d298c182c8469188d58/fd855101",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
         "id": "atteznSBmOqDU2a2F",
         "url": "https://dl.airtable.com/.attachments/150b4cf4ed1151ad02472f6f0ba6c69a/1057c861/WhatsAppImage2020-04-09at16_18_33.jpeg",
         "filename": "WhatsApp Image 2020-04-09 at 16_18_33.jpeg",
@@ -311,33 +335,9 @@
             "height": 3000
           }
         }
-      },
-      {
-        "id": "attHTTFRHhSjUDk4Z",
-        "url": "https://dl.airtable.com/.attachments/fa1cf7b679289fb7ffa8b8a4568c6578/f4dc3733/mask-1.png",
-        "filename": "0.png",
-        "size": 776583,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/69d631915f768be1d7506b4a9564e783/6048805c",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/cc536b29a80e6b578b559fc952bda72a/b3628835",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/708b0162cfa95d298c182c8469188d58/fd855101",
-            "width": 3000,
-            "height": 3000
-          }
-        }
       }
     ],
-    "status": "Graphics Ready"
+    "status": "Publish to website"
   },
   {
     "_id": "recMldiWLslcoAWQv",

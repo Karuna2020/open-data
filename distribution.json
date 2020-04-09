@@ -2766,7 +2766,109 @@
     "status": "Received Distribution Pictures"
   },
   {
-    "_id": "rec6bJjf0DuIMhhmc"
+    "_id": "rec6bJjf0DuIMhhmc",
+    "areaOfDelivery": "Maidan Gashi",
+    "listAadharPictures": [
+      {
+        "id": "attD2rIh5bbVuH1kV",
+        "url": "https://dl.airtable.com/.attachments/d479da29768d31086e7dfc42a7d1459e/01d91ef1/1.jpeg",
+        "filename": "1.jpeg",
+        "size": 88832,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6c6ede14676f284e07550626931c9a4a/ba30db2d",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d3bfe7d159fb96b75fdf9789f73e6f1a/e5fc17a0",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/10a56c320ab6e859befecb8166478adc/341f5b37",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att3frj30IYM74xrX",
+        "url": "https://dl.airtable.com/.attachments/043c38f56e45e879d22e867bb8245e6a/39b327a8/2.jpeg",
+        "filename": "2.jpeg",
+        "size": 87261,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c398a08ae219cb7f5f694db13db64337/e4f359ff",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/632e0f16da414be7e7152b64b61f3296/4f0c2643",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/82ae754de855aea7e10522b6b09ae273/8b495c90",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attLRMGKx93yXCngt",
+        "url": "https://dl.airtable.com/.attachments/c8cc5aa1eb348e4fb3ae3769202beb31/998126eb/3.jpeg",
+        "filename": "3.jpeg",
+        "size": 107957,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/382ca4b80147925f2186e9e6eff6cd8c/3ccbe054",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/05e8b366130cb437b5ffaf3ab8e044aa/c4e9289d",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b8046864399ded49debffca692662dc1/13484801",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attU3KDsJzoF7Ptqz",
+        "url": "https://dl.airtable.com/.attachments/8e7e38f11316ffea0ac8c56f4682c4d6/e3f7cf7b/4.jpeg",
+        "filename": "4.jpeg",
+        "size": 40353,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a5b62f93ebc295fc4bff2ae8298c5763/7ae53b92",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/319d0fd846d7054dd11c2ca967df30c2/7b1727ec",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0ded120752e6d1114ff9c69b787014c8/d7de138c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "name": "Sanjeev Dagar",
+    "numberOfKitsNeeded": 65,
+    "status": "Have list"
   },
   {
     "_id": "rec9F69PL70oGxW4s",
@@ -5052,271 +5154,8 @@
   {
     "_id": "reccooYD9qC6z9dHv",
     "areaOfDelivery": "Gali No. 59, U Block, DLF Phase 3, sector 24, Gurgaon",
-    "listAadharPictures": [
-      {
-        "id": "attvRMOClJPNdfEJf",
-        "url": "https://dl.airtable.com/.attachments/d5d5291ad90af45ba8edddca62d3a4a8/aec794b5/SalmaKhatun.jpeg",
-        "filename": "Salma Khatun.jpeg",
-        "size": 115770,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4ad46f007938bb045929a2d88bd189b8/69356f88",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/313801f4e57d4cd52f5a5a128dba0f6e/58513217",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6c8cb338be44ff9c63baa9f4a22a99b6/7fced96a",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attEawMMgvM6IdTdK",
-        "url": "https://dl.airtable.com/.attachments/2ab5874243854429f1b314753ec4e498/e609245a/AnsurRehman.jpeg",
-        "filename": "Ansur Rehman.jpeg",
-        "size": 91447,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b24d475e764b05c4dfed4bc3b44c341d/2e4f410f",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/eb941b04382544fd22f56f1500b09d8d/28da6b79",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/fcc6a7de7f81f5286c336f1ff8359faf/2ff164ab",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attJ4xQRtrXLXUqD6",
-        "url": "https://dl.airtable.com/.attachments/e7b63431603504543d7bb8dcd07304a3/6fa6e70b/Sumitra.jpeg",
-        "filename": "Sumitra.jpeg",
-        "size": 155646,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/182a1d247735d025ccb8d13b6c5d75e6/9ebe22b2",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/be8a9a8a55ef1334696df73ceb5eef48/d880ebff",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b559ce9cd8543ece89b1501a9e83b17d/c172eb51",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "att53HKvyQVVVB6g4",
-        "url": "https://dl.airtable.com/.attachments/dd2a393b3d1b95c110301c24e65dfd2f/65d80f73/List.PNG",
-        "filename": "List.PNG",
-        "size": 27672,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a4b2736c425abeee0bca1a69bf0f1353/8d4f9b10",
-            "width": 51,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/55593d5248c30d03961356dd33f60d61/1bfb4c7d",
-            "width": 625,
-            "height": 445
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/9ac934eda9befefb737bab87b08fbddb/726b1fb4",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attMazxV7HJNvNjen",
-        "url": "https://dl.airtable.com/.attachments/5b736bee51de7beda33f704c0d7d2ecd/982d1cd5/RajibAliBack.jpeg",
-        "filename": "Rajib Ali Back.jpeg",
-        "size": 70749,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/cca9cb8631b93492b7d89c16186bc22f/3c6fb38a",
-            "width": 17,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/99c1ec56c1fa495d31e33fcf27cdb790/98be2f0f",
-            "width": 512,
-            "height": 1083
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7ceaddd2fbdf0e3def80fe42a1ab4a74/6cd188ba",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attpUxPzpA7KQMgqc",
-        "url": "https://dl.airtable.com/.attachments/c016e2f24c2125c784ddbd5a175c7d40/50c8e966/AisulMohd_.jpeg",
-        "filename": "Aisul Mohd_.jpeg",
-        "size": 55904,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/46fa7fbc43a2bade08205ffb869c68b7/aaabede2",
-            "width": 20,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/40db0957e1b054604d6f279e65d5fcd7/e442c601",
-            "width": 512,
-            "height": 906
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/fdc242eba7d3be1d7444ce550a13a3bc/ea31aa8d",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attOi6gte6wTvFZn1",
-        "url": "https://dl.airtable.com/.attachments/3d90e7ab1580fbd9f8f57425cea8f362/e3cf0496/RajibAli.jpeg",
-        "filename": "Rajib Ali.jpeg",
-        "size": 84236,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0e23adf522ec1537601e76cb3465f100/d2323e51",
-            "width": 17,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3a1350410bbda2d82b5ed1d2bfbc757e/b3e5cae4",
-            "width": 512,
-            "height": 1083
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6e4f5d96ee484d95cfc7b0974b413090/3f62e625",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "att9EXGgdIvcHYG2O",
-        "url": "https://dl.airtable.com/.attachments/a440571cf87c57d55e6fce577674a823/4cdce6bd/MarjinaKhatun.jpeg",
-        "filename": "Marjina Khatun.jpeg",
-        "size": 127268,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d9f31fda656dfc53a2ee9beb8cf19e2a/8d2e9c15",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ffa1884f58c0cab0645ab336d2287c2b/24dc2db6",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/9d19298d6cb263359d3cd75fda416233/3c84d211",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attEFwFdcdkfTgqsY",
-        "url": "https://dl.airtable.com/.attachments/580be8207a877b9634f32195a2f5a71a/1a2b4793/AkherulAli.jpeg",
-        "filename": "Akherul Ali.jpeg",
-        "size": 67438,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/eee2a4c8f3b492ed7e41e4439396563f/4bd94088",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7c0422e2a5ef8d9278bcbc6a28be6e33/9053ed81",
-            "width": 683,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/2c17fcaeb1e3f7a1f9ea1b2bfc4c09fb/7938798b",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attjO4ukQcFAShCii",
-        "url": "https://dl.airtable.com/.attachments/85c2a569568bc27b93e97bf1919970e0/18a3305a/SurajKumar.jpeg",
-        "filename": "Suraj Kumar.jpeg",
-        "size": 93971,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ab710bc0a124bd0d51ea7e479c47ef50/78bd0478",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/610027b8fbbbedd80e490be174c403fb/46977958",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3b277bd123d648fd95c3654e3b15d2be/a2164ee3",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attItFbqnxYJ9ekpz",
-        "url": "https://dl.airtable.com/.attachments/d877ca0ba24f0de5bbcd20f8c4abe409/08b80bfa/NurjahanBibi.jpeg",
-        "filename": "Nurjahan Bibi.jpeg",
-        "size": 82848,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d94055695eb16a8aef617bc22856f015/dc7b3314",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f8ded99afc820b54372174d2ddf12d3f/66cd800f",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/bb4cc1c6dfb175c6cd8941a9e3291034/c240a0b3",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
+    "handler": [
+      "recg64f2Rh4M84TST"
     ],
     "name": "Aisul Mohammad",
     "numberOfKitsNeeded": 15,
