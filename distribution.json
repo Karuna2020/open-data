@@ -2768,105 +2768,11 @@
   {
     "_id": "rec6bJjf0DuIMhhmc",
     "areaOfDelivery": "Maidan Gashi",
-    "listAadharPictures": [
-      {
-        "id": "attD2rIh5bbVuH1kV",
-        "url": "https://dl.airtable.com/.attachments/d479da29768d31086e7dfc42a7d1459e/01d91ef1/1.jpeg",
-        "filename": "1.jpeg",
-        "size": 88832,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6c6ede14676f284e07550626931c9a4a/ba30db2d",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d3bfe7d159fb96b75fdf9789f73e6f1a/e5fc17a0",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/10a56c320ab6e859befecb8166478adc/341f5b37",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "att3frj30IYM74xrX",
-        "url": "https://dl.airtable.com/.attachments/043c38f56e45e879d22e867bb8245e6a/39b327a8/2.jpeg",
-        "filename": "2.jpeg",
-        "size": 87261,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/c398a08ae219cb7f5f694db13db64337/e4f359ff",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/632e0f16da414be7e7152b64b61f3296/4f0c2643",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/82ae754de855aea7e10522b6b09ae273/8b495c90",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attLRMGKx93yXCngt",
-        "url": "https://dl.airtable.com/.attachments/c8cc5aa1eb348e4fb3ae3769202beb31/998126eb/3.jpeg",
-        "filename": "3.jpeg",
-        "size": 107957,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/382ca4b80147925f2186e9e6eff6cd8c/3ccbe054",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/05e8b366130cb437b5ffaf3ab8e044aa/c4e9289d",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b8046864399ded49debffca692662dc1/13484801",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attU3KDsJzoF7Ptqz",
-        "url": "https://dl.airtable.com/.attachments/8e7e38f11316ffea0ac8c56f4682c4d6/e3f7cf7b/4.jpeg",
-        "filename": "4.jpeg",
-        "size": 40353,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a5b62f93ebc295fc4bff2ae8298c5763/7ae53b92",
-            "width": 27,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/319d0fd846d7054dd11c2ca967df30c2/7b1727ec",
-            "width": 512,
-            "height": 683
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0ded120752e6d1114ff9c69b787014c8/d7de138c",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
+    "handler": [
+      "recg64f2Rh4M84TST"
     ],
     "name": "Sanjeev Dagar",
+    "notes": "Request Raised by @Sanjeev Dagar",
     "numberOfKitsNeeded": 65,
     "status": "Have list"
   },
@@ -5470,6 +5376,7 @@
       "recg64f2Rh4M84TST"
     ],
     "name": "Raju Biswas (Animesh)",
+    "notes": "Request Raised by @Anurag Kashyap",
     "numberOfKitsNeeded": 116,
     "status": "Have list"
   },
