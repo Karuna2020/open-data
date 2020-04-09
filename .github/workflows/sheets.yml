@@ -34,3 +34,6 @@ jobs:
         uses: joelwmale/webhook-action@master
         env:
           WEBHOOK_URL: https://services.anandchowdhary.now.sh/api/github-trigger?repo=Karuna2020/open-data&event=update_airtable
+          data: "Build and deploy"
+        with:
+          data: "Build and deploy"
