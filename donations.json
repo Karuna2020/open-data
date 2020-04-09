@@ -5,7 +5,7 @@
     "id": "rec0bGftI5gxBiaII",
     "method": "NEFT",
     "name": "Essel World Foundation",
-    "receivedInWhichAccount": "Shakti Foundation"
+    "toAccount": "Shakti Foundation"
   },
   {
     "_id": "rec39JRMSFB4eBPAD",
@@ -17,7 +17,7 @@
     "mobile": "9999697055",
     "name": "Platinum Hospitality",
     "notes": "Atul Celly",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "KKBKH20097634967"
   },
   {
@@ -29,7 +29,7 @@
     "name": "Not known",
     "notes": "Dont Know who he is",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "9214567360"
   },
   {
@@ -39,7 +39,7 @@
     "method": "TPT",
     "name": "Parul Agarwal",
     "notes": "Sunei Kapur",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "50100197093091"
   },
   {
@@ -52,7 +52,7 @@
     "mobile": "9873493977",
     "name": "Devika Chadha",
     "panNo": "AFPPC9101G",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "009318542427"
   },
   {
@@ -62,7 +62,8 @@
     "id": "rec8XIhAiDmeOiCVE",
     "method": "Cash",
     "name": "Ramveer Singh",
-    "receivedInWhichAccount": "Vikrant"
+    "status": "Receipt Not Needed For Now",
+    "toAccount": "Vikrant"
   },
   {
     "_id": "rec9jhG4zw0AgDKtR",
@@ -71,20 +72,21 @@
     "method": "NEFT",
     "name": "Sheet DB",
     "notes": "$19.99/m for 3 months",
-    "receivedInWhichAccount": "In Kind"
+    "status": "Receipt Not Needed For Now",
+    "toAccount": "In Kind"
   },
   {
     "_id": "recBvCkfUSZ0IVpD4",
     "amount": 1500,
     "date": "2020-04-09",
-    "fromBank": "HDFC",
+    "fromBank": "Citibank",
     "id": "recBvCkfUSZ0IVpD4",
     "method": "UPI",
     "mobile": "9005528765",
     "name": "Mayank Agrawal",
     "notes": "I transferred using Citibank but it is not visible in drop down menu of bank so I selected randomly",
     "panNo": "AZUPA0934E",
-    "receivedInWhichAccount": "Shakti Foundation",
+    "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010060648645"
   },
   {
@@ -94,8 +96,8 @@
     "method": "Cash",
     "mobile": "9958123079",
     "name": "Rachna Bansal",
-    "receivedInWhichAccount": "ILSEF",
-    "status": "Ready for generating Receipt"
+    "status": "Ready for generating Receipt",
+    "toAccount": "ILSEF"
   },
   {
     "_id": "recHKIZkFuuK5mHZM",
@@ -107,8 +109,8 @@
     "notes": "Address: House No. 70, Sector 37, Faridabad",
     "panNo": "AAHPA8256H",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
-    "receivedInWhichAccount": "Vikrant",
-    "status": "Ready for generating Receipt"
+    "status": "Ready for generating Receipt",
+    "toAccount": "Vikrant"
   },
   {
     "_id": "recK5C7nqCYiGqJSy",
@@ -121,8 +123,8 @@
     "name": "Mrs. Kusum Dhawan",
     "notes": "From A.K.Abrol's account",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
-    "receivedInWhichAccount": "ILSEF",
     "status": "Ready for generating Receipt",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309"
   },
   {
@@ -135,7 +137,7 @@
     "name": "Sharad Bhalla",
     "notes": "Dont Know who he is",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "LB3670200331G528"
   },
   {
@@ -148,7 +150,7 @@
     "mobile": "9870524938",
     "name": "Anurag Sharma",
     "panNo": "DLMPS0771L",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "BM01000235462498"
   },
   {
@@ -157,7 +159,8 @@
     "id": "recN0dyVwTvVFOESM",
     "method": "Cash",
     "name": "Sanjeev Dagar",
-    "receivedInWhichAccount": "Vikrant"
+    "status": "Receipt Not Needed For Now",
+    "toAccount": "Vikrant"
   },
   {
     "_id": "recOLWLywDGTpKOdb",
@@ -166,7 +169,7 @@
     "id": "recOLWLywDGTpKOdb",
     "method": "IMPS",
     "name": "Nayantara Nag",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "0483160001119"
   },
   {
@@ -175,7 +178,8 @@
     "id": "recRFPc5oD3SUI1XA",
     "method": "Cash",
     "name": "Raghu Dagar",
-    "receivedInWhichAccount": "Vikrant"
+    "status": "Receipt Not Needed For Now",
+    "toAccount": "Vikrant"
   },
   {
     "_id": "recS1HLiXkfGG7dzt",
@@ -184,7 +188,7 @@
     "id": "recS1HLiXkfGG7dzt",
     "method": "IMPS",
     "name": "Not known",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "9315348939"
   },
   {
@@ -193,7 +197,8 @@
     "id": "recURPgdpYUPcyJpF",
     "method": "Cash",
     "name": "Omveer Singh",
-    "receivedInWhichAccount": "ILSEF"
+    "status": "Receipt Not Needed For Now",
+    "toAccount": "ILSEF"
   },
   {
     "_id": "recW6NglQyJivYLzg",
@@ -201,7 +206,8 @@
     "id": "recW6NglQyJivYLzg",
     "method": "Cash",
     "name": "Mithalesh",
-    "receivedInWhichAccount": "Vikrant"
+    "status": "Receipt Not Needed For Now",
+    "toAccount": "Vikrant"
   },
   {
     "_id": "recWgwcVJTIGWKBhA",
@@ -211,7 +217,7 @@
     "method": "IMPS",
     "name": "Anonymous",
     "notes": "Gautam Chikermane",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "8921642916"
   },
   {
@@ -221,7 +227,7 @@
     "method": "NEFT",
     "name": "FIL Industries ltd",
     "notes": "Sunei Kapur",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "NEFTSDC9045049"
   },
   {
@@ -235,7 +241,7 @@
     "name": "SWATI GHAI",
     "notes": "Ref sunei kapur",
     "panNo": "CNNPG4662G",
-    "receivedInWhichAccount": "Shakti Foundation",
+    "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "Transaction number: UPI/P2A/010015301774/9871797202@kotak"
   },
   {
@@ -244,7 +250,7 @@
     "date": "2020-04-05",
     "id": "receamWvl3ufQcpS4",
     "method": "IMPS",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "009609068018"
   },
   {
@@ -264,7 +270,7 @@
     "method": "Cash",
     "name": "Anonymous",
     "notes": "Dinesh Kapoor",
-    "receivedInWhichAccount": "Vikrant (Radha)"
+    "toAccount": "Vikrant (Radha)"
   },
   {
     "_id": "recnECvn07TuEMS7L",
@@ -272,7 +278,7 @@
     "date": "2020-04-04",
     "id": "recnECvn07TuEMS7L",
     "name": "Parag Sharma",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "00031050462350"
   },
   {
@@ -284,7 +290,7 @@
     "name": "Sayeeshwar Venkatachalayam Iyer",
     "notes": "Dont Know who he is",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
-    "receivedInWhichAccount": "ILSEF"
+    "toAccount": "ILSEF"
   },
   {
     "_id": "recrxyLtmA4J5FMG4",
@@ -294,7 +300,7 @@
     "id": "recrxyLtmA4J5FMG4",
     "method": "IMPS",
     "name": "Minhaz Lokhandwala",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "009317556466"
   },
   {
@@ -303,7 +309,7 @@
     "date": "2020-04-02",
     "id": "recuBDeXBb9W53cuX",
     "name": "Syed Omar Bilal Ahmad",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "00271610047540"
   },
   {
@@ -318,8 +324,8 @@
     "notes": "From A.K.Abrol's account",
     "panNo": "AAHPP1195J",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
-    "receivedInWhichAccount": "ILSEF",
     "status": "Contacted",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309"
   },
   {
@@ -331,7 +337,7 @@
     "method": "IMPS",
     "mobile": "8810560137",
     "name": "Rohit Bhatia",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "009123213385"
   },
   {
@@ -344,7 +350,7 @@
     "mobile": "8954236768",
     "name": "Shubham",
     "panNo": "FWXPS7247P",
-    "receivedInWhichAccount": "Shakti Foundation",
+    "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010012171783"
   },
   {
@@ -358,7 +364,7 @@
     "name": "Radha Chowdhary",
     "panNo": "AEQPC1027F",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
-    "receivedInWhichAccount": "ILSEF",
+    "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "P0033126345890"
   },
   {
@@ -367,9 +373,9 @@
     "id": "recwzEs1knZj484pI",
     "method": "Cash",
     "mobile": "9958152111",
-    "name": "Anu Didi, GK2",
+    "name": "Anu Didi/ Anand Ref.",
     "receiptSharedWithDonorYesNo": "No receipt required",
-    "receivedInWhichAccount": "Vikrant (Radha)",
-    "status": "Contacted"
+    "status": "Contacted",
+    "toAccount": "Vikrant (Radha)"
   }
 ]
