@@ -629,6 +629,7 @@
   },
   {
     "_id": "reccvidfwY53VMZ1R",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/reccvidfwY53VMZ1R/pictures/attFm4JWRZuoJwW5S/medium.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/reccvidfwY53VMZ1R/pictures/att1yhgSi3tmaNx0r/medium.png",
     "event": "Sarpanch's family distributes 30 kits in Sarhaul",
     "handlers": [
       "recjDkPJ6t8RVHZXz"
@@ -638,56 +639,6 @@
       "rec9F69PL70oGxW4s"
     ],
     "notes": "The Sarpanch's family in Sarhaul contributed the entire cost of 30 kits to us, and took over the distribution and logistical responsibility for their community. On April 5, Karuna 2020 Dry Ration Packs were distributed to 30 families in Sarhaul, Gurugram, Haryana.",
-    "pictures": [
-      {
-        "id": "attFm4JWRZuoJwW5S",
-        "url": "https://dl.airtable.com/.attachments/7d331253b318666db0a6b6fca42d7a6d/859f8b75/Sarhaul.jpg",
-        "filename": "0.jpg",
-        "size": 259547,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/168ee29aa51116380f4efda1d6119d1d/cce162d2",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0bad3e82b01c92d272a589388b58a31c/93a955d1",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7e7ccb2504e5c28a9be0991fe60817c6/51f9c0ef",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "att1yhgSi3tmaNx0r",
-        "url": "https://dl.airtable.com/.attachments/0ef28c0e4fcd04e30ad646eb2defab96/66486ced/SarhaulCollage.png",
-        "filename": "1.png",
-        "size": 1223799,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0e4579ed510aef48d56fef1eb56641b6/532c569e",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e4487ea691e251681961d4f0b972cf82/2614c0a5",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/2cd1869617d0543b6c1d56930e14f677/d4c8fc35",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
     "status": "Publish to website"
   },
   {
