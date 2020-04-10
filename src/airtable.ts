@@ -3,13 +3,13 @@ import { config } from "dotenv";
 import { join } from "path";
 import { log, keyName, wait, fileName } from "./common";
 import axios from "axios";
-import { createHash } from "crypto";
 import { createInvoices } from "./invoice";
 import { getPhotos } from "./photos";
 config();
 
 import Airtable from "airtable";
 import { safeLoad } from "js-yaml";
+import { cleanFiles } from "./clean";
 const airtable = new Airtable();
 
 const cleanResponse = (tab: string, data: { [index: string]: string }[]) => {
@@ -19,14 +19,6 @@ const cleanResponse = (tab: string, data: { [index: string]: string }[]) => {
         const id = i._id;
         for (const key in i) {
           if (typeof i[key] === "string") i[key] = i[key].trim();
-          if (i.email)
-            i.emailMd5 = createHash("md5")
-              .update(i.email)
-              .digest("hex");
-          PRIVATE_COLUMNS.forEach(col => {
-            delete i[col];
-            delete i[keyName(col)];
-          });
           if (i[key] !== "") i[keyName(key)] = i[key];
           delete i[key];
         }
@@ -48,14 +40,6 @@ const cleanResponse = (tab: string, data: { [index: string]: string }[]) => {
       .sort((a, b) => a.brandName.localeCompare(b.brandName));
   return data;
 };
-
-const PRIVATE_COLUMNS = [
-  "phone",
-  "email",
-  "mobile",
-  "phoneNumber",
-  "listAadharPictures"
-];
 
 const update = async () => {
   const yaml = await readFile(join(".", "src", "airtable.yml"), "utf8");
@@ -146,4 +130,5 @@ Promise.resolve()
   .then(() => summarize())
   .then(() => urls())
   .then(() => getPhotos())
-  .then(() => createInvoices());
+  .then(() => createInvoices())
+  .then(() => cleanFiles());
