@@ -1,10 +1,14 @@
 import { readJson, writeFile, readFile, mkdirp } from "fs-extra";
 import { join } from "path";
 import { safeLoad } from "js-yaml";
-import { log, fileName, dateZero } from "./common";
+import { log, fileName, dateZero, updateAirtableRecord } from "./common";
 import htmlToPdf from "pdf-puppeteer";
 import { render } from "mustache";
 import Cloudinary from "cloudinary";
+import { config } from "dotenv";
+config();
+import Airtable from "airtable";
+const airtable = new Airtable();
 const cloudinary = Cloudinary.v2;
 var convertRupeesIntoWords = require("convert-rupees-into-words");
 
@@ -18,6 +22,7 @@ interface Record {
   _id: "string";
   id: string;
   invoiceUrl?: string;
+  "Invoice URL"?: string;
   amount: number;
   date: string;
   method: "Cash" | "NEFT" | "IMPS" | "TPT" | "UPI" | "Cheque";
@@ -34,10 +39,12 @@ interface Record {
 export const createInvoices = async () => {
   const yaml = await readFile(join(".", "src", "airtable.yml"), "utf8");
   const sheetFile: {
+    publicAppId: string;
     generateInvoiceStep: string;
     completedInvoiceStep: string;
     sentInvoiceStep: string;
   } = safeLoad(yaml);
+  const base = airtable.base(sheetFile.publicAppId);
   log("\n\nGenerating invoices");
 
   const json: Record[] = await readJson(join(".", fileName("Donations")));
@@ -49,14 +56,18 @@ export const createInvoices = async () => {
   const html = await readFile(join(".", "src", "invoice.html"), "utf8");
   for await (const record of recordsToGenerate) {
     try {
-      await createSingleInvoice(record, html);
+      await createSingleInvoice(base, record, html);
     } catch (error) {
       log("ERROR", error.toString() + "\n");
     }
   }
 };
 
-const createSingleInvoice = async (record: Record, html: string) => {
+const createSingleInvoice = async (
+  base: Airtable.Base,
+  record: Record,
+  html: string
+) => {
   log("Generating invoice for record", record._id, record.name);
 
   if (!record.address) throw new Error("Address not available");
@@ -69,6 +80,7 @@ const createSingleInvoice = async (record: Record, html: string) => {
     render(html, {
       ...record,
       signature: record._id,
+      amount: Number(record.amount).toLocaleString("en-IN"),
       amountInWords: convertRupeesIntoWords(record.amount),
       serialNumber: "KARUNA-" + record.id,
       dateNowDate: dateZero(new Date().getUTCDate()),
@@ -84,7 +96,15 @@ const createSingleInvoice = async (record: Record, html: string) => {
   const pdfPath = join(".", "generated", `${record._id}.pdf`);
   await writeFile(pdfPath, pdf);
   const result = await uploadToCloudinary(pdfPath);
-  log("Successfully generated", result.url + "\n");
+  await updateAirtableRecord(base, "Donations", [
+    {
+      id: record._id,
+      fields: {
+        "Invoice URL": result.url
+      }
+    }
+  ]);
+  log("Successfully uploaded", record._id, result.url + "\n");
 };
 
 const uploadToCloudinary = (

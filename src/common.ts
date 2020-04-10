@@ -20,3 +20,15 @@ export const wait = (ms: number) =>
 
 export const dateZero = (number: number | string) =>
   Number(number) > 9 ? number : `0${number}`;
+
+export const updateAirtableRecord = (
+  base: Airtable.Base,
+  baseName: string,
+  data: any[]
+) =>
+  new Promise((resolve, reject) => {
+    base(baseName).update(data, (error: any, records: any) => {
+      if (error) return reject(error);
+      resolve(records);
+    });
+  });

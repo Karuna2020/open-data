@@ -8,19 +8,7 @@ const airtable = new Airtable();
 import { join } from "path";
 import { safeLoad } from "js-yaml";
 import slugify from "@sindresorhus/slugify";
-import { log, keyName, fileName } from "./common";
-
-const updateAirtableRecord = (
-  base: Airtable.Base,
-  baseName: string,
-  data: any[]
-) =>
-  new Promise((resolve, reject) => {
-    base(baseName).update(data, (error: any, records: any) => {
-      if (error) return reject(error);
-      resolve(records);
-    });
-  });
+import { log, keyName, fileName, updateAirtableRecord } from "./common";
 
 export const getPhotos = async () => {
   const yaml = await readFile(join(".", "src", "airtable.yml"), "utf8");
