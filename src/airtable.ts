@@ -77,13 +77,12 @@ const summarize = async () => {
   const volunteers: any[] = await readJson(join(".", fileName("Volunteers")));
   data.numberOfVolunteers = volunteers.length;
 
-  const amount: any[] = await readJson(join(".", fileName("Amount Received")));
+  const amount: any[] = await readJson(join(".", fileName("Donations")));
   data.numberOfContributors = amount.length - 1;
-  data.totalAmountRaised =
-    amount.reduce(
-      (sum, val) => sum + parseInt(val.amount.replace(/\D/g, "")),
-      0
-    ) / 2;
+  data.totalAmountRaised = amount.reduce(
+    (sum, val) => sum + parseInt(String(val.amount).replace(/\D/g, "")),
+    0
+  );
 
   const distribution: any[] = await readJson(
     join(".", fileName("Distribution"))
