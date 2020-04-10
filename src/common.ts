@@ -1,4 +1,5 @@
 import slugify from "@sindresorhus/slugify";
+import nodemailer from "nodemailer";
 
 export const log = (...args: any[]) =>
   console.log(
@@ -32,3 +33,7 @@ export const updateAirtableRecord = (
       resolve(records);
     });
   });
+
+export const sendMail = async () => {
+  //
+};
