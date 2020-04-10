@@ -228,7 +228,7 @@
     "name": "Gautam Chikermane",
     "notesComments": "Gautam Chikermane",
     "panNo": "ADGPC2342G",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Generated",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "8921642916",
     "emailMd5": "966050701e215cf3261af7843fb59c19"
@@ -251,7 +251,7 @@
     "fromBank": "KOTAK",
     "id": 34,
     "method": "UPI",
-    "name": "SWATI GHAI",
+    "name": "Swati Ghai",
     "notesComments": "Ref sunei kapur",
     "panNo": "CNNPG4662G",
     "status": "Ready for generating Receipt",
@@ -369,7 +369,7 @@
     "notesComments": "From A.K.Abrol's account",
     "panNo": "AAHPP1195J",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Generated",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309",
     "emailMd5": "83bfe5141f36ae69286b927304b68926"
@@ -416,7 +416,7 @@
     "amount": 3000,
     "id": 12,
     "method": "Cash",
-    "name": "Anu Didi/ Anand Ref.",
+    "name": "Anuradha Chadha",
     "receiptSharedWithDonorYesNo": "No receipt required",
     "status": "Contacted",
     "toAccount": "Vikrant (Radha)"
