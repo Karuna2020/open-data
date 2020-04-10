@@ -1,7 +1,10 @@
 import slugify from "@sindresorhus/slugify";
 
-export const log = (...args: string[]) =>
-  console.log(new Date().toISOString(), ...args);
+export const log = (...args: any[]) =>
+  console.log(
+    new Date().toISOString(),
+    ...args.map(i => (typeof i === "string" ? i : JSON.stringify(i)))
+  );
 
 export const fileName = (file: string) => {
   if (file.includes(". ")) file = file.split(". ")[1];

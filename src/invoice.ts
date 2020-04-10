@@ -1,17 +1,33 @@
 import { readJson, writeFile, ensureDir, readFile } from "fs-extra";
 import { join } from "path";
 import { safeLoad } from "js-yaml";
-import { log } from "./common";
+import { log, fileName } from "./common";
 
-export const getPhotos = async () => {
+interface Record {
+  _id: "string";
+  amount: number;
+  method: "Cash" | "NEFT" | "IMPS" | "TPT" | "UPI" | "Cheque";
+  mobile: string;
+  name: string;
+  status: string;
+  toAccount: string;
+}
+
+export const createInvoices = async () => {
   const yaml = await readFile(join(".", "src", "airtable.yml"), "utf8");
   const sheetFile: {
-    publicAppId: string;
-    tabs: string[];
-    attachments: string[];
+    generateInvoiceStep: string;
+    completedInvoiceStep: string;
+    sentInvoiceStep: string;
   } = safeLoad(yaml);
-  log("Updating images from Airtable");
+  log("Generating invoices");
 
-  for await (const tab of sheetFile.tabs) {
-  }
+  const json: Record[] = await readJson(join(".", fileName("Donations")));
+  const recordsToGenerate = json.filter(
+    i => i.status === sheetFile.generateInvoiceStep
+  );
+
+  log(recordsToGenerate.length, "records to generate invoice for");
 };
+
+createInvoices();
