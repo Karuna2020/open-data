@@ -9,6 +9,7 @@ var convertRupeesIntoWords = require("convert-rupees-into-words");
 interface Record {
   _id: "string";
   id: string;
+  invoiceUrl?: string;
   amount: number;
   date: string;
   method: "Cash" | "NEFT" | "IMPS" | "TPT" | "UPI" | "Cheque";
@@ -33,7 +34,7 @@ export const createInvoices = async () => {
 
   const json: Record[] = await readJson(join(".", fileName("Donations")));
   const recordsToGenerate = json.filter(
-    i => i.status === sheetFile.generateInvoiceStep
+    i => i.status === sheetFile.generateInvoiceStep && !i.invoiceUrl
   );
   log(recordsToGenerate.length, "records to generate invoice for");
 
