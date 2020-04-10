@@ -39,7 +39,7 @@
     "id": "rec5F0zTLOZQ5DGH1",
     "method": "TPT",
     "name": "Parul Agarwal",
-    "notesComments": "Sunei Kapur",
+    "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar][1] You can find details about Parul from Sunei.\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/menCQSPd0Q7PIkFKO/usrVMHyDSa5htZzdZ?recordId=rec5F0zTLOZQ5DGH1&fieldId=flds8bco54IcRRSlP",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "50100197093091"
   },
@@ -248,7 +248,7 @@
     "id": "recbmaWPpbX764onC",
     "method": "NEFT",
     "name": "FIL Industries ltd",
-    "notesComments": "Sunei Kapur",
+    "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar][1] Same for FIL, Sunei will have contact details\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/menk7yVk3yTG8qTUK/usrVMHyDSa5htZzdZ?recordId=recbmaWPpbX764onC&fieldId=flds8bco54IcRRSlP",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "NEFTSDC9045049"
   },
@@ -289,6 +289,7 @@
     "mobile": "9560925239",
     "name": "Sukriti Kapoor",
     "panNo": "ECMPK9560F",
+    "status": "Ready for generating Receipt",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010022069012"
   },
