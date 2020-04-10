@@ -1,4 +1,4 @@
-import { readJson, pathExists, writeFile, ensureDir, readFile } from "fs-extra";
+import { readJson, writeFile, ensureDir, readFile } from "fs-extra";
 const download = require("download");
 import { config } from "dotenv";
 config();
@@ -8,6 +8,7 @@ const airtable = new Airtable();
 import { join } from "path";
 import { safeLoad } from "js-yaml";
 import slugify from "@sindresorhus/slugify";
+import { log, keyName, fileName } from "./common";
 
 const updateAirtableRecord = (
   base: Airtable.Base,
@@ -20,18 +21,6 @@ const updateAirtableRecord = (
       resolve(records);
     });
   });
-
-const log = (...args: string[]) =>
-  console.log(new Date().toISOString(), ...args);
-
-const fileName = (file: string) => {
-  if (file.includes(". ")) file = file.split(". ")[1];
-  file = slugify(file.trim());
-  return `${file}.json`;
-};
-
-const keyName = (key: string) =>
-  slugify(key.trim()).replace(/-([a-z])/g, g => g[1].toUpperCase());
 
 export const getPhotos = async () => {
   const yaml = await readFile(join(".", "src", "airtable.yml"), "utf8");

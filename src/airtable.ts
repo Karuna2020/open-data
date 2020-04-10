@@ -1,7 +1,7 @@
 import { writeJson, readJson, readFile, writeFile } from "fs-extra";
 import { config } from "dotenv";
 import { join } from "path";
-import slugify from "@sindresorhus/slugify";
+import { log, keyName, wait, fileName } from "./common";
 import axios from "axios";
 import { createHash } from "crypto";
 import { getPhotos } from "./photos";
@@ -11,23 +11,9 @@ import Airtable from "airtable";
 import { safeLoad } from "js-yaml";
 const airtable = new Airtable();
 
-const log = (...args: string[]) =>
-  console.log(new Date().toISOString(), ...args);
-
-const wait = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
-
-const fileName = (file: string) => {
-  if (file.includes(". ")) file = file.split(". ")[1];
-  file = slugify(file.trim());
-  return `${file}.json`;
-};
-
-const keyName = (key: string) =>
-  slugify(key.trim()).replace(/-([a-z])/g, (g) => g[1].toUpperCase());
-
 const cleanResponse = (tab: string, data: { [index: string]: string }[]) => {
   if (Array.isArray(data))
-    data = data.map((i) => {
+    data = data.map(i => {
       if (typeof i === "object" && !Array.isArray(i)) {
         const id = i._id;
         for (const key in i) {
@@ -36,7 +22,7 @@ const cleanResponse = (tab: string, data: { [index: string]: string }[]) => {
             i.emailMd5 = createHash("md5")
               .update(i.email)
               .digest("hex");
-          PRIVATE_COLUMNS.forEach((col) => {
+          PRIVATE_COLUMNS.forEach(col => {
             delete i[col];
             delete i[keyName(col)];
           });
@@ -48,16 +34,16 @@ const cleanResponse = (tab: string, data: { [index: string]: string }[]) => {
       const ordered: any = {};
       Object.keys(i)
         .sort()
-        .forEach((key) => (ordered[key] = i[key]));
+        .forEach(key => (ordered[key] = i[key]));
       return ordered;
     });
   if (tab === "Volunteers")
     data = data
-      .filter((i) => i.name)
+      .filter(i => i.name)
       .sort((a, b) => a.name.localeCompare(b.name));
   if (tab === "Partners")
     data = data
-      .filter((i) => i.brandName)
+      .filter(i => i.brandName)
       .sort((a, b) => a.brandName.localeCompare(b.brandName));
   return data;
 };
@@ -76,13 +62,13 @@ const update = async () => {
       .select()
       .eachPage((records, fetchNextPage) => {
         data.push(
-          ...records.map((record) => ({ _id: record.id, ...record.fields }))
+          ...records.map(record => ({ _id: record.id, ...record.fields }))
         );
         fetchNextPage();
       });
     console.log(tab, data.length);
     await writeJson(join(".", fileName(tab)), cleanResponse(tab, data), {
-      spaces: 2,
+      spaces: 2
     });
     await wait(1000);
   }
@@ -94,7 +80,7 @@ const summarize = async () => {
     numberOfContributors: 0,
     numberOfVolunteers: 0,
     numberOfKitDistributionsCompleted: 0,
-    numberOfPeopleImpacted: 0,
+    numberOfPeopleImpacted: 0
   };
 
   const volunteers: any[] = await readJson(join(".", fileName("Volunteers")));
@@ -112,7 +98,7 @@ const summarize = async () => {
     join(".", fileName("Distribution"))
   );
   data.numberOfKitDistributionsCompleted = distribution
-    .filter((i) =>
+    .filter(i =>
       ["Delivered", "Received Distribution Pictures"].includes(i.status)
     )
     .reduce((sum, val) => sum + val.numberOfKitsNeeded, 0);
@@ -127,7 +113,7 @@ const urls = async () => {
   );
   const lines = response.data
     .split("\n")
-    .filter((i) => i.includes(",") && i !== "short,long");
+    .filter(i => i.includes(",") && i !== "short,long");
   const urlGuide = await readFile(
     join(".", "guides", "url-shortener.md"),
     "utf8"
@@ -138,7 +124,7 @@ const urls = async () => {
       "\n\n<!--urls-->",
       lines
         .map(
-          (i) =>
+          i =>
             `| [${i.split(",")[0]}](https://go.karuna2020.org/${
               i.split(",")[0]
             }) | ${i.split(",")[1]} |`
