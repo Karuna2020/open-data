@@ -32,16 +32,17 @@ export const createInvoices = async () => {
   );
   log(recordsToGenerate.length, "records to generate invoice for");
 
+  const html = await readFile(join(".", "src", "invoice.html"), "utf8");
   for await (const record of recordsToGenerate) {
     try {
-      await createSingleInvoice(record);
+      await createSingleInvoice(record, html);
     } catch (error) {
       log("ERROR", error.toString() + "\n");
     }
   }
 };
 
-export const createSingleInvoice = async (record: Record) => {
+const createSingleInvoice = async (record: Record, html: string) => {
   log("Generating invoice for record", record._id, record.name);
 
   if (!record.address) throw new Error("Address not available");
@@ -49,7 +50,28 @@ export const createSingleInvoice = async (record: Record) => {
   if (!record.mobile) throw new Error("Phone number not available");
   if (!record.panNo) throw new Error("PAN not available");
 
+  const pdf = await generatePdf(html);
+  await writeFile(join(".", "pdf.pdf"), pdf);
+
   log("Successfully generated\n");
 };
+
+const generatePdf = (
+  html: string,
+  options?: any,
+  puppeteerArgs?: any,
+  remoteContent?: boolean
+) =>
+  new Promise((resolve, reject) => {
+    htmlToPdf(
+      html,
+      (data: Buffer) => {
+        return resolve(data);
+      },
+      { landscape: true, ...options },
+      puppeteerArgs,
+      remoteContent
+    );
+  });
 
 createInvoices();
