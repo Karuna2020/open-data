@@ -4,6 +4,7 @@ import { safeLoad } from "js-yaml";
 import { log, fileName } from "./common";
 import htmlToPdf from "pdf-puppeteer";
 import { render } from "mustache";
+var convertRupeesIntoWords = require("convert-rupees-into-words");
 
 interface Record {
   _id: "string";
@@ -51,7 +52,9 @@ const createSingleInvoice = async (record: Record, html: string) => {
   if (!record.mobile) throw new Error("Phone number not available");
   if (!record.panNo) throw new Error("PAN not available");
 
-  const pdf = await generatePdf(html);
+  const pdf = await generatePdf(
+    render(html, { ...record, signature: record._id })
+  );
   await writeFile(join(".", "pdf.pdf"), pdf);
 
   log("Successfully generated\n");
