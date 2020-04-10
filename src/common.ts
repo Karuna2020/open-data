@@ -1,5 +1,7 @@
 import slugify from "@sindresorhus/slugify";
 import nodemailer from "nodemailer";
+import { config } from "dotenv";
+config();
 
 export const log = (...args: any[]) =>
   console.log(
@@ -34,6 +36,16 @@ export const updateAirtableRecord = (
     });
   });
 
+const transport = nodemailer.createTransport({
+  host: "smtp.zoho.in",
+  port: 587,
+  secure: true,
+  auth: {
+    user: "anand@karuna2020.org",
+    pass: process.env.ZOHO_PASSWORD
+  }
+});
 export const sendMail = async () => {
-  //
+  const result = await transport.verify();
+  console.log(result);
 };
