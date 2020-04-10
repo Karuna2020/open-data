@@ -49,7 +49,13 @@ const cleanResponse = (tab: string, data: { [index: string]: string }[]) => {
   return data;
 };
 
-const PRIVATE_COLUMNS = ["phone", "email", "phoneNumber", "listAadharPictures"];
+const PRIVATE_COLUMNS = [
+  "phone",
+  "email",
+  "mobile",
+  "phoneNumber",
+  "listAadharPictures"
+];
 
 const update = async () => {
   const yaml = await readFile(join(".", "src", "airtable.yml"), "utf8");
