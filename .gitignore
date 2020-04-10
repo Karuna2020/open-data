@@ -106,3 +106,4 @@ dist
 # Built files
 dist/
 pdf.pdf
+generated/
