@@ -9,7 +9,8 @@ const PRIVATE_COLUMNS = [
   "email",
   "mobile",
   "phoneNumber",
-  "listAadharPictures"
+  "listAadharPictures",
+  "invoiceUrl"
 ];
 
 export const cleanFiles = async () => {
