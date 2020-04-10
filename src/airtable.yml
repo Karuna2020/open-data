@@ -10,3 +10,6 @@ attachments:
   - Pictures
   - Distribution Pictures
   - Logo
+generateInvoiceStep: Ready for generating Receipt
+completedInvoiceStep: Receipt Generated
+sentInvoiceStep: Receipt Sent
