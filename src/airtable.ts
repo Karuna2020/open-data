@@ -10,6 +10,7 @@ config();
 import Airtable from "airtable";
 import { safeLoad } from "js-yaml";
 import { cleanFiles } from "./clean";
+import { getAnalytics } from "./analytics";
 const airtable = new Airtable();
 
 const cleanResponse = (tab: string, data: { [index: string]: string }[]) => {
@@ -130,4 +131,5 @@ Promise.resolve()
   .then(() => urls())
   .then(() => getPhotos())
   .then(() => createInvoices())
-  .then(() => cleanFiles());
+  .then(() => cleanFiles())
+  .then(() => getAnalytics());
