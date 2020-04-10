@@ -13,6 +13,7 @@ interface Record {
   date: string;
   method: "Cash" | "NEFT" | "IMPS" | "TPT" | "UPI" | "Cheque";
   name: string;
+  fromBank?: string;
   status: string;
   toAccount: string;
   address?: string;
@@ -60,13 +61,14 @@ const createSingleInvoice = async (record: Record, html: string) => {
       ...record,
       signature: record._id,
       amountInWords: convertRupeesIntoWords(record.amount),
-      serialNumber: record.id,
+      serialNumber: "KARUNA-" + record.id,
       dateNowDate: dateZero(new Date().getUTCDate()),
       dateNowMonth: dateZero(new Date().getUTCMonth() + 1),
       dateNowYear: new Date().getUTCFullYear(),
       dateDate: record.date.split("-")[2],
       dateMonth: record.date.split("-")[1],
-      dateYear: record.date.split("-")[0]
+      dateYear: record.date.split("-")[0],
+      nameOfBank: record.fromBank || ""
     })
   );
   await writeFile(join(".", "pdf.pdf"), pdf);
