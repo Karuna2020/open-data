@@ -1,10 +1,18 @@
-import { readJson, writeFile, readFile } from "fs-extra";
+import { readJson, writeFile, readFile, mkdirp } from "fs-extra";
 import { join } from "path";
 import { safeLoad } from "js-yaml";
 import { log, fileName, dateZero } from "./common";
 import htmlToPdf from "pdf-puppeteer";
 import { render } from "mustache";
+import Cloudinary from "cloudinary";
+const cloudinary = Cloudinary.v2;
 var convertRupeesIntoWords = require("convert-rupees-into-words");
+
+cloudinary.config({
+  cloud_name: "karuna-2020",
+  api_key: process.env.CLOUDINARY_API_KEY,
+  api_secret: process.env.CLOUDINARY_API_SECRET
+});
 
 interface Record {
   _id: "string";
@@ -72,17 +80,30 @@ const createSingleInvoice = async (record: Record, html: string) => {
       nameOfBank: record.fromBank || ""
     })
   );
-  await writeFile(join(".", "pdf.pdf"), pdf);
-
-  log("Successfully generated\n");
+  await mkdirp(join(".", "generated"));
+  const pdfPath = join(".", "generated", `${record._id}.pdf`);
+  await writeFile(pdfPath, pdf);
+  const result = await uploadToCloudinary(pdfPath);
+  log("Successfully generated", result.url + "\n");
 };
+
+const uploadToCloudinary = (
+  pdf: string
+): Promise<Cloudinary.UploadApiResponse> =>
+  new Promise((resolve, reject) => {
+    log("Uploading PDF to Cloudinary...");
+    cloudinary.uploader.upload(pdf, (error, result) => {
+      if (error) return reject(error);
+      resolve(result);
+    });
+  });
 
 const generatePdf = (
   html: string,
   options?: any,
   puppeteerArgs?: any,
   remoteContent?: boolean
-) =>
+): Promise<Buffer> =>
   new Promise((resolve, reject) => {
     htmlToPdf(
       html,
