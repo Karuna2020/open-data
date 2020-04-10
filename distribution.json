@@ -122,7 +122,7 @@
       "recJbFfMkoYdLLhMv"
     ],
     "numberOfKitsNeeded": 200,
-    "status": "Distributor Assigned"
+    "status": "Request Approved"
   },
   {
     "_id": "recRFVdEzaRc7xu4v",
@@ -143,8 +143,7 @@
     ],
     "name": "Ashok Abrol - Well Wishers Request",
     "notes": "1- Figure out how many kits are needed ? (1 kits is  for 4 people)\n2- Figure out the delivery address\n3- Figure out if someone will be present for onground distribution\n4- We don't have the kits in godown, but since the volume is low, we'll procure it externally\n\n\nMessage Received:\n\"Here is the list of needy labourers:1 Gobind\n2 Dharminder\n3 Tej Ram\n4 Nand Kishore\n5 Xaru\n6 Laxman Das\n7 Sharmili\n8 Ram sewak\nPlease arrange to supply the kits to 1271/37 from where the same will be collected by the individuals. Thanks\"",
-    "numberOfKitsNeeded": 8,
-    "status": "Have list"
+    "numberOfKitsNeeded": 8
   },
   {
     "_id": "recV6TQvYM1Xyyn6f",
@@ -168,7 +167,8 @@
     "areaOfDelivery": "Majlis Park",
     "name": "DanaPani / Ref Anurag",
     "notes": "Have a list of names. Address is in the same vicinity. \nAll beneficiaries might not have a phone.",
-    "numberOfKitsNeeded": 170
+    "numberOfKitsNeeded": 170,
+    "status": "Have list"
   },
   {
     "_id": "reccooYD9qC6z9dHv",
@@ -223,7 +223,7 @@
     ],
     "name": "Raju Biswas (Animesh)",
     "notes": "Request Raised by @Anurag Kashyap",
-    "numberOfKitsNeeded": 116,
+    "numberOfKitsNeeded": 105,
     "status": "Have list"
   },
   {
