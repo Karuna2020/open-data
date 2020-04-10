@@ -53,7 +53,18 @@ const createSingleInvoice = async (record: Record, html: string) => {
   if (!record.panNo) throw new Error("PAN not available");
 
   const pdf = await generatePdf(
-    render(html, { ...record, signature: record._id })
+    render(html, {
+      ...record,
+      signature: record._id,
+      amountInWords: convertRupeesIntoWords(record.amount),
+      dateNowDate: "",
+      serialNumber: "",
+      dateNowMonth: "",
+      dateNowYear: "",
+      dateDate: "",
+      dateMonth: "",
+      dateYear: ""
+    })
   );
   await writeFile(join(".", "pdf.pdf"), pdf);
 

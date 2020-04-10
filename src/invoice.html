@@ -120,11 +120,12 @@
     </header>
     <main>
       <div>
-        <div>Sl. No.: <span class="i">223</span></div>
+        <div>Sl. No.: <span class="i">{{serialNumber}}</span></div>
         <div>
           Date:
-          <span class="i">10</span>/ <span class="i">04</span>/
-          <span class="i">2020</span>
+          <span class="i">{{dateNowDate}}</span>/
+          <span class="i">{{dateNowMonth}}</span>/
+          <span class="i">{{dateNowYear}}</span>
         </div>
       </div>
       <div class="f">
@@ -142,7 +143,7 @@
         </div>
         <div class="f fb" style="flex: 2 0 0">
           <div>Rupees (in words)</div>
-          <div class="i fb">Ten thousand only</div>
+          <div class="i fb">{{amountInWords}}</div>
         </div>
       </div>
       <div class="f">
@@ -152,7 +153,11 @@
         </div>
         <div class="f fb">
           <div>, dated</div>
-          <div class="i fb">Ten thousand only</div>
+          <div class="fb">
+            <span class="i">{{dateDate}}</span>/
+            <span class="i">{{dateMonth}}</span>/
+            <span class="i">{{dateYear}}</span>
+          </div>
         </div>
       </div>
       <div class="f">
