@@ -4,6 +4,7 @@ import { join } from "path";
 import { log, keyName, wait, fileName } from "./common";
 import axios from "axios";
 import { createHash } from "crypto";
+import { createInvoices } from "./invoice";
 import { getPhotos } from "./photos";
 config();
 
@@ -138,4 +139,5 @@ Promise.resolve()
   .then(() => update())
   .then(() => summarize())
   .then(() => urls())
-  .then(() => getPhotos());
+  .then(() => getPhotos())
+  .then(() => createInvoices());

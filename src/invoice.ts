@@ -135,5 +135,3 @@ const generatePdf = (
       remoteContent
     );
   });
-
-createInvoices();
