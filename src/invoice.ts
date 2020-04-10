@@ -1,8 +1,9 @@
-import { readJson, writeFile, ensureDir, readFile } from "fs-extra";
+import { readJson, writeFile, readFile } from "fs-extra";
 import { join } from "path";
 import { safeLoad } from "js-yaml";
 import { log, fileName } from "./common";
 import htmlToPdf from "pdf-puppeteer";
+import { render } from "mustache";
 
 interface Record {
   _id: "string";
