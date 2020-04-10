@@ -1,14 +1,16 @@
 import { readJson, writeFile, readFile } from "fs-extra";
 import { join } from "path";
 import { safeLoad } from "js-yaml";
-import { log, fileName } from "./common";
+import { log, fileName, dateZero } from "./common";
 import htmlToPdf from "pdf-puppeteer";
 import { render } from "mustache";
 var convertRupeesIntoWords = require("convert-rupees-into-words");
 
 interface Record {
   _id: "string";
+  id: string;
   amount: number;
+  date: string;
   method: "Cash" | "NEFT" | "IMPS" | "TPT" | "UPI" | "Cheque";
   name: string;
   status: string;
@@ -48,6 +50,7 @@ const createSingleInvoice = async (record: Record, html: string) => {
   log("Generating invoice for record", record._id, record.name);
 
   if (!record.address) throw new Error("Address not available");
+  if (!record.date) throw new Error("Date not available");
   if (!record.amount) throw new Error("Amount not available");
   if (!record.mobile) throw new Error("Phone number not available");
   if (!record.panNo) throw new Error("PAN not available");
@@ -57,13 +60,13 @@ const createSingleInvoice = async (record: Record, html: string) => {
       ...record,
       signature: record._id,
       amountInWords: convertRupeesIntoWords(record.amount),
-      dateNowDate: "",
-      serialNumber: "",
-      dateNowMonth: "",
-      dateNowYear: "",
-      dateDate: "",
-      dateMonth: "",
-      dateYear: ""
+      serialNumber: record.id,
+      dateNowDate: dateZero(new Date().getUTCDate()),
+      dateNowMonth: dateZero(new Date().getUTCMonth() + 1),
+      dateNowYear: new Date().getUTCFullYear(),
+      dateDate: record.date.split("-")[2],
+      dateMonth: record.date.split("-")[1],
+      dateYear: record.date.split("-")[0]
     })
   );
   await writeFile(join(".", "pdf.pdf"), pdf);

@@ -17,3 +17,6 @@ export const keyName = (key: string) =>
 
 export const wait = (ms: number) =>
   new Promise(resolve => setTimeout(resolve, ms));
+
+export const dateZero = (number: number | string) =>
+  Number(number) > 9 ? number : `0${number}`;
