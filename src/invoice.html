@@ -2,6 +2,10 @@
 <html>
   <head>
     <title>Karuna 2020 Invoice</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700"
+      rel="stylesheet"
+    />
     <style>
       body {
         font-family: sans-serif;
@@ -42,11 +46,12 @@
       }
       .i {
         display: inline-block;
-        border-bottom: 1px solid;
+        border-bottom: 1px solid #000;
+        color: #151596;
         padding: 0 0.75rem;
         margin: 0 0.75rem;
-        font-weight: bold;
-        font-family: serif;
+        font-size: 110%;
+        font-family: "Comic Neue";
       }
       main > div {
         margin-bottom: 1rem;
@@ -62,6 +67,10 @@
         align-items: center;
       }
       .for {
+        margin: 1rem 0;
+      }
+      .for > div:first-child {
+        margin-bottom: 0.25rem;
         font-weight: bold;
         text-align: center;
       }
@@ -87,6 +96,11 @@
       .logo {
         width: 100%;
         margin-bottom: 1.5rem;
+      }
+      .method-{{method}} {
+        border: 2px solid #151596;
+        border-radius: 1rem;
+        padding: 0.1rem 0.25rem;
       }
     </style>
   </head>
@@ -148,7 +162,15 @@
       </div>
       <div class="f">
         <div class="f fb" style="flex: 2 0 0">
-          <div>By Cash / Cheque / M.O. / D.D. / IMPS / NEFT / RTGS No.</div>
+          <div>
+            By <span class="method-Cash">Cash</span> /
+            <span class="method-Cheque">Cheque</span> /
+            <span class="method-MO">M.O.</span> /
+            <span class="method-DD">D.D.</span> /
+            <span class="method-IMPS">IMPS</span> /
+            <span class="method-NEFT">NEFT</span> /
+            <span class="method-RTGS">RTGS</span> No.
+          </div>
           <div class="i fb">{{utrPaymentDetailsImpsNeftRtgsNo}}</div>
         </div>
         <div class="f fb">
@@ -175,8 +197,7 @@
         </div>
         <div class="for">
           <div>For Shakti Foundation</div>
-          <div class="s">{{signature}}</div>
-          <div>Digital signature</div>
+          <div>Electronically generated, requires no signature</div>
         </div>
       </div>
     </main>
