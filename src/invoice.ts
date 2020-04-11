@@ -62,12 +62,13 @@ export const createInvoices = async () => {
   );
   log(recordsToGenerate.length, "records to generate invoice for");
 
-  const html = await readFile(join(".", "src", "invoice.html"), "utf8");
+  const shakti = await readFile(join(".", "src", "shakti.html"), "utf8");
+  const ilsef = await readFile(join(".", "src", "ilsef.html"), "utf8");
   const markdown = await readFile(join(".", "src", "invoice.md"), "utf8");
 
   for await (const record of recordsToGenerate) {
     try {
-      await createSingleInvoice(base, record, html, markdown);
+      await createSingleInvoice(base, record, shakti, ilsef, markdown);
     } catch (error) {
       log("ERROR", error.toString() + "\n");
     }
@@ -77,7 +78,8 @@ export const createInvoices = async () => {
 const createSingleInvoice = async (
   base: Airtable.Base,
   record: Record,
-  html: string,
+  shakti: string,
+  ilsef: string,
   markdown: string
 ) => {
   log("Generating invoice for record", record._id, record.name);
@@ -88,6 +90,8 @@ const createSingleInvoice = async (
   if (!record.mobile) throw new Error("Phone number not available");
   if (!record.email) throw new Error("Email not available");
   if (!record.panNo) throw new Error("PAN not available");
+  if (!["shakti", "ilsef"].includes(record.toAccount.toLocaleLowerCase()))
+    throw new Error("`toAccount` is not ILSEF or Shakti");
 
   const nFamilies = Math.floor(record.amount / 750);
   const data = {
@@ -108,7 +112,12 @@ const createSingleInvoice = async (
     nameOfBank: record.fromBank || ""
   };
 
-  const pdf = await generatePdf(render(html, data));
+  const pdf = await generatePdf(
+    render(
+      record.toAccount.toLocaleLowerCase() === "shakti" ? shakti : ilsef,
+      data
+    )
+  );
   log("Generated PDF", Math.floor(pdf.byteLength / 1000) + " kb");
   await mkdirp(join(".", "generated"));
   const pdfPath = join(".", "generated", `${record._id}.pdf`);
