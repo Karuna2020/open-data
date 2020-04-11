@@ -139,6 +139,14 @@ const createSingleInvoice = async (
   const messageId = await sendMail({
     to: record.email,
     subject: "Karuna 2020 - 80G Receipt for Donation",
+    cc:
+      record.toAccount.toLocaleLowerCase() === "shakti"
+        ? [
+            // Emails of Shakti Foundation accountants
+          ]
+        : [
+            // Emails of ILSEF accountants
+          ],
     text: mdPlainText,
     html: mdHtml,
     attachments: [
