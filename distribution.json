@@ -197,6 +197,18 @@
     "status": "Received Distribution Pictures"
   },
   {
+    "_id": "recfB8SXWiefH3gtt",
+    "areaOfDelivery": "Vasant Kunj",
+    "deliveredOn": "2020-04-10",
+    "godown": "Gurgoan",
+    "handler": [
+      "reck2YKHsRElZlcOg"
+    ],
+    "name": "Vasant Kunj  waste pickers part 2",
+    "numberOfKitsNeeded": 133,
+    "status": "Received Distribution Pictures"
+  },
+  {
     "_id": "recgx674hicH6ct0e",
     "areaOfDelivery": "Tigri",
     "godown": "Gurgoan",

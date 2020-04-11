@@ -29,6 +29,16 @@
     "units": "Kg"
   },
   {
+    "_id": "rec62K6ABpub7GY7V",
+    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "item": "Salt",
+    "orderedOn": "2020-04-09",
+    "quantity": 1000,
+    "status": "Delivered",
+    "supplier": "HyperPure",
+    "units": "Kg"
+  },
+  {
     "_id": "rec9BkBKexZQZ6cJw",
     "godown": "Sunei's Home",
     "handler": [
@@ -103,9 +113,9 @@
     "_id": "recHPpr8N1bENG2ZR",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
     "item": "Soap",
-    "quantity": 2000,
+    "quantity": 9,
     "status": "Received",
-    "units": "No."
+    "units": "Box"
   },
   {
     "_id": "recIPTcBK7vvLmh2u",
@@ -117,6 +127,15 @@
     "units": "No."
   },
   {
+    "_id": "recOSt16DoxuDFMQn",
+    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "item": "Rice",
+    "orderedOn": "2020-04-09",
+    "quantity": 2000,
+    "status": "Delivered",
+    "units": "Kg"
+  },
+  {
     "_id": "recOWnbpaU7kLqhtr",
     "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
     "item": "Dal",
@@ -124,6 +143,26 @@
     "sprint": "#1",
     "status": "Delivered",
     "units": "Kg"
+  },
+  {
+    "_id": "recOcoQhXO1w62OzA",
+    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "item": "Palm oil",
+    "orderedOn": "2020-04-09",
+    "quantity": 1000,
+    "status": "Delivered",
+    "supplier": "HyperPure",
+    "units": "No."
+  },
+  {
+    "_id": "recPVvGyGOIGv21dL",
+    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "item": "Soap",
+    "orderedOn": "2020-04-09",
+    "quantity": 19,
+    "status": "Delivered",
+    "supplier": "HyperPure",
+    "units": "Box"
   },
   {
     "_id": "recRFu2Rp9LLgmQ3p",
@@ -146,9 +185,9 @@
     "_id": "recZFqjB98m7WKwkW",
     "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
     "item": "Soap",
-    "quantity": 2000,
+    "quantity": 10,
     "status": "Received",
-    "units": "No."
+    "units": "Box"
   },
   {
     "_id": "recc11OeZI7IAgjOm",
@@ -216,6 +255,15 @@
     "sprint": "#1",
     "status": "Delivered",
     "units": "No."
+  },
+  {
+    "_id": "recmwFFJR8KYDCeUC",
+    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "item": "Rice",
+    "orderedOn": "2020-04-09",
+    "quantity": 5000,
+    "status": "Delivered",
+    "units": "Kg"
   },
   {
     "_id": "recormRX0TlSkaGNI",

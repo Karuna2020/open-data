@@ -89,6 +89,16 @@
     "utrPaymentDetailsImpsNeftRtgsNo": "010060648645"
   },
   {
+    "_id": "recCC68Z90fRJpZqv",
+    "amount": 1000,
+    "date": "2020-04-10",
+    "id": 39,
+    "method": "IMPS",
+    "name": "Not known",
+    "toAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "010120649221"
+  },
+  {
     "_id": "recDzd62sM83zuzBq",
     "amount": 10000,
     "id": 6,
@@ -228,7 +238,7 @@
     "name": "Gautam Chikermane",
     "notesComments": "Gautam Chikermane",
     "panNo": "ADGPC2342G",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Generated",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "8921642916",
     "emailMd5": "966050701e215cf3261af7843fb59c19"
@@ -369,7 +379,7 @@
     "notesComments": "From A.K.Abrol's account",
     "panNo": "AAHPP1195J",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Generated",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309",
     "emailMd5": "83bfe5141f36ae69286b927304b68926"
