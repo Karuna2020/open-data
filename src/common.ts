@@ -37,15 +37,37 @@ export const updateAirtableRecord = (
   });
 
 const transport = nodemailer.createTransport({
-  host: "smtp.zoho.in",
+  host: "smtp.hostinger.in",
   port: 587,
-  secure: true,
+  secure: false,
   auth: {
-    user: "anand@karuna2020.org",
+    user: "help@karuna2020.org",
     pass: process.env.ZOHO_PASSWORD
   }
 });
-export const sendMail = async () => {
-  const result = await transport.verify();
-  console.log(result);
-};
+
+const TEST_EMAIL = true;
+export const sendMail = (data: {
+  to: string;
+  cc?: string | string[];
+  bcc?: string | string[];
+  subject: string;
+  text: string;
+  html: string;
+  attachments?: {
+    filename: string;
+    contentType: string;
+    content?: string | Buffer;
+    path?: string;
+  }[];
+}): Promise<string> =>
+  new Promise((resolve, reject) => {
+    data.to = TEST_EMAIL ? "anandchowdhary@gmail.com" : data.to;
+    transport.sendMail(
+      { from: "help@karuna2020.org", ...data },
+      (error, info) => {
+        if (error) return reject(error);
+        resolve(info.messageId);
+      }
+    );
+  });
