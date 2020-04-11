@@ -3,6 +3,7 @@ import { join } from "path";
 import { safeLoad } from "js-yaml";
 import { log, fileName, dateZero, updateAirtableRecord } from "./common";
 import htmlToPdf from "pdf-puppeteer";
+import marked from "marked";
 import { render } from "mustache";
 import Cloudinary from "cloudinary";
 import { config } from "dotenv";
