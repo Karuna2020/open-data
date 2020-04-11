@@ -158,6 +158,15 @@ const createSingleInvoice = async (
     ]
   });
   log("Successfully send invoice email", messageId);
+  await updateAirtableRecord(base, "Donations", [
+    {
+      id: record._id,
+      fields: {
+        Status: "Receipt Sent"
+      }
+    }
+  ]);
+  log("Successfully updated Airtable record", record._id);
 
   log();
 };
