@@ -1,11 +1,29 @@
 [
   {
+    "_id": "rec20t8tEj20TJKkO",
+    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "item": "Haldi-Mirchi-Dhaniya Powder",
+    "quantity": 1000,
+    "status": "Received",
+    "units": "No."
+  },
+  {
     "_id": "rec3M6HFZ4Lr0Bq6I",
     "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
     "item": "Salt",
     "quantity": -500,
     "sprint": "#1",
     "status": "Delivered",
+    "units": "Kg"
+  },
+  {
+    "_id": "rec4WN2sHAtEasVWx",
+    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "item": "Dal",
+    "orderedOn": "2020-04-09",
+    "quantity": 1020,
+    "status": "Received",
+    "supplier": "HyperPure",
     "units": "Kg"
   },
   {
@@ -34,7 +52,7 @@
     "item": "Salt",
     "orderedOn": "2020-04-09",
     "quantity": 1000,
-    "status": "Delivered",
+    "status": "Received",
     "supplier": "HyperPure",
     "units": "Kg"
   },
@@ -56,10 +74,10 @@
     "_id": "rec9PUaz89rYAGkFB",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
     "item": "Soap",
-    "quantity": -2000,
+    "quantity": -9,
     "sprint": "#1",
     "status": "Delivered",
-    "units": "No."
+    "units": "Box"
   },
   {
     "_id": "recA4s8BybFOAJg4K",
@@ -95,10 +113,10 @@
     "_id": "recBvXTGnnxgEt1K2",
     "godown": "Gulmehar, C-34, Gali No. 6, Ghazipur Dairy Farms. Delhi",
     "item": "Soap",
-    "quantity": -2000,
+    "quantity": -10,
     "sprint": "#1",
     "status": "Delivered",
-    "units": "No."
+    "units": "Box"
   },
   {
     "_id": "recCMROSRPlbLHq4P",
@@ -132,7 +150,7 @@
     "item": "Rice",
     "orderedOn": "2020-04-09",
     "quantity": 2000,
-    "status": "Delivered",
+    "status": "Received",
     "units": "Kg"
   },
   {
@@ -152,7 +170,7 @@
     "quantity": 1000,
     "status": "Delivered",
     "supplier": "HyperPure",
-    "units": "No."
+    "units": "Litre"
   },
   {
     "_id": "recPVvGyGOIGv21dL",
@@ -160,9 +178,19 @@
     "item": "Soap",
     "orderedOn": "2020-04-09",
     "quantity": 19,
-    "status": "Delivered",
+    "status": "Received",
     "supplier": "HyperPure",
     "units": "Box"
+  },
+  {
+    "_id": "recRCB7HzqxM6T3zi",
+    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "item": "Polythene Bags - 5kg",
+    "notes": "2500 - 5kg bags\n2500 - 2 kg bags",
+    "orderedOn": "2020-04-09",
+    "quantity": 4500,
+    "status": "Received",
+    "units": "No."
   },
   {
     "_id": "recRFu2Rp9LLgmQ3p",
@@ -262,7 +290,7 @@
     "item": "Rice",
     "orderedOn": "2020-04-09",
     "quantity": 5000,
-    "status": "Delivered",
+    "status": "Received",
     "units": "Kg"
   },
   {

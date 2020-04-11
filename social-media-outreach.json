@@ -1,5 +1,65 @@
 [
   {
+    "_id": "rec29rtJfHt67I2XA",
+    "event": "133 kits delivered in Vasant Kunj",
+    "id": "rec29rtJfHt67I2XA",
+    "linkedDistribution": [
+      "recfB8SXWiefH3gtt"
+    ],
+    "notes": "We have committed to deliver 1000 kits\nThis was the second round\n104 have gone already\n133 were sent and distributed yesterday",
+    "pictures": [
+      {
+        "id": "attJ6KP7aZycgWNEf",
+        "url": "https://dl.airtable.com/.attachments/f3e9ef16c62dcf4da0b11b6ed56d8f80/21e6f181/0.png",
+        "filename": "0.png",
+        "size": 1200588,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3b0572d92929fa87e306975b3c2a6f50/99570cd1",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/25b54b52656570fa55e7d21d085b42f7/d2fcdefe",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/47daf85bee67d5b8fe88d3319a5621d4/f1436aee",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attzCBXAt54uMDJcC",
+        "url": "https://dl.airtable.com/.attachments/a2332fd6f7d81dd65ea20c8459a7575f/b692c1db/1.png",
+        "filename": "1.png",
+        "size": 1640423,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cd1f81163ceb6aff3a513780d6901848/ee9d9c7a",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e385606268f296fd890b3e59bf8e5f29/a25f565d",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8feb267c81b46a5987092fb731953cc2/2408af2f",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
+  },
+  {
     "_id": "rec7oPiCkKtOpmysi",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/rec7oPiCkKtOpmysi/pictures/attF7UtEOfkWUg7Th/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/rec7oPiCkKtOpmysi/pictures/attguJ61pTjvql4Nq/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/rec7oPiCkKtOpmysi/pictures/attxdNJuRnCWh5yZQ/large.png",
     "event": "104 kits to the waste pickers community in Vasant Kunj",
@@ -153,6 +213,11 @@
     "id": "reciKykfE6iBRFDq9",
     "notes": "If you've been wanting to contribute but couldn't get around to the NEFT/RTGS process, we now support donations over UPI. Once you’ve made a donation, please fill the Donor Details Form available on our website so we can verify your donation and issue an 80G tax deduction receipt.\n\nUse the VPA SHAKTI.41215081@hdfcbank or find our QR code on https://karuna2020.org/donate/, and scan it using any UPI-supported payments app, like Paytm, PhonePe, Google Pay, and BHIM.",
     "status": "Publish to website"
+  },
+  {
+    "_id": "rectb1OfKwgBy6D76",
+    "event": "Rajiv Gandhi Foundation Donated 300 kits",
+    "id": "rectb1OfKwgBy6D76"
   },
   {
     "_id": "recu2Dx6MVYdRjZld",
