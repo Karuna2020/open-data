@@ -101,7 +101,7 @@ const createSingleInvoice = async (
       id: record._id,
       fields: {
         "Invoice URL": result.url,
-        status: "Receipt Generated"
+        Status: "Receipt Generated"
       }
     }
   ]);
