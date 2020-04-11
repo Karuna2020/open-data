@@ -105,7 +105,7 @@ const createSingleInvoice = async (
       }
     }
   ]);
-  log("Successfully uploaded", record._id, result.url + "\n");
+  log("Successfully uploaded", record._id, "\n");
 };
 
 const uploadToCloudinary = (
