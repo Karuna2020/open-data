@@ -1,7 +1,13 @@
 import { readJson, writeFile, readFile, mkdirp } from "fs-extra";
 import { join } from "path";
 import { safeLoad } from "js-yaml";
-import { log, fileName, dateZero, updateAirtableRecord } from "./common";
+import {
+  log,
+  fileName,
+  dateZero,
+  updateAirtableRecord,
+  sendMail
+} from "./common";
 import htmlToPdf from "pdf-puppeteer";
 import marked from "marked";
 import { render } from "mustache";
@@ -9,6 +15,7 @@ import Cloudinary from "cloudinary";
 import { config } from "dotenv";
 config();
 import Airtable from "airtable";
+import slugify from "@sindresorhus/slugify";
 const airtable = new Airtable();
 const cloudinary = Cloudinary.v2;
 var convertRupeesIntoWords = require("convert-rupees-into-words");
@@ -33,6 +40,7 @@ interface Record {
   toAccount: string;
   address?: string;
   mobile?: string;
+  email?: string;
   panNo?: string;
   utrPaymentDetailsImpsNeftRtgsNo?: string;
 }
@@ -55,9 +63,11 @@ export const createInvoices = async () => {
   log(recordsToGenerate.length, "records to generate invoice for");
 
   const html = await readFile(join(".", "src", "invoice.html"), "utf8");
+  const markdown = await readFile(join(".", "src", "invoice.md"), "utf8");
+
   for await (const record of recordsToGenerate) {
     try {
-      await createSingleInvoice(base, record, html);
+      await createSingleInvoice(base, record, html, markdown);
     } catch (error) {
       log("ERROR", error.toString() + "\n");
     }
@@ -67,7 +77,8 @@ export const createInvoices = async () => {
 const createSingleInvoice = async (
   base: Airtable.Base,
   record: Record,
-  html: string
+  html: string,
+  markdown: string
 ) => {
   log("Generating invoice for record", record._id, record.name);
 
@@ -75,24 +86,30 @@ const createSingleInvoice = async (
   if (!record.date) throw new Error("Date not available");
   if (!record.amount) throw new Error("Amount not available");
   if (!record.mobile) throw new Error("Phone number not available");
+  if (!record.email) throw new Error("Email not available");
   if (!record.panNo) throw new Error("PAN not available");
 
-  const pdf = await generatePdf(
-    render(html, {
-      ...record,
-      signature: record._id,
-      amount: Number(record.amount).toLocaleString("en-IN"),
-      amountInWords: convertRupeesIntoWords(record.amount),
-      serialNumber: "KARUNA-" + record.id,
-      dateNowDate: dateZero(new Date().getUTCDate()),
-      dateNowMonth: dateZero(new Date().getUTCMonth() + 1),
-      dateNowYear: new Date().getUTCFullYear(),
-      dateDate: record.date.split("-")[2],
-      dateMonth: record.date.split("-")[1],
-      dateYear: record.date.split("-")[0],
-      nameOfBank: record.fromBank || ""
-    })
-  );
+  const nFamilies = Math.floor(record.amount / 750);
+  const data = {
+    ...record,
+    signature: record._id,
+    amount: Number(record.amount).toLocaleString("en-IN"),
+    amountInWords: convertRupeesIntoWords(record.amount),
+    numberOfFamilies: `${nFamilies} famil${nFamilies === 1 ? "y" : "ies"}`,
+    numberOfPeople4: Math.floor((record.amount / 750) * 4),
+    numberOfPeople5: Math.floor((record.amount / 750) * 5),
+    serialNumber: "KARUNA-" + record.id,
+    dateNowDate: dateZero(new Date().getUTCDate()),
+    dateNowMonth: dateZero(new Date().getUTCMonth() + 1),
+    dateNowYear: new Date().getUTCFullYear(),
+    dateDate: record.date.split("-")[2],
+    dateMonth: record.date.split("-")[1],
+    dateYear: record.date.split("-")[0],
+    nameOfBank: record.fromBank || ""
+  };
+
+  const pdf = await generatePdf(render(html, data));
+  log("Generated PDF", Math.floor(pdf.byteLength / 1000) + " kb");
   await mkdirp(join(".", "generated"));
   const pdfPath = join(".", "generated", `${record._id}.pdf`);
   await writeFile(pdfPath, pdf);
@@ -106,7 +123,26 @@ const createSingleInvoice = async (
       }
     }
   ]);
-  log("Successfully uploaded", record._id, "\n");
+  log("Successfully updated Airtable record", record._id);
+
+  const mdHtml = marked(render(markdown, data));
+  const mdPlainText = mdHtml.replace(/(<([^>]+)>)/gi, "");
+  const messageId = await sendMail({
+    to: record.email,
+    subject: "Karuna 2020 - 80G Receipt for Donation",
+    text: mdPlainText,
+    html: mdHtml,
+    attachments: [
+      {
+        filename: `karuna2020-${slugify(record.name)}.pdf`,
+        contentType: "application/pdf",
+        content: pdf
+      }
+    ]
+  });
+  log("Successfully send invoice email", messageId);
+
+  log();
 };
 
 const uploadToCloudinary = (
@@ -137,3 +173,5 @@ const generatePdf = (
       remoteContent
     );
   });
+
+createInvoices();

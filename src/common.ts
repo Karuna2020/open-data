@@ -1,3 +1,5 @@
+const TEST_EMAIL = true;
+
 import slugify from "@sindresorhus/slugify";
 import nodemailer from "nodemailer";
 import { config } from "dotenv";
@@ -46,7 +48,6 @@ const transport = nodemailer.createTransport({
   }
 });
 
-const TEST_EMAIL = true;
 export const sendMail = (data: {
   to: string;
   cc?: string | string[];
