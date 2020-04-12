@@ -7,8 +7,8 @@
     "linkedDistribution": [
       "recfB8SXWiefH3gtt"
     ],
-    "notes": "We have committed to deliver 1000 kits\nThis was the second round\n104 have gone already\n133 were sent and distributed yesterday",
-    "status": "Graphics Ready"
+    "notes": "We have committed to deliver 1000 dry ration kits in the Vasant Kunj area. We successfully delivered 104 kits that can sustain 104 families during the pandemic. The second phase of our commitment reached and helped another 133 families.",
+    "status": "Publish to website"
   },
   {
     "_id": "rec7oPiCkKtOpmysi",
@@ -117,6 +117,16 @@
     "status": "Publish to website"
   },
   {
+    "_id": "recWF9nyoV9PSHrXO",
+    "date": "2020-04-11",
+    "event": "15 kits delivered in DLF phase 3",
+    "id": "recWF9nyoV9PSHrXO",
+    "linkedDistribution": [
+      "reccooYD9qC6z9dHv"
+    ],
+    "notes": "<airtable:mention id=\"meno3X4F3tw6tGBxi\">@Divyarth Bansal</airtable:mention> Handled this, ask him for the story"
+  },
+  {
     "_id": "recWwKFHlfRVxYBNV",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attPnsYqDRjewhpV9/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attf9dp4YmjPyPq23/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attP1ef1dOhXXSIQT/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attWM7JwTq8WbwUYC/large.png",
     "event": "9 kits delivered to Basai Dara Pur",
@@ -126,6 +136,14 @@
     ],
     "notes": "Sonu, one of our volunteer's driver, has been working on the ground and helping his community during the pandemic. He approached us with a list of nine familities who need our help, and single-handedly arranged the logistics and on-ground support for the distribution.\n\nWe distributed 9 Karuna 2020 Dry Ration kits to his community in Basai Dara Pur, West Delhi.",
     "status": "Publish to website"
+  },
+  {
+    "_id": "reccKDrUIV0N1uUzo",
+    "event": "15 kits delivered by Atul Ji",
+    "id": "reccKDrUIV0N1uUzo",
+    "linkedDistribution": [
+      "recOeXnn08M67K8Os"
+    ]
   },
   {
     "_id": "reccvidfwY53VMZ1R",
@@ -164,6 +182,15 @@
     "id": "reciKykfE6iBRFDq9",
     "notes": "If you've been wanting to contribute but couldn't get around to the NEFT/RTGS process, we now support donations over UPI. Once you’ve made a donation, please fill the Donor Details Form available on our website so we can verify your donation and issue an 80G tax deduction receipt.\n\nUse the VPA SHAKTI.41215081@hdfcbank or find our QR code on https://karuna2020.org/donate/, and scan it using any UPI-supported payments app, like Paytm, PhonePe, Google Pay, and BHIM.",
     "status": "Publish to website"
+  },
+  {
+    "_id": "recmCJHcjGOrtw56u",
+    "date": "2020-04-11",
+    "event": "100 more kits to Vasant Kunj",
+    "id": "recmCJHcjGOrtw56u",
+    "linkedDistribution": [
+      "recXh74oYBWcDm5eF"
+    ]
   },
   {
     "_id": "rectb1OfKwgBy6D76",
