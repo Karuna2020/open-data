@@ -348,6 +348,17 @@
     "units": "Kg"
   },
   {
+    "_id": "recwuAOyarJY1txAM",
+    "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
+    "item": "Dal",
+    "notes": "572 Packets Made in total",
+    "orderedOn": "2020-04-12",
+    "quantity": -1020,
+    "sprint": "#2",
+    "status": "Delivered",
+    "units": "Kg"
+  },
+  {
     "_id": "recz5ESsfuoitNhGK",
     "godown": "Indus Trading, Khasra No. 287, Village Garauli Kalan/ Godoli, Sec 37, Gurugram, Haryana 122001",
     "item": "Polythene Bags - 5kg",
