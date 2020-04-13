@@ -5,20 +5,25 @@
     "id": 8,
     "method": "NEFT",
     "name": "Essel World Foundation",
+    "notesComments": "Request anurag for information",
+    "status": "Need to contact",
     "toAccount": "Shakti Foundation"
   },
   {
     "_id": "rec1DsHhCzc2lptJb",
+    "address": "E 267, 2nd floor. Greater Kailash 2. New Delhi",
     "amount": 10000,
     "date": "2020-04-11",
     "donateAnonymously": true,
+    "email": "Shikha.c.chowdhary@gmail.com",
     "fromBank": "ICICI",
     "id": 40,
     "method": "NEFT",
+    "mobile": "7567860066",
     "name": "Shikha Chowdhary",
+    "panNo": "Adhpc9716h",
     "toAccount": "Vikrant (Radha)",
-    "utrPaymentDetailsImpsNeftRtgsNo": "1965674981",
-    "emailMd5": "95d32e4d7eed17bd6259312b60921684"
+    "utrPaymentDetailsImpsNeftRtgsNo": "1965674981"
   },
   {
     "_id": "rec39JRMSFB4eBPAD",
@@ -27,8 +32,10 @@
     "fromBank": "KOTAK",
     "id": 28,
     "method": "NEFT",
+    "mobile": "9999697055",
     "name": "Platinum Hospitality",
     "notesComments": "Atul Celly",
+    "status": "Need to contact",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "KKBKH20097634967"
   },
@@ -40,7 +47,6 @@
     "method": "IMPS",
     "name": "Not known",
     "notesComments": "Dont Know who he is",
-    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "9214567360"
   },
@@ -50,8 +56,10 @@
     "date": "2020-04-06",
     "id": 29,
     "method": "TPT",
+    "mobile": "9958111358",
     "name": "Parul Agarwal",
     "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar][1] You can find details about Parul from Sunei.\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/menCQSPd0Q7PIkFKO/usrVMHyDSa5htZzdZ?recordId=rec5F0zTLOZQ5DGH1&fieldId=flds8bco54IcRRSlP",
+    "status": "Need to contact",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "50100197093091"
   },
@@ -62,7 +70,10 @@
     "fromBank": "HDFC",
     "id": 22,
     "method": "IMPS",
+    "mobile": "9873493977",
     "name": "Devika Chadha",
+    "panNo": "AFPPC9101G",
+    "status": "Need to contact",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "009318542427"
   },
@@ -93,8 +104,10 @@
     "fromBank": "Citibank",
     "id": 32,
     "method": "UPI",
+    "mobile": "9005528765",
     "name": "Mayank Agrawal",
     "notesComments": "I transferred using Citibank but it is not visible in drop down menu of bank so I selected randomly",
+    "panNo": "AZUPA0934E",
     "status": "Ready for generating Receipt",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010060648645"
@@ -114,8 +127,9 @@
     "amount": 10000,
     "id": 6,
     "method": "Cash",
+    "mobile": "9958123079",
     "name": "Rachna Bansal",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "ILSEF"
   },
   {
@@ -123,9 +137,10 @@
     "amount": 750,
     "id": 13,
     "method": "Cash",
+    "mobile": "9818449337",
     "name": "Dalvir Agarwal",
     "notesComments": "Address: House No. 70, Sector 37, Faridabad",
-    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
+    "panNo": "AAHPA8256H",
     "status": "Ready for generating Receipt",
     "toAccount": "Vikrant"
   },
@@ -136,9 +151,9 @@
     "fromBank": "HDFC",
     "id": 16,
     "method": "IMPS",
+    "mobile": "9813462825",
     "name": "Mrs. Kusum Dhawan",
     "notesComments": "From A.K.Abrol's account",
-    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309"
@@ -152,7 +167,6 @@
     "method": "NEFT",
     "name": "Sharad Bhalla",
     "notesComments": "Dont Know who he is",
-    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "LB3670200331G528"
   },
@@ -163,7 +177,10 @@
     "fromBank": "HDFC",
     "id": 31,
     "method": "TPT",
+    "mobile": "9870524938",
     "name": "Anurag Sharma",
+    "panNo": "DLMPS0771L",
+    "status": "Need to contact",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "BM01000235462498"
   },
@@ -195,6 +212,7 @@
     "method": "NEFT",
     "name": "Sanjeev Kumar Yadav",
     "notesComments": "C/o Atul Celly",
+    "status": "Need to contact",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "CBINH20098072155"
   },
@@ -237,46 +255,121 @@
   },
   {
     "_id": "recWgwcVJTIGWKBhA",
+    "address": "J-273, Ground Floor, Saket, New Delhi 110017",
     "amount": 25000,
     "date": "2020-03-29",
+    "email": "gchikermane@gmail.com",
     "fromBank": "HDFC",
     "howDidYouFindUs": "Personal Reference",
     "id": 9,
+    "invoice": [
+      {
+        "id": "attwHgicfAkuP1e3M",
+        "url": "https://dl.airtable.com/.attachments/2c5f03a165cc1ebb4dff424883666e7e/0e38bf14/ld5hutwfmhyjdxcc5wuc.pdf",
+        "filename": "ld5hutwfmhyjdxcc5wuc.pdf",
+        "size": 2546661,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f6012d3854be6b32dd04011d155518ed/0a681bc7",
+            "width": 28,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/270b5b577092ac30ddd45da092e14a36/281079ab",
+            "width": 396,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "invoiceUrl": "http://res.cloudinary.com/karuna-2020/image/upload/v1586790487/ld5hutwfmhyjdxcc5wuc.pdf",
     "method": "IMPS",
+    "mobile": "7718822833",
     "name": "Gautam Chikermane",
     "notesComments": "Gautam Chikermane",
-    "status": "Ready for generating Receipt",
+    "panNo": "ADGPC2342G",
+    "status": "Receipt Sent",
     "toAccount": "ILSEF",
-    "utrPaymentDetailsImpsNeftRtgsNo": "8921642916",
-    "emailMd5": "966050701e215cf3261af7843fb59c19"
+    "utrPaymentDetailsImpsNeftRtgsNo": "8921642916"
   },
   {
     "_id": "reca4OQslqYHxdXpt",
+    "address": "V-37, Green Park (Main), New Delhi 110016",
     "amount": 15000,
     "date": "2020-04-09",
+    "email": "ajai.madhu@gmail.com",
     "fromBank": "Other",
     "howDidYouFindUs": "Personal Reference",
     "id": 41,
+    "invoice": [
+      {
+        "id": "attErWsCZZFEjnaM4",
+        "url": "https://dl.airtable.com/.attachments/a30cc581c469f975e8070afbc78c88a8/eecd4def/anapb3naad9zwjdz2ih0.pdf",
+        "filename": "anapb3naad9zwjdz2ih0.pdf",
+        "size": 2546466,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bc9756d708fad1591c10deb5bc484ae9/70d04ad5",
+            "width": 28,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7bb8d43b04245bee41ff22bf331843de/6c65ebdf",
+            "width": 396,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "invoiceUrl": "http://res.cloudinary.com/karuna-2020/image/upload/v1586790493/anapb3naad9zwjdz2ih0.pdf",
     "method": "Cheque",
+    "mobile": "88766264883",
     "name": "Madhulika Bahadur",
-    "status": "Ready for generating Receipt",
+    "panNo": "AAXPB5635M",
+    "status": "Receipt Sent",
     "toAccount": "ILSEF",
-    "utrPaymentDetailsImpsNeftRtgsNo": "15000",
-    "emailMd5": "84d11953e7d497369ff132e65bf098ac"
+    "utrPaymentDetailsImpsNeftRtgsNo": "15000"
   },
   {
     "_id": "recaM0CZ65wtsIKJS",
+    "address": "A-2402 Zeon, Bhakti park, Wadala, Mumbai - 400037",
     "amount": 7500,
     "date": "2020-04-12",
+    "email": "lokhandwala.minhaz@gmail.com",
     "fromBank": "HDFC",
     "id": 42,
+    "invoice": [
+      {
+        "id": "attjiwNNu7CE4LIQT",
+        "url": "https://dl.airtable.com/.attachments/585e94e439d5a060e726c2c551e89cf5/adbf5312/ilnmkflpn2cctdhttt8v.pdf",
+        "filename": "ilnmkflpn2cctdhttt8v.pdf",
+        "size": 2546967,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7f82273c2b1957f02ec52918ffdcad8b/9e20595a",
+            "width": 28,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f3c043d6735e21ca476285744feab522/fba9edfa",
+            "width": 396,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "invoiceUrl": "http://res.cloudinary.com/karuna-2020/image/upload/v1586790498/ilnmkflpn2cctdhttt8v.pdf",
     "method": "IMPS",
+    "mobile": "9930926687",
     "name": "Minhaz Lokhandwala",
     "notesComments": "Sunei Ref",
-    "status": "Ready for generating Receipt",
+    "panNo": "ACJPL2895H",
+    "status": "Receipt Sent",
     "toAccount": "ILSEF",
-    "utrPaymentDetailsImpsNeftRtgsNo": "010316618531",
-    "emailMd5": "86fb9c98fcd96f232cc9a5973bee9bf2"
+    "utrPaymentDetailsImpsNeftRtgsNo": "010316618531"
   },
   {
     "_id": "recbmaWPpbX764onC",
@@ -286,6 +379,7 @@
     "method": "NEFT",
     "name": "FIL Industries ltd",
     "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar][1] Same for FIL, Sunei will have contact details\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/menk7yVk3yTG8qTUK/usrVMHyDSa5htZzdZ?recordId=recbmaWPpbX764onC&fieldId=flds8bco54IcRRSlP",
+    "status": "Need to contact",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "NEFTSDC9045049"
   },
@@ -296,8 +390,10 @@
     "fromBank": "KOTAK",
     "id": 34,
     "method": "UPI",
+    "mobile": "9910425425",
     "name": "Swati Ghai",
     "notesComments": "Ref sunei kapur",
+    "panNo": "CNNPG4662G",
     "status": "Ready for generating Receipt",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "UPI/P2A/010015301774/9871797202@kotak"
@@ -313,16 +409,19 @@
   },
   {
     "_id": "recfZN2q0G8OA6bbl",
+    "address": "H-25, Green Park Extension, New Delhi 110016",
     "amount": 3000,
     "date": "2020-04-09",
+    "email": "mail@sukritikapoor.com",
     "fromBank": "ICICI",
     "howDidYouFindUs": "Personal Reference",
     "id": 38,
     "method": "UPI",
+    "mobile": "9560925239",
     "name": "Sukriti Kapoor",
+    "panNo": "ECMPK9560F",
     "toAccount": "Shakti Foundation",
-    "utrPaymentDetailsImpsNeftRtgsNo": "010022069012",
-    "emailMd5": "f5e04db260166aba897b1c7852306529"
+    "utrPaymentDetailsImpsNeftRtgsNo": "010022069012"
   },
   {
     "_id": "reclz125j6RHYOfoA",
@@ -376,17 +475,21 @@
     "method": "NEFT",
     "name": "Sayeeshwar Venkatachalayam Iyer",
     "notesComments": "Dont Know who he is",
-    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "toAccount": "ILSEF"
   },
   {
     "_id": "recrxyLtmA4J5FMG4",
+    "address": "A-2402 Zeon, Bhakti park, Wadala, Mumbai - 400037",
     "amount": 7500,
     "date": "2020-04-02",
+    "email": "lokhandwala.minhaz@gmail.com",
     "fromBank": "HDFC",
     "id": 21,
     "method": "IMPS",
+    "mobile": "9930926687",
     "name": "Minhaz Lokhandwala",
+    "panNo": "ACJPL2895H",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "009317556466"
   },
@@ -401,18 +504,42 @@
   },
   {
     "_id": "recuK10iw9mVF01I2",
+    "address": "130, Rajouri Apartments, Opp Govt of India Press, Mayapuri 110064",
     "amount": 1000,
     "date": "2020-03-31",
+    "email": "drsunitapaul@gmail.com, abrol1271@gmail.com",
     "fromBank": "HDFC",
     "id": 15,
+    "invoice": [
+      {
+        "id": "attGIFon831pAkJYx",
+        "url": "https://dl.airtable.com/.attachments/ccd9f8a11151abd9894efdb142983d4f/921cf334/wfr9adpvcnpdjdli6dkd.pdf",
+        "filename": "wfr9adpvcnpdjdli6dkd.pdf",
+        "size": 2546868,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/40e7bc1033439574639d344bac289bed/b8e9c9f5",
+            "width": 28,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dc7f53018012160b175806ed7b6401c8/be971d8f",
+            "width": 396,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "invoiceUrl": "http://res.cloudinary.com/karuna-2020/image/upload/v1586790504/wfr9adpvcnpdjdli6dkd.pdf",
     "method": "IMPS",
+    "mobile": "9811743894",
     "name": "Dr. Sunita Paul",
     "notesComments": "From A.K.Abrol's account",
-    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
-    "status": "Ready for generating Receipt",
+    "panNo": "AAHPP1195J",
+    "status": "Receipt Sent",
     "toAccount": "ILSEF",
-    "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309",
-    "emailMd5": "83bfe5141f36ae69286b927304b68926"
+    "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309"
   },
   {
     "_id": "recuT5qKISd7cdGtL",
@@ -421,7 +548,9 @@
     "fromBank": "ICICI",
     "id": 25,
     "method": "IMPS",
+    "mobile": "8810560137",
     "name": "Rohit Bhatia",
+    "status": "Need to contact",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "009123213385"
   },
@@ -432,7 +561,9 @@
     "fromBank": "ICICI",
     "id": 33,
     "method": "UPI",
+    "mobile": "8954236768",
     "name": "Shubham",
+    "panNo": "FWXPS7247P",
     "status": "Ready for generating Receipt",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010012171783"
@@ -444,8 +575,10 @@
     "fromBank": "Canara Bank",
     "id": 14,
     "method": "NEFT",
+    "mobile": "9310007000",
     "name": "Radha Chowdhary",
-    "receiptSharedWithDonorYesNo": "To be made from ILSEF",
+    "panNo": "AEQPC1027F",
+    "status": "Need to contact",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "P0033126345890"
   },
@@ -454,8 +587,8 @@
     "amount": 3000,
     "id": 12,
     "method": "Cash",
+    "mobile": "9958152111",
     "name": "Anuradha Chadha",
-    "receiptSharedWithDonorYesNo": "No receipt required",
     "status": "Contacted",
     "toAccount": "Vikrant (Radha)"
   }
