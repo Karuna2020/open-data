@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Karuna 2020 Invoice</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <style>
+      body {
+        font-family: "Hind", sans-serif;
+        margin: 0;
+        box-sizing: border-box;
+      }
+      @page {
+        margin: 0;
+      }
+      @media print {
+        body {
+          margin: 0 auto;
+          padding: 0;
+          border: none;
+        }
+      }
+      header {
+        display: flex;
+        text-align: center;
+      }
+      header > div:last-child {
+        flex: 1 0 0;
+      }
+      header > div:first-child {
+        flex: 4 0 0;
+      }
+      .brandname {
+        font-size: 115%;
+        font-weight: bold;
+        margin-top: 1rem;
+        margin-bottom: 0.25rem;
+      }
+      main {
+        margin: 2.5rem 0;
+      }
+      main > div:first-child {
+        display: flex;
+      }
+      main > div:first-child > div {
+        flex: 1 0 0;
+      }
+      main > div:first-child > div:last-child {
+        text-align: right;
+      }
+      .i {
+        color: var(--color);
+        display: inline-block;
+        border-bottom: 1px solid #000;
+        padding: 0 0.75rem;
+        margin: 0 0.75rem;
+        font-weight: 500;
+      }
+      .id {
+        padding: 0 0.25rem;
+      }
+      main > div {
+        margin-bottom: 1rem;
+      }
+      .f {
+        display: flex;
+      }
+      .fb {
+        flex: 1 0 0;
+      }
+      .ff {
+        justify-content: space-between;
+        align-items: center;
+      }
+      .for {
+        margin: 1rem 0;
+        text-align: center;
+      }
+      .for > div:first-child {
+        margin-bottom: 0.25rem;
+        font-weight: bold;
+        text-align: center;
+      }
+      .for .s {
+        font-weight: normal;
+        font-family: monospace;
+        font-size: 150%;
+        margin: 0.5rem 0;
+        border: 1px solid #ddd;
+        background-color: #eee;
+        border-radius: 0.2rem;
+        padding: 0.5rem;
+      }
+      main::after {
+        content: "";
+        display: block;
+        clear: both;
+      }
+      footer {
+        text-align: center;
+        font-size: 90%;
+      }
+      .f1 {
+        flex: 1 0 0;
+      }
+      .m {
+        border-bottom: 5px solid var(--color);
+        padding-bottom: 10px;
+      }
+      .m > div > div:first-child {
+        background-color: var(--color);
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        margin-bottom: 10px;
+        border-radius: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+      }
+      :root {
+        --color: red;
+      }
+      .h {
+        margin-bottom: 25px;
+      }
+      .c {
+        flex-direction: column;
+        justify-content: space-between;
+      }
+      .logo {
+        height: 125px;
+      }
+      .bg {
+        display: block;
+        width: 100%;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="padding: 3rem">
+      <div class="h f">
+        <div>
+          <img
+            alt="Karuna 2020"
+            src="https://open-data.karuna2020.org/attachments/partners/recDAXlut4WEjl2Bk/logo/att7K1kDelrwWef1n/large.png"
+            class="logo"
+          />
+        </div>
+        <header>
+          <div>
+            <div class="brandname">Shakti Foundation</div>
+            <div>
+              Reg Office: H. No. 581, Sector 16, Panchkula, Haryana - 134109
+            </div>
+            <div>
+              Project Office: D-80 (Basement), Nagar Dewat, Vasant Kunj, New
+              Delhi 110070
+            </div>
+          </div>
+        </header>
+      </div>
+      <div class="f c">
+        <div class="f ff m">
+          <div>
+            <div>
+              <i class="fas fa-phone fa-flip-horizontal"></i>
+            </div>
+            <div>011 26132470</div>
+          </div>
+          <div>
+            <div>
+              <i class="fas fa-envelope"></i>
+            </div>
+            <div>info@shaktifoundationindia.com</div>
+          </div>
+          <div>
+            <div>
+              <i class="fas fa-globe"></i>
+            </div>
+            <div>shaktifoundationindia.com</div>
+          </div>
+        </div>
+      </div>
+      <main>
+        <div>
+          <div>Sl. No.: <span class="i">{{serialNumber}}</span></div>
+          <div>
+            Date:
+            <span class="i id">{{dateNowDate}}</span>/
+            <span class="i id">{{dateNowMonth}}</span>/
+            <span class="i id">{{dateNowYear}}</span>
+          </div>
+        </div>
+        <div class="f">
+          <div>Received with thanks from</div>
+          <div class="i fb">{{name}}</div>
+        </div>
+        <div class="f">
+          <div>Address</div>
+          <div class="i fb">{{address}}</div>
+        </div>
+        <div class="f">
+          <div class="f fb">
+            <div>PAN</div>
+            <div class="i fb">{{panNo}}</div>
+          </div>
+          <div class="f fb" style="flex: 2 0 0">
+            <div>Rupees (in words)</div>
+            <div class="i fb">{{amountInWords}}</div>
+          </div>
+        </div>
+        <div class="f">
+          <div class="f fb">
+            <div>By <span class="method">{{method}}</span> No.</div>
+            <div class="i fb">{{utrPaymentDetailsImpsNeftRtgsNo}}</div>
+          </div>
+          <div class="f">
+            <div>, dated</div>
+            <div class="fb">
+              <span class="i id">{{dateDate}}</span>/
+              <span class="i id">{{dateMonth}}</span>/
+              <span class="i id">{{dateYear}}</span>
+            </div>
+          </div>
+        </div>
+        <div class="f">
+          <div>drawn on</div>
+          <div class="i">{{fromBank}}</div>
+          <div>
+            (Name of the bank), on the account of
+            <strong>Donation for Karuna 2020</strong>.
+          </div>
+        </div>
+        <div class="f ff">
+          <div class="f" style="font-size: 125%; color: var(--color)">
+            <div>&#8377;</div>
+            <div class="i">{{amount}}</div>
+            <div>/-</div>
+          </div>
+          <div class="for">
+            <div>
+              For Shakti Foundation
+            </div>
+            <div>Electronically generated, no signature required</div>
+          </div>
+        </div>
+      </main>
+      <footer>
+        <div>
+          Society Redg. No. <u>72</u> dated 9<sup>th</sup> November 2010 &nbsp;
+          PAN: <u>AAFAS5932D</u> &nbsp; Exempt U/s 80G of The Income Tax Act,
+          1961 vide Serial No. <u>80G / AAFAS5932D / 1938</u> dated 13<sup
+            >th</sup
+          >
+          May 2019 w.e.f. F. Year 2017-2018 by CIT (Exemptions), Chandigarh.
+        </div>
+      </footer>
+    </div>
+    <img
+      alt=""
+      src="https://cdn.karuna2020.org/site-assets/invoice-bg.png"
+      class="bg"
+    />
+  </body>
+</html>
