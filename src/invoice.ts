@@ -55,11 +55,27 @@ export const createInvoices = async () => {
     generateInvoiceStep: string;
     completedInvoiceStep: string;
     sentInvoiceStep: string;
+    needToContactStep: string;
+    smsSentStep: string;
   } = safeLoad(yaml);
   const base = airtable.base(sheetFile.publicAppId);
   log("\n\nGenerating invoices");
 
   const json: Record[] = await readJson(join(".", fileName("Donations")));
+
+  const recordsToContact = json.filter(
+    i => i.status === sheetFile.needToContactStep
+  );
+  log(recordsToContact.length, "records to contact");
+
+  for await (const record of recordsToContact) {
+    try {
+      await contactSingleDonor(base, record);
+    } catch (error) {
+      log("ERROR", error.toString() + "\n");
+    }
+  }
+
   const recordsToGenerate = json.filter(
     i => i.status === sheetFile.generateInvoiceStep && !i.invoiceUrl
   );
@@ -76,6 +92,32 @@ export const createInvoices = async () => {
       log("ERROR", error.toString() + "\n");
     }
   }
+};
+
+export const contactSingleDonor = async (
+  base: Airtable.Base,
+  record: Record
+) => {
+  return;
+
+  log("Sending SMS to donor", record._id, record.name);
+  if (!record.mobile) throw new Error("Mobile number for SMS not found");
+
+  await sendSms(
+    record.mobile || "",
+    `Thank you for your contribution to Karuna 2020, ${record.name}! Please fill the form at https://go.karuna2020.org/donor so we can send you an 80G receipt.`
+  );
+  log("Sent SMS successfully");
+
+  await updateAirtableRecord(base, "Donations", [
+    {
+      id: record._id,
+      fields: {
+        Status: "SMS sent"
+      }
+    }
+  ]);
+  log("Successfully updated Airtable record", record._id);
 };
 
 const createSingleInvoice = async (

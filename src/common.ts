@@ -95,14 +95,13 @@ export const sendSms = async (
   message: string
 ) => {
   const result = await axios.get(
-    `http://bulksms.mysmsmantra.com:8080/WebSMS/SMSAPI.jsp?username=${
-      process.env.SMS_USERNAME
-    }&password=${
-      process.env.SMS_PASSWORD
-    }&sendername=UNITTT&mobileno=${mobileNumber}&message=${encodeURIComponent(
+    `https://api.textlocal.in/send/?apikey=${
+      process.env.TEXTLOCAL_API_KEY
+    }&numbers=91${mobileNumber}&message=${encodeURIComponent(
       message
-    )}`
+    )}&sender=TXTLCL&test=true`
   );
+  if (result.data.errors.length) throw new Error("Unable to send SMS");
   return result.data;
 };
 
