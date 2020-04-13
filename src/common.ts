@@ -2,6 +2,7 @@ const TEST_EMAIL = false;
 
 import slugify from "@sindresorhus/slugify";
 import nodemailer from "nodemailer";
+import axios from "axios";
 import { config } from "dotenv";
 config();
 
@@ -87,4 +88,26 @@ export const pad = (n: string | number, width: number, z?: string) => {
   z = z || "0";
   n = n + "";
   return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
+};
+
+export const sendSms = async (
+  mobileNumber: string | number,
+  message: string
+) => {
+  const result = await axios.get(
+    `http://bulksms.mysmsmantra.com:8080/WebSMS/SMSAPI.jsp?username=${
+      process.env.SMS_USERNAME
+    }&password=${
+      process.env.SMS_PASSWORD
+    }&sendername=UNITTT&mobileno=${mobileNumber}&message=${encodeURIComponent(
+      message
+    )}`
+  );
+  return result.data;
+};
+
+export const hideEmail = (email: string) => {
+  const name = email.split("@")[0];
+  const domain = email.split("@")[1];
+  return `${name.substr(0, 2)}*****@${domain}`;
 };
