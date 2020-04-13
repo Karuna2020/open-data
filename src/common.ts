@@ -1,4 +1,4 @@
-const TEST_EMAIL = true;
+const TEST_EMAIL = false;
 
 import slugify from "@sindresorhus/slugify";
 import nodemailer from "nodemailer";
