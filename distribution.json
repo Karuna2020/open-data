@@ -164,6 +164,18 @@
     "status": "Delivered"
   },
   {
+    "_id": "recRxJ9m9OScuxwX4",
+    "areaOfDelivery": "Sarhaul, Gurgaon",
+    "deliveredOn": "2020-04-12",
+    "godown": "Gurgoan",
+    "handler": [
+      "rec4KettqbIcPbESo"
+    ],
+    "name": "Atul Ji Misc",
+    "numberOfKitsNeeded": 23,
+    "status": "Delivered"
+  },
+  {
     "_id": "recTSeBGsGpIiG3d4",
     "handler": [
       "recJbFfMkoYdLLhMv"

@@ -273,6 +273,18 @@
     "emailMd5": "5199a3deb1581349dfc68d560943ad88"
   },
   {
+    "_id": "recaM0CZ65wtsIKJS",
+    "amount": 7500,
+    "date": "2012-01-04",
+    "fromBank": "HDFC",
+    "id": 42,
+    "method": "NEFT",
+    "name": "Minhaz Lokhandwala",
+    "notesComments": "Sunei Ref",
+    "toAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "7500"
+  },
+  {
     "_id": "recbmaWPpbX764onC",
     "amount": 10000,
     "date": "2020-04-06",
