@@ -7,7 +7,9 @@ import {
   dateZero,
   updateAirtableRecord,
   sendMail,
-  pad
+  pad,
+  sendSms,
+  hideEmail
 } from "./common";
 import htmlToPdf from "pdf-puppeteer";
 import marked from "marked";
@@ -167,6 +169,18 @@ const createSingleInvoice = async (
     }
   ]);
   log("Successfully updated Airtable record", record._id);
+
+  await sendSms(
+    record.mobile,
+    `Thank you for your contribution to Karuna 2020, ${
+      record.name
+    }! We've sent you an 80G receipt on your email, ${hideEmail(record.email)}.`
+  );
+  await sendSms(
+    record.email,
+    `Please check your Spam folder if you don't see the email. Need help? Email us at help@karuna2020.org, and join us on WhatsApp: https://go.karuna2020.org/w`
+  );
+  log("Sent SMS about invoice email to donor");
 
   log();
 };
