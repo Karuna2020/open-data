@@ -198,7 +198,34 @@
   {
     "_id": "rectb1OfKwgBy6D76",
     "event": "Rajiv Gandhi Foundation Donated 300 kits",
-    "id": "rectb1OfKwgBy6D76"
+    "id": "rectb1OfKwgBy6D76",
+    "pictures": [
+      {
+        "id": "att4Cq9N8PcWSdE6N",
+        "url": "https://dl.airtable.com/.attachments/18247231e538e9c943d0b9bff0a2b4bf/36cb1e01/corrected.png",
+        "filename": "corrected.png",
+        "size": 1249183,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ecae93655488aba32f285757b56a5b30/f9df5469",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/87eb50d9d21db33512238ac2e44d58a8/66997b8b",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7aea0c82aa822e3d8e6fdc40cd29ae93/c0efe4d6",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
   },
   {
     "_id": "recu2Dx6MVYdRjZld",
