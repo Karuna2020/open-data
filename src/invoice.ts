@@ -6,7 +6,8 @@ import {
   fileName,
   dateZero,
   updateAirtableRecord,
-  sendMail
+  sendMail,
+  pad
 } from "./common";
 import htmlToPdf from "pdf-puppeteer";
 import marked from "marked";
@@ -102,7 +103,9 @@ const createSingleInvoice = async (
     numberOfFamilies: `${nFamilies} famil${nFamilies === 1 ? "y" : "ies"}`,
     numberOfPeople4: Math.floor((record.amount / 750) * 4),
     numberOfPeople5: Math.floor((record.amount / 750) * 5),
-    serialNumber: "KARUNA-" + record.id,
+    serialNumber: `${
+      record.toAccount.toLocaleLowerCase() !== "shakti" ? "SF" : "IL"
+    }/Karuna2020/${pad(record.id, 4)}`,
     dateNowDate: dateZero(new Date().getUTCDate()),
     dateNowMonth: dateZero(new Date().getUTCMonth() + 1),
     dateNowYear: new Date().getUTCFullYear(),
@@ -114,7 +117,7 @@ const createSingleInvoice = async (
 
   const pdf = await generatePdf(
     render(
-      record.toAccount.toLocaleLowerCase() === "shakti" ? shakti : ilsef,
+      record.toAccount.toLocaleLowerCase() !== "shakti" ? shakti : ilsef,
       data
     )
   );
@@ -137,16 +140,12 @@ const createSingleInvoice = async (
   const mdHtml = marked(render(markdown, data));
   const mdPlainText = mdHtml.replace(/(<([^>]+)>)/gi, "");
   const messageId = await sendMail({
-    to: record.email,
+    to: record.email || "",
     subject: "Karuna 2020 - 80G Receipt for Donation",
     cc:
-      record.toAccount.toLocaleLowerCase() === "shakti"
-        ? [
-            // Emails of Shakti Foundation accountants
-          ]
-        : [
-            // Emails of ILSEF accountants
-          ],
+      record.toAccount.toLocaleLowerCase() !== "shakti"
+        ? ["anurag@shaktifoundationindia.com"]
+        : ["fa.unifiers@gmail.com"],
     text: mdPlainText,
     html: mdHtml,
     attachments: [
@@ -194,10 +193,8 @@ const generatePdf = (
       (data: Buffer) => {
         return resolve(data);
       },
-      { landscape: true, ...options },
+      { printBackground: true, ...options },
       puppeteerArgs,
       remoteContent
     );
   });
-
-createInvoices();

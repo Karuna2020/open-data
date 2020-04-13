@@ -64,6 +64,7 @@ export const sendMail = (data: {
 }): Promise<string> =>
   new Promise((resolve, reject) => {
     data.to = TEST_EMAIL ? "anandchowdhary@gmail.com" : data.to;
+    if (TEST_EMAIL) delete data.cc;
     transport.sendMail(
       { from: "help@karuna2020.org", ...data },
       (error, info) => {
@@ -72,3 +73,18 @@ export const sendMail = (data: {
       }
     );
   });
+
+/**
+ * Pad a number
+ * @example pad(2, 4); // returns "0002"
+ * @param n - Number to pad
+ * @param width - Total width including padding
+ * @param z - Padding character, defaults to 0
+ * @source https://stackoverflow.com/a/10073788/1656944
+ */
+export const pad = (n: string | number, width: number, z?: string) => {
+  if (typeof n === "number") n = n.toString();
+  z = z || "0";
+  n = n + "";
+  return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
+};
