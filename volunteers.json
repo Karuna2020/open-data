@@ -45,9 +45,13 @@
       "rec3WRRvrLxq90FmI",
       "recfB8SXWiefH3gtt",
       "recXh74oYBWcDm5eF",
-      "rec7v93EYLbB5fImp"
+      "rec7v93EYLbB5fImp",
+      "recYEriAEhiTFNyYa"
     ],
     "id": "reck2YKHsRElZlcOg",
+    "invoices": [
+      "rec21Yo5otOejy6V8"
+    ],
     "location": "South Delhi",
     "name": "Anurag Kashyap",
     "partners": [
@@ -72,6 +76,15 @@
       "recRxJ9m9OScuxwX4"
     ],
     "id": "rec4KettqbIcPbESo",
+    "invoices": [
+      "recBbDDTizo9RNCto",
+      "recCaSrm2dZ0JCvsY",
+      "rectwfXHcvyFTT9fN",
+      "recZw5gXcFa8M4sTz",
+      "recJVG8hUJMMzprX0",
+      "recbj3od3KKEsimob",
+      "receeaxSoiR1vVyt4"
+    ],
     "name": "Atul Celly",
     "procurement": [
       "recwCEwSWdCOrV6Oy",
@@ -267,6 +280,17 @@
     "name": "Tuhin",
     "reference": "Mr. Anurag Kashayp",
     "emailMd5": "b408d82d796fe0b714167c18703c122f"
+  },
+  {
+    "_id": "rec0QJ0U1vusNk5H5",
+    "active": true,
+    "areaOfWorkAllocated": "Social Media Outreach",
+    "competenceBackground": "Marketing",
+    "id": "rec0QJ0U1vusNk5H5",
+    "location": "South Delhi",
+    "name": "Vatsal Suneet Mishta",
+    "reference": "Anand",
+    "emailMd5": "86ba7e88e3665f88ad8224b78f7e5991"
   },
   {
     "_id": "rec0bpI6OkgZsykSB",

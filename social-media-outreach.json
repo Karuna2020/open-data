@@ -203,7 +203,57 @@
     "linkedDistribution": [
       "recXh74oYBWcDm5eF"
     ],
-    "status": "Photos uploaded"
+    "pictures": [
+      {
+        "id": "attkroo56C7U2DGKJ",
+        "url": "https://dl.airtable.com/.attachments/78bf18cf7e986fd1f8d932ed157bb596/31cc84a7/1.png",
+        "filename": "1.png",
+        "size": 1297645,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/26a6b2a5eae4de16350aee9decee3f81/8aa732d9",
+            "width": 43,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ed9e53788197554758cd32fb319f8e0b/815a2001",
+            "width": 607,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fff57c2ccbc8201ac67aeeba132b7294/7728d79e",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attwy1B1nCVtS8qa0",
+        "url": "https://dl.airtable.com/.attachments/bf370abc06584ebbdd69dbf735319d36/ec6658de/0.png",
+        "filename": "0.png",
+        "size": 1065047,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f06c4b1f65a57f48e39aa8d9d25a6aab/edc14b63",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/41faa1aa16bcde027b005746d5906f8c/5fa71485",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e15298fbeb44ffe00b11f01f3f1b441c/49276047",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
   },
   {
     "_id": "rectb1OfKwgBy6D76",

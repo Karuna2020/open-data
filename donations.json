@@ -9,7 +9,6 @@
   },
   {
     "_id": "rec1DsHhCzc2lptJb",
-    "address": "E 267, 2nd floor. Greater Kailash 2. New Delhi",
     "amount": 10000,
     "date": "2020-04-11",
     "donateAnonymously": true,
@@ -17,7 +16,6 @@
     "id": 40,
     "method": "NEFT",
     "name": "Shikha Chowdhary",
-    "panNo": "Adhpc9716h",
     "toAccount": "Vikrant (Radha)",
     "utrPaymentDetailsImpsNeftRtgsNo": "1965674981",
     "emailMd5": "95d32e4d7eed17bd6259312b60921684"
@@ -65,7 +63,6 @@
     "id": 22,
     "method": "IMPS",
     "name": "Devika Chadha",
-    "panNo": "AFPPC9101G",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "009318542427"
   },
@@ -98,7 +95,6 @@
     "method": "UPI",
     "name": "Mayank Agrawal",
     "notesComments": "I transferred using Citibank but it is not visible in drop down menu of bank so I selected randomly",
-    "panNo": "AZUPA0934E",
     "status": "Ready for generating Receipt",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010060648645"
@@ -129,7 +125,6 @@
     "method": "Cash",
     "name": "Dalvir Agarwal",
     "notesComments": "Address: House No. 70, Sector 37, Faridabad",
-    "panNo": "AAHPA8256H",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "status": "Ready for generating Receipt",
     "toAccount": "Vikrant"
@@ -169,7 +164,6 @@
     "id": 31,
     "method": "TPT",
     "name": "Anurag Sharma",
-    "panNo": "DLMPS0771L",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "BM01000235462498"
   },
@@ -243,7 +237,6 @@
   },
   {
     "_id": "recWgwcVJTIGWKBhA",
-    "address": "J-273, Ground Floor, Saket, New Delhi 110017",
     "amount": 25000,
     "date": "2020-03-29",
     "fromBank": "HDFC",
@@ -252,25 +245,24 @@
     "method": "IMPS",
     "name": "Gautam Chikermane",
     "notesComments": "Gautam Chikermane",
-    "panNo": "ADGPC2342G",
-    "status": "Receipt Generated",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "8921642916",
     "emailMd5": "966050701e215cf3261af7843fb59c19"
   },
   {
     "_id": "reca4OQslqYHxdXpt",
-    "address": "V 37 GREEN PAR ( MAIN)",
     "amount": 15000,
     "date": "2020-04-09",
     "fromBank": "Other",
+    "howDidYouFindUs": "Personal Reference",
     "id": 41,
     "method": "Cheque",
     "name": "Madhulika Bahadur",
-    "panNo": "AAXPB5635M",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "15000",
-    "emailMd5": "5199a3deb1581349dfc68d560943ad88"
+    "emailMd5": "84d11953e7d497369ff132e65bf098ac"
   },
   {
     "_id": "recaM0CZ65wtsIKJS",
@@ -281,8 +273,10 @@
     "method": "IMPS",
     "name": "Minhaz Lokhandwala",
     "notesComments": "Sunei Ref",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
-    "utrPaymentDetailsImpsNeftRtgsNo": "010316618531"
+    "utrPaymentDetailsImpsNeftRtgsNo": "010316618531",
+    "emailMd5": "86fb9c98fcd96f232cc9a5973bee9bf2"
   },
   {
     "_id": "recbmaWPpbX764onC",
@@ -304,7 +298,6 @@
     "method": "UPI",
     "name": "Swati Ghai",
     "notesComments": "Ref sunei kapur",
-    "panNo": "CNNPG4662G",
     "status": "Ready for generating Receipt",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "UPI/P2A/010015301774/9871797202@kotak"
@@ -320,7 +313,6 @@
   },
   {
     "_id": "recfZN2q0G8OA6bbl",
-    "address": "H-25, Green Park Extension, New Delhi 110016",
     "amount": 3000,
     "date": "2020-04-09",
     "fromBank": "ICICI",
@@ -328,7 +320,6 @@
     "id": 38,
     "method": "UPI",
     "name": "Sukriti Kapoor",
-    "panNo": "ECMPK9560F",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010022069012",
     "emailMd5": "f5e04db260166aba897b1c7852306529"
@@ -410,7 +401,6 @@
   },
   {
     "_id": "recuK10iw9mVF01I2",
-    "address": "130, Rajouri Apartments, Opp Govt of India Press, Mayapuri 110064",
     "amount": 1000,
     "date": "2020-03-31",
     "fromBank": "HDFC",
@@ -418,9 +408,8 @@
     "method": "IMPS",
     "name": "Dr. Sunita Paul",
     "notesComments": "From A.K.Abrol's account",
-    "panNo": "AAHPP1195J",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
-    "status": "Receipt Generated",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309",
     "emailMd5": "83bfe5141f36ae69286b927304b68926"
@@ -444,7 +433,6 @@
     "id": 33,
     "method": "UPI",
     "name": "Shubham",
-    "panNo": "FWXPS7247P",
     "status": "Ready for generating Receipt",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010012171783"
@@ -457,7 +445,6 @@
     "id": 14,
     "method": "NEFT",
     "name": "Radha Chowdhary",
-    "panNo": "AEQPC1027F",
     "receiptSharedWithDonorYesNo": "To be made from ILSEF",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "P0033126345890"
