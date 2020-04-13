@@ -104,7 +104,7 @@ const createSingleInvoice = async (
     numberOfPeople4: Math.floor((record.amount / 750) * 4),
     numberOfPeople5: Math.floor((record.amount / 750) * 5),
     serialNumber: `${
-      record.toAccount.toLocaleLowerCase() !== "shakti" ? "SF" : "IL"
+      record.toAccount.toLocaleLowerCase() === "shakti" ? "SF" : "IL"
     }/Karuna2020/${pad(record.id, 4)}`,
     dateNowDate: dateZero(new Date().getUTCDate()),
     dateNowMonth: dateZero(new Date().getUTCMonth() + 1),
@@ -117,7 +117,7 @@ const createSingleInvoice = async (
 
   const pdf = await generatePdf(
     render(
-      record.toAccount.toLocaleLowerCase() !== "shakti" ? shakti : ilsef,
+      record.toAccount.toLocaleLowerCase() === "shakti" ? shakti : ilsef,
       data
     )
   );
@@ -131,6 +131,7 @@ const createSingleInvoice = async (
       id: record._id,
       fields: {
         "Invoice URL": result.url,
+        Invoice: [{ url: result.url }],
         Status: "Receipt Generated"
       }
     }
@@ -143,7 +144,7 @@ const createSingleInvoice = async (
     to: record.email || "",
     subject: "Karuna 2020 - 80G Receipt for Donation",
     cc:
-      record.toAccount.toLocaleLowerCase() !== "shakti"
+      record.toAccount.toLocaleLowerCase() === "shakti"
         ? ["anurag@shaktifoundationindia.com"]
         : ["fa.unifiers@gmail.com"],
     text: mdPlainText,
