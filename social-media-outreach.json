@@ -117,6 +117,16 @@
     "status": "Publish to website"
   },
   {
+    "_id": "recTbhT7eGL85y1CP",
+    "date": "2020-04-12",
+    "event": "65 kits in Maidan Garhi with the help of local SHO",
+    "id": "recTbhT7eGL85y1CP",
+    "linkedDistribution": [
+      "rec6bJjf0DuIMhhmc"
+    ],
+    "status": "Photos uploaded"
+  },
+  {
     "_id": "recWF9nyoV9PSHrXO",
     "date": "2020-04-11",
     "event": "15 kits delivered in DLF phase 3",
@@ -200,7 +210,8 @@
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/rectb1OfKwgBy6D76/pictures/att4Cq9N8PcWSdE6N/large.png",
     "event": "Rajiv Gandhi Foundation Donated 300 kits",
     "id": "rectb1OfKwgBy6D76",
-    "status": "Graphics Ready"
+    "notes": "The Rajiv Gandhi Foundation generously donated 300 dry ration kits to those affected via the pandemic. We extend our gratitude to them for aiding this noble initiative.",
+    "status": "Publish to website"
   },
   {
     "_id": "recu2Dx6MVYdRjZld",

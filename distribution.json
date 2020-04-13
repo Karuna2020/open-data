@@ -47,13 +47,138 @@
   {
     "_id": "rec6bJjf0DuIMhhmc",
     "areaOfDelivery": "Maidan Gadhi near Saket",
+    "distributionPictures": [
+      {
+        "id": "atta87xAajiYVVmd3",
+        "url": "https://dl.airtable.com/.attachments/13a96122c9876f7af7a169e59c63b760/e978bfa8/WhatsAppImage2020-04-13at1.46.12PM.jpg",
+        "filename": "WhatsApp Image 2020-04-13 at 1.46.12 PM.jpg",
+        "size": 191372,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a89955e52946932744431cb243d9efcb/b024c9a5",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ae4e693541ba65e54ef9c12ac53789af/f0483303",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c10994b0b34607772ba74602746abb76/bae19fdf",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attzhc8zUHlC91UKk",
+        "url": "https://dl.airtable.com/.attachments/27eccb271361c12920bb7fdcb4e61e2b/9ea9933d/WhatsAppImage2020-04-13at1.46.13PM.jpg",
+        "filename": "WhatsApp Image 2020-04-13 at 1.46.13 PM.jpg",
+        "size": 200210,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ea9aabbc56474b9e9d2664cbfb5f8070/4f99c999",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a9e5b71777404c6826ad3ffc726716b7/2eb4a0e1",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/468dc5d494615127914fa9a70406ac29/30fc7cb6",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "atte2wtXEfYO2c3Jz",
+        "url": "https://dl.airtable.com/.attachments/3b7bad07c9edf99d1daf76c94398e7e0/c43db0ce/WhatsAppImage2020-04-13at1.46.13PM1.jpg",
+        "filename": "WhatsApp Image 2020-04-13 at 1.46.13 PM(1).jpg",
+        "size": 175717,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/285092d976b74f7d47a3abe2f659fcd4/e3b6265c",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d5e6f73a42f72b4cbf2e17171acb8bfc/e5c3db3d",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3c852bd91dd90a3e38b0fef203249098/bde10fbb",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attmNm3t4sSugGDR8",
+        "url": "https://dl.airtable.com/.attachments/05d3765ef6bf3b914bdec8b405b116cc/f24f5eb6/WhatsAppImage2020-04-13at1.46.14PM.jpg",
+        "filename": "WhatsApp Image 2020-04-13 at 1.46.14 PM.jpg",
+        "size": 175141,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2f41da8aa5e227543db81c3b6981bce3/c231c290",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/72ded4b3f3fdad5d5ff2d9f8e8a5a42a/bad4bd18",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2b75b2699e755e3b83bd619baf9aca36/5e3e3f2a",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attDJ80aia6AzZpMO",
+        "url": "https://dl.airtable.com/.attachments/75f5e50159d03b03cbcffe7a09b8accd/cc352fc9/WhatsAppImage2020-04-13at1.46.14PM1.jpg",
+        "filename": "WhatsApp Image 2020-04-13 at 1.46.14 PM(1).jpg",
+        "size": 236239,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/37f7777164f2b5a273d88c981b783cc8/46abd604",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/00072dd76aa81e5ffd46a21f19e7c3dc/9809b677",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f46a3d7a27e4eff0859dffbce2e0a1ae/d7f99139",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "handler": [
       "recg64f2Rh4M84TST"
     ],
     "name": "Sanjeev Dagar",
     "notes": "Request Raised by @Sanjeev Dagar",
     "numberOfKitsNeeded": 65,
-    "status": "Delivered"
+    "socialMediaOutreach": [
+      "recTbhT7eGL85y1CP"
+    ],
+    "status": "Received Distribution Pictures"
   },
   {
     "_id": "rec7v93EYLbB5fImp",
