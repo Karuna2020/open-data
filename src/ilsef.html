@@ -1,32 +1,48 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8" />
     <title>Karuna 2020 Invoice</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <style>
       body {
-        font-family: sans-serif;
+        font-family: "Hind", sans-serif;
         border: 1px dashed #aaa;
         max-width: 900px;
         margin: 2.5rem auto;
-        padding: 1.5rem;
+        padding: 2rem;
         box-sizing: border-box;
+      }
+      @page {
+        margin: 0;
+      }
+      @media print {
+        body {
+          margin: 0 auto;
+          padding: 2rem 3rem;
+          border: none;
+        }
       }
       header {
         display: flex;
         text-align: center;
       }
-      header > div:first-child {
+      header > div:last-child {
         flex: 1 0 0;
       }
-      header > div:last-child {
+      header > div:first-child {
         flex: 4 0 0;
+        margin-left: -2rem;
       }
       .brandname {
-        font-size: 170%;
+        font-size: 115%;
         font-weight: bold;
-        text-transform: uppercase;
         margin-top: 1rem;
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.25rem;
       }
       main {
         margin-top: 1.5rem;
@@ -41,12 +57,15 @@
         text-align: right;
       }
       .i {
+        color: var(--color);
         display: inline-block;
         border-bottom: 1px solid #000;
-        color:;
         padding: 0 0.75rem;
         margin: 0 0.75rem;
         font-family: serif;
+      }
+      .id {
+        padding: 0 0.25rem;
       }
       main > div {
         margin-bottom: 1rem;
@@ -89,28 +108,92 @@
         text-align: center;
         font-size: 90%;
       }
+      .f1 {
+        flex: 1 0 0;
+      }
+      .m {
+        border-bottom: 5px solid var(--color);
+        padding-bottom: 10px;
+      }
+      .m > div > div:first-child {
+        background-color: var(--color);
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        margin-bottom: 10px;
+        border-radius: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+      }
+      :root {
+        --color: #c00058;
+      }
+      .h {
+        margin-bottom: 25px;
+      }
+      .c {
+        flex-direction: column;
+        justify-content: space-between;
+      }
       .logo {
+        max-width: 120px;
+        margin-left: 2.5rem;
+      }
+      .logo1 {
         width: 100%;
         margin-bottom: 1.5rem;
+        transform: scale(1.2) translateX(-0.5rem);
       }
-      .method-{{method}} {
-        border: 2px solid;
-        border-radius: 1rem;
-        padding: 0.1rem 0.25rem;
+      .bg {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
       }
     </style>
   </head>
   <body>
-    <header>
-      <div class="f" style="align-items: flex-end">
+    <div class="h f">
+      <div style="margin-right: 75px">
         <img
+          alt="Karuna 2020"
+          src="https://cdn.karuna2020.org/logo-vertical.svg"
           class="logo"
-          alt=""
-          src="https://open-data.karuna2020.org/attachments/partners/reccUloEySdnmSVjF/logo/attnFf1XJh7xkpySd/large.png"
         />
       </div>
+      <div class="f1 f c">
+        <div>
+          Thank you for your contribution to Karuna 2020. With your support,
+          <strong>12 families</strong> (48&ndash;60 people) will be sustained
+          for one month.
+        </div>
+        <div class="f ff m">
+          <div>
+            <div>
+              <i class="fab fa-whatsapp" style="transform: scale(1.3);"></i>
+            </div>
+            <div>karuna2020.org/whatsapp</div>
+          </div>
+          <div>
+            <div>
+              <i class="fas fa-envelope fa-flip-horizontal"></i>
+            </div>
+            <div>help@karuna2020.org</div>
+          </div>
+          <div>
+            <div>
+              <i class="fas fa-globe fa-flip-horizontal"></i>
+            </div>
+            <div>karuna2020.org</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <header>
       <div>
-        <div><u>Receipt</u></div>
+        <!-- <div><u>Receipt</u></div> -->
         <div class="brandname">
           Integral Livelihood &amp; Social Entrepreneurship Foundation
         </div>
@@ -128,15 +211,22 @@
           Email: contactus@ilfesfoundation.org | Website: www.ilsefoundation.org
         </div>
       </div>
+      <div class="f" style="align-items: flex-end">
+        <img
+          class="logo1"
+          alt=""
+          src="https://open-data.karuna2020.org/attachments/partners/reccUloEySdnmSVjF/logo/attnFf1XJh7xkpySd/large.png"
+        />
+      </div>
     </header>
     <main>
       <div>
         <div>Sl. No.: <span class="i">{{serialNumber}}</span></div>
         <div>
           Date:
-          <span class="i">{{dateNowDate}}</span>/
-          <span class="i">{{dateNowMonth}}</span>/
-          <span class="i">{{dateNowYear}}</span>
+          <span class="i id">{{dateNowDate}}</span>/
+          <span class="i id">{{dateNowMonth}}</span>/
+          <span class="i id">{{dateNowYear}}</span>
         </div>
       </div>
       <div class="f">
@@ -158,24 +248,16 @@
         </div>
       </div>
       <div class="f">
-        <div class="f fb" style="flex: 2 0 0">
-          <div>
-            By <span class="method-Cash">Cash</span> /
-            <span class="method-Cheque">Cheque</span> /
-            <span class="method-MO">M.O.</span> /
-            <span class="method-DD">D.D.</span> /
-            <span class="method-IMPS">IMPS</span> /
-            <span class="method-NEFT">NEFT</span> /
-            <span class="method-RTGS">RTGS</span> No.
-          </div>
+        <div class="f fb" style="flex: 1.5 0 0">
+          <div>By <span class="method">{{method}}</span> No.</div>
           <div class="i fb">{{utrPaymentDetailsImpsNeftRtgsNo}}</div>
         </div>
         <div class="f fb">
           <div>, dated</div>
           <div class="fb">
-            <span class="i">{{dateDate}}</span>/
-            <span class="i">{{dateMonth}}</span>/
-            <span class="i">{{dateYear}}</span>
+            <span class="i id">{{dateDate}}</span>/
+            <span class="i id">{{dateMonth}}</span>/
+            <span class="i id">{{dateYear}}</span>
           </div>
         </div>
       </div>
@@ -188,8 +270,8 @@
         </div>
       </div>
       <div class="f ff">
-        <div class="f">
-          <div>Rs.</div>
+        <div class="f" style="font-size: 125%; color: var(--color)">
+          <div>&#8377;</div>
           <div class="i">{{amount}}</div>
           <div>/-</div>
         </div>
@@ -209,5 +291,6 @@
         August 2018 w.e.f. F. Year 2019-2020 by CIT (Exemptions), Delhi.
       </div>
     </footer>
+    <img alt="" src="invoice-bg.png" class="bg" />
   </body>
 </html>
