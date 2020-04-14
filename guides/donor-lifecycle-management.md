@@ -1,25 +1,25 @@
 ---
 title: Donor Lifecycle Management Guide
-author: Shivek Khurana
+author: Shivek Khurana and Kulbhushan Kumar
 tags: ["donor lifecycle"]
 ---
 
-We aim to be transparent and communicate the impact of each donation to the donor. For this, we need to ensure that they are connected to us on various channels. This serves as good will and might lead to referral donations.
+We aim to be transparent and communicate the impact of each donation to the donors. For this, we need to ensure that they are connected with us on various channels. This serves as good will and might lead to referral and recurring donations.
 Apart from establishing connections, we also need to generate receipts.
 
 The current process is managed on Airtable. Ask for access if you don’t have it already.
 
-A donor's lifecycle starts when she fills the [donor form](https://go.karuna2020.org/donor), incase the donor didn't fill the form, it's the job of the lifecycle manage to gather required information and fill the form on their behalf.
+A donor's lifecycle starts when donor fills the [donor form](https://go.karuna2020.org/donor), incase the donor didn't fill the form, it's the job of the lifecycle manager to gather required information and fill the form on their behalf.
 
 # Prepping for receipt generation
-There are multiple cases that need to be handled before a donation is ready for receipt generation.
+There are multiple cases that need to be handled before a donation is ready for receipt generation. The process for each case is as follows:
 
 ## Case 1 - Donors make a donation and fill the form themselves
 We hope to see most donors who pay by UPI in this category.
 
-The form is designed to capture neccessary information to generate a receipt. We only need to verify that the donation being claimed was actually received. 
+The form is designed to capture necessary information to generate a receipt. We only need to verify that the donation being claimed is actually received. 
 
-For this purpose, we have a WhatsApp group titled "UPI Stream". All donation OTPs from Shakti Foundations (Our UPI payment handling organisation) is forwarded to this group. In case where you see an OTP and a respective card in *Uncategorised Column*, simply move the card to *Ready for generating receipt Column*. Make sure the the transation id matches the one entered by the user.
+For this purpose, we have a WhatsApp group titled "UPI Stream". All donation OTPs from Shakti Foundations (Our UPI payment handling organisation) is forwarded to this group. In case where you see an OTP and a respective card in *Uncategorised Column*, simply move the card to *Ready for generating receipt Column*. Make sure the transaction id matches the one entered by the user.
 
 ## Case 2 - Donors make a UPI/NEFT/IMPS/Other Online donation but don't fill the form
 
@@ -45,7 +45,7 @@ In this case, figure out who's reference did the donor come from, find out the d
    5. If they choose to share their PAN, also ask for their address. This is needed to generate an 80G receipt.
    6. Get their PAN and Address and update on the card
    7. Move the card to **Ready for Generating Receipt Column**
-   8. If they choose to not share their PAN and Address, move them to **Ready for Generating Receipt Column** regardless
+   8. If they choose to not share their PAN and Address, move them to **Receipt Not Needed For Now Column**
 
 ## Case 3 - Donor fills the form but we don't receive any OTP confirmation
 In this case, we need to request an account statement on Friday to verify if the mentioned donation was actually received.
@@ -54,7 +54,7 @@ If the donation was received, the card should be moved to **Ready for Generating
 If the donation was not received, the donor should be notified over email that we see a form entry but no donation was received. Request them to check with their bank. Cases like these should be handled indiviually. Throughout the process, the donor should be insured that we'd generate a receipt as soon as the amount reaches us.
 
 # Generating and Sending Receipts
-If a card in **Ready for Generating Receipt Column** has PAN card, phone number and address attached, the receipt will be generated and delived to the donor automatically. The card will also be moved to the next stage.
+If a card in **Ready for Generating Receipt Column** has PAN card, phone number and address attached, the receipt will be generated and delivered to the donor automatically. The card will also be moved to the next stage.
 
 In cases where a card doesn't have the necessary information, the receipt will not be generated and the card will stay there until an accountant intervenes. 
 
