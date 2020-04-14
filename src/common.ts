@@ -9,7 +9,7 @@ config();
 export const log = (...args: any[]) =>
   console.log(
     new Date().toISOString(),
-    ...args.map(i => (typeof i === "string" ? i : JSON.stringify(i)))
+    ...args.map((i) => (typeof i === "string" ? i : JSON.stringify(i)))
   );
 
 export const fileName = (file: string) => {
@@ -19,10 +19,10 @@ export const fileName = (file: string) => {
 };
 
 export const keyName = (key: string) =>
-  slugify(key.trim()).replace(/-([a-z])/g, g => g[1].toUpperCase());
+  slugify(key.trim()).replace(/-([a-z])/g, (g) => g[1].toUpperCase());
 
 export const wait = (ms: number) =>
-  new Promise(resolve => setTimeout(resolve, ms));
+  new Promise((resolve) => setTimeout(resolve, ms));
 
 export const dateZero = (number: number | string) =>
   Number(number) > 9 ? number : `0${number}`;
@@ -45,8 +45,8 @@ const transport = nodemailer.createTransport({
   secure: false,
   auth: {
     user: "help@karuna2020.org",
-    pass: process.env.ZOHO_PASSWORD
-  }
+    pass: process.env.ZOHO_PASSWORD,
+  },
 });
 
 export const sendMail = (data: {
@@ -99,9 +99,10 @@ export const sendSms = async (
       process.env.TEXTLOCAL_API_KEY
     }&numbers=91${mobileNumber}&message=${encodeURIComponent(
       message
-    )}&sender=TXTLCL&test=true`
+    )}&sender=TXTLCL`
   );
-  if (result.data.errors.length) throw new Error("Unable to send SMS");
+  if (result.data && result.data.errors && result.data.errors.length)
+    throw new Error("Unable to send SMS");
   return result.data;
 };
 
