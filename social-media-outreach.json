@@ -120,6 +120,12 @@
     "status": "Graphics Ready"
   },
   {
+    "_id": "recHB05kohtvxAAKW",
+    "event": "Unboxing Kit",
+    "id": "recHB05kohtvxAAKW",
+    "notes": "- Help Your Level 1 helpers - Maids/ Car Cleaners/ Etc\n- Cost of one kit\n- Cost to us in bulk\n= Link to donate"
+  },
+  {
     "_id": "recJOqo46DyZE0qt4",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recJOqo46DyZE0qt4/pictures/attABfKTR24UIkMYQ/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recJOqo46DyZE0qt4/pictures/attBDtq0JnzpygAzU/large.png",
     "event": "2 kits delivered to the elderly in DLF Phase 3",
@@ -427,6 +433,11 @@
     "status": "Publish to website"
   },
   {
+    "_id": "reciKmCA5UvfTSOY7",
+    "event": "Kerela Flattens The Curve",
+    "id": "reciKmCA5UvfTSOY7"
+  },
+  {
     "_id": "reciKykfE6iBRFDq9",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/reciKykfE6iBRFDq9/pictures/attnDT27bTBXYREFw/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/reciKykfE6iBRFDq9/pictures/attP1YnNb1m4zNZSc/large.png",
     "date": "2020-04-09",
@@ -499,6 +510,11 @@
       }
     ],
     "status": "Publish to website"
+  },
+  {
+    "_id": "recqeYMiQLHR7vMfP",
+    "event": "Linkedin Presence",
+    "id": "recqeYMiQLHR7vMfP"
   },
   {
     "_id": "rectb1OfKwgBy6D76",
