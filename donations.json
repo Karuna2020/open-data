@@ -4,7 +4,7 @@
     "amount": 300000,
     "id": 8,
     "method": "NEFT",
-    "name": "Essel World Foundation",
+    "name": "Essel Social Welfare Foundation",
     "notesComments": "Request anurag for information",
     "status": "Need to contact",
     "toAccount": "Shakti Foundation"
@@ -69,9 +69,10 @@
     "method": "TPT",
     "name": "Parul Agarwal",
     "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar][1] You can find details about Parul from Sunei.\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/menCQSPd0Q7PIkFKO/usrVMHyDSa5htZzdZ?recordId=rec5F0zTLOZQ5DGH1&fieldId=flds8bco54IcRRSlP",
-    "status": "Need to contact",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
-    "utrPaymentDetailsImpsNeftRtgsNo": "50100197093091"
+    "utrPaymentDetailsImpsNeftRtgsNo": "50100197093091",
+    "emailMd5": "39e143e1bc203eafdee015d152230f08"
   },
   {
     "_id": "rec857byT826egnmc",
@@ -167,7 +168,7 @@
     "method": "IMPS",
     "name": "Mrs. Kusum Dhawan",
     "notesComments": "From A.K.Abrol's account\n\nContact [@Vikrant Abrol][1] for address\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/menw3mbKViUnYIktE/usrihddH5j7WqIKJ3?recordId=recK5C7nqCYiGqJSy&fieldId=flds8bco54IcRRSlP",
-    "status": "Need to contact",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309"
   },
@@ -478,9 +479,10 @@
     "id": 14,
     "method": "NEFT",
     "name": "Radha Chowdhary",
-    "status": "Need to contact",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
-    "utrPaymentDetailsImpsNeftRtgsNo": "P0033126345890"
+    "utrPaymentDetailsImpsNeftRtgsNo": "P0033126345890",
+    "emailMd5": "0f69aa376c02ee874c9883f67266c1e2"
   },
   {
     "_id": "recwzEs1knZj484pI",
