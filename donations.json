@@ -32,6 +32,7 @@
     "method": "UPI",
     "name": "Ankit Kumar",
     "notesComments": "Good job. Keep it up!",
+    "status": "Ready for generating Receipt",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010421335519",
     "emailMd5": "9025b97066333d83a4ca2f0b2be30990"
@@ -91,9 +92,10 @@
     "fromBank": "Paytm",
     "id": 43,
     "method": "UPI",
+    "name": "Unknown",
     "notesComments": "Created by [@Shivek Khurana][1]\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/men3BoFtHg9nshXRE/usryfue47ocG6L6Pl?recordId=rec8PkkBDhbvhTTLa&fieldId=flds8bco54IcRRSlP",
     "toAccount": "Shakti Foundation",
-    "utrPaymentDetailsImpsNeftRtgsNo": "202010109659439"
+    "utrPaymentDetailsImpsNeftRtgsNo": "10109659439"
   },
   {
     "_id": "rec8XIhAiDmeOiCVE",
