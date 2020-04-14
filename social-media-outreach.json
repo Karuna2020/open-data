@@ -36,6 +36,89 @@
     "status": "Publish to website"
   },
   {
+    "_id": "recDPBge9PAW2Cfo5",
+    "event": "95 kits delivered to Vasant Kunj",
+    "id": "recDPBge9PAW2Cfo5",
+    "linkedDistribution": [
+      "rec7v93EYLbB5fImp"
+    ],
+    "pictures": [
+      {
+        "id": "attAfwp2ku0JpNsV0",
+        "url": "https://dl.airtable.com/.attachments/bce03a822cf9084d761cc986d350c6da/f9cd1d43/1.png",
+        "filename": "1.png",
+        "size": 1247503,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/56d72b384b5b22bf1f56d5f42b493578/4d338b49",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f6f47ab2c1b417028d738401d818a476/922e281e",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/11022677dbedb7749cd325d09b00a12f/471e677c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attAbL88xqp9rrqC3",
+        "url": "https://dl.airtable.com/.attachments/023d9017c385364fd19ef346d17dce09/b4a82ba1/2.png",
+        "filename": "2.png",
+        "size": 1665877,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ddc6802e82853d4e505adb19dfcd5661/74171cf0",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8f1881e233f5f3cab01b0c561845c4bf/a4d5d407",
+            "width": 513,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/46fa6b360bce91205ce9ba033845172b/e9f51249",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attLKScvIgsg3NHPr",
+        "url": "https://dl.airtable.com/.attachments/272c4476ce61385c273a039de4b96081/66a236ba/0.png",
+        "filename": "0.png",
+        "size": 924108,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5a66838d85f9a6f1ffb803bf683fb8da/85ceee7b",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0124d9ca5af0a03f81bdf2bc70a00291/cb3847eb",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d0bd1649a240f9fd1eb3abcd8677ac1a/3f919a44",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
+  },
+  {
     "_id": "recJOqo46DyZE0qt4",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recJOqo46DyZE0qt4/pictures/attABfKTR24UIkMYQ/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recJOqo46DyZE0qt4/pictures/attBDtq0JnzpygAzU/large.png",
     "event": "2 kits delivered to the elderly in DLF Phase 3",
@@ -124,18 +207,145 @@
     "linkedDistribution": [
       "rec6bJjf0DuIMhhmc"
     ],
-    "status": "Photos uploaded"
+    "pictures": [
+      {
+        "id": "attEd0UCMsHCTFACj",
+        "url": "https://dl.airtable.com/.attachments/aada40d85255e48ac41a59a0c82160ed/05e2a360/0.png",
+        "filename": "0.png",
+        "size": 1119503,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0f28db5ec68dcad68928eef3c3abc72c/aed88cfa",
+            "width": 40,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3af10b41da23eb1f016028bdfeefda21/ec7d5d73",
+            "width": 562,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/474bb40eebb7f2e84b0959845ae844c1/2dfa2709",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attrJ8tnT5qytXdBH",
+        "url": "https://dl.airtable.com/.attachments/6d5fb0803fd3bee2cd65d17dffaf0286/785b0aad/1.png",
+        "filename": "1.png",
+        "size": 1251170,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/eebebcc1965d68841134cdcf5f8b8435/b8580d50",
+            "width": 41,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ef306459757d383871ac61bcd75d870d/91a3cfd8",
+            "width": 584,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c672a85f66358e917b289513629150bb/aa1774ba",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
   },
   {
     "_id": "recWF9nyoV9PSHrXO",
     "date": "2020-04-11",
     "event": "15 kits delivered in DLF phase 3",
+    "handlers": [
+      "recjDkPJ6t8RVHZXz"
+    ],
     "id": "recWF9nyoV9PSHrXO",
     "linkedDistribution": [
       "reccooYD9qC6z9dHv"
     ],
     "notes": "<airtable:mention id=\"meno3X4F3tw6tGBxi\">@Divyarth Bansal</airtable:mention> Handled this, ask him for the story",
-    "status": "Photos uploaded"
+    "pictures": [
+      {
+        "id": "attc8HQK6RZlwDX3T",
+        "url": "https://dl.airtable.com/.attachments/bbea51600f7b2d08798f146a32119e3f/638bc7ba/0.png",
+        "filename": "0.png",
+        "size": 1056721,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/497ea595fd9feb418c402e476408b0e6/70c88d4a",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3a0830c4556463d98705ee996c61dc6d/151a1522",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2796b7b7447c4a9d503280711a50ba47/6bf809c6",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attp9Kk0Gf8IYCo72",
+        "url": "https://dl.airtable.com/.attachments/dc4834070ef40ed8da9195b0d84c04a2/82909493/1.png",
+        "filename": "1.png",
+        "size": 1347987,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ea34c3824900f1ab7fd17e6428dd075d/ff9d7635",
+            "width": 38,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a71100a184d7da07a340f33a7cdcff0c/6a131510",
+            "width": 545,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8b7ed1d9db06604ad3cba1f5eb3e2c56/eba24279",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att6agrX6wA7BtGTq",
+        "url": "https://dl.airtable.com/.attachments/3f385973dfb7438a2cbba9b5aa0a7acc/33fa67c6/2.png",
+        "filename": "2.png",
+        "size": 1462506,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/146b992b0d544b496e6ace3a3cb60383/d92d7830",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/21ed912dffb3cedce37f6a0b50c95f71/fbb27f65",
+            "width": 512,
+            "height": 513
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3118b922fc3a4ff1f5e4bb802f32ef0e/83ad056d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
   },
   {
     "_id": "recWwKFHlfRVxYBNV",
@@ -154,6 +364,32 @@
     "id": "reccKDrUIV0N1uUzo",
     "linkedDistribution": [
       "recOeXnn08M67K8Os"
+    ],
+    "pictures": [
+      {
+        "id": "attK8ZvKv1NzcmcC1",
+        "url": "https://dl.airtable.com/.attachments/cb876c81b1bcb27703a05309da19fcef/9c0a2ada/1.png",
+        "filename": "1.png",
+        "size": 1476567,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c0d4884d16871ef61142f86f2c54a4d2/dde9e29a",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a2f231d1ca0dcea2aa05a8c2a2a5f829/e28d364d",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/980c138d938ef9517d50f623dc3d5a19/e2b01aab",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
     ],
     "status": "Photos uploaded"
   },
@@ -200,10 +436,14 @@
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recmCJHcjGOrtw56u/pictures/attkroo56C7U2DGKJ/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recmCJHcjGOrtw56u/pictures/attwy1B1nCVtS8qa0/large.png",
     "date": "2020-04-11",
     "event": "100 more kits to Vasant Kunj",
+    "handlers": [
+      "recjDkPJ6t8RVHZXz"
+    ],
     "id": "recmCJHcjGOrtw56u",
     "linkedDistribution": [
       "recXh74oYBWcDm5eF"
     ],
+    "notes": "We have committed to deliver 1000 dry ration kits in the Vasant Kunj area. We successfully delivered 237 dry ration kits. The third phase of our commitment reached and helped another 100 families affected by the pandemic.",
     "pictures": [
       {
         "id": "attkroo56C7U2DGKJ",
@@ -254,7 +494,7 @@
         }
       }
     ],
-    "status": "Graphics Ready"
+    "status": "Publish to website"
   },
   {
     "_id": "rectb1OfKwgBy6D76",

@@ -111,9 +111,9 @@
     "_id": "rec9jhG4zw0AgDKtR",
     "amount": 4490,
     "id": 7,
-    "method": "NEFT",
+    "method": "In kind",
     "name": "Sheet DB",
-    "notesComments": "$19.99/m for 3 months",
+    "notesComments": "$19.99/m for 3 months in service credits",
     "status": "Receipt Not Needed For Now",
     "toAccount": "In Kind"
   },
@@ -315,9 +315,10 @@
     "method": "NEFT",
     "name": "FIL Industries ltd",
     "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar][1] Same for FIL, Sunei will have contact details\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/menk7yVk3yTG8qTUK/usrVMHyDSa5htZzdZ?recordId=recbmaWPpbX764onC&fieldId=flds8bco54IcRRSlP",
-    "status": "Need to contact",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
-    "utrPaymentDetailsImpsNeftRtgsNo": "NEFTSDC9045049"
+    "utrPaymentDetailsImpsNeftRtgsNo": "NEFTSDC9045049",
+    "emailMd5": "e9ef2fb01b963e0362c38217fca5392a"
   },
   {
     "_id": "recd6RZh1c5hXblin",
