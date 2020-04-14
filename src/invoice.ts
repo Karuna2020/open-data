@@ -9,7 +9,7 @@ import {
   sendMail,
   pad,
   sendSms,
-  hideEmail
+  hideEmail,
 } from "./common";
 import htmlToPdf from "pdf-puppeteer";
 import marked from "marked";
@@ -26,7 +26,7 @@ var convertRupeesIntoWords = require("convert-rupees-into-words");
 cloudinary.config({
   cloud_name: "karuna-2020",
   api_key: process.env.CLOUDINARY_API_KEY,
-  api_secret: process.env.CLOUDINARY_API_SECRET
+  api_secret: process.env.CLOUDINARY_API_SECRET,
 });
 
 interface Record {
@@ -64,7 +64,7 @@ export const createInvoices = async () => {
   const json: Record[] = await readJson(join(".", fileName("Donations")));
 
   const recordsToContact = json.filter(
-    i => i.status === sheetFile.needToContactStep
+    (i) => i.status === sheetFile.needToContactStep
   );
   log(recordsToContact.length, "records to contact");
 
@@ -77,7 +77,7 @@ export const createInvoices = async () => {
   }
 
   const recordsToGenerate = json.filter(
-    i => i.status === sheetFile.generateInvoiceStep && !i.invoiceUrl
+    (i) => i.status === sheetFile.generateInvoiceStep && !i.invoiceUrl
   );
   log(recordsToGenerate.length, "records to generate invoice for");
 
@@ -113,9 +113,9 @@ export const contactSingleDonor = async (
     {
       id: record._id,
       fields: {
-        Status: "SMS sent"
-      }
-    }
+        Status: "SMS sent",
+      },
+    },
   ]);
   log("Successfully updated Airtable record", record._id);
 };
@@ -148,7 +148,7 @@ const createSingleInvoice = async (
     numberOfPeople4: Math.floor((record.amount / 750) * 4),
     numberOfPeople5: Math.floor((record.amount / 750) * 5),
     serialNumber: `${
-      record.toAccount.toLocaleLowerCase() === "shakti" ? "SF" : "IL"
+      record.toAccount.toLocaleLowerCase() === "Shakti Foundation" ? "SF" : "IL"
     }/Karuna2020/${pad(record.id, 4)}`,
     dateNowDate: dateZero(new Date().getUTCDate()),
     dateNowMonth: dateZero(new Date().getUTCMonth() + 1),
@@ -156,12 +156,14 @@ const createSingleInvoice = async (
     dateDate: record.date.split("-")[2],
     dateMonth: record.date.split("-")[1],
     dateYear: record.date.split("-")[0],
-    nameOfBank: record.fromBank || ""
+    nameOfBank: record.fromBank || "",
   };
 
   const pdf = await generatePdf(
     render(
-      record.toAccount.toLocaleLowerCase() === "shakti" ? shakti : ilsef,
+      record.toAccount.toLocaleLowerCase() === "Shakti Foundation"
+        ? shakti
+        : ilsef,
       data
     )
   );
@@ -176,9 +178,9 @@ const createSingleInvoice = async (
       fields: {
         "Invoice URL": result.url,
         Invoice: [{ url: result.url }],
-        Status: "Receipt Generated"
-      }
-    }
+        Status: "Receipt Generated",
+      },
+    },
   ]);
   log("Successfully updated Airtable record", record._id);
 
@@ -188,7 +190,7 @@ const createSingleInvoice = async (
     to: record.email || "",
     subject: "Karuna 2020 - 80G Receipt for Donation",
     cc:
-      record.toAccount.toLocaleLowerCase() === "shakti"
+      record.toAccount.toLocaleLowerCase() === "Shakti Foundation"
         ? ["anurag@shaktifoundationindia.com"]
         : ["fa.unifiers@gmail.com"],
     text: mdPlainText,
@@ -197,18 +199,18 @@ const createSingleInvoice = async (
       {
         filename: `karuna2020-${slugify(record.name)}.pdf`,
         contentType: "application/pdf",
-        content: pdf
-      }
-    ]
+        content: pdf,
+      },
+    ],
   });
   log("Successfully send invoice email", messageId);
   await updateAirtableRecord(base, "Donations", [
     {
       id: record._id,
       fields: {
-        Status: "Receipt Sent"
-      }
-    }
+        Status: "Receipt Sent",
+      },
+    },
   ]);
   log("Successfully updated Airtable record", record._id);
 
