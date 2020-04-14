@@ -64,7 +64,9 @@ export const createInvoices = async () => {
   const json: Record[] = await readJson(join(".", fileName("Donations")));
 
   const recordsToContact = json.filter(
-    (i) => i.status === sheetFile.needToContactStep
+    (i) =>
+      i.status === sheetFile.needToContactStep &&
+      !(i.address && i.amount && i.mobile && i.email && i.panNo)
   );
   log(recordsToContact.length, "records to contact");
 
@@ -98,8 +100,6 @@ export const contactSingleDonor = async (
   base: Airtable.Base,
   record: Record
 ) => {
-  return;
-
   log("Sending SMS to donor", record._id, record.name);
   if (!record.mobile) throw new Error("Mobile number for SMS not found");
 
