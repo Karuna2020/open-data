@@ -135,7 +135,11 @@ const createSingleInvoice = async (
   if (!record.mobile) throw new Error("Phone number not available");
   if (!record.email) throw new Error("Email not available");
   if (!record.panNo) throw new Error("PAN not available");
-  if (!["shakti", "ilsef"].includes(record.toAccount.toLocaleLowerCase()))
+  if (
+    !["shakti foundation", "ilsef"].includes(
+      record.toAccount.toLocaleLowerCase()
+    )
+  )
     throw new Error("`toAccount` is not ILSEF or Shakti");
 
   const nFamilies = Math.floor(record.amount / 750);
