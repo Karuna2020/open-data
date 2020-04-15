@@ -32,7 +32,7 @@
     "method": "UPI",
     "name": "Ankit Kumar",
     "notesComments": "Good job. Keep it up!",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010421335519",
     "emailMd5": "9025b97066333d83a4ca2f0b2be30990"
@@ -82,7 +82,7 @@
     "id": 22,
     "method": "IMPS",
     "name": "Devika Chadha",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "009318542427",
     "emailMd5": "54d43d09d46081d07ac63c59116dd5de"
@@ -128,7 +128,7 @@
     "method": "UPI",
     "name": "Mayank Agrawal",
     "notesComments": "I transferred using Citibank but it is not visible in drop down menu of bank so I selected randomly\n\n# Address needed",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010060648645",
     "emailMd5": "ede393784cab9e09662e746a5c979011"
@@ -194,7 +194,7 @@
     "id": 31,
     "method": "TPT",
     "name": "Anurag Sharma",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "BM01000235462498",
     "emailMd5": "234315f98c7e09dcc6d634b6313f2021"
@@ -333,7 +333,7 @@
     "method": "UPI",
     "name": "Swati Ghai",
     "notesComments": "Ref sunei kapur/ Address needed",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "UPI/P2A/010015301774/9871797202@kotak",
     "emailMd5": "2f154f71c04ebd2b537ce7cd52d7c4b2"
@@ -458,7 +458,7 @@
     "id": 25,
     "method": "IMPS",
     "name": "Rohit Bhatia",
-    "status": "Need to contact",
+    "status": "SMS sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "009123213385"
   },
