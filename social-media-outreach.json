@@ -544,5 +544,32 @@
     "event": "Materials Received At Ghazipur",
     "id": "recwTEmOno3APyMYG",
     "status": "Not publishing"
+  },
+  {
+    "_id": "reczbnqdLbQcq8v4Q",
+    "event": "Changing SMO outreach init",
+    "id": "reczbnqdLbQcq8v4Q",
+    "pictures": [
+      {
+        "id": "attYGd06VonUvMwwt",
+        "url": "https://dl.airtable.com/.attachments/50bd3d68e2df2099abc230ae1d7a3314/419f1746/GrayLeavesMemorialPoster.pdf",
+        "filename": "Gray Leaves Memorial Poster.pdf",
+        "size": 287597,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/03f6326c169bd454108198f5c38763b9/b0801d9e",
+            "width": 25,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/42044553010e4cb16c5b030f86329aab/1eb102a0",
+            "width": 362,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "status": "Photos uploaded"
   }
 ]
