@@ -6,7 +6,7 @@
     "method": "NEFT",
     "name": "Essel Social Welfare Foundation",
     "notesComments": "Request anurag for information",
-    "status": "Need to contact",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "Shakti Foundation"
   },
   {
@@ -67,15 +67,18 @@
   },
   {
     "_id": "rec39JRMSFB4eBPAD",
+    "address": "S-5/12,DLF Phase-3 , Gurugram 122010",
     "amount": 11000,
     "date": "2020-04-06",
+    "email": "ecelly75@gmail.com",
     "fromBank": "KOTAK",
     "id": 28,
     "method": "NEFT",
     "mobile": "9999697055",
     "name": "Platinum Hospitality",
     "notesComments": "Atul Celly",
-    "status": "Need to contact",
+    "panNo": "ACBPC9716C",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "KKBKH20097634967"
   },
@@ -87,6 +90,7 @@
     "method": "IMPS",
     "name": "Not known",
     "notesComments": "Dont Know who he is",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "9214567360"
   },
@@ -382,6 +386,7 @@
     "id": 19,
     "method": "IMPS",
     "name": "Not known",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "9315348939"
   },
