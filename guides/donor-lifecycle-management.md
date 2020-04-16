@@ -26,7 +26,7 @@ For this purpose, we have a WhatsApp group titled "UPI Stream". All donation OTP
 This case has two further sub-cases
 
 ### Case 2.1 - We don't know who the donor is
-If we receive a donation OTP, but the donor didn't fill the form and we don't know who the donor is, we need to wait for a 3 days for the donor to fill the form. After that, a card should be manually created and moved to *Ready for generating receipt Column*. Since this card will not have a PAN and a phone number attached, it will stay here until:
+If we receive a donation OTP, but the donor didn't fill the form and we don't know who the donor is, we need to wait for a 3 days for the donor to fill the form. After that, a card should be manually created and moved to *Receipt Not Needed for now Column*. Since this card will not have a PAN and a phone number attached, it will stay here until:
 - The donor fill the form - In this case, the manually created card should be deleted and the user-generated card should be moved to *Ready for generating receipt Column*
 - The donor never fills the form - The card will stay here forever
 
