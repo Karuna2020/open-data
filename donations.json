@@ -204,12 +204,6 @@
     "toAccount": "In Kind"
   },
   {
-    "_id": "recAGz75PbIdioU7T",
-    "id": 46,
-    "method": "In kind",
-    "notesComments": "2,000 packs of Kellogg's® Chocos®"
-  },
-  {
     "_id": "recBvCkfUSZ0IVpD4",
     "address": "Goldman Sachs, Bellandur, Bengaluru, Karnataka - 560103",
     "amount": 1500,
@@ -279,10 +273,6 @@
     "notesComments": "Address: House No. 70, Sector 37, Faridabad",
     "panNo": "AAHPA8256H",
     "toAccount": "Vikrant"
-  },
-  {
-    "_id": "recI3LngqJqey9pa5",
-    "id": 50
   },
   {
     "_id": "recK5C7nqCYiGqJSy",
@@ -457,10 +447,6 @@
     "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "8921642916"
-  },
-  {
-    "_id": "recXquiXGDVdN5jyS",
-    "id": 51
   },
   {
     "_id": "reca4OQslqYHxdXpt",
