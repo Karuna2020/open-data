@@ -399,9 +399,33 @@
             "height": 3000
           }
         }
+      },
+      {
+        "id": "attsEgMsyY4NHUjrO",
+        "url": "https://dl.airtable.com/.attachments/c87fc3022a296d36b91c671a5c1175ff/e93f7b32/0.png",
+        "filename": "0.png",
+        "size": 879549,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e2c4ac43f39ec188989ed7322ce89137/8997b9cc",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/342325a6912ce871ec87d6b230809eea/913dbc9f",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e024a4fdcc6c3b5ffab7f6cc31eaaf2f/82842e5b",
+            "width": 3000,
+            "height": 3000
+          }
+        }
       }
     ],
-    "status": "Photos uploaded"
+    "status": "Graphics Ready"
   },
   {
     "_id": "reccvidfwY53VMZ1R",

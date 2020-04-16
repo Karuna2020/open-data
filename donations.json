@@ -658,6 +658,7 @@
     "mobile": "8810560137",
     "name": "Rohit Bhatia",
     "panNo": "CFQPB0570P",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "009123213385"
   },
@@ -782,19 +783,6 @@
     "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309"
-  },
-  {
-    "_id": "recuT5qKISd7cdGtL",
-    "amount": 3750,
-    "date": "2020-03-31",
-    "fromBank": "ICICI",
-    "id": 25,
-    "method": "IMPS",
-    "mobile": "8810560137",
-    "name": "Rohit Bhatia",
-    "status": "SMS sent",
-    "toAccount": "ILSEF",
-    "utrPaymentDetailsImpsNeftRtgsNo": "009123213385"
   },
   {
     "_id": "recw59Nd81c8XPgwH",

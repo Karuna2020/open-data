@@ -5639,9 +5639,94 @@
   {
     "_id": "rec9f5UWrUni3LsHI",
     "deliveredOn": "2020-04-13",
+    "distributionPictures": [
+      {
+        "id": "att8YpsWhQzf4UWJW",
+        "url": "https://dl.airtable.com/.attachments/ba22c17d9ab2fd5ae34f19601a35356c/585ddea3/PHOTO-2020-04-15-18-46-402.jpg",
+        "filename": "PHOTO-2020-04-15-18-46-40 2.jpg",
+        "size": 106383,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4dbf7868aa1045cb0c67e7f9dd86023e/fa35763c",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/77b445cf0f736944445e259f73fc4d63/81d737cc",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/00d25d0fd68aaa81093abced41bfbc91/2341b9dc",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att5SAoz3FCEPAvpr",
+        "url": "https://dl.airtable.com/.attachments/72db2dde8333cf37015034d376d32081/1f890037/PHOTO-2020-04-15-18-46-40.jpg",
+        "filename": "PHOTO-2020-04-15-18-46-40.jpg",
+        "size": 82114,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d962e4b7e17ce359902d5facaec4c4a1/ee0a485d",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/597f4a30865475b3825212e85964adac/6bd44a76",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/be63dbcc5efd6fc82d47ddd04e9a2f47/6ffeb912",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attulUpnRz1QidTNQ",
+        "url": "https://dl.airtable.com/.attachments/4790e935ccb942619bb116e14632ccdd/8f7ab6b1/PHOTO-2020-04-15-18-46-41.jpg",
+        "filename": "PHOTO-2020-04-15-18-46-41.jpg",
+        "size": 71249,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5ae8b5acef6d8a1ee0a91b07d0e8b111/f3072c58",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3304ba6b1b4f98332fa9e700177ec56d/f13fc869",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a0986f15b8fe5a32c41189993acd7134/2e4f0f1f",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "godown": "Gurgoan",
     "name": "Atul Ji Misc",
     "numberOfKitsNeeded": 3,
+    "status": "Received Distribution Pictures"
+  },
+  {
+    "_id": "recDniyNjl7nd1RGG",
+    "areaOfDelivery": "Vasant Kunj",
+    "godown": "Gurgoan",
+    "handler": [
+      "reck2YKHsRElZlcOg"
+    ],
+    "name": "Vasant Kinj Part 6",
+    "numberOfKitsNeeded": 132,
     "status": "Delivered"
   },
   {
@@ -8005,6 +8090,15 @@
     "status": "Delivered"
   },
   {
+    "_id": "recSgZiWqHyilze6N",
+    "areaOfDelivery": "Maidan Garhi",
+    "godown": "Gurgoan",
+    "name": "Maidan Garhi SHO",
+    "notes": "1000 Masks also requested",
+    "numberOfKitsNeeded": 10,
+    "status": "Request Approved"
+  },
+  {
     "_id": "recTSeBGsGpIiG3d4",
     "handler": [
       "recJbFfMkoYdLLhMv"
@@ -9630,7 +9724,7 @@
     "notes": "Request Raised by @Anurag Kashyap",
     "numberOfKitsNeeded": 105,
     "phoneNumber": "(991) 063-9695",
-    "status": "Have list"
+    "status": "Request Approved"
   },
   {
     "_id": "recvp2qdBiDe6I6ql",

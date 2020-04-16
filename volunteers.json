@@ -40,6 +40,16 @@
     "phone": "9555297989"
   },
   {
+    "_id": "recIMRKstne1JFneR",
+    "active": true,
+    "areaOfWorkAllocated": "Donor Lifecycle",
+    "email": "kataraanshi@gmail.com",
+    "id": "recIMRKstne1JFneR",
+    "location": "Bangalore",
+    "name": "Anshika Karara",
+    "phone": "(812) 359-0070"
+  },
+  {
     "_id": "reck2YKHsRElZlcOg",
     "active": true,
     "areaOfWorkAllocated": "Distribution",
@@ -49,7 +59,8 @@
       "recfB8SXWiefH3gtt",
       "recXh74oYBWcDm5eF",
       "rec7v93EYLbB5fImp",
-      "recYEriAEhiTFNyYa"
+      "recYEriAEhiTFNyYa",
+      "recDniyNjl7nd1RGG"
     ],
     "email": "anurag@shaktifoundationindia.com",
     "id": "reck2YKHsRElZlcOg",
@@ -154,9 +165,11 @@
     "_id": "recA5lQ6ft516tfcL",
     "active": true,
     "areaOfWorkAllocated": "Donor Lifecycle",
+    "email": "kulbhushan.k1387@gmail.com",
     "id": "recA5lQ6ft516tfcL",
     "location": "Noida",
-    "name": "Kulbhushan Kumar"
+    "name": "Kulbhushan Kumar",
+    "phone": "+91-9899425567"
   },
   {
     "_id": "recfrqQ5kwqYlZn1I",
