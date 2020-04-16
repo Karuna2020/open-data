@@ -5638,6 +5638,7 @@
   },
   {
     "_id": "rec9f5UWrUni3LsHI",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/distribution/rec9f5UWrUni3LsHI/distribution-pictures/att8YpsWhQzf4UWJW/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/rec9f5UWrUni3LsHI/distribution-pictures/att5SAoz3FCEPAvpr/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/rec9f5UWrUni3LsHI/distribution-pictures/attulUpnRz1QidTNQ/large.jpeg",
     "deliveredOn": "2020-04-13",
     "distributionPictures": [
       {
@@ -5725,7 +5726,8 @@
     "handler": [
       "reck2YKHsRElZlcOg"
     ],
-    "name": "Vasant Kinj Part 6",
+    "name": "Vasant Kunj Part 6",
+    "notes": "130 to VK/ 2 Bharath",
     "numberOfKitsNeeded": 132,
     "status": "Delivered"
   },
