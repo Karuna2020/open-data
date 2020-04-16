@@ -72,7 +72,7 @@ export const createInvoices = async () => {
 
   for await (const record of recordsToContact) {
     try {
-      await contactSingleDonor(base, record);
+      //await contactSingleDonor(base, record);
     } catch (error) {
       log("ERROR", error.toString() + "\n");
     }
