@@ -22,6 +22,7 @@
     "mobile": "7567860066",
     "name": "Shikha Chowdhary",
     "panNo": "Adhpc9716h",
+    "status": "Ready for generating Receipt",
     "toAccount": "Vikrant (Radha)",
     "utrPaymentDetailsImpsNeftRtgsNo": "1965674981"
   },
@@ -249,6 +250,7 @@
     "id": 39,
     "method": "IMPS",
     "name": "Not known",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "010120649221"
   },

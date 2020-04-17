@@ -11,6 +11,11 @@
     "status": "Publish to website"
   },
   {
+    "_id": "rec43VIOEq4Yz1znH",
+    "id": "rec43VIOEq4Yz1znH",
+    "status": "Text written and shared on social media"
+  },
+  {
     "_id": "rec7oPiCkKtOpmysi",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/rec7oPiCkKtOpmysi/pictures/attF7UtEOfkWUg7Th/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/rec7oPiCkKtOpmysi/pictures/attguJ61pTjvql4Nq/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/rec7oPiCkKtOpmysi/pictures/attxdNJuRnCWh5yZQ/large.png",
     "event": "104 kits to the waste pickers community in Vasant Kunj",
@@ -38,11 +43,16 @@
   {
     "_id": "recDPBge9PAW2Cfo5",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recDPBge9PAW2Cfo5/pictures/attAfwp2ku0JpNsV0/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recDPBge9PAW2Cfo5/pictures/attAbL88xqp9rrqC3/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recDPBge9PAW2Cfo5/pictures/attLKScvIgsg3NHPr/large.png",
+    "channels": [
+      "FB",
+      "Insta"
+    ],
     "event": "95 kits delivered to Vasant Kunj",
     "id": "recDPBge9PAW2Cfo5",
     "linkedDistribution": [
       "rec7v93EYLbB5fImp"
     ],
+    "notes": "Karuna 2020 update: \nPeople living in slums and villages face hunger, arising from loss of wage and lack of resources to stock food supplies. With the help of our committed volunteers, we were able to deliver 95 kits in Vasant Kunj, a residential area in South Delhi.\n\nTo learn more about how you can contribute to the cause, head over to the link in description. Follow @karuna2020_org for more updates.\n\n@gulmeher_delhi @shaktifoundationindia",
     "pictures": [
       {
         "id": "attAfwp2ku0JpNsV0",
@@ -209,13 +219,17 @@
   {
     "_id": "recTbhT7eGL85y1CP",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recTbhT7eGL85y1CP/pictures/attEd0UCMsHCTFACj/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recTbhT7eGL85y1CP/pictures/attrJ8tnT5qytXdBH/large.png",
+    "channels": [
+      "FB",
+      "Insta"
+    ],
     "date": "2020-04-12",
     "event": "65 kits in Maidan Garhi with the help of local SHO",
     "id": "recTbhT7eGL85y1CP",
     "linkedDistribution": [
       "rec6bJjf0DuIMhhmc"
     ],
-    "notes": "With the employement and housing crises accompanying this lockdown, \nAs the crisis around the COVID-19 pandemic grows, the livelihoods of a large number of families surviving on daily wages have been shaken up.",
+    "notes": "Karuna 2020 update: \nThe livelihoods of a large number of families surviving on daily wages have been shaken up, as the crisis around the COVID-19 pandemic grows. With the help of the Local SHO, we were able to deliver 65 kits in Maidan Garhi, a residential area in South Delhi.\n\nTo learn more about how you can contribute to the cause, head over to the link in description. Follow @karuna2020_org for more updates.\n\n@gulmeher_delhi @shaktifoundationindia",
     "pictures": [
       {
         "id": "attEd0UCMsHCTFACj",
@@ -369,8 +383,17 @@
     "status": "Publish to website"
   },
   {
+    "_id": "recZv3aPgvzAGImcj",
+    "id": "recZv3aPgvzAGImcj",
+    "status": "Text written and shared on social media"
+  },
+  {
     "_id": "reccKDrUIV0N1uUzo",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/reccKDrUIV0N1uUzo/pictures/attK8ZvKv1NzcmcC1/large.png",
+    "channels": [
+      "FB",
+      "Insta"
+    ],
     "event": "15 kits delivered by Atul Ji",
     "id": "reccKDrUIV0N1uUzo",
     "linkedDistribution": [
