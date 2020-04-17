@@ -56,12 +56,59 @@ Before you start with the following process, make sure you have the typeface _Hi
 
 After designing the posts, upload them to Airtable under "Social Media Outreach" and move the card to "Photos uploaded". Make sure the file names are "0.png", "1.png", "2.png" and so on, making sure "0.png" is the main cover photo. This is because we alphabetically sort the file names and use the first photo as the cover.
 
+#### Quick checklist
+
 1. Replace the lowest layer with the background image with the best-looking distribution photo
 2. Change the colors of the two overlay layers with a unique color, ideally one that hasn't been posted recently
-3. Increase or decrease the opacity of the color layers, making sure image details aren't lost
+3. Increase or decrease the opacity of the color layers, making sure image details aren't lost; make sure the lower color layer has a high opacity and the upper one has the lower opacity
 4. Update the title and subtitle text on the post
 5. Export a 1024px square PNG by selecting "File" → "Save to Web"
 6. Optionally, create another 1024px canvas and make a collage of other photos
+
+#### Tutorial
+
+Open the `post-template.psd` file in Photoshop, then begin by updating the text, images, and colors, following the "Quick checklist".
+
+Always make sure that the template's rulers are respected. There should be 100px in padding on each side, left and right:
+
+![](https://cdn.karuna2020.org/site-assets/tutorial-design/padding.png)
+
+When you update the main text, make sure it fills up the space between the rulers:
+
+![](https://cdn.karuna2020.org/site-assets/tutorial-design/fit-text.png)
+
+Even if you have longer text, decrease the font size and make sure it fits between the rulers:
+
+![](https://cdn.karuna2020.org/site-assets/tutorial-design/long-text.png)
+
+If you change the font size of the main text (which you probably will), make sure you change the line height as well (they should be equal). In the following example, they are both set to `131.53 pt`.
+
+![](https://cdn.karuna2020.org/site-assets/tutorial-design/line-height.png)
+
+Make sure the text is in the visual center of the available space. To do this, first select the "square" made by the rulers:
+
+![](https://cdn.karuna2020.org/site-assets/tutorial-design/text-container.png)
+
+Then, make sure you are on the text layer, and align it in the center middle of this box. To do this, select the Move tool (`V`) and click on the buttons for "center" and "middle" alignment in the top toolbar:
+
+![](https://cdn.karuna2020.org/site-assets/tutorial-design/center-middle.png)
+
+Now, we move on to the progress bar at the bottom. Update the text percentage by calculating it like so:
+
+1. Go to https://karuna2020.org and see the number of "people impacted" (e.g., 6,512)
+2. Divide this by 4, and you'll get the number of families impacted (e.g., 1,628)
+3. Then, add the distribution number (e.g., 10) to this, and update the total (e.g., 1,638)
+4. Divide this number by our goal (10,000), and write the percentage with 2 decimals (e.g., 16.38%)
+
+![](https://cdn.karuna2020.org/site-assets/tutorial-design/bar-text.png)
+
+Then, we update the width of the progress bar. To do this, multiply the width (1024px) with the percentage (e.g., 0.1638) to calculate the required progress width, removing the decimals (e.g., 167px). Then, enter the free transform tool by going to the progress rectange layer and pressing Cmd/Ctrl + T or going to Edit → Free Transform:
+
+![](https://cdn.karuna2020.org/site-assets/tutorial-design/select-bar.png)
+
+Then, make sure the "link" icon is unselected (so we do not maintain aspect ratio), and enter the new width next to `W` (e.g., 167px):
+
+![](https://cdn.karuna2020.org/site-assets/tutorial-design/bar-width.png)
 
 #### How to post
 
