@@ -11,11 +11,6 @@
     "status": "Publish to website"
   },
   {
-    "_id": "rec43VIOEq4Yz1znH",
-    "id": "rec43VIOEq4Yz1znH",
-    "status": "Text written and shared on social media"
-  },
-  {
     "_id": "rec7oPiCkKtOpmysi",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/rec7oPiCkKtOpmysi/pictures/attF7UtEOfkWUg7Th/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/rec7oPiCkKtOpmysi/pictures/attguJ61pTjvql4Nq/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/rec7oPiCkKtOpmysi/pictures/attxdNJuRnCWh5yZQ/large.png",
     "event": "104 kits to the waste pickers community in Vasant Kunj",
@@ -42,7 +37,6 @@
   },
   {
     "_id": "recDPBge9PAW2Cfo5",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recDPBge9PAW2Cfo5/pictures/attAfwp2ku0JpNsV0/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recDPBge9PAW2Cfo5/pictures/attAbL88xqp9rrqC3/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recDPBge9PAW2Cfo5/pictures/attLKScvIgsg3NHPr/large.png",
     "channels": [
       "FB",
       "Insta"
@@ -52,8 +46,32 @@
     "linkedDistribution": [
       "rec7v93EYLbB5fImp"
     ],
-    "notes": "Karuna 2020 update: \nPeople living in slums and villages face hunger, arising from loss of wage and lack of resources to stock food supplies. With the help of our committed volunteers, we were able to deliver 95 kits in Vasant Kunj, a residential area in South Delhi.\n\nTo learn more about how you can contribute to the cause, head over to the link in description. Follow @karuna2020_org for more updates.\n\n@gulmeher_delhi @shaktifoundationindia",
+    "notes": "People living in slums and villages face hunger, arising from loss of wage and lack of resources to stock food supplies. With the help of our committed volunteers, we were able to deliver 95 more kits to the slums near Vasant Kunj, South Delhi.",
     "pictures": [
+      {
+        "id": "attHYxHfdcvFfYHti",
+        "url": "https://dl.airtable.com/.attachments/ac08c7143c924c454f7c2717428506b4/21857acb/0vk.png",
+        "filename": "0vk.png",
+        "size": 768046,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c35bbdd7771ccf8d82f1b2f010d2482e/c68cad65",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/deed0c743a2141566457ee1c41bdb009/0e126fa4",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b1563fe1d25273869107b979e6cfb948/b5e5a9bc",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
       {
         "id": "attAfwp2ku0JpNsV0",
         "url": "https://dl.airtable.com/.attachments/bce03a822cf9084d761cc986d350c6da/f9cd1d43/1.png",
@@ -101,33 +119,9 @@
             "height": 3000
           }
         }
-      },
-      {
-        "id": "attLKScvIgsg3NHPr",
-        "url": "https://dl.airtable.com/.attachments/272c4476ce61385c273a039de4b96081/66a236ba/0.png",
-        "filename": "0.png",
-        "size": 924108,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5a66838d85f9a6f1ffb803bf683fb8da/85ceee7b",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0124d9ca5af0a03f81bdf2bc70a00291/cb3847eb",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d0bd1649a240f9fd1eb3abcd8677ac1a/3f919a44",
-            "width": 3000,
-            "height": 3000
-          }
-        }
       }
     ],
-    "status": "Graphics Ready"
+    "status": "Publish to website"
   },
   {
     "_id": "recHB05kohtvxAAKW",
@@ -186,6 +180,12 @@
     ]
   },
   {
+    "_id": "recOgowlYAp2LUCMl",
+    "event": "200 kits to Sewa Gram",
+    "id": "recOgowlYAp2LUCMl",
+    "status": "Photos uploaded"
+  },
+  {
     "_id": "recRmU41MAMjRyIF7",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recRmU41MAMjRyIF7/pictures/atte56hPM5omMTppw/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recRmU41MAMjRyIF7/pictures/attoQOfPnsXGkwbmb/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recRmU41MAMjRyIF7/pictures/att64NJABbJTlBUiN/large.png",
     "channels": [
@@ -218,7 +218,6 @@
   },
   {
     "_id": "recTbhT7eGL85y1CP",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recTbhT7eGL85y1CP/pictures/attEd0UCMsHCTFACj/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recTbhT7eGL85y1CP/pictures/attrJ8tnT5qytXdBH/large.png",
     "channels": [
       "FB",
       "Insta"
@@ -229,27 +228,27 @@
     "linkedDistribution": [
       "rec6bJjf0DuIMhhmc"
     ],
-    "notes": "Karuna 2020 update: \nThe livelihoods of a large number of families surviving on daily wages have been shaken up, as the crisis around the COVID-19 pandemic grows. With the help of the Local SHO, we were able to deliver 65 kits in Maidan Garhi, a residential area in South Delhi.\n\nTo learn more about how you can contribute to the cause, head over to the link in description. Follow @karuna2020_org for more updates.\n\n@gulmeher_delhi @shaktifoundationindia",
+    "notes": "The livelihoods of a large number of families surviving on daily wages have been shaken up, as the crisis around the COVID-19 pandemic grows. With the help of the Local SHO, we were able to deliver 65 kits in Maidan Garhi, a residential area in South Delhi.",
     "pictures": [
       {
-        "id": "attEd0UCMsHCTFACj",
-        "url": "https://dl.airtable.com/.attachments/aada40d85255e48ac41a59a0c82160ed/05e2a360/0.png",
+        "id": "attlsVKYTj3A0mivB",
+        "url": "https://dl.airtable.com/.attachments/a0905dad530b3e2ae2cc59b8f89fe6b0/5acf3c6b/0.png",
         "filename": "0.png",
-        "size": 1119503,
+        "size": 970779,
         "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0f28db5ec68dcad68928eef3c3abc72c/aed88cfa",
-            "width": 40,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/15b93bff0cbf066e58a30ff307d8e17f/b4d29954",
+            "width": 36,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3af10b41da23eb1f016028bdfeefda21/ec7d5d73",
-            "width": 562,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fbef81202bd687f73db0118aa7538149/8c159f73",
+            "width": 512,
             "height": 512
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/474bb40eebb7f2e84b0959845ae844c1/2dfa2709",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dec16e2ea292e206d94807baad236016/a7d8a2fe",
             "width": 3000,
             "height": 3000
           }
@@ -280,7 +279,7 @@
         }
       }
     ],
-    "status": "Graphics Ready"
+    "status": "Publish to website"
   },
   {
     "_id": "recWF9nyoV9PSHrXO",
@@ -381,11 +380,6 @@
     ],
     "notes": "Sonu, one of our volunteer's driver, has been working on the ground and helping his community during the pandemic. He approached us with a list of nine familities who need our help, and single-handedly arranged the logistics and on-ground support for the distribution.\n\nWe distributed 9 Karuna 2020 Dry Ration kits to his community in Basai Dara Pur, West Delhi.",
     "status": "Publish to website"
-  },
-  {
-    "_id": "recZv3aPgvzAGImcj",
-    "id": "recZv3aPgvzAGImcj",
-    "status": "Text written and shared on social media"
   },
   {
     "_id": "reccKDrUIV0N1uUzo",
