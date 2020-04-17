@@ -81,6 +81,10 @@ Even if you have longer text, decrease the font size and make sure it fits betwe
 
 ![](https://cdn.karuna2020.org/site-assets/tutorial-design/long-text.png)
 
+However, the maximum font size is `140 pt`. If the text is still short, align it to the left ruler:
+
+![](https://cdn.karuna2020.org/site-assets/tutorial-design/max-font-size.png)
+
 If you change the font size of the main text (which you probably will), make sure you change the line height as well (they should be equal). In the following example, they are both set to `131.53 pt`.
 
 ![](https://cdn.karuna2020.org/site-assets/tutorial-design/line-height.png)
