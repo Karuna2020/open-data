@@ -46,7 +46,7 @@
     "email": "kataraanshi@gmail.com",
     "id": "recIMRKstne1JFneR",
     "location": "Bangalore",
-    "name": "Anshika Karara",
+    "name": "Anshika Katara",
     "phone": "(812) 359-0070"
   },
   {
@@ -340,6 +340,16 @@
     "name": "Vatsal Suneet Mishta",
     "phone": "8618851301",
     "reference": "Anand"
+  },
+  {
+    "_id": "rec4ZFKkyu1QcUKTN",
+    "active": true,
+    "areaOfWorkAllocated": "Marketing and Communications",
+    "competenceBackground": "Marketing",
+    "email": "vidyavish@gmail.com",
+    "id": "rec4ZFKkyu1QcUKTN",
+    "location": "South Delhi",
+    "name": "Vidya Viswanathan"
   },
   {
     "_id": "rec0bpI6OkgZsykSB",
