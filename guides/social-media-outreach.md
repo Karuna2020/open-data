@@ -124,6 +124,13 @@ Then, make sure the "link" icon is unselected (so we do not maintain aspect rati
 6. Under "Post to Other Accounts", select "Facebook", making sure no other option is selected
 7. Click on "Post"
 
+### Well Wishers group on WhatsApp
+
+1. Wait for the website to update (or trigger an update) so new posts are available
+2. Upload the cover photo of the post to WhatsApp
+3. In the photo caption, add the first paragraph of the Instagram caption
+4. After a new line, add 🌏 (Earth Globe Asia-Australia Emoji) with the link to the post
+
 ## Social media posting system
 
 We have systems set in place that cross-post to different social media services. The source of truth for posts is the Instagram profile [@karuna2020_org](https://www.instagram.com/karuna2020_org/). Therefore, we only need to post on Instagram and other places like Twitter and Facebook with auto-populate using the following workflows:
