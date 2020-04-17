@@ -101,8 +101,8 @@ Now, we move on to the progress bar at the bottom. Update the text percentage by
 
 1. Go to https://karuna2020.org and see the number of "people impacted" (e.g., 6,512)
 2. Divide this by 4, and you'll get the number of families impacted (e.g., 1,628)
-3. Then, add the distribution number (e.g., 10) to this, and update the total (e.g., 1,638)
-4. Divide this number by our goal (10,000), and write the percentage with 2 decimals (e.g., 16.38%)
+3. This is the percentage: 16.25%
+4. Note that this is the most recent percentage, you might have to **subtract** from this in case of multiple posts
 
 ![](https://cdn.karuna2020.org/site-assets/tutorial-design/bar-text.png)
 
