@@ -5722,6 +5722,7 @@
   {
     "_id": "recDniyNjl7nd1RGG",
     "areaOfDelivery": "Vasant Kunj",
+    "deliveredOn": "2020-04-16",
     "godown": "Gurgoan",
     "handler": [
       "reck2YKHsRElZlcOg"
@@ -8096,8 +8097,8 @@
     "areaOfDelivery": "Maidan Garhi",
     "godown": "Gurgoan",
     "name": "Maidan Garhi SHO",
-    "notes": "1000 Masks also requested",
-    "numberOfKitsNeeded": 10,
+    "notes": "1000 Masks also requested\n\n10 for Vidya's workers",
+    "numberOfKitsNeeded": 20,
     "status": "Request Approved"
   },
   {
@@ -8838,6 +8839,80 @@
     "_id": "reccoDTXz8TiO2hY9",
     "areaOfDelivery": "Majlis Park",
     "deliveredOn": "2020-04-14",
+    "distributionPictures": [
+      {
+        "id": "attfXTacxvKmrVCBB",
+        "url": "https://dl.airtable.com/.attachments/cf5d35d46703e19bf322a044331cc30a/8373e1aa/8f46dd30-b465-4003-b9b6-850d6606419f.JPG",
+        "filename": "8f46dd30-b465-4003-b9b6-850d6606419f.JPG",
+        "size": 287578,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/76b7e0574b86194f8ea125eb39d8e461/9e53b680",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/432104e8257c71e4ef4f2ad415b0d7aa/34be814b",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/46118e3e6af1cc0f5c5cd8f88955d5cd/1f75d10c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attTN1baLRdoNOa4H",
+        "url": "https://dl.airtable.com/.attachments/523800765c0775dfe72fbdcb951cc20b/bf0ae46c/28bc6bcb-16a1-40a8-8104-a08e58434813.JPG",
+        "filename": "28bc6bcb-16a1-40a8-8104-a08e58434813.JPG",
+        "size": 195067,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/eb1f1bd167c363300f530806ef9871af/465254de",
+            "width": 43,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/41293d44770a08a60ecefd152315b170/eb58a80c",
+            "width": 605,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5941282ef2178ae9e0070f2b838d68bd/3499cfa9",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attskCBusHWtTTG2s",
+        "url": "https://dl.airtable.com/.attachments/28f15a91b296cce9f0251905fe999901/d6f91532/c86b4e50-ea80-439e-bbd9-6797edb81f83.JPG",
+        "filename": "c86b4e50-ea80-439e-bbd9-6797edb81f83.JPG",
+        "size": 180906,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d7f7938d9cdce1d7461f5a83a9a3e331/becf6ab8",
+            "width": 37,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2a067d4146c8bef3b4ef991410d75279/b7fd2c21",
+            "width": 526,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/418a422d088d3a07b5de638aa1b0ad75/b001d43c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "listAadharPictures": [
       {
         "id": "attM86z7YnxfzmU8L",
@@ -9011,7 +9086,7 @@
     "name": "Majlis Park - part 1 / DanaPani / Ref Anurag",
     "notes": "Have a list of names. Address is in the same vicinity. \nAll beneficiaries might not have a phone.",
     "numberOfKitsNeeded": 123,
-    "status": "Delivered"
+    "status": "Received Distribution Pictures"
   },
   {
     "_id": "reccooYD9qC6z9dHv",
@@ -9294,6 +9369,16 @@
       "recWF9nyoV9PSHrXO"
     ],
     "status": "Received Distribution Pictures"
+  },
+  {
+    "_id": "recd7odGb5NQ9wueq",
+    "areaOfDelivery": "Vasant Kunj",
+    "deliveredOn": "2020-04-18",
+    "godown": "Gurgoan",
+    "name": "Vasant Kunj Part 7",
+    "notes": "110 to VK/ 2 Bharath",
+    "numberOfKitsNeeded": 113,
+    "status": "Delivered"
   },
   {
     "_id": "recdDc22z8gLjTCqa",
