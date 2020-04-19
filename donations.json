@@ -205,6 +205,22 @@
     "toAccount": "In Kind"
   },
   {
+    "_id": "recA9ce6w7GSfqmIa",
+    "address": "B-3/12 dlf phase 1 gurgaon 122002 haryana",
+    "amount": 15000,
+    "date": "2020-03-31",
+    "email": "sharadbhalla15471@gmail.com",
+    "fromBank": "SCBL",
+    "howDidYouFindUs": "Personal Reference",
+    "id": 52,
+    "method": "NEFT",
+    "mobile": "9810336596",
+    "name": "Sharad Bhalla",
+    "panNo": "AAHPB4492J",
+    "toAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "LB3670200331G528"
+  },
+  {
     "_id": "recBvCkfUSZ0IVpD4",
     "address": "Goldman Sachs, Bellandur, Bengaluru, Karnataka - 560103",
     "amount": 1500,
