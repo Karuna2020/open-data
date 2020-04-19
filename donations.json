@@ -181,6 +181,7 @@
     "mobile": "9811725362",
     "name": "Unknown",
     "notesComments": "Created by [@Shivek Khurana][1]\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/men3BoFtHg9nshXRE/usryfue47ocG6L6Pl?recordId=rec8PkkBDhbvhTTLa&fieldId=flds8bco54IcRRSlP",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "10109659439"
   },
@@ -217,8 +218,13 @@
     "mobile": "9810336596",
     "name": "Sharad Bhalla",
     "panNo": "AAHPB4492J",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "LB3670200331G528"
+  },
+  {
+    "_id": "recB6TyB4zWHRTr5L",
+    "id": 54
   },
   {
     "_id": "recBvCkfUSZ0IVpD4",
@@ -291,6 +297,10 @@
     "notesComments": "Address: House No. 70, Sector 37, Faridabad",
     "panNo": "AAHPA8256H",
     "toAccount": "Vikrant"
+  },
+  {
+    "_id": "recHdEE27Yum3b1OP",
+    "id": 53
   },
   {
     "_id": "recK5C7nqCYiGqJSy",
@@ -662,7 +672,8 @@
     "id": 47,
     "method": "In kind",
     "name": "Rajiv Gandhi Foundation",
-    "notesComments": "Raw material for ~300 kits (Note: the amount of daal was less than what we prescribe)"
+    "notesComments": "Raw material for ~300 kits (Note: the amount of daal was less than what we prescribe)",
+    "status": "Receipt Not Needed For Now"
   },
   {
     "_id": "reclz125j6RHYOfoA",
@@ -826,7 +837,8 @@
     "id": 48,
     "method": "In kind",
     "name": "Azim Premji Foundation",
-    "notesComments": "Raw material for 1000 kits"
+    "notesComments": "Raw material for 1000 kits",
+    "status": "Receipt Not Needed For Now"
   },
   {
     "_id": "recw59Nd81c8XPgwH",

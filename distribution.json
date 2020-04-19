@@ -5722,6 +5722,7 @@
   {
     "_id": "recDniyNjl7nd1RGG",
     "areaOfDelivery": "Vasant Kunj",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/att4bTKe3tpXpu6dO/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attNjAj10X2mR6yPs/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attgrX7410M8nxdPX/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/att2jzBz3cyFPthaz/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attWwJYEOk3ynecAG/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/att8oNkSCso1d3reF/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attgRNIsE2pFN7Ohd/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attY8VY5zGicPPLyx/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attF4T1eTy8SquigU/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attrJkecWQJlUMHD0/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/atttsepnTuKolEWcF/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/att7dwnOYPEOgkz7X/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attG82bPqU99KaAkD/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attOqGHa7snjGHb7L/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attlA8T2mfRFpeaBP/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attMBSgbFsY0VKPG7/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attOVz3xpRM5wDKtp/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attcn7X2caFXUaklz/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attwoJlqvYcqCcHs7/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/atttsBSR1Mjc0jbOp/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attYflbgN127C5K58/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attjsGOKDnOgmucxg/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attqTb0PebmzkFyMo/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attsX1Yp4Iok5yCOh/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/att9OFGXnwRaE7zRW/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attuwZnNCTKf5IFMF/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attrdW91qp2v0fNHd/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attNgUol3QqJrTmDJ/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attFmhpqaiNmYA8qd/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attOPq27vZSPCCZDx/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attckbyfzNsWnXvko/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attoWQX4gwgDmepJu/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/att76PFIFxUBMI9Sd/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/attyOEf3954RfDvkI/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recDniyNjl7nd1RGG/distribution-pictures/atty5bmy2v5vvrXfw/large.jpeg",
     "deliveredOn": "2020-04-16",
     "distributionPictures": [
       {
@@ -8192,6 +8193,18 @@
     "status": "Received Distribution Pictures"
   },
   {
+    "_id": "recLKu3t1UTOe8e5R",
+    "areaOfDelivery": "U block, DLF phase 3, Gurugaon",
+    "handler": [
+      "recKiQ0VGnZMljPTf"
+    ],
+    "name": "Bisu Ali",
+    "notes": "Details already available. Details of 3 families will be entered.",
+    "numberOfKitsNeeded": 12,
+    "phoneNumber": "(844) 871-6911",
+    "status": "Request Approved"
+  },
+  {
     "_id": "recLsoT0ugKuhHqiZ",
     "areaOfDelivery": "Mayur Vihar Phase 1 - https://www.google.com/maps?q=28.60176658630371,77.28952026367188&z=17&hl=en",
     "handler": [
@@ -8954,7 +8967,7 @@
     "name": "Maidan Garhi SHO",
     "notes": "1000 Masks also requested\n\n10 for Vidya's workers",
     "numberOfKitsNeeded": 20,
-    "status": "Request Approved"
+    "status": "Delivered"
   },
   {
     "_id": "recTSeBGsGpIiG3d4",
@@ -9772,6 +9785,7 @@
         }
       }
     ],
+    "godown": "Gurgoan",
     "listAadharPictures": [
       {
         "id": "attM86z7YnxfzmU8L",
@@ -10232,6 +10246,7 @@
   {
     "_id": "recd7odGb5NQ9wueq",
     "areaOfDelivery": "Vasant Kunj",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/attsw7LhWzO3iy7SY/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/attfi1wQ5xoMKHr8a/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/atto8d8f9Ymd4FquV/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/attchzlxUqWAi0LHC/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/att45A5hIqxOckRyz/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/attZWjSzEx9tMaz0I/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/att1TCh7sa7hEV00G/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/attlTKJa19rppiCZ2/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/attMXNj5PSod7kf3M/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/attB2wdRavpkUgwRV/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/atto39yjt7311ouz5/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/attANYMmb7Z6xsAfP/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/attu6fC8BnFhaA807/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/atthU9moq6ex5mkSf/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recd7odGb5NQ9wueq/distribution-pictures/attfRX5kc2wOXWUo4/large.jpeg",
     "deliveredOn": "2020-04-18",
     "distributionPictures": [
       {
@@ -11035,7 +11050,7 @@
     "notes": "Request Raised by @Anurag Kashyap",
     "numberOfKitsNeeded": 105,
     "phoneNumber": "(991) 063-9695",
-    "status": "Request Approved"
+    "status": "Have list"
   },
   {
     "_id": "recvp2qdBiDe6I6ql",
@@ -11108,5 +11123,13 @@
       "recJOqo46DyZE0qt4"
     ],
     "status": "Received Distribution Pictures"
+  },
+  {
+    "_id": "recyqxUEh7mjzVZyZ",
+    "deliveredOn": "2020-04-19",
+    "godown": "Gurgoan",
+    "name": "Vasant Kunj Part 8",
+    "numberOfKitsNeeded": 100,
+    "status": "Delivered"
   }
 ]
