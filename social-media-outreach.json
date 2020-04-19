@@ -142,6 +142,14 @@
     "status": "Publish to website"
   },
   {
+    "_id": "recKNohV0k2OzEtTi",
+    "event": "132 kits in Vasant Kunj",
+    "id": "recKNohV0k2OzEtTi",
+    "linkedDistribution": [
+      "recDniyNjl7nd1RGG"
+    ]
+  },
+  {
     "_id": "recLM1XVOSbUCHDQd",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/attHTTFRHhSjUDk4Z/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/atteznSBmOqDU2a2F/large.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/attbrtfORi4j5NHrW/large.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/attsfpZW9mH9EaHux/large.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/attLDmEVFFngX0zSX/large.jpeg",
     "date": "2020-04-09",
@@ -491,6 +499,14 @@
     "status": "Publish to website"
   },
   {
+    "_id": "reckl2XNkxP6umvE7",
+    "event": "113 kits in Vasant Kunj",
+    "id": "reckl2XNkxP6umvE7",
+    "linkedDistribution": [
+      "recd7odGb5NQ9wueq"
+    ]
+  },
+  {
     "_id": "recmCJHcjGOrtw56u",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recmCJHcjGOrtw56u/pictures/attkroo56C7U2DGKJ/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recmCJHcjGOrtw56u/pictures/attwy1B1nCVtS8qa0/large.png",
     "date": "2020-04-11",
@@ -588,6 +604,14 @@
     "event": "Materials Received At Ghazipur",
     "id": "recwTEmOno3APyMYG",
     "status": "Not publishing"
+  },
+  {
+    "_id": "recy2ZPzV93IoguXP",
+    "event": "120 Kits in Vasant Kunj",
+    "id": "recy2ZPzV93IoguXP",
+    "linkedDistribution": [
+      "recYEriAEhiTFNyYa"
+    ]
   },
   {
     "_id": "reczbnqdLbQcq8v4Q",
