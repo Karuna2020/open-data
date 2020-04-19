@@ -1,7 +1,7 @@
 name: Karuna 2020 Open Data
 on:
   schedule:
-    - cron: "0 0,5,10,15 * * *"
+    - cron: "0 0,4,10,15 * * *"
   repository_dispatch:
     types: [update_sheets]
 jobs:
