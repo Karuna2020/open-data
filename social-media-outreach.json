@@ -304,7 +304,7 @@
     "linkedDistribution": [
       "reccooYD9qC6z9dHv"
     ],
-    "notes": "<airtable:mention id=\"meno3X4F3tw6tGBxi\">@Divyarth Bansal</airtable:mention> Handled this, ask him for the story",
+    "notes": "One of our volunteers personally identified a group of beneficiaries who lost access to ration as a repercussion of the pandemic. The kits delivered to them brought relief.",
     "pictures": [
       {
         "id": "attc8HQK6RZlwDX3T",
@@ -379,7 +379,7 @@
         }
       }
     ],
-    "status": "Graphics Ready"
+    "status": "Publish to website"
   },
   {
     "_id": "recWwKFHlfRVxYBNV",
@@ -404,6 +404,7 @@
     "linkedDistribution": [
       "recOeXnn08M67K8Os"
     ],
+    "notes": "The livelihoods of a large number of families surviving on daily wages have been shaken up, as the crisis around the COVID-19 pandemic grows. One of our volunteers identified a group of vulnerable beneficiaries and delivered 15 kits to them.",
     "pictures": [
       {
         "id": "attK8ZvKv1NzcmcC1",
@@ -428,33 +429,9 @@
             "height": 3000
           }
         }
-      },
-      {
-        "id": "attsEgMsyY4NHUjrO",
-        "url": "https://dl.airtable.com/.attachments/c87fc3022a296d36b91c671a5c1175ff/e93f7b32/0.png",
-        "filename": "0.png",
-        "size": 879549,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e2c4ac43f39ec188989ed7322ce89137/8997b9cc",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/342325a6912ce871ec87d6b230809eea/913dbc9f",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e024a4fdcc6c3b5ffab7f6cc31eaaf2f/82842e5b",
-            "width": 3000,
-            "height": 3000
-          }
-        }
       }
     ],
-    "status": "Graphics Ready"
+    "status": "Publish to website"
   },
   {
     "_id": "reccvidfwY53VMZ1R",
