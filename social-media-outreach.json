@@ -399,7 +399,7 @@
       "FB",
       "Insta"
     ],
-    "event": "15 kits delivered by Atul Ji",
+    "event": "15 kits delivered at DLF Phase 3",
     "id": "reccKDrUIV0N1uUzo",
     "linkedDistribution": [
       "recOeXnn08M67K8Os"
@@ -425,6 +425,30 @@
           },
           "full": {
             "url": "https://dl.airtable.com/.attachmentThumbnails/980c138d938ef9517d50f623dc3d5a19/e2b01aab",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attejEWoMtKKAfqrT",
+        "url": "https://dl.airtable.com/.attachments/d7bd8635222cb7417ded66db361e4747/2b11f307/0.png",
+        "filename": "0.png",
+        "size": 874173,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2be9f92cfcb9622b6002c5de9d1dc1a0/f46825b3",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2af441de7fedd2f6f40574d5a8b337d8/c17ba1b0",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2cddc9f4a7f6829e7748b745c6e7c713/16fdf51b",
             "width": 3000,
             "height": 3000
           }
