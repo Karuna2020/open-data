@@ -7635,6 +7635,7 @@
   {
     "_id": "recLKu3t1UTOe8e5R",
     "areaOfDelivery": "U block, DLF phase 3, Gurugaon",
+    "godown": "Gurgoan",
     "handler": [
       "recKiQ0VGnZMljPTf"
     ],
@@ -9342,6 +9343,7 @@
   },
   {
     "_id": "recyqxUEh7mjzVZyZ",
+    "areaOfDelivery": "Vasant Kunj",
     "deliveredOn": "2020-04-19",
     "godown": "Gurgoan",
     "name": "Vasant Kunj Part 8",

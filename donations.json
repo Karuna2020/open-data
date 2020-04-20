@@ -47,7 +47,7 @@
     "method": "NEFT",
     "name": "Platinum Hospitality",
     "notesComments": "Atul Celly",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "KKBKH20097634967",
     "emailMd5": "0f85dc1700790cbe4fa5c6dc0948936c"
@@ -132,7 +132,7 @@
     "id": 52,
     "method": "NEFT",
     "name": "Sharad Bhalla",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "LB3670200331G528",
     "emailMd5": "82c53936a36d57bcc50902a27bb7b88f"
@@ -385,7 +385,7 @@
     "id": 38,
     "method": "UPI",
     "name": "Sukriti Kapoor",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010022069012",
     "emailMd5": "f5e04db260166aba897b1c7852306529"
@@ -425,7 +425,7 @@
     "id": 45,
     "method": "IMPS",
     "name": "Rohit Bhatia",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "009123213385",
     "emailMd5": "00acb59516356c1d1237fcc799fded2d"
