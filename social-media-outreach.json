@@ -203,9 +203,37 @@
   },
   {
     "_id": "recKk8cgJ3E3NCQZd",
-    "event": "Masks manufacturing locations",
+    "date": "2020-04-21",
+    "event": "Masks being manufactured in 5 locations",
     "id": "recKk8cgJ3E3NCQZd",
-    "notes": "Map post"
+    "notes": "Karuna 2020 now has five mask manufacturing locations, where we're making thousands of free masks to help keep the police, medical workers, essential service providers, and their families safe. Every day, our volunteers work in our facilities in New Delhi, Dehradun, Tehri, Bahadurgarh, and Bharatpur to make masks so we help those on the frontlines. Help us manufacture more masks and provide dry ration by donating at https://karuna2020.org/donate.",
+    "pictures": [
+      {
+        "id": "attmjfDJ4K2e35z7W",
+        "url": "https://dl.airtable.com/.attachments/725e36e489284ecc0a51981c1168ef4d/85ecbff3/maska.png",
+        "filename": "0.png",
+        "size": 1298307,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/96ef9e9d8ad1d943986bf3ecee115c58/578df9f4",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/348be973aac89deb0db7a0cc31dfcaf1/b22f3e5e",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/529af0568cbe6e157ce49602523a7e8a/1c147ea9",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Publish to website"
   },
   {
     "_id": "recLM1XVOSbUCHDQd",
@@ -231,9 +259,9 @@
   {
     "_id": "recNSyHSMdnSqRpy4",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recNSyHSMdnSqRpy4/pictures/attdZJVSsBpeUz3j5/large.png",
-    "event": "Mask Distribution in Uttrakhand",
+    "event": "Mask distribution in Tehri, Uttrakhand",
     "id": "recNSyHSMdnSqRpy4",
-    "notes": "- Mask distribution to police station anjanisain\n- At District Tehri, Utrakhand as part of Karuna 2020\n...\n- Free masks distributed for police personnel and their families",
+    "notes": "During the lockdown, the police, medical workers, and essential service providers are on the frontlines to make sure we stay safe. With your support, we distributed masks to the Anjanisain Police Station, District Tehri, Uttarakhand, to help keep police personnel and their families safe.",
     "pictures": [
       {
         "id": "attdZJVSsBpeUz3j5",
