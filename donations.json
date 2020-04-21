@@ -181,10 +181,6 @@
     "toAccount": "Vikrant"
   },
   {
-    "_id": "recJrO1SwpmMiB7qX",
-    "id": 67
-  },
-  {
     "_id": "recK5C7nqCYiGqJSy",
     "amount": 1000,
     "date": "2020-03-31",
@@ -208,10 +204,6 @@
     "notesComments": "Dont Know who he is",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "LB3670200331G528"
-  },
-  {
-    "_id": "recLTbEXMePV3cDAa",
-    "id": 66
   },
   {
     "_id": "recLaeiTnSUw0yWYq",

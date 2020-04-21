@@ -1,7 +1,7 @@
 [
   {
     "_id": "rec29rtJfHt67I2XA",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/rec29rtJfHt67I2XA/pictures/attJ6KP7aZycgWNEf/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/rec29rtJfHt67I2XA/pictures/attzCBXAt54uMDJcC/large.png",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/rec29rtJfHt67I2XA/pictures/attzCBXAt54uMDJcC/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/rec29rtJfHt67I2XA/pictures/attJ6KP7aZycgWNEf/large.png",
     "event": "133 kits delivered in Vasant Kunj",
     "id": "rec29rtJfHt67I2XA",
     "linkedDistribution": [
@@ -26,7 +26,7 @@
   },
   {
     "_id": "recAoKzxXkK8T9NY8",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recAoKzxXkK8T9NY8/pictures/attXpMiabXQzchZ0Z/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recAoKzxXkK8T9NY8/pictures/att53wm3DHlSoNmgC/large.png",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recAoKzxXkK8T9NY8/pictures/att53wm3DHlSoNmgC/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recAoKzxXkK8T9NY8/pictures/attXpMiabXQzchZ0Z/large.png",
     "event": "9 kits delivered in DLF Phase 3",
     "id": "recAoKzxXkK8T9NY8",
     "linkedDistribution": [
@@ -132,7 +132,7 @@
   },
   {
     "_id": "recJOqo46DyZE0qt4",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recJOqo46DyZE0qt4/pictures/attABfKTR24UIkMYQ/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recJOqo46DyZE0qt4/pictures/attBDtq0JnzpygAzU/large.png",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recJOqo46DyZE0qt4/pictures/attBDtq0JnzpygAzU/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recJOqo46DyZE0qt4/pictures/attABfKTR24UIkMYQ/large.png",
     "event": "2 kits delivered to the elderly in DLF Phase 3",
     "id": "recJOqo46DyZE0qt4",
     "linkedDistribution": [
@@ -202,6 +202,12 @@
     "status": "Graphics Ready"
   },
   {
+    "_id": "recKk8cgJ3E3NCQZd",
+    "event": "Masks manufacturing locations",
+    "id": "recKk8cgJ3E3NCQZd",
+    "notes": "Map post"
+  },
+  {
     "_id": "recLM1XVOSbUCHDQd",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/attHTTFRHhSjUDk4Z/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/atteznSBmOqDU2a2F/large.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/attbrtfORi4j5NHrW/large.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/attsfpZW9mH9EaHux/large.jpeg, https://open-data.karuna2020.org/attachments/social-media-outreach/recLM1XVOSbUCHDQd/pictures/attLDmEVFFngX0zSX/large.jpeg",
     "date": "2020-04-09",
@@ -227,7 +233,7 @@
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recNSyHSMdnSqRpy4/pictures/attdZJVSsBpeUz3j5/large.png",
     "event": "Mask Distribution in Uttrakhand",
     "id": "recNSyHSMdnSqRpy4",
-    "notes": "Mask distribution to police station anjanisain\nAt District Tehri, Utrakhand as part of Karuna 2020",
+    "notes": "- Mask distribution to police station anjanisain\n- At District Tehri, Utrakhand as part of Karuna 2020\n...\n- Free masks distributed for police personnel and their families",
     "pictures": [
       {
         "id": "attdZJVSsBpeUz3j5",
@@ -468,7 +474,7 @@
   },
   {
     "_id": "recWwKFHlfRVxYBNV",
-    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attPnsYqDRjewhpV9/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attf9dp4YmjPyPq23/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attP1ef1dOhXXSIQT/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attWM7JwTq8WbwUYC/large.png",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attP1ef1dOhXXSIQT/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attPnsYqDRjewhpV9/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attf9dp4YmjPyPq23/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attWM7JwTq8WbwUYC/large.png",
     "event": "9 kits delivered to Basai Dara Pur",
     "id": "recWwKFHlfRVxYBNV",
     "linkedDistribution": [
@@ -492,30 +498,6 @@
     "notes": "The livelihoods of a large number of families surviving on daily wages have been shaken up, as the crisis around the COVID-19 pandemic grows. One of our volunteers identified a group of vulnerable beneficiaries and delivered 15 kits to them.",
     "pictures": [
       {
-        "id": "attK8ZvKv1NzcmcC1",
-        "url": "https://dl.airtable.com/.attachments/cb876c81b1bcb27703a05309da19fcef/9c0a2ada/1.png",
-        "filename": "1.png",
-        "size": 1476567,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/c0d4884d16871ef61142f86f2c54a4d2/dde9e29a",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a2f231d1ca0dcea2aa05a8c2a2a5f829/e28d364d",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/980c138d938ef9517d50f623dc3d5a19/e2b01aab",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
         "id": "attejEWoMtKKAfqrT",
         "url": "https://dl.airtable.com/.attachments/d7bd8635222cb7417ded66db361e4747/2b11f307/0.png",
         "filename": "0.png",
@@ -534,6 +516,30 @@
           },
           "full": {
             "url": "https://dl.airtable.com/.attachmentThumbnails/2cddc9f4a7f6829e7748b745c6e7c713/16fdf51b",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attK8ZvKv1NzcmcC1",
+        "url": "https://dl.airtable.com/.attachments/cb876c81b1bcb27703a05309da19fcef/9c0a2ada/1.png",
+        "filename": "1.png",
+        "size": 1476567,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c0d4884d16871ef61142f86f2c54a4d2/dde9e29a",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a2f231d1ca0dcea2aa05a8c2a2a5f829/e28d364d",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/980c138d938ef9517d50f623dc3d5a19/e2b01aab",
             "width": 3000,
             "height": 3000
           }
@@ -660,30 +666,6 @@
     "notes": "We have committed to deliver 1000 dry ration kits in the Vasant Kunj area. We successfully delivered 237 dry ration kits. The third phase of our commitment reached and helped another 100 families affected by the pandemic.",
     "pictures": [
       {
-        "id": "attkroo56C7U2DGKJ",
-        "url": "https://dl.airtable.com/.attachments/78bf18cf7e986fd1f8d932ed157bb596/31cc84a7/1.png",
-        "filename": "1.png",
-        "size": 1297645,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/26a6b2a5eae4de16350aee9decee3f81/8aa732d9",
-            "width": 43,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ed9e53788197554758cd32fb319f8e0b/815a2001",
-            "width": 607,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/fff57c2ccbc8201ac67aeeba132b7294/7728d79e",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
         "id": "attwy1B1nCVtS8qa0",
         "url": "https://dl.airtable.com/.attachments/bf370abc06584ebbdd69dbf735319d36/ec6658de/0.png",
         "filename": "0.png",
@@ -702,6 +684,30 @@
           },
           "full": {
             "url": "https://dl.airtable.com/.attachmentThumbnails/e15298fbeb44ffe00b11f01f3f1b441c/49276047",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attkroo56C7U2DGKJ",
+        "url": "https://dl.airtable.com/.attachments/78bf18cf7e986fd1f8d932ed157bb596/31cc84a7/1.png",
+        "filename": "1.png",
+        "size": 1297645,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/26a6b2a5eae4de16350aee9decee3f81/8aa732d9",
+            "width": 43,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ed9e53788197554758cd32fb319f8e0b/815a2001",
+            "width": 607,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fff57c2ccbc8201ac67aeeba132b7294/7728d79e",
             "width": 3000,
             "height": 3000
           }
