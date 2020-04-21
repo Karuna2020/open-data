@@ -203,6 +203,7 @@
   },
   {
     "_id": "recKk8cgJ3E3NCQZd",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recKk8cgJ3E3NCQZd/pictures/attmjfDJ4K2e35z7W/large.png",
     "date": "2020-04-21",
     "event": "Masks being manufactured in 5 locations",
     "id": "recKk8cgJ3E3NCQZd",
@@ -259,9 +260,9 @@
   {
     "_id": "recNSyHSMdnSqRpy4",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recNSyHSMdnSqRpy4/pictures/attdZJVSsBpeUz3j5/large.png",
-    "event": "Mask distribution in Tehri, Uttrakhand",
+    "event": "1,000 masks distributed to police in Tehri",
     "id": "recNSyHSMdnSqRpy4",
-    "notes": "During the lockdown, the police, medical workers, and essential service providers are on the frontlines to make sure we stay safe. With your support, we distributed masks to the Anjanisain Police Station, District Tehri, Uttarakhand, to help keep police personnel and their families safe.",
+    "notes": "During the lockdown, the police, medical workers, and essential service providers are on the frontlines to make sure we stay safe. With your support, we distributed 1,000 masks to the Anjanisain Police Station, District Tehri, Uttarakhand, to help keep police personnel and their families safe.",
     "pictures": [
       {
         "id": "attdZJVSsBpeUz3j5",
