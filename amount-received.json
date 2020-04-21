@@ -573,8 +573,12 @@
     "amount": "₹17,472"
   },
   {
+    "fromBank": "Price per kit"
+  },
+  {
     "contributorName": "Paid by Atul on behalf of Vikrant",
-    "amount": "₹212,908"
+    "amount": "₹212,908",
+    "fromBank": "682.41845"
   },
   {
     "sNo": "27/04/2020",
