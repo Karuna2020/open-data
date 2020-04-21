@@ -148,7 +148,57 @@
     "linkedDistribution": [
       "recDniyNjl7nd1RGG"
     ],
-    "status": "Photos uploaded"
+    "pictures": [
+      {
+        "id": "attnHk2KJGhpDnuiy",
+        "url": "https://dl.airtable.com/.attachments/4499d2c4492ab300955932c362bb1ab1/7d4b0b0a/0.png",
+        "filename": "0.png",
+        "size": 895180,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/04789525f54b40346c88027a98d85d53/1d6469af",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b1c886913834d7a7566f2253756ddd18/9d5aa039",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/158f441dce025e669261603c4857a9d6/bb4eadb5",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attstOJNFUbH2R5MA",
+        "url": "https://dl.airtable.com/.attachments/01a35ddf9a0d689dcb09d9218676707d/d40f7eba/1.png",
+        "filename": "1.png",
+        "size": 1254241,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/63d52d6ade08bdbe85b7e086de8b472d/be8bcf5c",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/18f6414feaa5aea81b64b908518a85cc/e4e7ab48",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b7a0cc89f5ab056eb76c3fbefab333a8/ba94b0c0",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
   },
   {
     "_id": "recLM1XVOSbUCHDQd",
@@ -170,6 +220,39 @@
     ],
     "id": "recMldiWLslcoAWQv",
     "notes": "Estimate costs/ impact and learning from the first sprint"
+  },
+  {
+    "_id": "recNSyHSMdnSqRpy4",
+    "event": "Mask Distribution in Uttrakhand",
+    "id": "recNSyHSMdnSqRpy4",
+    "notes": "Mask distribution to police station anjanisain\nAt District Tehri, Utrakhand as part of Karuna 2020",
+    "pictures": [
+      {
+        "id": "attdZJVSsBpeUz3j5",
+        "url": "https://dl.airtable.com/.attachments/2b4d983801ac3027a793c538c92221e2/4b9355f7/0.png",
+        "filename": "0.png",
+        "size": 1072113,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a0fd943dd25c9b797eed7250a4bb54b3/4ae23e7a",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c9f16514578e0c106354b9e0efbd97d8/904c4d51",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/10a080290288e9d11d9590ac3a2fb1fe/ff8f4ee1",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
   },
   {
     "_id": "recOGr4pWVWy0xYEW",
@@ -507,7 +590,57 @@
     "linkedDistribution": [
       "recd7odGb5NQ9wueq"
     ],
-    "status": "Photos uploaded"
+    "pictures": [
+      {
+        "id": "attEAO5fTxT63zasB",
+        "url": "https://dl.airtable.com/.attachments/3e9744aab208b47ec7b05fe71eda83c9/dd25a4ff/0.png",
+        "filename": "0.png",
+        "size": 1024454,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5288820dbdefa49268990f20a7e07d4b/be1cd2ad",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f559070d33159839b80f222be76424e2/0e4ae2da",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5546b9f7dafb82682565e88c62bcb3ec/98c57391",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attySFJ4Q543WK4Hb",
+        "url": "https://dl.airtable.com/.attachments/4421fea8f842577f1db8034c529b9d70/77d05cba/1.png",
+        "filename": "1.png",
+        "size": 1413608,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/528cf3d2f79e100a63bdbd6431e2e0ef/083e2fe0",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2cb51f05e8f08c8ba774c28dcb2dd415/73c43b93",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3e6490ef9b5eec04fa6b773c00e1c313/d3ed9f20",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
   },
   {
     "_id": "recmCJHcjGOrtw56u",
@@ -615,7 +748,57 @@
     "linkedDistribution": [
       "recYEriAEhiTFNyYa"
     ],
-    "status": "Photos uploaded"
+    "pictures": [
+      {
+        "id": "attbrAdYO2IWUHLsK",
+        "url": "https://dl.airtable.com/.attachments/d8de5eb85046db91aa82fbd632952653/60a83a16/0.png",
+        "filename": "0.png",
+        "size": 1041570,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/22052429f74dfc64a717c3d83059e984/787c328a",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0e4752cafadaaf9e1411eabb53ac69ff/dafaa499",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8a177d5cae624c5feab951fd5a3e5d65/f6cacbf9",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attRt6os02bFIFTu7",
+        "url": "https://dl.airtable.com/.attachments/8e5f9c357a25228cadf1fac0861da305/343fdc3b/1.png",
+        "filename": "1.png",
+        "size": 1235517,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/de1b4faa55cbe6b48f01347990558441/94410a88",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4f2abdd1eaa03b22f8810e4fd732cc89/43f640cf",
+            "width": 512,
+            "height": 513
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cb0817b4a269dea614d2f8ee36628c68/c9c0798d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Graphics Ready"
   },
   {
     "_id": "reczbnqdLbQcq8v4Q",

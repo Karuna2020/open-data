@@ -18,7 +18,7 @@
     "id": 40,
     "method": "NEFT",
     "name": "Shikha Chowdhary",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "Vikrant (Radha)",
     "utrPaymentDetailsImpsNeftRtgsNo": "1965674981",
     "emailMd5": "95d32e4d7eed17bd6259312b60921684"
@@ -181,6 +181,10 @@
     "toAccount": "Vikrant"
   },
   {
+    "_id": "recJrO1SwpmMiB7qX",
+    "id": 67
+  },
+  {
     "_id": "recK5C7nqCYiGqJSy",
     "amount": 1000,
     "date": "2020-03-31",
@@ -204,6 +208,10 @@
     "notesComments": "Dont Know who he is",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "LB3670200331G528"
+  },
+  {
+    "_id": "recLTbEXMePV3cDAa",
+    "id": 66
   },
   {
     "_id": "recLaeiTnSUw0yWYq",
@@ -266,7 +274,7 @@
     "id": 19,
     "method": "IMPS",
     "name": "Not known",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "9315348939"
   },
@@ -287,6 +295,17 @@
     "name": "Mithalesh",
     "status": "Receipt Not Needed For Now",
     "toAccount": "Vikrant"
+  },
+  {
+    "_id": "recWGHwvAWnwOdeKp",
+    "amount": 5000,
+    "date": "2020-04-13",
+    "id": 65,
+    "method": "NEFT",
+    "name": "Ayush Agarwal",
+    "toAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "000136932048",
+    "emailMd5": "dc8dd18ec8475ecf7eaea9e09c4e67ed"
   },
   {
     "_id": "recWgwcVJTIGWKBhA",
@@ -374,7 +393,8 @@
     "id": 49,
     "method": "In kind",
     "name": "Anonymous",
-    "notesComments": "Pulses for ~600 kits"
+    "notesComments": "Pulses for ~600 kits",
+    "status": "Receipt Not Needed For Now"
   },
   {
     "_id": "recfZN2q0G8OA6bbl",
@@ -520,9 +540,10 @@
     "method": "UPI",
     "name": "Shubham",
     "notesComments": "Address needed",
-    "status": "Need to contact",
+    "status": "Ready for generating Receipt",
     "toAccount": "Shakti Foundation",
-    "utrPaymentDetailsImpsNeftRtgsNo": "010012171783"
+    "utrPaymentDetailsImpsNeftRtgsNo": "010012171783",
+    "emailMd5": "766c265a368343802ecd63d791c13532"
   },
   {
     "_id": "recwdgcjvivjz5Qby",
@@ -555,6 +576,7 @@
     "id": 55,
     "method": "UPI",
     "name": "Sukriti Kapoor",
+    "status": "Ready for generating Receipt",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "011022439898",
     "emailMd5": "f5e04db260166aba897b1c7852306529"
