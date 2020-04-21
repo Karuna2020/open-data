@@ -97,22 +97,9 @@ Then, make sure you are on the text layer, and align it in the center middle of 
 
 ![](https://cdn.karuna2020.org/site-assets/tutorial-design/center-middle.png)
 
-Now, we move on to the progress bar at the bottom. Update the text percentage by calculating it like so:
+When publishing the cover on Airtable, reorder to make sure the cover photo is the first image:
 
-1. Go to https://karuna2020.org and see the number of "people impacted" (e.g., 6,512)
-2. Divide this by 4, and you'll get the number of families impacted (e.g., 1,628)
-3. This is the percentage: 16.25%
-4. Note that this is the most recent percentage, you might have to **subtract** from this in case of multiple posts
-
-![](https://cdn.karuna2020.org/site-assets/tutorial-design/bar-text.png)
-
-Then, we update the width of the progress bar. To do this, multiply the width (1024px) with the percentage (e.g., 0.1638) to calculate the required progress width, removing the decimals (e.g., 167px). Then, enter the free transform tool by going to the progress rectange layer and pressing Cmd/Ctrl + T or going to Edit → Free Transform:
-
-![](https://cdn.karuna2020.org/site-assets/tutorial-design/select-bar.png)
-
-Then, make sure the "link" icon is unselected (so we do not maintain aspect ratio), and enter the new width next to `W` (e.g., 167px):
-
-![](https://cdn.karuna2020.org/site-assets/tutorial-design/bar-width.png)
+![](https://cdn.karuna2020.org/site-assets/tutorial-design/reorder.gif)
 
 #### How to post
 
