@@ -540,7 +540,7 @@
     "method": "UPI",
     "name": "Shubham",
     "notesComments": "Address needed",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010012171783",
     "emailMd5": "766c265a368343802ecd63d791c13532"
@@ -576,7 +576,7 @@
     "id": 55,
     "method": "UPI",
     "name": "Sukriti Kapoor",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "011022439898",
     "emailMd5": "f5e04db260166aba897b1c7852306529"
