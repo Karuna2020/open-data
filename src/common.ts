@@ -111,3 +111,9 @@ export const hideEmail = (email: string) => {
   const domain = email.split("@")[1];
   return `${name.substr(0, 2)}*****@${domain}`;
 };
+
+export const safeNumber = (number: string | number) => {
+  if (typeof number === "number" && !isNaN(number)) return number;
+  const num = parseInt(String(number).replace(/\D/g, ""));
+  return isNaN(num) ? 0 : num;
+};
