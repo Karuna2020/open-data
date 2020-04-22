@@ -26,7 +26,8 @@
   },
   {
     "_id": "recAJqWLREzLUAEco",
-    "event": "1000 kits in Vasant Kunj",
+    "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recAJqWLREzLUAEco/pictures/attsQZM4ICu9K9WXJ/large.png",
+    "event": "1,000 total kits in Vasant Kunj",
     "handlers": [
       "recjDkPJ6t8RVHZXz"
     ],
@@ -325,7 +326,7 @@
         }
       }
     ],
-    "status": "Graphics Ready"
+    "status": "Publish to website"
   },
   {
     "_id": "recOGr4pWVWy0xYEW",
