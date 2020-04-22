@@ -60,7 +60,7 @@
     "method": "IMPS",
     "name": "Not known",
     "notesComments": "Dont Know who he is",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "9214567360"
   },
