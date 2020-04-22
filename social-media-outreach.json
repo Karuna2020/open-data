@@ -25,6 +25,42 @@
     "status": "Publish to website"
   },
   {
+    "_id": "recAJqWLREzLUAEco",
+    "event": "1000 kits in Vasant Kunj",
+    "handlers": [
+      "recjDkPJ6t8RVHZXz"
+    ],
+    "id": "recAJqWLREzLUAEco",
+    "notes": "It is hard to imagine our lives without waste pickers. While their contribution to our society is essentially indespensable. Yet, in this tough time amidst the pandemic, they're one of the worst affected groups. \n\nKaruna 2020 committed to deliver 1000 kits to the waste picker community in Vasant Kunj that could sustain almost 4000 people for a month. \n\nThe lights are dim but they dare to shine. We dare to stand by our brothers in these dark hours and dare to hope. \n\nTogether, we shall overcome.",
+    "pictures": [
+      {
+        "id": "attsQZM4ICu9K9WXJ",
+        "url": "https://dl.airtable.com/.attachments/8fe3f0866d0f4734796514ab94706618/9ba6ec00/VK.png",
+        "filename": "VK.png",
+        "size": 133581,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2bbbb9c067a744f7de704de4059d08ef/6c8a7f6d",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1a995697b993ffbc13e015a214a06a4c/35ff9798",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/36db43841c19657770675aa473009c87/728e118e",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Text written and shared on social media"
+  },
+  {
     "_id": "recAoKzxXkK8T9NY8",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recAoKzxXkK8T9NY8/pictures/att53wm3DHlSoNmgC/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recAoKzxXkK8T9NY8/pictures/attXpMiabXQzchZ0Z/large.png",
     "event": "9 kits delivered in DLF Phase 3",
@@ -308,12 +344,6 @@
         "type": "video/mp4"
       }
     ]
-  },
-  {
-    "_id": "recOgowlYAp2LUCMl",
-    "event": "200 kits to Sewa Gram",
-    "id": "recOgowlYAp2LUCMl",
-    "status": "Photos uploaded"
   },
   {
     "_id": "recRmU41MAMjRyIF7",

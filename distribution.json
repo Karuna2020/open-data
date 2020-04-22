@@ -5085,6 +5085,17 @@
     "status": "Received Distribution Pictures"
   },
   {
+    "_id": "rec8EPAG3JOKyH5C2",
+    "deliveredOn": "2020-04-21",
+    "godown": "Gurgoan",
+    "handler": [
+      "reck2YKHsRElZlcOg"
+    ],
+    "name": "Vasant Kunj Part 9",
+    "numberOfKitsNeeded": 35,
+    "status": "Delivered"
+  },
+  {
     "_id": "rec9F69PL70oGxW4s",
     "areaOfDelivery": "Saroul",
     "cdnImages": "https://open-data.karuna2020.org/attachments/distribution/rec9F69PL70oGxW4s/distribution-pictures/attJoGs3PGUn5bt2D/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/rec9F69PL70oGxW4s/distribution-pictures/attNitGH8nHFSEXui/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/rec9F69PL70oGxW4s/distribution-pictures/attTYZdhJwcTp4Hfo/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/rec9F69PL70oGxW4s/distribution-pictures/attLnvGJNsmCvowBi/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/rec9F69PL70oGxW4s/distribution-pictures/attoGFBh9vIaBe20r/large.jpeg",
@@ -7635,6 +7646,296 @@
   {
     "_id": "recLKu3t1UTOe8e5R",
     "areaOfDelivery": "U block, DLF phase 3, Gurugaon",
+    "distributionPictures": [
+      {
+        "id": "attfCWk6BvgJstLNU",
+        "url": "https://dl.airtable.com/.attachments/ba22922ef86cd2262d2c8bc79f26e010/d899386f/Image4.jpeg",
+        "filename": "Image (4).jpeg",
+        "size": 61325,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a6bbaec7cfdbcf25acccd5f782e5a5ed/3c3f3728",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e5783b1cbb9ea7cfd706222a1d93406c/fd6770d6",
+            "width": 488,
+            "height": 1040
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/46444cef522a723142f490c36389ea5b/6a457b04",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attaY91CChXmmFUms",
+        "url": "https://dl.airtable.com/.attachments/d96f33ec8420e5585d91b9a372decd5e/d9d2bfa2/Image5.jpeg",
+        "filename": "Image (5).jpeg",
+        "size": 43520,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6819da755f0cedfc1b3fe42438e4adf8/0c914396",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a3871f1f30eb04f350e22be782bbb1ee/ebad15cb",
+            "width": 488,
+            "height": 1040
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f6add2bc86cc5c86b2c91cb4832bbeda/921c0210",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attACfgq890iLDCkG",
+        "url": "https://dl.airtable.com/.attachments/2bd99f0f6cab90caeeb63a08431856e2/03e96526/Image6.jpeg",
+        "filename": "Image (6).jpeg",
+        "size": 68098,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d6062578c5360aad03a51852f9771359/8c5e5fba",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f85f110e47049a52370ee89754cd88f5/cdc1586d",
+            "width": 488,
+            "height": 1040
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/36c61f3608b022a27a7359473573c92a/6073bf97",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attK2bWGHNR9a1D63",
+        "url": "https://dl.airtable.com/.attachments/2face14c4cd036eab5304e5ba1f8c813/3dd16b1d/Image7.jpeg",
+        "filename": "Image (7).jpeg",
+        "size": 57412,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0f366c5155302d366440213a8570f0ce/500564cc",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2b6c4d87453e3ca5c83c3527e28f26d1/83c1b588",
+            "width": 488,
+            "height": 1040
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9846ec5e4510970eea8dba674cbe1bb6/bd3f5b39",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attwcfDy5UVIyHr1s",
+        "url": "https://dl.airtable.com/.attachments/39d3c95e2171c6cdc5e621b09f3a89f7/b74a1663/Image8.jpeg",
+        "filename": "Image (8).jpeg",
+        "size": 76304,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/80c203a7d2581b21a4473ca2dd0be019/9cefdff7",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/48f8898cce2b9006750330926667e58b/218b0553",
+            "width": 488,
+            "height": 1040
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/92ad12faeda75e95956c18f549fd000b/d772639f",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "atto44iOTRoAwmCmq",
+        "url": "https://dl.airtable.com/.attachments/695a62613869ac9d415354e9ad3a6f9a/1fdeddcf/Image9.jpeg",
+        "filename": "Image (9).jpeg",
+        "size": 60500,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7157a413326feeaf46646163b2049999/6709f238",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6b3f91054f87cebee2d561f52c64f8db/f23bef2c",
+            "width": 488,
+            "height": 1040
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/17305dfa2ec33f3643fc0eb833c0828a/55b981c9",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attf6ahuBVSGd0V2v",
+        "url": "https://dl.airtable.com/.attachments/cffbcdcf136ee1c14f4e0e14842dbdb1/1ee58cd6/Image10.jpeg",
+        "filename": "Image (10).jpeg",
+        "size": 52789,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6d2fed378ff9de4d4faf71a9230d6a5c/c5eb0085",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d4537f5fb3ab4bec54154fc0003349b6/7db20372",
+            "width": 488,
+            "height": 1040
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fab2c50d269afd2dcffcfa2d415c6a16/47b7e5ac",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attRODyazFBq5VmdX",
+        "url": "https://dl.airtable.com/.attachments/6800a6ce7ca03aa9e8a9230218f39e64/52effd48/Image11.jpeg",
+        "filename": "Image (11).jpeg",
+        "size": 55857,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1a79e9d4116a78f63ac8cc5b20e3fe25/02c2377e",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0f84cbeb39d78033ffc3dec3736a05f1/ce48dc83",
+            "width": 488,
+            "height": 1040
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6458541188394644a63dfab280d9ea08/b6882c59",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attClzg0y0o7LK9ag",
+        "url": "https://dl.airtable.com/.attachments/ff9f137ff2e9a66a6d651fbc8efebfce/ece9f11d/Image12.jpeg",
+        "filename": "Image (12).jpeg",
+        "size": 50870,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9ad286ef35b51cb5bcccfcd3a5a79d9e/45479aaa",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6a69b50dcf0cd21bb3e64e49222fb49d/1a7c7158",
+            "width": 488,
+            "height": 1040
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/366ffcca9d8e091fd29584018042099e/d415fe9a",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att9FcmmnrWtlSHpM",
+        "url": "https://dl.airtable.com/.attachments/ab2470094041442511e0281514d26e49/ce286535/Image1.jpeg",
+        "filename": "Image (1).jpeg",
+        "size": 73388,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2a9f09f9abc999d8d840b7eeb932626e/28890d79",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6114c4455ef2cbf6a7dd1dc6f0d1147a/08311c23",
+            "width": 488,
+            "height": 1040
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/237994bd16b653afa61e0511f25ebc95/82db76db",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att11zdvLpbTvqVUP",
+        "url": "https://dl.airtable.com/.attachments/ff824266b0a132e47e2a7fc655f25567/74373a09/Image2.jpeg",
+        "filename": "Image (2).jpeg",
+        "size": 60105,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/43c20650660ddae55e270498b9bbecdf/c1ea1c3a",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c3f0357bf6ac477a7d7bc8b2c8a7b464/451d82eb",
+            "width": 488,
+            "height": 1040
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1684c4fddfa16bf6fd0f5f1e9a49885f/42fbd256",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attLT8O3fqhar8TWi",
+        "url": "https://dl.airtable.com/.attachments/eba4ac49ede79a92d0fc63ad02b85830/9ad9d55f/Image3.jpeg",
+        "filename": "Image (3).jpeg",
+        "size": 63498,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/de72672d3c5911da068dca5f11d4ec95/b96f8d81",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d8f9aa43ce2696bf7e425d6e42a7b044/5d515483",
+            "width": 488,
+            "height": 1040
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/34f1c63facc85de2c5d36ed0d363c326/ac2d46d7",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "godown": "Gurgoan",
     "handler": [
       "recKiQ0VGnZMljPTf"
@@ -7642,7 +7943,7 @@
     "name": "Bisu Ali",
     "notes": "Details already available. Details of 3 families will be entered.",
     "numberOfKitsNeeded": 12,
-    "status": "Request Approved"
+    "status": "Received Distribution Pictures"
   },
   {
     "_id": "recLsoT0ugKuhHqiZ",
@@ -7887,6 +8188,18 @@
       "recAoKzxXkK8T9NY8"
     ],
     "status": "Received Distribution Pictures"
+  },
+  {
+    "_id": "recNHqLXA1YQT4g3T",
+    "deliveredOn": "2020-04-21",
+    "godown": "Gurgoan",
+    "handler": [
+      "reck2YKHsRElZlcOg"
+    ],
+    "name": "Nayi Basti Masud Pur Part 1",
+    "notes": "71 of 300",
+    "numberOfKitsNeeded": 71,
+    "status": "Delivered"
   },
   {
     "_id": "recOeXnn08M67K8Os",
