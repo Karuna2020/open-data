@@ -295,6 +295,7 @@
     "id": 65,
     "method": "NEFT",
     "name": "Ayush Agarwal",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "000136932048",
     "emailMd5": "dc8dd18ec8475ecf7eaea9e09c4e67ed"
@@ -427,7 +428,8 @@
     "date": "2020-04-07",
     "id": 36,
     "method": "Cash",
-    "name": "Dharma"
+    "name": "Dharma",
+    "status": "Receipt Not Needed For Now"
   },
   {
     "_id": "recmUsgfe0q0KgDl0",
@@ -457,7 +459,8 @@
     "date": "2020-04-07",
     "id": 37,
     "method": "Cash",
-    "name": "Sonali Malhotra"
+    "name": "Sonali Malhotra",
+    "status": "Receipt Not Needed For Now"
   },
   {
     "_id": "recnECvn07TuEMS7L",
