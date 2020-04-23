@@ -295,7 +295,7 @@
     "id": 65,
     "method": "NEFT",
     "name": "Ayush Agarwal",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "000136932048",
     "emailMd5": "dc8dd18ec8475ecf7eaea9e09c4e67ed"
