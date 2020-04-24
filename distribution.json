@@ -6178,12 +6178,12 @@
   },
   {
     "_id": "recDsOsFOF9hg7rTd",
-    "areaOfDelivery": "Raghubir Nagar, A colony of 200 people",
+    "areaOfDelivery": "Raghubir Nagar,",
     "handler": [
       "recjDkPJ6t8RVHZXz"
     ],
     "name": "Sangeeta",
-    "numberOfKitsNeeded": 50
+    "numberOfKitsNeeded": 28
   },
   {
     "_id": "recEAKS9kmh01mXrg",
