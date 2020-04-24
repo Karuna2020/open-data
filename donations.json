@@ -238,6 +238,20 @@
     "utrPaymentDetailsImpsNeftRtgsNo": "0483160001119"
   },
   {
+    "_id": "recPpP4kXtEyomZBE",
+    "amount": 7500,
+    "date": "2020-04-24",
+    "fromBank": "SBI",
+    "howDidYouFindUs": "Personal Reference",
+    "id": 72,
+    "method": "NEFT",
+    "name": "Setu Sverige Foundation",
+    "notesComments": "We have also sent an email to your group box. Have personally discussed this with Anand from Karuna2020.\nThis donation is made by Setu Sverige Foundation from an Indian personal SBI account.",
+    "toAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "SBIN520115658767",
+    "emailMd5": "dad4e9dfbc568b21cb4b44a4d40146f4"
+  },
+  {
     "_id": "recQhOWyT8hv6XVjt",
     "amount": 21000,
     "date": "2020-04-07",
@@ -413,6 +427,20 @@
     "status": "Receipt Not Needed For Now"
   },
   {
+    "_id": "reckA7yMxnEmLEZzs",
+    "amount": 25000,
+    "date": "2020-04-24",
+    "howDidYouFindUs": "Personal Reference",
+    "id": 70,
+    "method": "NEFT",
+    "name": "FIL Industries ltd",
+    "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar][1] Same for FIL, Sunei will have contact details\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/menk7yVk3yTG8qTUK/usrVMHyDSa5htZzdZ?recordId=reckA7yMxnEmLEZzs&fieldId=flds8bco54IcRRSlP",
+    "status": "Ready for generating Receipt",
+    "toAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "NEFTSDC9166029",
+    "emailMd5": "e9ef2fb01b963e0362c38217fca5392a"
+  },
+  {
     "_id": "reclz125j6RHYOfoA",
     "amount": 5000,
     "date": "2020-04-03",
@@ -470,6 +498,16 @@
     "name": "Parag Sharma",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "00031050462350"
+  },
+  {
+    "_id": "recoWcrGQOSdawseL",
+    "amount": 15000,
+    "date": "2020-04-19",
+    "id": 68,
+    "method": "NEFT",
+    "name": "Anil Kumar Kaza-Integrated Livelihood SE Foundation",
+    "toAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "1970199370"
   },
   {
     "_id": "recrXvSC2ngS31Icl",
