@@ -435,7 +435,7 @@
     "method": "NEFT",
     "name": "FIL Industries ltd",
     "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar][1] Same for FIL, Sunei will have contact details\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/menk7yVk3yTG8qTUK/usrVMHyDSa5htZzdZ?recordId=reckA7yMxnEmLEZzs&fieldId=flds8bco54IcRRSlP",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "NEFTSDC9166029",
     "emailMd5": "e9ef2fb01b963e0362c38217fca5392a"
