@@ -9555,6 +9555,14 @@
     "status": "Received Distribution Pictures"
   },
   {
+    "_id": "recfkwJfeuodjtsxI",
+    "deliveredOn": "2020-04-24",
+    "godown": "Gurgoan",
+    "name": "Nayi Basti Masud Pur Part 2",
+    "numberOfKitsNeeded": 120,
+    "status": "Delivered"
+  },
+  {
     "_id": "recgx674hicH6ct0e",
     "areaOfDelivery": "Tigri",
     "godown": "Gurgoan",
@@ -9663,6 +9671,14 @@
     "godown": "Gurgoan",
     "name": "Vasant Kunj Part 8",
     "numberOfKitsNeeded": 100,
+    "status": "Delivered"
+  },
+  {
+    "_id": "recznE7mtd6mcByho",
+    "deliveredOn": "2020-04-24",
+    "godown": "Gurgoan",
+    "name": "Bharath Distribution",
+    "numberOfKitsNeeded": 2,
     "status": "Delivered"
   }
 ]
