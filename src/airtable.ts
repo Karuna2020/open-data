@@ -72,6 +72,7 @@ const summarize = async () => {
     numberOfContributors: 0,
     numberOfVolunteers: 0,
     numberOfKitDistributionsCompleted: 0,
+    numberOfMasksDistributed: 0,
     numberOfPeopleImpacted: 0,
   };
 
@@ -88,12 +89,23 @@ const summarize = async () => {
   const distribution: any[] = await readJson(
     join(".", fileName("Distribution"))
   );
+  
   data.numberOfKitDistributionsCompleted = distribution
     .filter((i) =>
-      ["Delivered", "Received Distribution Pictures"].includes(i.status)
+      ["Delivered", "Received Distribution Pictures"].includes(i.status) &&
+      i.distributionType === "Dry Ration Kit"
     )
     .reduce((sum, val) => sum + safeNumber(val.numberOfKitsNeeded), 0);
-  data.numberOfPeopleImpacted = data.numberOfKitDistributionsCompleted * 4;
+  data.numberOfMasksDistributed = distribution
+    .filter((i) =>
+      ["Delivered", "Received Distribution Pictures"].includes(i.status) &&
+      i.distributionType !== "Dry Ration Kit"
+    )
+    .reduce((sum, val) => sum + safeNumber(val.numberOfKitsNeeded), 0);
+
+  data.numberOfPeopleImpacted =
+    (data.numberOfKitDistributionsCompleted * 4.5) +
+    (data.numberOfMasksDistributed / 2);
 
   await writeJson(join(".", fileName("Summary")), data, { spaces: 2 });
 };
