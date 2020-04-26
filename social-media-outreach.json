@@ -27,17 +27,17 @@
   {
     "_id": "recAJqWLREzLUAEco",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recAJqWLREzLUAEco/pictures/attsQZM4ICu9K9WXJ/large.png",
-    "event": "1,000 total kits in Vasant Kunj",
+    "event": "1,000 kits delivered in Vasant Kunj to waste pickers",
     "handlers": [
       "recjDkPJ6t8RVHZXz"
     ],
     "id": "recAJqWLREzLUAEco",
-    "notes": "It is hard to imagine our lives without waste pickers. While their contribution to our society is essentially indespensable. Yet, in this tough time amidst the pandemic, they're one of the worst affected groups. \n\nKaruna 2020 committed to deliver 1000 kits to the waste picker community in Vasant Kunj that could sustain almost 4000 people for a month. \n\nThe lights are dim but they dare to shine. We dare to stand by our brothers in these dark hours and dare to hope. \n\nTogether, we shall overcome.",
+    "notes": "It is hard to imagine our lives without waste pickers. While their contribution to our society is essentially indispensable. Yet, in this tough time amidst the pandemic, they're one of the worst affected groups. \n\nKaruna 2020 committed to deliver 1000 kits to the waste picker community in Vasant Kunj that could sustain almost 4000 people for a month. \n\nThe lights are dim but they dare to shine. We dare to stand by our brothers in these dark hours and dare to hope. \n\nTogether, we shall overcome.",
     "pictures": [
       {
         "id": "attsQZM4ICu9K9WXJ",
         "url": "https://dl.airtable.com/.attachments/8fe3f0866d0f4734796514ab94706618/9ba6ec00/VK.png",
-        "filename": "VK.png",
+        "filename": "0.png",
         "size": 133581,
         "type": "image/png",
         "thumbnails": {
@@ -57,9 +57,33 @@
             "height": 3000
           }
         }
+      },
+      {
+        "id": "att6Sqx1sNBirJ2aH",
+        "url": "https://dl.airtable.com/.attachments/fe9b752cd3aef55d8cc6f7ca13f506dd/6a9eb873/1.png",
+        "filename": "1.png",
+        "size": 125960,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9ab2f394d4a8b1fa1849d8a15e1f9e73/d0be70d9",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b31fa2f16c3f0dfd6fb2894a2b2c4716/13f58c30",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0d2b6db28144ae72ef850b50622cf3e8/2366a470",
+            "width": 3000,
+            "height": 3000
+          }
+        }
       }
     ],
-    "status": "Text written and shared on social media"
+    "status": "Publish to website"
   },
   {
     "_id": "recAoKzxXkK8T9NY8",
@@ -160,6 +184,37 @@
       }
     ],
     "status": "Publish to website"
+  },
+  {
+    "_id": "recFSMUN0NbSDZEDx",
+    "event": "Employing women in the unorganized sector to produce mask manufacturing facility",
+    "id": "recFSMUN0NbSDZEDx",
+    "pictures": [
+      {
+        "id": "attc7FF054DirZI9A",
+        "url": "https://dl.airtable.com/.attachments/95932c14eeb6610300804a32ef26d8df/47667ea9/2020-04-2522.09.00.jpg",
+        "filename": "2020-04-25 22.09.00.jpg",
+        "size": 361036,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e026f050572e3787b22b64418c5ea732/3f45a9ab",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4c81ceed6228f39ac5d35b517bf29713/234fc210",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/215d4985b2490bb4b9e8e484865618c9/cfd82f73",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
   },
   {
     "_id": "recHB05kohtvxAAKW",
@@ -300,6 +355,9 @@
     "date": "2020-04-21",
     "event": "1,000 masks distributed to police in Tehri",
     "id": "recNSyHSMdnSqRpy4",
+    "linkedDistribution": [
+      "recK2yYV66M4WwgDh"
+    ],
     "notes": "During the lockdown, the police, medical workers, and essential service providers are on the frontlines to make sure we stay safe. With your support, we distributed 1,000 masks to the Anjanisain Police Station, District Tehri, Uttarakhand, to help keep police personnel and their families safe.",
     "pictures": [
       {
@@ -534,6 +592,15 @@
     "status": "Publish to website"
   },
   {
+    "_id": "recWlLoaSEUxEQno1",
+    "event": "1000 Cotton Masks Delivered in Saket Area with the help of local SHO",
+    "id": "recWlLoaSEUxEQno1",
+    "linkedDistribution": [
+      "rec806JSxue4OQVJo"
+    ],
+    "status": "Photos uploaded"
+  },
+  {
     "_id": "recWwKFHlfRVxYBNV",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attP1ef1dOhXXSIQT/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attPnsYqDRjewhpV9/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attf9dp4YmjPyPq23/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recWwKFHlfRVxYBNV/pictures/attWM7JwTq8WbwUYC/large.png",
     "event": "9 kits delivered to Basai Dara Pur",
@@ -543,6 +610,17 @@
     ],
     "notes": "Sonu, one of our volunteer's driver, has been working on the ground and helping his community during the pandemic. He approached us with a list of nine familities who need our help, and single-handedly arranged the logistics and on-ground support for the distribution.\n\nWe distributed 9 Karuna 2020 Dry Ration kits to his community in Basai Dara Pur, West Delhi.",
     "status": "Publish to website"
+  },
+  {
+    "_id": "recZFrz3fhEgfJWU5",
+    "date": "2020-04-22",
+    "event": "5000 Cotton Masks delivered to EDMC workers",
+    "id": "recZFrz3fhEgfJWU5",
+    "linkedDistribution": [
+      "recySfIH6TrCsZ0UJ"
+    ],
+    "notes": "Having successfully delivered over 2500 kits, Karuna 2020 in partnership with Shakti Foundation is working towards ensuring safety of people who serve the community invisibly - i.e. the municipality workers. \n\nWe have distributed 5000 masks to East Delhi Municipal Corporation and have committed to donate 5000 more, making it a total of 10000.",
+    "status": "Photos uploaded"
   },
   {
     "_id": "reccKDrUIV0N1uUzo",
@@ -713,6 +791,40 @@
     "status": "Graphics Ready"
   },
   {
+    "_id": "reclRp7Ze5Rv2x5LT",
+    "date": "2020-04-25",
+    "event": "Together, we shall overcome",
+    "id": "reclRp7Ze5Rv2x5LT",
+    "notes": "The lights are dim, but hopes high.\nResources slim, but help nearby.\n\nWe have lost brothers and sisters, still without a cure.\nShut off in our homes, our only option is to endure.\n\nStand with your family, your friends, spread hope.\nPray for others, who might not be able to cope. \n\nHelp your helpers, your city, your world.\nEven if it's just modest sums.\n\nStay at home, the sun will rise.\nTogether, we shall overcome.\n\n---\n\nAfter having served our community and those in need, after having realized our privilege, we as a team have resorted to this message of hope, that, together, we shall overcome. \n\nAll our efforts and communications going forward will try and follow this core principle.",
+    "pictures": [
+      {
+        "id": "attsdbygMoZo7XgL1",
+        "url": "https://dl.airtable.com/.attachments/2800cb52ab2b6401e5b4777ba9cf46ba/445f3cee/5.png",
+        "filename": "5.png",
+        "size": 222697,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/de750ea57872f056ebc5ac8490516f16/a4daf38b",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4505dbfeedd39ef8acf2baa38caa51bf/f73caf0a",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e4d2fd550c650ae713acc53bccbe8490/ff7180de",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Publish to website"
+  },
+  {
     "_id": "recmCJHcjGOrtw56u",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recmCJHcjGOrtw56u/pictures/attkroo56C7U2DGKJ/large.png, https://open-data.karuna2020.org/attachments/social-media-outreach/recmCJHcjGOrtw56u/pictures/attwy1B1nCVtS8qa0/large.png",
     "date": "2020-04-11",
@@ -803,6 +915,122 @@
     ],
     "notes": "An anonymous executive sponsored 70 kit and managed the distribution on ground level personally.",
     "status": "Publish to website"
+  },
+  {
+    "_id": "recu9przSKArDXqOT",
+    "date": "2020-04-25",
+    "event": "30000 masks to be produced in partnership with Haryana Skill Development Mission",
+    "id": "recu9przSKArDXqOT",
+    "notes": "The HSDM has donated cloth and wages totaling 180000 INR to produce and deliver 30000 masks. The masks will be produced at a location in Bahadurgarh, and social distancing measures will be followed stringently. \n\nThese masks will be donated to front-line workers, i.e. cleaners, police, and other service providers. The production has started and we hope to ramp up capacity in the weeks to come.",
+    "pictures": [
+      {
+        "id": "attuPwftxZ8mjhT6d",
+        "url": "https://dl.airtable.com/.attachments/ed83b13bf4c72edb0781eeb1ac214f52/7a0e029c/e504d934-4096-48e9-9455-174d0f8829d9.JPG",
+        "filename": "e504d934-4096-48e9-9455-174d0f8829d9.JPG",
+        "size": 70693,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fe74128ac5f07fce0348cce39ba3f5a0/ce7e7559",
+            "width": 72,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6b8de3ff553ed09866adc3d228a57e86/22a76b7d",
+            "width": 1024,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6b764df4b6630d8b962708c235ae41aa/27f2442a",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attZRy83W0StEyim0",
+        "url": "https://dl.airtable.com/.attachments/f102e7ceeef26918872df99c384d9bd9/3bd41d26/63b30cd5-47af-40b4-ac33-f11d2d86bf30.JPG",
+        "filename": "63b30cd5-47af-40b4-ac33-f11d2d86bf30.JPG",
+        "size": 208960,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3c6e871109933386ab1f72cac08e0fc9/bda6c59a",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/672048765b189732ba5483c1b142d279/4528ef1a",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dd04d281fccf61a190af0c74eb63b097/0d829c69",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attEqVy8Y3F1ASoDz",
+        "url": "https://dl.airtable.com/.attachments/ead0fcfb33a4e279bae2cbf83c994073/bdc06fd8/3179ca07-03ac-4e2a-865e-045f9190a959.JPG",
+        "filename": "3179ca07-03ac-4e2a-865e-045f9190a959.JPG",
+        "size": 77836,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f216349bed189ac631c5e9083bc5e16e/64412dc6",
+            "width": 18,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5b7388ecd94663737ba1e00ff6b6d571/cdfbafa7",
+            "width": 512,
+            "height": 1024
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/83dba1600db2c684ad3ff108ce50a65c/6830eb90",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attbKZCkmn92RpGH7",
+        "url": "https://dl.airtable.com/.attachments/b2c164a72abadee68f57138b8942789a/97de4d51/b33029d4-c7a2-4cd5-b111-17f16db9130f.JPG",
+        "filename": "b33029d4-c7a2-4cd5-b111-17f16db9130f.JPG",
+        "size": 214320,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3ab51ece880459779f89478830597de3/6ef09044",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ca0505fb93c98ca39cc25a5196e579a2/a3b506b2",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/85db991294efae377bd955e85388a21b/31da48d2",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Photos uploaded"
+  },
+  {
+    "_id": "recuW2AFZ6WeU52fs",
+    "event": "12 kits delivered to an old set of beneficiaries",
+    "id": "recuW2AFZ6WeU52fs",
+    "linkedDistribution": [
+      "recLKu3t1UTOe8e5R"
+    ],
+    "notes": "They reached out to us a month ago and then again yesterday. Kripa arranged the transport and delivery. This doesn't need a social post but can be updated on the website.",
+    "status": "Photos uploaded"
   },
   {
     "_id": "recwTEmOno3APyMYG",
@@ -896,7 +1124,6 @@
           }
         }
       }
-    ],
-    "status": "Photos uploaded"
+    ]
   }
 ]

@@ -277,6 +277,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "rec4KettqbIcPbESo"
@@ -2744,6 +2745,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gulmeher",
     "handler": [
       "reck2YKHsRElZlcOg"
@@ -2758,6 +2760,7 @@
   {
     "_id": "rec58pGVaFNKSOwp6",
     "deliveredOn": "2020-04-01",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "name": "Ramveer (Vistara)",
     "notes": "Will not receive pictures, because it was a private distribution. The distributor paid for the kits.",
@@ -4142,6 +4145,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "recg64f2Rh4M84TST"
@@ -5073,6 +5077,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "reck2YKHsRElZlcOg"
@@ -5085,8 +5090,120 @@
     "status": "Received Distribution Pictures"
   },
   {
+    "_id": "rec806JSxue4OQVJo",
+    "areaOfDelivery": "Saket",
+    "deliveredOn": "2020-04-23",
+    "distributionPictures": [
+      {
+        "id": "atttLyGYwqI2aLJtD",
+        "url": "https://dl.airtable.com/.attachments/ff0ef041b6fa04c3a447ab7d5a24f7d2/54b605bd/PHOTO-2020-04-25-19-38-54.jpg",
+        "filename": "PHOTO-2020-04-25-19-38-54.jpg",
+        "size": 114402,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b67788a9499d79b15b754e5720a60e7b/959f004c",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/eb9916347d6d2ae117431078335b3b6b/961d9e8d",
+            "width": 512,
+            "height": 1108
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cd31340acb6138a60e21802613e4ec8e/e63c5932",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attYhjxcwjvd6K4rw",
+        "url": "https://dl.airtable.com/.attachments/8d026df4386ee3338ff1735b2bcc0242/e174de35/PHOTO-2020-04-25-19-38-552.jpg",
+        "filename": "PHOTO-2020-04-25-19-38-55 2.jpg",
+        "size": 134152,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2c32d7b2a328775fc835d0ef1dac1150/19047648",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0f936f684732cce2b390ef281d103c19/dbb2de06",
+            "width": 512,
+            "height": 1113
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/79cb11f642145d5109b174761cfe7cdf/5d103aab",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att8qN4RQoSetJmsX",
+        "url": "https://dl.airtable.com/.attachments/e267882215bd899642152c6ce562f31b/ba1a534c/PHOTO-2020-04-25-19-38-55.jpg",
+        "filename": "PHOTO-2020-04-25-19-38-55.jpg",
+        "size": 114118,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6c15c3a78c539056e5930ebcbb4dbaac/dfbce5dd",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1614537216089d066bcdc99fab8de363/48c4176c",
+            "width": 512,
+            "height": 1108
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f0fe78f6ea3dce54c848b232cd947a68/7e17a80c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attrvbRHXFGpRhA91",
+        "url": "https://dl.airtable.com/.attachments/bc46185d03a9657ed5aca7a8d131f679/0c7ea217/PHOTO-2020-04-25-19-38-56.jpg",
+        "filename": "PHOTO-2020-04-25-19-38-56.jpg",
+        "size": 144719,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e109ff11001b24f6a3e248367a93bcd3/8bff7d9c",
+            "width": 17,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5b5165c3b6277eeb570d44e8591dc75b/65058f8d",
+            "width": 512,
+            "height": 1113
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ba69dbc630c13844b7b596ef9eab5115/ab3f9d6d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "distributionType": "Mask Kit",
+    "godown": "Gulmeher",
+    "name": "Saket Masks in coordination with local SHO",
+    "numberOfKitsNeeded": 1000,
+    "socialMediaOutreach": [
+      "recWlLoaSEUxEQno1"
+    ],
+    "status": "Received Distribution Pictures"
+  },
+  {
     "_id": "rec8EPAG3JOKyH5C2",
     "deliveredOn": "2020-04-21",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "reck2YKHsRElZlcOg"
@@ -5222,6 +5339,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "rec4KettqbIcPbESo"
@@ -5312,6 +5430,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "name": "Atul Ji Misc",
     "numberOfKitsNeeded": 3,
@@ -6164,6 +6283,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "reck2YKHsRElZlcOg"
@@ -6179,6 +6299,7 @@
   {
     "_id": "recDsOsFOF9hg7rTd",
     "areaOfDelivery": "Raghubir Nagar,",
+    "distributionType": "Dry Ration Kit",
     "handler": [
       "recjDkPJ6t8RVHZXz"
     ],
@@ -7632,6 +7753,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "recIKJzr77ClSkBIp"
@@ -7644,299 +7766,313 @@
     "status": "Received Distribution Pictures"
   },
   {
+    "_id": "recK2yYV66M4WwgDh",
+    "areaOfDelivery": "Tehri",
+    "deliveredOn": "2020-04-21",
+    "distributionType": "Mask Kit",
+    "godown": "Tehri",
+    "name": "Masks to Police In Tehri",
+    "numberOfKitsNeeded": 1000,
+    "socialMediaOutreach": [
+      "recNSyHSMdnSqRpy4"
+    ],
+    "status": "Received Distribution Pictures"
+  },
+  {
     "_id": "recLKu3t1UTOe8e5R",
     "areaOfDelivery": "U block, DLF phase 3, Gurugaon",
     "cdnImages": "https://open-data.karuna2020.org/attachments/distribution/recLKu3t1UTOe8e5R/distribution-pictures/attfCWk6BvgJstLNU/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recLKu3t1UTOe8e5R/distribution-pictures/attaY91CChXmmFUms/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recLKu3t1UTOe8e5R/distribution-pictures/attACfgq890iLDCkG/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recLKu3t1UTOe8e5R/distribution-pictures/attK2bWGHNR9a1D63/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recLKu3t1UTOe8e5R/distribution-pictures/attwcfDy5UVIyHr1s/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recLKu3t1UTOe8e5R/distribution-pictures/atto44iOTRoAwmCmq/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recLKu3t1UTOe8e5R/distribution-pictures/attf6ahuBVSGd0V2v/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recLKu3t1UTOe8e5R/distribution-pictures/attRODyazFBq5VmdX/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recLKu3t1UTOe8e5R/distribution-pictures/attClzg0y0o7LK9ag/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recLKu3t1UTOe8e5R/distribution-pictures/att9FcmmnrWtlSHpM/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recLKu3t1UTOe8e5R/distribution-pictures/att11zdvLpbTvqVUP/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recLKu3t1UTOe8e5R/distribution-pictures/attLT8O3fqhar8TWi/large.jpeg",
     "distributionPictures": [
       {
-        "id": "attfCWk6BvgJstLNU",
-        "url": "https://dl.airtable.com/.attachments/ba22922ef86cd2262d2c8bc79f26e010/d899386f/Image4.jpeg",
-        "filename": "Image (4).jpeg",
-        "size": 61325,
+        "id": "attyRROnLDwrnRI3I",
+        "url": "https://dl.airtable.com/.attachments/da770389d1fc44cb862c5ae7d2fab2b2/4691837a/PHOTO-2020-04-25-21-00-332.jpg",
+        "filename": "PHOTO-2020-04-25-21-00-33 2.jpg",
+        "size": 125884,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a6bbaec7cfdbcf25acccd5f782e5a5ed/3c3f3728",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b601ced750525fb69eb8c5eed1e8f7b0/8709f81e",
             "width": 17,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e5783b1cbb9ea7cfd706222a1d93406c/fd6770d6",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/99a397f7ff6cc95212c2201058e0bcc3/a331804a",
             "width": 488,
             "height": 1040
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/46444cef522a723142f490c36389ea5b/6a457b04",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/30bd76d96e206ad7e461456d06b6def3/ffeedb32",
             "width": 3000,
             "height": 3000
           }
         }
       },
       {
-        "id": "attaY91CChXmmFUms",
-        "url": "https://dl.airtable.com/.attachments/d96f33ec8420e5585d91b9a372decd5e/d9d2bfa2/Image5.jpeg",
-        "filename": "Image (5).jpeg",
-        "size": 43520,
+        "id": "attkBQU5fzgDPLX1L",
+        "url": "https://dl.airtable.com/.attachments/194eed7f2bf4de4776e041f56f23fd42/52b5d1ff/PHOTO-2020-04-25-21-00-33.jpg",
+        "filename": "PHOTO-2020-04-25-21-00-33.jpg",
+        "size": 79968,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6819da755f0cedfc1b3fe42438e4adf8/0c914396",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ffb3547e07a95f07ac379d7c2579afa0/e48cd0e1",
             "width": 17,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a3871f1f30eb04f350e22be782bbb1ee/ebad15cb",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a91c7f12b3ec2b58a5bf11b60be9d3cc/4d37ff78",
             "width": 488,
             "height": 1040
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f6add2bc86cc5c86b2c91cb4832bbeda/921c0210",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7dea46ef60eb3e611bc94699dc134baf/33e5a610",
             "width": 3000,
             "height": 3000
           }
         }
       },
       {
-        "id": "attACfgq890iLDCkG",
-        "url": "https://dl.airtable.com/.attachments/2bd99f0f6cab90caeeb63a08431856e2/03e96526/Image6.jpeg",
-        "filename": "Image (6).jpeg",
-        "size": 68098,
+        "id": "attMUibKfXnyUx4bO",
+        "url": "https://dl.airtable.com/.attachments/d8099ebd607fb6ae6e1df1c712b2de9c/9bbfacf8/PHOTO-2020-04-25-21-00-342.jpg",
+        "filename": "PHOTO-2020-04-25-21-00-34 2.jpg",
+        "size": 140337,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d6062578c5360aad03a51852f9771359/8c5e5fba",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2a8a90154fa755197faf6f865a02c9c9/6ec9f7eb",
             "width": 17,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f85f110e47049a52370ee89754cd88f5/cdc1586d",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/737e225ddedc1a1ec9f540062eb3d0fb/5a1d7903",
             "width": 488,
             "height": 1040
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/36c61f3608b022a27a7359473573c92a/6073bf97",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f54dfc740ad408b471cfc64a475d5f45/c52a4498",
             "width": 3000,
             "height": 3000
           }
         }
       },
       {
-        "id": "attK2bWGHNR9a1D63",
-        "url": "https://dl.airtable.com/.attachments/2face14c4cd036eab5304e5ba1f8c813/3dd16b1d/Image7.jpeg",
-        "filename": "Image (7).jpeg",
-        "size": 57412,
+        "id": "attaFeXSOdbnKhjbP",
+        "url": "https://dl.airtable.com/.attachments/2a383493f6e215f60514023b27436bd5/0ca4006e/PHOTO-2020-04-25-21-00-343.jpg",
+        "filename": "PHOTO-2020-04-25-21-00-34 3.jpg",
+        "size": 112642,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0f366c5155302d366440213a8570f0ce/500564cc",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/056f856394e873bcb89c1e686d0251c1/76befafa",
             "width": 17,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/2b6c4d87453e3ca5c83c3527e28f26d1/83c1b588",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b3d0b04e927c991aa983caf22a7b1fd4/4a324416",
             "width": 488,
             "height": 1040
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/9846ec5e4510970eea8dba674cbe1bb6/bd3f5b39",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d4bc557c8bd80f4f7018e64ff928e04e/6d641a37",
             "width": 3000,
             "height": 3000
           }
         }
       },
       {
-        "id": "attwcfDy5UVIyHr1s",
-        "url": "https://dl.airtable.com/.attachments/39d3c95e2171c6cdc5e621b09f3a89f7/b74a1663/Image8.jpeg",
-        "filename": "Image (8).jpeg",
-        "size": 76304,
+        "id": "attxiZ3rPg27ef2sG",
+        "url": "https://dl.airtable.com/.attachments/28c950210abe5c005ed65f83af10db6e/3390a078/PHOTO-2020-04-25-21-00-34.jpg",
+        "filename": "PHOTO-2020-04-25-21-00-34.jpg",
+        "size": 108510,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/80c203a7d2581b21a4473ca2dd0be019/9cefdff7",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d1d575d8220fdebb0197966ffd7f8188/94b96995",
             "width": 17,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/48f8898cce2b9006750330926667e58b/218b0553",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e315ec31399ad6ef375152cd8930d5ae/a493c3e2",
             "width": 488,
             "height": 1040
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/92ad12faeda75e95956c18f549fd000b/d772639f",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3cfcc27478db99e5b49424f65211a736/28941984",
             "width": 3000,
             "height": 3000
           }
         }
       },
       {
-        "id": "atto44iOTRoAwmCmq",
-        "url": "https://dl.airtable.com/.attachments/695a62613869ac9d415354e9ad3a6f9a/1fdeddcf/Image9.jpeg",
-        "filename": "Image (9).jpeg",
-        "size": 60500,
+        "id": "attAfTRcRAX9OHGne",
+        "url": "https://dl.airtable.com/.attachments/1f35e3fe990e8e2cee45f2653c1fb520/3090e86c/PHOTO-2020-04-25-21-00-352.jpg",
+        "filename": "PHOTO-2020-04-25-21-00-35 2.jpg",
+        "size": 100514,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7157a413326feeaf46646163b2049999/6709f238",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8c559418e02fbfcb580452ce2c6ac9e3/831539d8",
             "width": 17,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6b3f91054f87cebee2d561f52c64f8db/f23bef2c",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6f1eb06a9f57bdc9baf86f9fa83d8570/e4579d8b",
             "width": 488,
             "height": 1040
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/17305dfa2ec33f3643fc0eb833c0828a/55b981c9",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7a83a2b59252ef464b02a81e5e4c6323/a3a304f5",
             "width": 3000,
             "height": 3000
           }
         }
       },
       {
-        "id": "attf6ahuBVSGd0V2v",
-        "url": "https://dl.airtable.com/.attachments/cffbcdcf136ee1c14f4e0e14842dbdb1/1ee58cd6/Image10.jpeg",
-        "filename": "Image (10).jpeg",
-        "size": 52789,
+        "id": "att0PKfD7zxa2MDCF",
+        "url": "https://dl.airtable.com/.attachments/ab07030d1057b0ad9d08db69eed4a5bd/ba5c405c/PHOTO-2020-04-25-21-00-35.jpg",
+        "filename": "PHOTO-2020-04-25-21-00-35.jpg",
+        "size": 95491,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6d2fed378ff9de4d4faf71a9230d6a5c/c5eb0085",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/46163769ae964b68df33814324c1a69c/0deb94e6",
             "width": 17,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d4537f5fb3ab4bec54154fc0003349b6/7db20372",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4997bb5d8850230e52a7938594917285/3f79592d",
             "width": 488,
             "height": 1040
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/fab2c50d269afd2dcffcfa2d415c6a16/47b7e5ac",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5b209b1c9b43b3e9c4dc0468983e4d0b/21cb5b73",
             "width": 3000,
             "height": 3000
           }
         }
       },
       {
-        "id": "attRODyazFBq5VmdX",
-        "url": "https://dl.airtable.com/.attachments/6800a6ce7ca03aa9e8a9230218f39e64/52effd48/Image11.jpeg",
-        "filename": "Image (11).jpeg",
-        "size": 55857,
+        "id": "attzxgCeLV4IH0wgo",
+        "url": "https://dl.airtable.com/.attachments/b8efdb848dd34cd044e3c0f7c17d51d1/624755f0/PHOTO-2020-04-25-21-00-362.jpg",
+        "filename": "PHOTO-2020-04-25-21-00-36 2.jpg",
+        "size": 133796,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/1a79e9d4116a78f63ac8cc5b20e3fe25/02c2377e",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/70100a1932141cfc94339c9cb593702f/292a8e33",
             "width": 17,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0f84cbeb39d78033ffc3dec3736a05f1/ce48dc83",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5e671487118af8f4ed2d7153c4b8c9a7/54df2d25",
             "width": 488,
             "height": 1040
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6458541188394644a63dfab280d9ea08/b6882c59",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f0088a5d7591d07fde2296bb374c6711/8b0b2369",
             "width": 3000,
             "height": 3000
           }
         }
       },
       {
-        "id": "attClzg0y0o7LK9ag",
-        "url": "https://dl.airtable.com/.attachments/ff9f137ff2e9a66a6d651fbc8efebfce/ece9f11d/Image12.jpeg",
-        "filename": "Image (12).jpeg",
-        "size": 50870,
+        "id": "attEFbcYZCX30ZrJ4",
+        "url": "https://dl.airtable.com/.attachments/d4f4acfbd5117f5ba4cb465e1fa16d02/8723041c/PHOTO-2020-04-25-21-00-363.jpg",
+        "filename": "PHOTO-2020-04-25-21-00-36 3.jpg",
+        "size": 107287,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/9ad286ef35b51cb5bcccfcd3a5a79d9e/45479aaa",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e8ec53cf5cdda7585dca84d3f5c54dae/a5619593",
             "width": 17,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6a69b50dcf0cd21bb3e64e49222fb49d/1a7c7158",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/93c4587b16e2446de1c4e3eae93c1218/f6b15376",
             "width": 488,
             "height": 1040
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/366ffcca9d8e091fd29584018042099e/d415fe9a",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f54d5d8e16ac6ecffdcc457cff03137a/01e1d18f",
             "width": 3000,
             "height": 3000
           }
         }
       },
       {
-        "id": "att9FcmmnrWtlSHpM",
-        "url": "https://dl.airtable.com/.attachments/ab2470094041442511e0281514d26e49/ce286535/Image1.jpeg",
-        "filename": "Image (1).jpeg",
-        "size": 73388,
+        "id": "att45BjfMaGSb7y9G",
+        "url": "https://dl.airtable.com/.attachments/25b4d37e2d7a003e271a6cbd19d53a79/8bec27e8/PHOTO-2020-04-25-21-00-36.jpg",
+        "filename": "PHOTO-2020-04-25-21-00-36.jpg",
+        "size": 91174,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/2a9f09f9abc999d8d840b7eeb932626e/28890d79",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/afddf8a7edbe0c88278ada94aca85afd/968db242",
             "width": 17,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6114c4455ef2cbf6a7dd1dc6f0d1147a/08311c23",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a2f22a9c911ccd19da1cfe468a665770/37277a23",
             "width": 488,
             "height": 1040
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/237994bd16b653afa61e0511f25ebc95/82db76db",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d4c079bb54379101100740dc68940518/4ec1f1c8",
             "width": 3000,
             "height": 3000
           }
         }
       },
       {
-        "id": "att11zdvLpbTvqVUP",
-        "url": "https://dl.airtable.com/.attachments/ff824266b0a132e47e2a7fc655f25567/74373a09/Image2.jpeg",
-        "filename": "Image (2).jpeg",
-        "size": 60105,
+        "id": "attpFaA3d4sbWGHQT",
+        "url": "https://dl.airtable.com/.attachments/f8483eb1211dc9ac6e124af18778b9b0/41d9d7a8/PHOTO-2020-04-25-21-00-372.jpg",
+        "filename": "PHOTO-2020-04-25-21-00-37 2.jpg",
+        "size": 113735,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/43c20650660ddae55e270498b9bbecdf/c1ea1c3a",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e37da9a70e608f1b531c92f7373eb1a9/56019ecc",
             "width": 17,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/c3f0357bf6ac477a7d7bc8b2c8a7b464/451d82eb",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f4e564f9755465adf690e287b1135a4c/70e65993",
             "width": 488,
             "height": 1040
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/1684c4fddfa16bf6fd0f5f1e9a49885f/42fbd256",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ff54ffcef70fa337fd94d7bb4fda1930/9b0a081a",
             "width": 3000,
             "height": 3000
           }
         }
       },
       {
-        "id": "attLT8O3fqhar8TWi",
-        "url": "https://dl.airtable.com/.attachments/eba4ac49ede79a92d0fc63ad02b85830/9ad9d55f/Image3.jpeg",
-        "filename": "Image (3).jpeg",
-        "size": 63498,
+        "id": "attRPHCHuwIIvORdn",
+        "url": "https://dl.airtable.com/.attachments/55ccf8f4f3b9322f9f6841c4432cdd9f/fb419839/PHOTO-2020-04-25-21-00-37.jpg",
+        "filename": "PHOTO-2020-04-25-21-00-37.jpg",
+        "size": 116525,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/de72672d3c5911da068dca5f11d4ec95/b96f8d81",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bbef380c59058922113e4d8dc17429bc/253acd23",
             "width": 17,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d8f9aa43ce2696bf7e425d6e42a7b044/5d515483",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/93e21815eaceb98483100908afb613d3/42398ee2",
             "width": 488,
             "height": 1040
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/34f1c63facc85de2c5d36ed0d363c326/ac2d46d7",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ec354522bce90395e6f923463b25caf8/91517d41",
             "width": 3000,
             "height": 3000
           }
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "recKiQ0VGnZMljPTf"
@@ -7944,11 +8080,15 @@
     "name": "Bisu Ali",
     "notes": "Details already available. Details of 3 families will be entered.",
     "numberOfKitsNeeded": 12,
+    "socialMediaOutreach": [
+      "recuW2AFZ6WeU52fs"
+    ],
     "status": "Received Distribution Pictures"
   },
   {
     "_id": "recLsoT0ugKuhHqiZ",
     "areaOfDelivery": "Mayur Vihar Phase 1 - https://www.google.com/maps?q=28.60176658630371,77.28952026367188&z=17&hl=en",
+    "distributionType": "Dry Ration Kit",
     "handler": [
       "recIKJzr77ClSkBIp"
     ],
@@ -8179,6 +8319,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "recKiQ0VGnZMljPTf"
@@ -8193,6 +8334,7 @@
   {
     "_id": "recNHqLXA1YQT4g3T",
     "deliveredOn": "2020-04-21",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "reck2YKHsRElZlcOg"
@@ -8207,6 +8349,7 @@
     "areaOfDelivery": "DLF Phase 3",
     "cdnImages": "https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attIsYo9zWMQOO8E1/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attaJD0gvnSfb4TIc/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attY2Nt0Hugf6y4Jo/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attUFe8AxrMMquBP1/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attLoHG23WERUEYvT/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attorXQXfsOy3uCje/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attviN7sPFlTmf99l/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attLFHb6nC0RMC3UD/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attuHaqefS6zaXyiS/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attv8S7lUOCtFYY8m/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attj6YJyECCsgS5o4/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attD9ogxFC7JOwIhR/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attzP2Hn9R0B0Gygz/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attxGz46PYH2W2GZS/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recOeXnn08M67K8Os/distribution-pictures/attDMzg2NWN0gdrGh/large.jpeg",
     "deliveredOn": "2020-04-12",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "rec4KettqbIcPbESo"
@@ -8221,6 +8364,7 @@
   {
     "_id": "recPUwpqML3yylCUW",
     "areaOfDelivery": "Anand Parbat",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "recJbFfMkoYdLLhMv"
@@ -8231,6 +8375,7 @@
   {
     "_id": "recRFVdEzaRc7xu4v",
     "areaOfDelivery": "DLF Phase 3",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "rec4KettqbIcPbESo"
@@ -8244,6 +8389,7 @@
     "_id": "recRxJ9m9OScuxwX4",
     "areaOfDelivery": "Sarhaul, Gurgaon",
     "deliveredOn": "2020-04-12",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "rec4KettqbIcPbESo"
@@ -8255,6 +8401,7 @@
   {
     "_id": "recSgZiWqHyilze6N",
     "areaOfDelivery": "Maidan Garhi",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "name": "Maidan Garhi SHO",
     "notes": "1000 Masks also requested\n\n10 for Vidya's workers",
@@ -8263,6 +8410,7 @@
   },
   {
     "_id": "recTSeBGsGpIiG3d4",
+    "distributionType": "Dry Ration Kit",
     "handler": [
       "recJbFfMkoYdLLhMv"
     ],
@@ -8493,6 +8641,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Sunei's Home",
     "handler": [
       "recIKJzr77ClSkBIp"
@@ -8510,6 +8659,7 @@
     "areaOfDelivery": "Vasant Kunj",
     "cdnImages": "https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/atty7wShMb8s5LfdG/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attaN8dflv2u75gdc/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attZ8kWCkQpJT4iGm/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attRQaARypj07GFwG/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attvEhxVEe0IwxUDt/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attV02Ynclrh7tzoS/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attW4dBujHT3MW6Sq/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attXtHeYlI65hYE1z/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attmZYZgEEzAhUeJF/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attB0KY1pMqRzfVyX/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attXjLhc7PaPJ8r3Q/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attt6jpNfUnoNjSvb/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attoWS3EZEYNxaDnJ/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attSCEh5Dcl6tGTe4/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attiyhGbTyaqFdpW6/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att7bZH0ZXsjNPOuG/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attjDHaNTH2JmDGYF/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attvMWNKFvQZTkjgX/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attYasc7gaCCBlCMb/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attHrtHD7s11BXsHg/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att0oXP1PIQdLGwgf/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attVomBQbyzuo1WTP/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attdDMi2evT62xXip/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att4i3ZjtgPwkIeOv/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att5ZamCbbEWZHFE8/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attpZ5ph5pOpl5j8E/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attu32BD0jMfVzQJS/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attsY2JBaB88mG08H/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att2vecH6tLfBsLpz/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attm5Zodk5dUgiZKT/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att3Nsx97q6GUUKOf/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/atts0JbFg80N33eV6/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attvAtSsnQhluKyPn/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attjuexcL9lUNe8gS/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attP7aHupyz7n8zfE/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attw73GzqSgiuSDtW/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attj8M90Ob0y9v6yP/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attoY7l3MLsCkJhQK/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attYPr3g5MDXM7E2z/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att7xrSbwbNOVzkSh/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attvORFvuII86NWvA/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attHn7RaRgbOh2KLB/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attVM78prP45O46Tv/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attc5Br3mVKEEc9kp/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attXN7x3sRmynq5YC/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attif0nSohj1c5jTA/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/atth8uenivpLspBec/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att9w5ZvYHIDztc7C/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attaiOAde7HOXFWIn/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attV3LXdHDL8lfMCv/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attl7bS86xd0Ty3NO/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attJHSl0aSV4vCKQL/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attK5VeNIzVvrNkNN/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att1fG6WjklYPa6ZL/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attInQ9bWS3mfArxN/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attzA882KShIyWuxk/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att13Ki6GaNkFLGR1/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att3j5I3i0XdEfyfB/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/atthgtAbngkY3KoZd/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attAffpT0234E2LpJ/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attf0zaJYTh9sr74H/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attcsNRWrIIPWd1EO/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attqi3U6R3os7ulLF/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attmBg2uarm73z5v4/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attOqAQZg2Il5IlGR/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attVcmiZeK6TQn53O/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attReufNQkxPiTgc3/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att6quFTOlUzDuAOx/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attLkUvXj4EUKTfnd/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attm5D7lU2L4OpkUZ/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attprOp5ZEGJnauW4/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attBA2n6GvJ32LugN/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attfbkl2lhIshjGgE/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attYlIL6AgnHhJ3Hc/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attKKp5GXZk0ZELMQ/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attToX17EbnK97o9n/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/atthQLVxenNRkBgyy/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attBGCYiQEYYU72JF/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attqOfL46ETFn4OoB/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attdy7CyXnHwyttS9/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att4oDtym17XmyUc1/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attv9JKAOZ77P0tcV/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attI0kKltYoE3jk1A/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attA91RKmtfjFLKBm/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attJF3eTAbh2vbGZ0/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attfcTpP5E783Hm4U/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/att12Q5e0aLQFuvkW/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attLreUrPkn2i21A6/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attonLa6BKCHM2CF1/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recXh74oYBWcDm5eF/distribution-pictures/attL38WEBgZOlPI8t/large.jpeg",
     "deliveredOn": "2020-04-11",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "reck2YKHsRElZlcOg"
@@ -8936,6 +9086,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "reck2YKHsRElZlcOg"
@@ -9032,6 +9183,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "name": "Majlis Park - part 1 / DanaPani / Ref Anurag",
     "notes": "Have a list of names. Address is in the same vicinity. \nAll beneficiaries might not have a phone.",
@@ -9043,6 +9195,7 @@
     "areaOfDelivery": "Gali No. 59, U Block, DLF Phase 3, sector 24, Gurgaon",
     "cdnImages": "https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/att9Dz3cKN8jRgR3J/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/attWiyCKJhFvleht2/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/attKNc425yQYs3azU/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/attRm4IOjbqkEY0Xg/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/atte3ZxidM6vsNots/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/attSrgto74VqvZYXx/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/att8UIj09vtSmUT1r/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/attQpbLE5rVJwpWWt/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/attOjQvoQ51YfaAE7/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/attcwpUiL1AHTTp0N/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/attiObfngW8NcTp5i/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/attwqyIOQdPgk6X7i/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/attnXrlw2ZjOArTik/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/attnDWx659VwmO1UU/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/reccooYD9qC6z9dHv/distribution-pictures/atttwh2NhsIYzAiMN/large.jpeg",
     "deliveredOn": "2020-04-11",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "recg64f2Rh4M84TST"
@@ -9421,6 +9574,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "name": "Vasant Kunj Part 7",
     "notes": "110 to VK/ 2 Bharath",
@@ -9533,6 +9687,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "rec8weJ5mIvcvV5rK"
@@ -9549,6 +9704,7 @@
     "areaOfDelivery": "Vasant Kunj",
     "cdnImages": "https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att1FmJYhxvlxA8hj/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att4ABR7HO8YBkWbF/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attdQfSghrH3OQq1c/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attBnfOsfppxx5xRz/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attClOlaWzFCAnrpX/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attOdo4tdBayOTFo6/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att1WKRH5VgVnWr92/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att71jI29CkfZAc4n/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attOoEZFvysrJpA3f/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attla74YH9Zc0pqWM/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attvhRvzAjUBhNO17/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attyOadSovmgXDd0K/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att3rrR6DYQiIglBK/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attKNcYufnpSDFHxg/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attyFrq6dVqXQ3vzh/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attM4Rxp46Vdu5lb1/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attg1KKL09pkVl7gl/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attRJHeaOCqd4Fa5Q/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/atttIEjlK96GpNV8l/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attZi0Iigd3nUcufp/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attYxZBTEDh9WIUq7/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attTh5XHkBgAkH5ia/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att4NqfBuwJpnD6vf/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attwvHcREupzW6qpu/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att1uSjIej4DItxWX/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attvTe5oWoULpZVqt/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att6rRoqwa4wes8gU/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attliEz9BxroHQNjS/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attniRF8xq1xV9XXF/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attlRPwgrlZghqe9A/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attuskcsGp929KBux/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attT49TqgnDt7TA0l/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attUWpDsguCMVklVP/large.jpeg",
     "deliveredOn": "2020-04-10",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "reck2YKHsRElZlcOg"
@@ -9563,6 +9719,7 @@
   {
     "_id": "recfkwJfeuodjtsxI",
     "deliveredOn": "2020-04-24",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "name": "Nayi Basti Masud Pur Part 2",
     "numberOfKitsNeeded": 120,
@@ -9571,6 +9728,7 @@
   {
     "_id": "recgx674hicH6ct0e",
     "areaOfDelivery": "Tigri",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "recIKJzr77ClSkBIp"
@@ -9590,6 +9748,7 @@
   {
     "_id": "recuFfUcGctPOjl3R",
     "areaOfDelivery": "Nepali Camp, D-Block, Vasant Vihar",
+    "distributionType": "Dry Ration Kit",
     "handler": [
       "recg64f2Rh4M84TST"
     ],
@@ -9600,6 +9759,7 @@
   },
   {
     "_id": "recvp2qdBiDe6I6ql",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "name": "Shahrukh"
   },
@@ -9658,6 +9818,7 @@
         }
       }
     ],
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "handler": [
       "rec4KettqbIcPbESo"
@@ -9671,9 +9832,148 @@
     "status": "Received Distribution Pictures"
   },
   {
+    "_id": "recySfIH6TrCsZ0UJ",
+    "areaOfDelivery": "Gazipur",
+    "deliveredOn": "2020-04-22",
+    "distributionPictures": [
+      {
+        "id": "attMxUVxplCRUwoHq",
+        "url": "https://dl.airtable.com/.attachments/dd534c3c0d5edcf68086094eba243994/dd32b431/PHOTO-2020-04-22-18-05-112.jpg",
+        "filename": "PHOTO-2020-04-22-18-05-11 2.jpg",
+        "size": 84934,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/990dc2e5905322d220a982d60beaaf29/ad36f9db",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1741c90bc78d276b7a2b22ebd907f9b9/074906c3",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/24a37ae98e3a80063d122d285ec6fffe/fcf9d606",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attRywgfOPq6bl5uG",
+        "url": "https://dl.airtable.com/.attachments/0e42d95ffa2b689572ec0b6f333a46c6/2601252a/PHOTO-2020-04-22-18-05-113.jpg",
+        "filename": "PHOTO-2020-04-22-18-05-11 3.jpg",
+        "size": 84188,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/df7ba21679b9a999537c578d32cc7631/48bb25d3",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d020b3abe30f916c5ca7abc40342fd98/9f223c6e",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/81d241a17a6e541da77105afa164baf2/3560170a",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att6rpBqQfp2mObv0",
+        "url": "https://dl.airtable.com/.attachments/f73b963bafc195210c801977e4b8b93a/7e1a826c/PHOTO-2020-04-22-18-05-11.jpg",
+        "filename": "PHOTO-2020-04-22-18-05-11.jpg",
+        "size": 79366,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7b22cfbe34465b22aa3aadadde877688/bda72012",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/969c0179172429bbbc644da59e7409db/5fefb5cb",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/15998b40a431a87a24835a758d15b29e/cdcbee99",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att5tCfapU2krtNE9",
+        "url": "https://dl.airtable.com/.attachments/8de8c732d3a2587c08c15a2571be1dce/3aee8409/PHOTO-2020-04-22-18-05-122.jpg",
+        "filename": "PHOTO-2020-04-22-18-05-12 2.jpg",
+        "size": 75620,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/22c9394689403a0903c1a7ff7bb12fb3/47e6d615",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2baa57abf9cf09da1caa6024356a3204/f436c4b9",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3c08ef4e0ffb8ec358c569af2707a69b/5e216f8f",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attCEZoKSc48ILgWS",
+        "url": "https://dl.airtable.com/.attachments/c3f40b672852fd3ff8786c10fe71bfdd/b4b83de9/PHOTO-2020-04-22-18-05-12.jpg",
+        "filename": "PHOTO-2020-04-22-18-05-12.jpg",
+        "size": 79307,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f838458a9366c8814b14eee12beb02df/567c144a",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/944661ef0637020b85a53f812085b3ef/670631fc",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fc944f82a9f4c542713b92c204750b7c/9a2f3164",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "distributionType": "Mask Kit",
+    "godown": "Gulmeher",
+    "handler": [
+      "reck2YKHsRElZlcOg"
+    ],
+    "name": "EDMC Masks Part 1",
+    "numberOfKitsNeeded": 5000,
+    "socialMediaOutreach": [
+      "recZFrz3fhEgfJWU5"
+    ],
+    "status": "Received Distribution Pictures"
+  },
+  {
     "_id": "recyqxUEh7mjzVZyZ",
     "areaOfDelivery": "Vasant Kunj",
     "deliveredOn": "2020-04-19",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "name": "Vasant Kunj Part 8",
     "numberOfKitsNeeded": 100,
@@ -9682,6 +9982,7 @@
   {
     "_id": "recznE7mtd6mcByho",
     "deliveredOn": "2020-04-24",
+    "distributionType": "Dry Ration Kit",
     "godown": "Gurgoan",
     "name": "Bharath Distribution",
     "numberOfKitsNeeded": 2,
