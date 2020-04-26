@@ -138,6 +138,16 @@
     "emailMd5": "82c53936a36d57bcc50902a27bb7b88f"
   },
   {
+    "_id": "recBfM20vrx0IoPj6",
+    "amount": 100000,
+    "date": "2020-04-24",
+    "id": 74,
+    "method": "In kind",
+    "name": "Shakti Foundation",
+    "notesComments": "1000 mtr cloth and labour costs to manufacture 10k masks",
+    "toAccount": "Shakti Foundation"
+  },
+  {
     "_id": "recBvCkfUSZ0IVpD4",
     "amount": 1500,
     "date": "2020-04-09",

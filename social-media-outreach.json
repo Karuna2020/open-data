@@ -188,34 +188,276 @@
   {
     "_id": "recFSMUN0NbSDZEDx",
     "cdnImages": "https://open-data.karuna2020.org/attachments/social-media-outreach/recFSMUN0NbSDZEDx/pictures/attc7FF054DirZI9A/large.jpeg",
-    "event": "Employing women in the unorganized sector to produce mask manufacturing facility",
+    "event": "Supporting our frontline workers while providing for the community",
     "id": "recFSMUN0NbSDZEDx",
+    "notes": "This unusual time has imposed numerous constraints on the society. We can't go out, can't have social gathering, can't work, can't eat.\n\nBut there is group of heroes out there, on ground. This group is busy making sure that the order is maintained. These heroes include the Police, the waste pickers, the municipal employees, the doctors and other support staff. \n\nThanks to Anurag Kashyap, the founder of Shakti Foundation and Gulmeher, we creatively managed to hit two targets with one arrow. \n\nAnurag's idea was to employ daily wagers to make masks and pay them 3 to 5 Rupees per piece. A worker can easily produce 80-100 masks a day and ends up earning 300-500 INR/day.\n\nWe synchronized with the local police and other government authorities to estimate the demand for these masks and other PPE. \nWith God's grace, Anurag's timely idea and your support, we are on track to produce 10000 masks. Out of this, 6000 have already been distributed. Stay tuned for the details!\n\nYou sharing our progress with your friends and family makes a huge difference.\n\nThanks \nKaruna 2020 Volunteers",
     "pictures": [
       {
-        "id": "attc7FF054DirZI9A",
-        "url": "https://dl.airtable.com/.attachments/95932c14eeb6610300804a32ef26d8df/47667ea9/2020-04-2522.09.00.jpg",
-        "filename": "2020-04-25 22.09.00.jpg",
-        "size": 361036,
+        "id": "attW3nycXySBk3zJS",
+        "url": "https://dl.airtable.com/.attachments/fbc11982d1d3d0bcc799c9767568b994/8d9ce6ce/support.jpg",
+        "filename": "support.jpg",
+        "size": 591944,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e026f050572e3787b22b64418c5ea732/3f45a9ab",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/098963debeecb19e6c747ef1803770ba/68a32ac8",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/72faea7e5c4c5752c1c0b58b09cd87ff/919c9da4",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2c6f56762f99c8c0f8ad59a74a39c5cc/b8319e7f",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attDBqhsqsfLy3o1O",
+        "url": "https://dl.airtable.com/.attachments/899271808d088e67dd5be527ba21f3ab/cfed26d9/PHOTO-2020-04-25-21-49-292.jpg",
+        "filename": "PHOTO-2020-04-25-21-49-29 2.jpg",
+        "size": 98244,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5b1801e133e5af156ed638b331b18c70/8e2e63bf",
             "width": 27,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4c81ceed6228f39ac5d35b517bf29713/234fc210",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4528f3f4f352ff8114e9eed12e5f4611/215fde63",
             "width": 512,
             "height": 683
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/215d4985b2490bb4b9e8e484865618c9/cfd82f73",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/42c47232bd4d6a56b356388370797cd3/432b2132",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att5WtrqOi04tDZN5",
+        "url": "https://dl.airtable.com/.attachments/bbc359aa0eb0389f03be91977a0c363a/27a882d1/PHOTO-2020-04-25-21-49-293.jpg",
+        "filename": "PHOTO-2020-04-25-21-49-29 3.jpg",
+        "size": 82760,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/efb330e022a1b4e13713e6e9ef33c2b1/4d7d58cf",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9ca3a76ab9b89352545aa84702c6f612/ca7e756e",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d048952b1950ad990c1d814f6504fc89/f4d4c79e",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att2ZSLCkyjwfpFys",
+        "url": "https://dl.airtable.com/.attachments/02a1bd94346b6a04d0af61c9ef72180d/cb75529f/PHOTO-2020-04-25-21-49-29.jpg",
+        "filename": "PHOTO-2020-04-25-21-49-29.jpg",
+        "size": 106332,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0f39a7e83480b62a7437285c5b74056f/ba2fb592",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cfc00509f4def1bd28343dd023a8ec1b/a054bd2f",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/265a6210295c1c5c50a63c23f14b716e/20466ab4",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attxrjKUMJ94q6oIt",
+        "url": "https://dl.airtable.com/.attachments/021c8f1a3261956411761801fcde6ec2/abc2afc3/PHOTO-2020-04-25-21-49-302.jpg",
+        "filename": "PHOTO-2020-04-25-21-49-30 2.jpg",
+        "size": 103496,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3998f9618a1ce7ca29a4147ccec24302/832c8e2a",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/beea9179d70a8853cddba344c17cccc2/90d6c691",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/412470c13b510e3e37a735c3e2d1d4c8/3be52fc2",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attAThEbDyl4QVmnj",
+        "url": "https://dl.airtable.com/.attachments/2f5b432969bbde4b83c47bab2c0c5732/429021cd/PHOTO-2020-04-25-21-49-303.jpg",
+        "filename": "PHOTO-2020-04-25-21-49-30 3.jpg",
+        "size": 67959,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/243913139aae900f6651cbf9aab4f30f/e61058b5",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/20611a3f87f6c0f756fe60c5c2d2731c/c3621d94",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b438343fc7ce866924fb5a7ba6979969/70334fd6",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attf66q0PwRstdMI5",
+        "url": "https://dl.airtable.com/.attachments/0856e0a344c67213bebc9e3c0b23bb30/83c152a8/PHOTO-2020-04-25-21-49-30.jpg",
+        "filename": "PHOTO-2020-04-25-21-49-30.jpg",
+        "size": 87658,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8cc0c3af61729fe62e94a2a650c63ddb/fdef1256",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/888af3dc7a5a18e7308182de6aaaf7a9/0563d931",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/15ffa21ac56548620cec734b13559b94/aad54cab",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attjUe6Xkm2WiqGlC",
+        "url": "https://dl.airtable.com/.attachments/3246efe101acb544e2fe8668b535b16e/1e6b2678/PHOTO-2020-04-25-21-49-312.jpg",
+        "filename": "PHOTO-2020-04-25-21-49-31 2.jpg",
+        "size": 70218,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/134b569d02b22664b5c86c27580cde41/4fefe6f9",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9035508d0e0cb416a9491206b53f38bd/4ae4f8f1",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/664545179c9a174c93e2264e9fbd0a85/b2f3d384",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attdp5txFTvWhQD4M",
+        "url": "https://dl.airtable.com/.attachments/804ca9c86c2a1ba4b8cbfc4599f49c36/6ee9c052/PHOTO-2020-04-25-21-49-31.jpg",
+        "filename": "PHOTO-2020-04-25-21-49-31.jpg",
+        "size": 80490,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/672d771f1dae8b6f2cbbe27d03c35a58/81fbc522",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0d158bcb08681cdb394de38f4c35c32f/caf51398",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4d3767447e9c9d34b9ddd8f8b3d20964/3e0c574d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attXviQsQ68LAj7Xe",
+        "url": "https://dl.airtable.com/.attachments/28dce50a2a352cee4d505c5ce50610ac/d3c9c023/PHOTO-2020-04-25-21-49-322.jpg",
+        "filename": "PHOTO-2020-04-25-21-49-32 2.jpg",
+        "size": 144703,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/280fbce7c4fd923ba0cc993bf924f875/09a1ca35",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/12d44e97fa21fc897e62a3b65b6fcef2/4ab71a7f",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/67c698c0c6063b9a6f4178965df726ad/08f90638",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "atth4o9ZtpXCqt2t6",
+        "url": "https://dl.airtable.com/.attachments/787d4b09c6a1bb7f223388736f2d0ba1/fc5a0878/PHOTO-2020-04-25-21-49-32.jpg",
+        "filename": "PHOTO-2020-04-25-21-49-32.jpg",
+        "size": 127400,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6c6d16f156063adbc1424ee64c0bbd15/710b8056",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/de3c0132b2260e7d74f45feaa78e9251/f580158d",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a8dd7d254d134c03ac77271daeb4addb/0fea4644",
             "width": 3000,
             "height": 3000
           }
         }
       }
-    ]
+    ],
+    "status": "Publish to website"
   },
   {
     "_id": "recHB05kohtvxAAKW",
@@ -242,6 +484,7 @@
     "linkedDistribution": [
       "recDniyNjl7nd1RGG"
     ],
+    "notes": "With the help of Shakti Foundation, our on-ground distribution partner, we successfully served 132 more families in the waste picker community in Vasant Kunj. Thanks for your generous support.",
     "pictures": [
       {
         "id": "attnHk2KJGhpDnuiy",
@@ -292,7 +535,7 @@
         }
       }
     ],
-    "status": "Graphics Ready"
+    "status": "Not publishing"
   },
   {
     "_id": "recKk8cgJ3E3NCQZd",
@@ -599,7 +842,34 @@
     "linkedDistribution": [
       "rec806JSxue4OQVJo"
     ],
-    "status": "Photos uploaded"
+    "notes": "With the help and support of the local SHO of Saket Area, we successfully distributed 1000 cotton masks to the needy to control the spread of the virus.",
+    "pictures": [
+      {
+        "id": "attkYu1iYNSg2VOSI",
+        "url": "https://dl.airtable.com/.attachments/d4e9176b90ee422189777c0d2e6433ba/87a0dfab/maskupt.jpg",
+        "filename": "maskupt.jpg",
+        "size": 805689,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/42af9d3929d137bbd752c57773d7256e/d529b958",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5e16de9bc8549b7b3ab4c8b9acbdb05b/0938cdf9",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0f93d138c99f5c4cbd60dc973ba31b01/cfc606b4",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Publish to website"
   },
   {
     "_id": "recWwKFHlfRVxYBNV",
@@ -621,7 +891,33 @@
       "recySfIH6TrCsZ0UJ"
     ],
     "notes": "Having successfully delivered over 2500 kits, Karuna 2020 in partnership with Shakti Foundation is working towards ensuring safety of people who serve the community invisibly - i.e. the municipality workers. \n\nWe have distributed 5000 masks to East Delhi Municipal Corporation and have committed to donate 5000 more, making it a total of 10000.",
-    "status": "Photos uploaded"
+    "pictures": [
+      {
+        "id": "att08WgsmPsVYuavp",
+        "url": "https://dl.airtable.com/.attachments/fe56e37535877ee69e8744fdd5c970f2/966c109f/maskup.png",
+        "filename": "maskup.png",
+        "size": 899474,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9c93eeb46c1920b12649b0e272e5564f/4f689628",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d31934624eb4766cb049b2905b8097bb/2dbfd87d",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b6ba70cceaf042809055277068140ba2/da6ff30e",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "status": "Publish to website"
   },
   {
     "_id": "reccKDrUIV0N1uUzo",
@@ -789,7 +1085,7 @@
         }
       }
     ],
-    "status": "Graphics Ready"
+    "status": "Not publishing"
   },
   {
     "_id": "reclRp7Ze5Rv2x5LT",
@@ -1100,7 +1396,7 @@
         }
       }
     ],
-    "status": "Graphics Ready"
+    "status": "Not publishing"
   },
   {
     "_id": "reczbnqdLbQcq8v4Q",
