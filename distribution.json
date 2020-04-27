@@ -9701,6 +9701,15 @@
     "status": "Received Distribution Pictures"
   },
   {
+    "_id": "recdDmOOuz5dc1XjI",
+    "deliveredOn": "2020-04-26",
+    "distributionType": "Dry Ration Kit",
+    "godown": "Gurgoan",
+    "name": "Majlis Park Part 2",
+    "numberOfKitsNeeded": 50,
+    "status": "Delivered"
+  },
+  {
     "_id": "recfB8SXWiefH3gtt",
     "areaOfDelivery": "Vasant Kunj",
     "cdnImages": "https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att1FmJYhxvlxA8hj/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att4ABR7HO8YBkWbF/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attdQfSghrH3OQq1c/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attBnfOsfppxx5xRz/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attClOlaWzFCAnrpX/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attOdo4tdBayOTFo6/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att1WKRH5VgVnWr92/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att71jI29CkfZAc4n/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attOoEZFvysrJpA3f/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attla74YH9Zc0pqWM/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attvhRvzAjUBhNO17/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attyOadSovmgXDd0K/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att3rrR6DYQiIglBK/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attKNcYufnpSDFHxg/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attyFrq6dVqXQ3vzh/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attM4Rxp46Vdu5lb1/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attg1KKL09pkVl7gl/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attRJHeaOCqd4Fa5Q/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/atttIEjlK96GpNV8l/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attZi0Iigd3nUcufp/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attYxZBTEDh9WIUq7/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attTh5XHkBgAkH5ia/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att4NqfBuwJpnD6vf/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attwvHcREupzW6qpu/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att1uSjIej4DItxWX/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attvTe5oWoULpZVqt/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/att6rRoqwa4wes8gU/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attliEz9BxroHQNjS/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attniRF8xq1xV9XXF/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attlRPwgrlZghqe9A/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attuskcsGp929KBux/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attT49TqgnDt7TA0l/large.jpeg, https://open-data.karuna2020.org/attachments/distribution/recfB8SXWiefH3gtt/distribution-pictures/attUWpDsguCMVklVP/large.jpeg",
@@ -9979,6 +9988,15 @@
     "godown": "Gurgoan",
     "name": "Vasant Kunj Part 8",
     "numberOfKitsNeeded": 100,
+    "status": "Delivered"
+  },
+  {
+    "_id": "reczCdcCz5I2yK6Ai",
+    "deliveredOn": "2020-04-26",
+    "distributionType": "Dry Ration Kit",
+    "godown": "Gurgoan",
+    "name": "Nayi Basti Masud Pur Part 3",
+    "numberOfKitsNeeded": 80,
     "status": "Delivered"
   },
   {
