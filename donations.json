@@ -262,6 +262,19 @@
     "emailMd5": "dad4e9dfbc568b21cb4b44a4d40146f4"
   },
   {
+    "_id": "recQ2eCosXPAv4F02",
+    "amount": 10000,
+    "date": "2020-04-27",
+    "fromBank": "HDFC",
+    "id": 75,
+    "method": "IMPS",
+    "name": "MINHAZ LOKHANDWALA",
+    "status": "Ready for generating Receipt",
+    "toAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "011816649821-",
+    "emailMd5": "86fb9c98fcd96f232cc9a5973bee9bf2"
+  },
+  {
     "_id": "recQhOWyT8hv6XVjt",
     "amount": 21000,
     "date": "2020-04-07",
