@@ -269,7 +269,7 @@
     "id": 75,
     "method": "IMPS",
     "name": "MINHAZ LOKHANDWALA",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "011816649821-",
     "emailMd5": "86fb9c98fcd96f232cc9a5973bee9bf2"
