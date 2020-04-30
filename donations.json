@@ -244,6 +244,7 @@
     "id": 23,
     "method": "IMPS",
     "name": "Nayantara Nag",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "0483160001119"
   },
@@ -495,6 +496,7 @@
     "id": 24,
     "method": "NEFT",
     "name": "Mishika Chowdhary",
+    "status": "Receipt Not Needed For Now",
     "utrPaymentDetailsImpsNeftRtgsNo": "1960127277"
   },
   {
