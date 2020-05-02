@@ -7767,6 +7767,17 @@
     "status": "Received Distribution Pictures"
   },
   {
+    "_id": "recGsQRcFMRq5xi7O",
+    "areaOfDelivery": "Gali No 59, U Block, DLF Phase 3, Sector 24, Gurugaon",
+    "handler": [
+      "recKiQ0VGnZMljPTf"
+    ],
+    "name": "Aisul Mohammad",
+    "notes": "Re-distribution. List already uploaded.",
+    "numberOfKitsNeeded": 15,
+    "status": "Have list"
+  },
+  {
     "_id": "recK2yYV66M4WwgDh",
     "areaOfDelivery": "Tehri",
     "deliveredOn": "2020-04-21",
