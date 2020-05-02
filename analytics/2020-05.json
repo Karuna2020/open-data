@@ -225,11 +225,11 @@
     "sum": {
       "browserMap": [
         {
-          "pageViews": 128,
+          "pageViews": 190,
           "uaBrowserFamily": "Unknown"
         },
         {
-          "pageViews": 5,
+          "pageViews": 6,
           "uaBrowserFamily": "Chrome"
         },
         {
@@ -237,39 +237,47 @@
           "uaBrowserFamily": "IE"
         },
         {
-          "pageViews": 1,
+          "pageViews": 3,
           "uaBrowserFamily": "Safari"
         },
         {
-          "pageViews": 3,
+          "pageViews": 7,
           "uaBrowserFamily": "Firefox"
         },
         {
-          "pageViews": 1,
+          "pageViews": 4,
           "uaBrowserFamily": "BingBot"
         },
         {
-          "pageViews": 7,
+          "pageViews": 13,
           "uaBrowserFamily": "GoogleBot"
         },
         {
           "pageViews": 8,
           "uaBrowserFamily": "YandexBot"
-        }
-      ],
-      "bytes": 28143368,
-      "cachedBytes": 11312251,
-      "cachedRequests": 151,
-      "contentTypeMap": [
-        {
-          "bytes": 117731,
-          "edgeResponseContentTypeName": "unknown",
-          "requests": 5
         },
         {
-          "bytes": 1941,
+          "pageViews": 1,
+          "uaBrowserFamily": "MobileSafari"
+        },
+        {
+          "pageViews": 1,
+          "uaBrowserFamily": "ChromeMobile"
+        }
+      ],
+      "bytes": 53958657,
+      "cachedBytes": 27002185,
+      "cachedRequests": 286,
+      "contentTypeMap": [
+        {
+          "bytes": 119044,
+          "edgeResponseContentTypeName": "unknown",
+          "requests": 6
+        },
+        {
+          "bytes": 19218,
           "edgeResponseContentTypeName": "empty",
-          "requests": 7
+          "requests": 50
         },
         {
           "bytes": 1203,
@@ -277,76 +285,88 @@
           "requests": 1
         },
         {
-          "bytes": 1078,
+          "bytes": 3576,
           "edgeResponseContentTypeName": "json",
-          "requests": 2
+          "requests": 3
         },
         {
-          "bytes": 556843,
+          "bytes": 746993,
           "edgeResponseContentTypeName": "xml",
-          "requests": 41
+          "requests": 55
         },
         {
-          "bytes": 8417173,
+          "bytes": 10979831,
           "edgeResponseContentTypeName": "jpeg",
-          "requests": 59
+          "requests": 82
         },
         {
-          "bytes": 13629055,
+          "bytes": 33929865,
           "edgeResponseContentTypeName": "png",
-          "requests": 81
+          "requests": 175
         },
         {
-          "bytes": 4645530,
+          "bytes": 6982468,
           "edgeResponseContentTypeName": "svg",
-          "requests": 119
+          "requests": 178
         },
         {
-          "bytes": 758273,
+          "bytes": 1156947,
           "edgeResponseContentTypeName": "html",
-          "requests": 184
+          "requests": 283
         },
         {
-          "bytes": 14541,
+          "bytes": 19512,
           "edgeResponseContentTypeName": "txt",
-          "requests": 14
+          "requests": 19
         }
       ],
       "countryMap": [
         {
-          "bytes": 57727,
+          "bytes": 65897,
           "clientCountryName": "AT",
-          "requests": 4,
+          "requests": 7,
           "threats": 0
         },
         {
-          "bytes": 1081,
+          "bytes": 47393,
+          "clientCountryName": "BR",
+          "requests": 1,
+          "threats": 0
+        },
+        {
+          "bytes": 13584,
+          "clientCountryName": "CA",
+          "requests": 1,
+          "threats": 0
+        },
+        {
+          "bytes": 2164,
           "clientCountryName": "CN",
-          "requests": 1,
+          "requests": 2,
           "threats": 0
         },
         {
-          "bytes": 10616,
+          "bytes": 19113,
           "clientCountryName": "DE",
-          "requests": 3,
+          "requests": 11,
           "threats": 0
         },
         {
-          "bytes": 13580,
+          "bytes": 22353,
           "clientCountryName": "FR",
-          "requests": 1,
+          "requests": 2,
           "threats": 0
         },
         {
-          "bytes": 122337,
+          "bytes": 214107,
           "clientCountryName": "IE",
-          "requests": 4,
+          "requests": 7,
           "threats": 0
         },
         {
-          "bytes": 7106043,
+          "bytes": 20724287,
           "clientCountryName": "IN",
-          "requests": 53,
+          "requests": 133,
           "threats": 0
         },
         {
@@ -356,41 +376,51 @@
           "threats": 0
         },
         {
-          "bytes": 13852744,
+          "bytes": 6744334,
+          "clientCountryName": "SE",
+          "requests": 35,
+          "threats": 0
+        },
+        {
+          "bytes": 19126185,
           "clientCountryName": "US",
-          "requests": 396,
+          "requests": 602,
           "threats": 0
         }
       ],
-      "encryptedBytes": 28140925,
-      "encryptedRequests": 506,
-      "pageViews": 154,
-      "requests": 513,
+      "encryptedBytes": 53950711,
+      "encryptedRequests": 829,
+      "pageViews": 234,
+      "requests": 852,
       "responseStatusMap": [
         {
           "edgeResponseStatus": 200,
-          "requests": 475
+          "requests": 751
         },
         {
           "edgeResponseStatus": 206,
-          "requests": 5
+          "requests": 8
         },
         {
           "edgeResponseStatus": 301,
-          "requests": 7
+          "requests": 24
+        },
+        {
+          "edgeResponseStatus": 304,
+          "requests": 16
         },
         {
           "edgeResponseStatus": 404,
-          "requests": 25
+          "requests": 41
         },
         {
           "edgeResponseStatus": 499,
-          "requests": 1
+          "requests": 12
         }
       ]
     },
     "uniq": {
-      "uniques": 96
+      "uniques": 131
     }
   }
 ]
