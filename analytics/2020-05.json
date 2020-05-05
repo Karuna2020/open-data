@@ -875,7 +875,7 @@
     "sum": {
       "browserMap": [
         {
-          "pageViews": 53,
+          "pageViews": 115,
           "uaBrowserFamily": "Unknown"
         },
         {
@@ -883,46 +883,64 @@
           "uaBrowserFamily": "Chrome"
         },
         {
+          "pageViews": 1,
+          "uaBrowserFamily": "Firefox"
+        },
+        {
           "pageViews": 2,
           "uaBrowserFamily": "BingBot"
         },
         {
-          "pageViews": 6,
+          "pageViews": 15,
           "uaBrowserFamily": "GoogleBot"
         },
         {
-          "pageViews": 5,
+          "pageViews": 6,
           "uaBrowserFamily": "YandexBot"
+        },
+        {
+          "pageViews": 1,
+          "uaBrowserFamily": "MobileSafari"
         }
       ],
-      "bytes": 398164,
-      "cachedBytes": 44419,
-      "cachedRequests": 9,
+      "bytes": 10108604,
+      "cachedBytes": 8272146,
+      "cachedRequests": 91,
       "contentTypeMap": [
         {
-          "bytes": 2586,
+          "bytes": 28518,
+          "edgeResponseContentTypeName": "unknown",
+          "requests": 1
+        },
+        {
+          "bytes": 2888,
           "edgeResponseContentTypeName": "empty",
-          "requests": 8
+          "requests": 10
         },
         {
-          "bytes": 1068,
+          "bytes": 6465,
           "edgeResponseContentTypeName": "json",
-          "requests": 1
+          "requests": 5
         },
         {
-          "bytes": 122225,
+          "bytes": 298778,
           "edgeResponseContentTypeName": "xml",
-          "requests": 9
+          "requests": 22
         },
         {
-          "bytes": 11224,
+          "bytes": 183434,
+          "edgeResponseContentTypeName": "jpeg",
+          "requests": 2
+        },
+        {
+          "bytes": 6782748,
           "edgeResponseContentTypeName": "png",
-          "requests": 1
+          "requests": 40
         },
         {
-          "bytes": 39689,
+          "bytes": 2234299,
           "edgeResponseContentTypeName": "svg",
-          "requests": 1
+          "requests": 58
         },
         {
           "bytes": 10387,
@@ -930,17 +948,35 @@
           "requests": 1
         },
         {
-          "bytes": 203582,
+          "bytes": 548427,
           "edgeResponseContentTypeName": "html",
-          "requests": 73
+          "requests": 159
         },
         {
-          "bytes": 7403,
+          "bytes": 12660,
           "edgeResponseContentTypeName": "txt",
-          "requests": 7
+          "requests": 12
         }
       ],
       "countryMap": [
+        {
+          "bytes": 61164,
+          "clientCountryName": "BR",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 13582,
+          "clientCountryName": "CA",
+          "requests": 1,
+          "threats": 0
+        },
+        {
+          "bytes": 1081,
+          "clientCountryName": "CN",
+          "requests": 1,
+          "threats": 0
+        },
         {
           "bytes": 3409,
           "clientCountryName": "FR",
@@ -948,39 +984,59 @@
           "threats": 0
         },
         {
-          "bytes": 43319,
-          "clientCountryName": "RU",
-          "requests": 12,
+          "bytes": 139080,
+          "clientCountryName": "IE",
+          "requests": 8,
           "threats": 0
         },
         {
-          "bytes": 351436,
+          "bytes": 6981583,
+          "clientCountryName": "IN",
+          "requests": 43,
+          "threats": 0
+        },
+        {
+          "bytes": 53690,
+          "clientCountryName": "RU",
+          "requests": 14,
+          "threats": 0
+        },
+        {
+          "bytes": 2855015,
           "clientCountryName": "US",
-          "requests": 85,
+          "requests": 237,
           "threats": 0
         }
       ],
-      "encryptedBytes": 395578,
-      "encryptedRequests": 93,
-      "pageViews": 67,
-      "requests": 101,
+      "encryptedBytes": 10105716,
+      "encryptedRequests": 301,
+      "pageViews": 141,
+      "requests": 310,
       "responseStatusMap": [
         {
           "edgeResponseStatus": 200,
-          "requests": 87
+          "requests": 282
         },
         {
-          "edgeResponseStatus": 301,
+          "edgeResponseStatus": 206,
           "requests": 10
         },
         {
+          "edgeResponseStatus": 301,
+          "requests": 12
+        },
+        {
           "edgeResponseStatus": 404,
-          "requests": 4
+          "requests": 5
+        },
+        {
+          "edgeResponseStatus": 499,
+          "requests": 1
         }
       ]
     },
     "uniq": {
-      "uniques": 33
+      "uniques": 71
     }
   }
 ]
