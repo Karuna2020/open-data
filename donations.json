@@ -145,6 +145,7 @@
     "method": "In kind",
     "name": "Shakti Foundation",
     "notesComments": "1000 mtr cloth and labour costs to manufacture 10k masks",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "Shakti Foundation"
   },
   {
@@ -212,6 +213,7 @@
     "method": "NEFT",
     "name": "Sharad Bhalla",
     "notesComments": "Dont Know who he is",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "LB3670200331G528"
   },
@@ -258,6 +260,7 @@
     "method": "NEFT",
     "name": "Setu Sverige Foundation",
     "notesComments": "We have also sent an email to your group box. Have personally discussed this with Anand from Karuna2020.\nThis donation is made by Setu Sverige Foundation from an Indian personal SBI account.",
+    "status": "Ready for generating Receipt",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "SBIN520115658767",
     "emailMd5": "dad4e9dfbc568b21cb4b44a4d40146f4"
@@ -375,7 +378,8 @@
     "id": 73,
     "method": "In kind",
     "name": "Haryana Skill Development Mission",
-    "notesComments": "Got  3000 metres of Cloth to build 30000 masks. The department will also pay the workers at Rs 2/mask."
+    "notesComments": "Got  3000 metres of Cloth to build 30000 masks. The department will also pay the workers at Rs 2/mask.",
+    "status": "Receipt Not Needed For Now"
   },
   {
     "_id": "reca4OQslqYHxdXpt",
@@ -438,6 +442,7 @@
     "date": "2020-04-05",
     "id": 27,
     "method": "IMPS",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "009609068018"
   },
@@ -450,6 +455,10 @@
     "name": "Anonymous",
     "notesComments": "Pulses for ~600 kits",
     "status": "Receipt Not Needed For Now"
+  },
+  {
+    "_id": "recfPh45QqkrsKVZ3",
+    "id": 79
   },
   {
     "_id": "recfZN2q0G8OA6bbl",
@@ -473,6 +482,10 @@
     "name": "Rajiv Gandhi Foundation",
     "notesComments": "Raw material for ~300 kits (Note: the amount of daal was less than what we prescribe)",
     "status": "Receipt Not Needed For Now"
+  },
+  {
+    "_id": "recjCr4efis3qgUWT",
+    "id": 81
   },
   {
     "_id": "reckA7yMxnEmLEZzs",
@@ -540,11 +553,23 @@
     "status": "Receipt Not Needed For Now"
   },
   {
+    "_id": "recn8xRwoe3KlgiHb",
+    "amount": 10000,
+    "date": "2020-05-01",
+    "fromBank": "HDFC",
+    "id": 78,
+    "method": "IMPS",
+    "name": "Parappil Rajendran",
+    "toAccount": "ILSEF",
+    "utrPaymentDetailsImpsNeftRtgsNo": "012211324469"
+  },
+  {
     "_id": "recnECvn07TuEMS7L",
     "amount": 5000,
     "date": "2020-04-04",
     "id": 26,
     "name": "Parag Sharma",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "00031050462350"
   },
@@ -555,6 +580,7 @@
     "id": 68,
     "method": "NEFT",
     "name": "Anil Kumar Kaza-Integrated Livelihood SE Foundation",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "1970199370"
   },
@@ -600,6 +626,7 @@
     "date": "2020-04-02",
     "id": 20,
     "name": "Syed Omar Bilal Ahmad",
+    "status": "Receipt Not Needed For Now",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "00271610047540"
   },
@@ -639,6 +666,10 @@
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "010012171783",
     "emailMd5": "766c265a368343802ecd63d791c13532"
+  },
+  {
+    "_id": "recwGdqbZb10IJLza",
+    "id": 80
   },
   {
     "_id": "recwdgcjvivjz5Qby",
