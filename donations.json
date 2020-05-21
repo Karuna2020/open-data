@@ -367,7 +367,7 @@
     "method": "NEFT",
     "name": "ARJUN SHANKAR",
     "notesComments": "REFERENCE - VIDYA VISH",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "012010943778",
     "emailMd5": "7569e697f322bc015e0b8d1f08584c9d"
@@ -595,7 +595,7 @@
     "id": 77,
     "method": "UPI",
     "name": "Sunei Kapur",
-    "status": "Ready for generating Receipt",
+    "status": "Receipt Sent",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "Refernce Id: 012562880527",
     "emailMd5": "5292e5f748154292264478c6523cb1e8"
