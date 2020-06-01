@@ -1,0 +1,51 @@
+[
+  {
+    "dimensions": {
+      "date": "2020-06-01"
+    },
+    "sum": {
+      "browserMap": [
+        {
+          "pageViews": 1,
+          "uaBrowserFamily": "Unknown"
+        }
+      ],
+      "bytes": 14615,
+      "cachedBytes": 0,
+      "cachedRequests": 0,
+      "contentTypeMap": [
+        {
+          "bytes": 13631,
+          "edgeResponseContentTypeName": "xml",
+          "requests": 1
+        },
+        {
+          "bytes": 984,
+          "edgeResponseContentTypeName": "html",
+          "requests": 1
+        }
+      ],
+      "countryMap": [
+        {
+          "bytes": 14615,
+          "clientCountryName": "US",
+          "requests": 2,
+          "threats": 0
+        }
+      ],
+      "encryptedBytes": 14615,
+      "encryptedRequests": 2,
+      "pageViews": 1,
+      "requests": 2,
+      "responseStatusMap": [
+        {
+          "edgeResponseStatus": 200,
+          "requests": 2
+        }
+      ]
+    },
+    "uniq": {
+      "uniques": 2
+    }
+  }
+]
