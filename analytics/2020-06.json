@@ -6,67 +6,81 @@
     "sum": {
       "browserMap": [
         {
-          "pageViews": 18,
+          "pageViews": 49,
           "uaBrowserFamily": "Unknown"
         },
         {
-          "pageViews": 3,
+          "pageViews": 41,
           "uaBrowserFamily": "Chrome"
         },
         {
-          "pageViews": 3,
+          "pageViews": 4,
           "uaBrowserFamily": "BingBot"
+        },
+        {
+          "pageViews": 7,
+          "uaBrowserFamily": "TwitterBot"
         },
         {
           "pageViews": 4,
           "uaBrowserFamily": "YandexBot"
         }
       ],
-      "bytes": 2632332,
-      "cachedBytes": 2161221,
-      "cachedRequests": 58,
+      "bytes": 18833357,
+      "cachedBytes": 6068206,
+      "cachedRequests": 179,
       "contentTypeMap": [
         {
-          "bytes": 1115,
+          "bytes": 416447,
+          "edgeResponseContentTypeName": "unknown",
+          "requests": 14
+        },
+        {
+          "bytes": 3805,
           "edgeResponseContentTypeName": "empty",
-          "requests": 3
+          "requests": 10
         },
         {
-          "bytes": 81785,
+          "bytes": 292641,
           "edgeResponseContentTypeName": "xml",
-          "requests": 6
+          "requests": 16
         },
         {
-          "bytes": 99030,
-          "edgeResponseContentTypeName": "jpeg",
+          "bytes": 1233371,
+          "edgeResponseContentTypeName": "gif",
           "requests": 1
         },
         {
-          "bytes": 104977,
-          "edgeResponseContentTypeName": "png",
+          "bytes": 282572,
+          "edgeResponseContentTypeName": "jpeg",
           "requests": 3
         },
         {
-          "bytes": 2159002,
+          "bytes": 10627734,
+          "edgeResponseContentTypeName": "png",
+          "requests": 95
+        },
+        {
+          "bytes": 5014527,
           "edgeResponseContentTypeName": "svg",
-          "requests": 56
+          "requests": 128
         },
         {
-          "bytes": 184219,
+          "bytes": 947489,
           "edgeResponseContentTypeName": "html",
-          "requests": 33
+          "requests": 118
         },
         {
-          "bytes": 2204,
+          "bytes": 14771,
           "edgeResponseContentTypeName": "txt",
-          "requests": 2
+          "requests": 14
         }
       ],
       "countryMap": [
         {
-          "bytes": 55209,
+          "bytes": 188553,
           "clientCountryName": "AU",
-          "requests": 2,
+          "requests": 6,
           "threats": 0
         },
         {
@@ -82,14 +96,20 @@
           "threats": 0
         },
         {
-          "bytes": 13629,
+          "bytes": 40350,
           "clientCountryName": "FR",
-          "requests": 1,
+          "requests": 5,
           "threats": 0
         },
         {
-          "bytes": 64173,
+          "bytes": 740272,
           "clientCountryName": "IE",
+          "requests": 14,
+          "threats": 0
+        },
+        {
+          "bytes": 347,
+          "clientCountryName": "JP",
           "requests": 1,
           "threats": 0
         },
@@ -100,37 +120,37 @@
           "threats": 0
         },
         {
-          "bytes": 2316147,
+          "bytes": 17680661,
           "clientCountryName": "US",
-          "requests": 89,
+          "requests": 362,
           "threats": 0
         }
       ],
-      "encryptedBytes": 2631217,
-      "encryptedRequests": 101,
-      "pageViews": 28,
-      "requests": 104,
+      "encryptedBytes": 18829552,
+      "encryptedRequests": 389,
+      "pageViews": 105,
+      "requests": 399,
       "responseStatusMap": [
         {
           "edgeResponseStatus": 200,
-          "requests": 96
+          "requests": 374
         },
         {
           "edgeResponseStatus": 206,
-          "requests": 2
+          "requests": 3
         },
         {
           "edgeResponseStatus": 301,
-          "requests": 3
+          "requests": 13
         },
         {
           "edgeResponseStatus": 404,
-          "requests": 3
+          "requests": 9
         }
       ]
     },
     "uniq": {
-      "uniques": 23
+      "uniques": 74
     }
   }
 ]
