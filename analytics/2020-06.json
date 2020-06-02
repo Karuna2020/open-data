@@ -201,8 +201,12 @@
     "sum": {
       "browserMap": [
         {
-          "pageViews": 57,
+          "pageViews": 131,
           "uaBrowserFamily": "Unknown"
+        },
+        {
+          "pageViews": 1,
+          "uaBrowserFamily": "Chrome"
         },
         {
           "pageViews": 1,
@@ -211,46 +215,54 @@
         {
           "pageViews": 2,
           "uaBrowserFamily": "GoogleBot"
+        },
+        {
+          "pageViews": 2,
+          "uaBrowserFamily": "TwitterBot"
+        },
+        {
+          "pageViews": 2,
+          "uaBrowserFamily": "YandexBot"
         }
       ],
-      "bytes": 2442761,
-      "cachedBytes": 2167335,
-      "cachedRequests": 59,
+      "bytes": 5062307,
+      "cachedBytes": 4373641,
+      "cachedRequests": 136,
       "contentTypeMap": [
         {
-          "bytes": 8449,
+          "bytes": 12994,
           "edgeResponseContentTypeName": "empty",
-          "requests": 13
+          "requests": 26
         },
         {
-          "bytes": 4070,
+          "bytes": 5188,
           "edgeResponseContentTypeName": "json",
-          "requests": 1
+          "requests": 2
         },
         {
-          "bytes": 68158,
+          "bytes": 149946,
           "edgeResponseContentTypeName": "xml",
-          "requests": 5
+          "requests": 11
         },
         {
-          "bytes": 34095,
+          "bytes": 95353,
           "edgeResponseContentTypeName": "png",
-          "requests": 1
+          "requests": 4
         },
         {
-          "bytes": 2159001,
+          "bytes": 4318002,
           "edgeResponseContentTypeName": "svg",
-          "requests": 56
+          "requests": 112
         },
         {
-          "bytes": 165626,
+          "bytes": 468724,
           "edgeResponseContentTypeName": "html",
-          "requests": 65
+          "requests": 164
         },
         {
-          "bytes": 3362,
+          "bytes": 12100,
           "edgeResponseContentTypeName": "txt",
-          "requests": 3
+          "requests": 11
         }
       ],
       "countryMap": [
@@ -261,15 +273,15 @@
           "threats": 0
         },
         {
-          "bytes": 40203,
+          "bytes": 75963,
           "clientCountryName": "FR",
-          "requests": 10,
+          "requests": 18,
           "threats": 0
         },
         {
-          "bytes": 7722,
+          "bytes": 39471,
           "clientCountryName": "IN",
-          "requests": 10,
+          "requests": 12,
           "threats": 0
         },
         {
@@ -279,47 +291,61 @@
           "threats": 0
         },
         {
-          "bytes": 14434,
+          "bytes": 50076,
           "clientCountryName": "RU",
-          "requests": 2,
+          "requests": 11,
           "threats": 0
         },
         {
-          "bytes": 2366422,
+          "bytes": 4849367,
           "clientCountryName": "US",
-          "requests": 120,
+          "requests": 280,
+          "threats": 0
+        },
+        {
+          "bytes": 33450,
+          "clientCountryName": "T1",
+          "requests": 7,
           "threats": 0
         }
       ],
-      "encryptedBytes": 2442034,
-      "encryptedRequests": 142,
-      "pageViews": 60,
-      "requests": 144,
+      "encryptedBytes": 5057035,
+      "encryptedRequests": 316,
+      "pageViews": 139,
+      "requests": 330,
       "responseStatusMap": [
         {
           "edgeResponseStatus": 200,
-          "requests": 126
+          "requests": 279
+        },
+        {
+          "edgeResponseStatus": 206,
+          "requests": 1
         },
         {
           "edgeResponseStatus": 301,
-          "requests": 4
+          "requests": 17
         },
         {
           "edgeResponseStatus": 304,
           "requests": 10
         },
         {
+          "edgeResponseStatus": 403,
+          "requests": 7
+        },
+        {
           "edgeResponseStatus": 404,
-          "requests": 3
+          "requests": 14
         },
         {
           "edgeResponseStatus": 499,
-          "requests": 1
+          "requests": 2
         }
       ]
     },
     "uniq": {
-      "uniques": 29
+      "uniques": 69
     }
   }
 ]
