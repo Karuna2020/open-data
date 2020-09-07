@@ -30,10 +30,3 @@ jobs:
           commit_user_name: GitHub Actions
           commit_user_email: actions@github.com
           commit_author: GitHub Actions <actions@github.com>
-      - name: Trigger webhook to build site
-        uses: joelwmale/webhook-action@master
-        env:
-          WEBHOOK_URL: https://services.anandchowdhary.now.sh/api/github-trigger?repo=Karuna2020/open-data&event=update_airtable
-          data: "Build and deploy"
-        with:
-          data: "Build and deploy"
