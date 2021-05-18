@@ -71,7 +71,7 @@
     "id": 29,
     "method": "TPT",
     "name": "Parul Agarwal",
-    "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar][1] You can find details about Parul from Sunei.\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/menCQSPd0Q7PIkFKO/usrVMHyDSa5htZzdZ?recordId=rec5F0zTLOZQ5DGH1&fieldId=flds8bco54IcRRSlP",
+    "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar](https://airtable.com/appoaPyQSLrreakJN/menCQSPd0Q7PIkFKO/usrVMHyDSa5htZzdZ?recordId=rec5F0zTLOZQ5DGH1&fieldId=flds8bco54IcRRSlP) You can find details about Parul from Sunei.",
     "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "50100197093091",
@@ -98,7 +98,7 @@
     "id": 43,
     "method": "UPI",
     "name": "Unknown",
-    "notesComments": "Created by [@Shivek Khurana][1]\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/men3BoFtHg9nshXRE/usryfue47ocG6L6Pl?recordId=rec8PkkBDhbvhTTLa&fieldId=flds8bco54IcRRSlP",
+    "notesComments": "Created by [@Shivek Khurana](https://airtable.com/appoaPyQSLrreakJN/men3BoFtHg9nshXRE/usryfue47ocG6L6Pl?recordId=rec8PkkBDhbvhTTLa&fieldId=flds8bco54IcRRSlP)",
     "status": "Receipt Not Needed For Now",
     "toAccount": "Shakti Foundation",
     "utrPaymentDetailsImpsNeftRtgsNo": "10109659439"
@@ -199,7 +199,7 @@
     "id": 16,
     "method": "IMPS",
     "name": "Mrs. Kusum Dhawan",
-    "notesComments": "From A.K.Abrol's account\n\nContact [@Vikrant Abrol][1] for address\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/menw3mbKViUnYIktE/usrihddH5j7WqIKJ3?recordId=recK5C7nqCYiGqJSy&fieldId=flds8bco54IcRRSlP",
+    "notesComments": "From A.K.Abrol's account\n\nContact [@Vikrant Abrol](https://airtable.com/appoaPyQSLrreakJN/menw3mbKViUnYIktE/usrihddH5j7WqIKJ3?recordId=recK5C7nqCYiGqJSy&fieldId=flds8bco54IcRRSlP) for address",
     "status": "Receipt Not Needed For Now",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "P2003311628218158672309"
@@ -229,6 +229,19 @@
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "BM01000235462498",
     "emailMd5": "234315f98c7e09dcc6d634b6313f2021"
+  },
+  {
+    "_id": "recMmcKPfrL6EflEb",
+    "amount": 750,
+    "date": "2021-04-26",
+    "fromBank": "ICICI",
+    "howDidYouFindUs": "Personal Reference",
+    "id": 90,
+    "method": "UPI",
+    "name": "Pavan Kumar Bhamidipaty",
+    "toAccount": "Shakti Foundation",
+    "utrPaymentDetailsImpsNeftRtgsNo": "UPI 111619323595",
+    "emailMd5": "9d782d593517a0e6e887fa3bd5768c5c"
   },
   {
     "_id": "recN0dyVwTvVFOESM",
@@ -421,7 +434,7 @@
     "id": 30,
     "method": "NEFT",
     "name": "FIL Industries ltd",
-    "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar][1] Same for FIL, Sunei will have contact details\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/menk7yVk3yTG8qTUK/usrVMHyDSa5htZzdZ?recordId=recbmaWPpbX764onC&fieldId=flds8bco54IcRRSlP",
+    "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar](https://airtable.com/appoaPyQSLrreakJN/menk7yVk3yTG8qTUK/usrVMHyDSa5htZzdZ?recordId=recbmaWPpbX764onC&fieldId=flds8bco54IcRRSlP) Same for FIL, Sunei will have contact details",
     "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "NEFTSDC9045049",
@@ -502,7 +515,7 @@
     "id": 70,
     "method": "NEFT",
     "name": "FIL Industries ltd",
-    "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar][1] Same for FIL, Sunei will have contact details\n\n  [1]: https://airtable.com/appoaPyQSLrreakJN/menk7yVk3yTG8qTUK/usrVMHyDSa5htZzdZ?recordId=reckA7yMxnEmLEZzs&fieldId=flds8bco54IcRRSlP",
+    "notesComments": "Sunei Kapur\n\n[@kulbhushan Kumar](https://airtable.com/appoaPyQSLrreakJN/menk7yVk3yTG8qTUK/usrVMHyDSa5htZzdZ?recordId=reckA7yMxnEmLEZzs&fieldId=flds8bco54IcRRSlP) Same for FIL, Sunei will have contact details",
     "status": "Receipt Sent",
     "toAccount": "ILSEF",
     "utrPaymentDetailsImpsNeftRtgsNo": "NEFTSDC9166029",
@@ -634,6 +647,19 @@
     "emailMd5": "86fb9c98fcd96f232cc9a5973bee9bf2"
   },
   {
+    "_id": "recu1gEnd6uRBRHxv",
+    "amount": 750,
+    "date": "2020-06-05",
+    "fromBank": "Other",
+    "howDidYouFindUs": "Other",
+    "id": 89,
+    "method": "UPI",
+    "name": "Ankit Kumar",
+    "toAccount": "Shakti Foundation",
+    "utrPaymentDetailsImpsNeftRtgsNo": "015747019205",
+    "emailMd5": "10282508ad4d38008f9ce610ed536398"
+  },
+  {
     "_id": "recuBDeXBb9W53cuX",
     "amount": 10000,
     "date": "2020-04-02",
@@ -699,7 +725,7 @@
     "id": 12,
     "method": "Cash",
     "name": "Anuradha Chadha",
-    "status": "Contacted",
+    "status": "Ready for generating Receipt",
     "toAccount": "Vikrant (Radha)"
   },
   {
