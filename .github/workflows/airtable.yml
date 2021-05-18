@@ -1,5 +1,6 @@
 name: Karuna 2020 Open Data
 on:
+  workflow_dispatch:
   repository_dispatch:
     types: [update_airtable]
 jobs:
