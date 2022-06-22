@@ -27,7 +27,7 @@
     "cloudinary": "^1.21.0",
     "convert-rupees-into-words": "^1.0.6",
     "download": "^8.0.0",
-    "got": "^10.7.0",
+    "got": "^11.8.5",
     "js-yaml": "^3.13.1",
     "marked": "^0.8.2",
     "mustache": "^4.0.1",
